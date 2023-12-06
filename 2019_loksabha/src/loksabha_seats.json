@@ -1,0 +1,288 @@
+{
+    "Loksabha Election": {
+        "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election",
+        "data": [
+            {
+                "state": "Madhya Pradesh",
+                "total_seats": "29",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Madhya_Pradesh",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": "28",
+                            "votes": "2,14,06,911",
+                            "votes_percentage": "58"
+                        },
+                        "INC": {
+                            "alliance": "UPA",
+                            "seats": "1",
+                            "votes": "1,27,33,074",
+                            "votes_percentage": "34.5"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Maharashtra",
+                "total_seats": "48",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Maharashtra",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": "23",
+                            "votes": "14,912,139",
+                            "votes_percentage": "27.84"
+                        },
+                        "SHS": {
+                            "party_name": "Shivsena",
+                            "alliance": "NDA",
+                            "seats": "18",
+                            "votes": "12,589,064",
+                            "votes_percentage": "23.5"
+                        },
+                        "NCP": {
+                            "party_name": "Nationalist Congress Party",
+                            "alliance": "UPA",
+                            "seats": "4",
+                            "votes": "8,387,363",
+                            "votes_percentage": "15.66"
+                        },
+                        "INC": {
+                            "party_name": "Indian National Congress",
+                            "alliance": "UPA",
+                            "seats": "1",
+                            "votes": "8,792,237",
+                            "votes_percentage": "16.41"
+                        },
+                        "AIMIM": {
+                            "party_name": "All India Majlis-e-Ittehadul Muslimeen",
+                            "alliance": "AIMIM+VBA",
+                            "seats": "1",
+                            "votes": "389,042",
+                            "votes_percentage": "0.73"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Uttar Pradesh",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Uttar_Pradesh",
+                "total_seats": "80",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": "62",
+                            "votes": "42,858,171",
+                            "votes_percentage": "49.98"
+                        },
+                        "BSP": {
+                            "party_name": "Bahujan Samaj Party",
+                            "seats": "10",
+                            "votes": "16,659,754",
+                            "votes_percentage": "19.43"
+                        },
+                        "SP": {
+                            "party_name": "Samajwadi Party",
+                            "seats": "5",
+                            "votes": "15,533,620",
+                            "votes_percentage": "18.11"
+                        },
+                        "INC": {
+                            "alliance": "UPA",
+                            "seats": "1",
+                            "votes": "5,457,269",
+                            "votes_percentage": "6.36"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Rajasthan",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Rajasthan",
+                "total_seats": "25",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": "24",
+                            "votes_percentage": "59.07"
+                        },
+                        "INC": {
+                            "alliance": "UPA",
+                            "seats": "0",
+                            "votes_percentage": "34.24"
+                        },
+                        "RLP": {
+                            "alliance": "RLP",
+                            "seats": "1",
+                            "votes_percentage": "2.04"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Chhattisgarh",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Chhattisgarh",
+                "total_seats": "11",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": 9,
+                            "votes_percentage": "50.7"
+                        },
+                        "INC": {
+                            "alliance": "UPA",
+                            "seats": 2,
+                            "votes_percentage": "40.9"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Uttarakhand",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Uttarakhand",
+                "total_seats": "5",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": 5,
+                            "votes": "29,54,833",
+                            "votes_percentage": "61"
+                        },
+                        "INC": {
+                            "alliance": "UPA",
+                            "seats": 0,
+                            "votes": "15,20,767",
+                            "votes_percentage": "31.40"
+                        },
+                        "BSP": {
+                            "seats": 0,
+                            "votes": "2,16,755",
+                            "votes_percentage": "4.48"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Gujarat",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Gujarat",
+                "total_seats": "26",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": 26,
+                            "votes_percentage": "62.21"
+                        },
+                        "INC": {
+                            "seats": 0,
+                            "votes_percentage": "32.11"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Haryana",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Haryana",
+                "total_seats": "10",
+                "parties": [
+                    {
+                        "BJP": {
+                            "seats": 10,
+                            "votes": "73,57,347",
+                            "votes_percentage": "58.02"
+                        },
+                        "INC": {
+                            "seats": 1,
+                            "votes": "36,04,106",
+                            "votes_percentage": "28.42"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Himachal Pradesh",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Himachal_Pradesh",
+                "total_seats": "4",
+                "parties": [
+                    {
+                        "BJP": {
+                            "seats": 4,
+                            "votes_percentage": "69.11"
+                        },
+                        "INC": {
+                            "seats": 0,
+                            "votes_percentage": "27.30"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Bihar",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Bihar",
+                "total_seats": "40",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": 17,
+                            "votes_percentage": "23.58"
+                        },
+                        "JDU": {
+                            "alliance": "NDA",
+                            "seats": 16,
+                            "votes_percentage": "21.81"
+                        },
+                        "LJP": {
+                            "alliance": "NDA",
+                            "seats": 6,
+                            "votes_percentage": "1.46"
+                        },
+                        "INC": {
+                            "alliance": "MGB",
+                            "seats": 2,
+                            "votes_percentage": "7.70"
+                        },
+                        "RJD": {
+                            "alliance": "RJD",
+                            "seats": 4,
+                            "votes_percentage": "15.38"
+                        }
+                    }
+                ]
+            },
+            {
+                "state": "Delhi",
+                "wikipedia": "https://en.wikipedia.org/wiki/2019_Indian_general_election_in_Delhi",
+                "total_seats": "7",
+                "parties": [
+                    {
+                        "BJP": {
+                            "alliance": "NDA",
+                            "seats": 7,
+                            "votes": "4,908,541",
+                            "votes_percentage": "56.86"
+                        },
+                        "INC": {
+                            "alliance": "UPA",
+                            "seats": 0,
+                            "votes": "1,953,900",
+                            "votes_percentage": "22.51"
+                        },
+                        "AAP": {
+                            "alliance": "1,571,687",
+                            "seats": 0,
+                            "votes": "1,571,687",
+                            "votes_percentage": "18.11"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
