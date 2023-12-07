@@ -1,0 +1,928 @@
+{
+  "Nota votes greater than 1000": 193,
+  "Nota votes greater than 2000": 79,
+  "Nota votes greater than 3000": 35,
+  "No of constituency": 230,
+  "Constituency data": [
+    {
+      "Constituency": "Agar - 166",
+      "NOTA votes": 1491
+    },
+    {
+      "Constituency": "Alirajpur - 191",
+      "NOTA votes": 3814
+    },
+    {
+      "Constituency": "Alot - 223",
+      "NOTA votes": 1899
+    },
+    {
+      "Constituency": "Amarpatan - 66",
+      "NOTA votes": 1379
+    },
+    {
+      "Constituency": "Amarwara - 123",
+      "NOTA votes": 5003
+    },
+    {
+      "Constituency": "Ambah - 8",
+      "NOTA votes": 884
+    },
+    {
+      "Constituency": "Amla - 130",
+      "NOTA votes": 2769
+    },
+    {
+      "Constituency": "Anuppur - 87",
+      "NOTA votes": 2162
+    },
+    {
+      "Constituency": "Ashok Nagar  - 32",
+      "NOTA votes": 1394
+    },
+    {
+      "Constituency": "Ashta  - 157",
+      "NOTA votes": 1467
+    },
+    {
+      "Constituency": "Ater  - 9",
+      "NOTA votes": 168
+    },
+    {
+      "Constituency": "Badnagar - 218",
+      "NOTA votes": 1624
+    },
+    {
+      "Constituency": "Badnawar - 202",
+      "NOTA votes": 1368
+    },
+    {
+      "Constituency": "Badwah - 182",
+      "NOTA votes": 1542
+    },
+    {
+      "Constituency": "Badwani - 190",
+      "NOTA votes": 3717
+    },
+    {
+      "Constituency": "Bagali - 174",
+      "NOTA votes": 1608
+    },
+    {
+      "Constituency": "Bahoriband - 94",
+      "NOTA votes": 465
+    },
+    {
+      "Constituency": "Baihar  - 108",
+      "NOTA votes": 3484
+    },
+    {
+      "Constituency": "Balaghat  - 111",
+      "NOTA votes": 534
+    },
+    {
+      "Constituency": "Bamori - 28",
+      "NOTA votes": 2064
+    },
+    {
+      "Constituency": "Banda - 42",
+      "NOTA votes": 1409
+    },
+    {
+      "Constituency": "Bandhavgarh - 89",
+      "NOTA votes": 3243
+    },
+    {
+      "Constituency": "Barghat - 114",
+      "NOTA votes": 2209
+    },
+    {
+      "Constituency": "Bargi - 96",
+      "NOTA votes": 1836
+    },
+    {
+      "Constituency": "Barwara - 91",
+      "NOTA votes": 3386
+    },
+    {
+      "Constituency": "Basoda - 145",
+      "NOTA votes": 1092
+    },
+    {
+      "Constituency": "Beohari - 83",
+      "NOTA votes": 3800
+    },
+    {
+      "Constituency": "Berasia - 149",
+      "NOTA votes": 1829
+    },
+    {
+      "Constituency": "Betul - 131",
+      "NOTA votes": 3049
+    },
+    {
+      "Constituency": "Bhagwanpura - 186",
+      "NOTA votes": 2806
+    },
+    {
+      "Constituency": "Bhainsdehi - 133",
+      "NOTA votes": 5131
+    },
+    {
+      "Constituency": "Bhander - 21",
+      "NOTA votes": 1175
+    },
+    {
+      "Constituency": "Bhikangaon - 181",
+      "NOTA votes": 1799
+    },
+    {
+      "Constituency": "Bhind  - 10",
+      "NOTA votes": 422
+    },
+    {
+      "Constituency": "Bhitarwar - 18",
+      "NOTA votes": 1032
+    },
+    {
+      "Constituency": "Bhojpur - 141",
+      "NOTA votes": 1724
+    },
+    {
+      "Constituency": "Bhopal Dakshin-Paschim - 152",
+      "NOTA votes": 1189
+    },
+    {
+      "Constituency": "Bhopal Madhya - 153",
+      "NOTA votes": 1151
+    },
+    {
+      "Constituency": "Bhopal Uttar - 150",
+      "NOTA votes": 774
+    },
+    {
+      "Constituency": "Biaora - 161",
+      "NOTA votes": 1051
+    },
+    {
+      "Constituency": "Bichhiya  - 105",
+      "NOTA votes": 4420
+    },
+    {
+      "Constituency": "Bijawar - 52",
+      "NOTA votes": 1433
+    },
+    {
+      "Constituency": "Bina - 35",
+      "NOTA votes": 1239
+    },
+    {
+      "Constituency": "Budhni - 156",
+      "NOTA votes": 1700
+    },
+    {
+      "Constituency": "Burhanpur - 180",
+      "NOTA votes": 2583
+    },
+    {
+      "Constituency": "Chachoura - 30",
+      "NOTA votes": 2249
+    },
+    {
+      "Constituency": "Chanderi - 33",
+      "NOTA votes": 1452
+    },
+    {
+      "Constituency": "Chandla - 49",
+      "NOTA votes": 2135
+    },
+    {
+      "Constituency": "Chhatarpur - 51",
+      "NOTA votes": 1350
+    },
+    {
+      "Constituency": "Chhindwara - 126",
+      "NOTA votes": 1741
+    },
+    {
+      "Constituency": "Chitrakoot - 61",
+      "NOTA votes": 1154
+    },
+    {
+      "Constituency": "Chitrangi - 79",
+      "NOTA votes": 3463
+    },
+    {
+      "Constituency": "Churai - 124",
+      "NOTA votes": 2072
+    },
+    {
+      "Constituency": "Churhat - 76",
+      "NOTA votes": 414
+    },
+    {
+      "Constituency": "Dabra - 19",
+      "NOTA votes": 1564
+    },
+    {
+      "Constituency": "Damoh  - 55",
+      "NOTA votes": 528
+    },
+    {
+      "Constituency": "Datia - 22",
+      "NOTA votes": 1452
+    },
+    {
+      "Constituency": "Deori - 38",
+      "NOTA votes": 1642
+    },
+    {
+      "Constituency": "Deotalab - 72",
+      "NOTA votes": 1176
+    },
+    {
+      "Constituency": "Depalpur  - 203",
+      "NOTA votes": 1151
+    },
+    {
+      "Constituency": "Devsar - 81",
+      "NOTA votes": 3241
+    },
+    {
+      "Constituency": "Dewas - 171",
+      "NOTA votes": 1422
+    },
+    {
+      "Constituency": "Dhar  - 201",
+      "NOTA votes": 1198
+    },
+    {
+      "Constituency": "Dharampuri - 200",
+      "NOTA votes": 2455
+    },
+    {
+      "Constituency": "Dhauhani - 82",
+      "NOTA votes": 3459
+    },
+    {
+      "Constituency": "Dimani  - 7",
+      "NOTA votes": 778
+    },
+    {
+      "Constituency": "Dindori - 104",
+      "NOTA votes": 4186
+    },
+    {
+      "Constituency": "Dr.Ambedkar Nagar -Mhow  - 209",
+      "NOTA votes": 1553
+    },
+    {
+      "Constituency": "Gadarwara - 121",
+      "NOTA votes": 2941
+    },
+    {
+      "Constituency": "Gandhwani - 197",
+      "NOTA votes": 3069
+    },
+    {
+      "Constituency": "Garoth  - 227",
+      "NOTA votes": 1949
+    },
+    {
+      "Constituency": "Ghatiya - 215",
+      "NOTA votes": 1257
+    },
+    {
+      "Constituency": "Ghoradongri - 132",
+      "NOTA votes": 3997
+    },
+    {
+      "Constituency": "Gohad  - 13",
+      "NOTA votes": 790
+    },
+    {
+      "Constituency": "Gotegaon - 118",
+      "NOTA votes": 2890
+    },
+    {
+      "Constituency": "Govindpura - 154",
+      "NOTA votes": 2561
+    },
+    {
+      "Constituency": "Guna  - 29",
+      "NOTA votes": 1722
+    },
+    {
+      "Constituency": "Gunnaor - 59",
+      "NOTA votes": 2012
+    },
+    {
+      "Constituency": "Gurh - 75",
+      "NOTA votes": 290
+    },
+    {
+      "Constituency": "Gwalior - 15",
+      "NOTA votes": 905
+    },
+    {
+      "Constituency": "Gwalior East  - 16",
+      "NOTA votes": 1324
+    },
+    {
+      "Constituency": "Gwalior Rural - 14",
+      "NOTA votes": 311
+    },
+    {
+      "Constituency": "Gwalior South - 17",
+      "NOTA votes": 1121
+    },
+    {
+      "Constituency": "Harda - 135",
+      "NOTA votes": 2357
+    },
+    {
+      "Constituency": "Harsud - 176",
+      "NOTA votes": 3061
+    },
+    {
+      "Constituency": "Hatpipliya - 172",
+      "NOTA votes": 1059
+    },
+    {
+      "Constituency": "Hatta - 57",
+      "NOTA votes": 2187
+    },
+    {
+      "Constituency": "Hoshangabad - 137",
+      "NOTA votes": 1444
+    },
+    {
+      "Constituency": "Huzur - 155",
+      "NOTA votes": 2135
+    },
+    {
+      "Constituency": "Ichhawar - 158",
+      "NOTA votes": 1322
+    },
+    {
+      "Constituency": "Indore-1 - 204",
+      "NOTA votes": 1384
+    },
+    {
+      "Constituency": "Indore-2 - 205",
+      "NOTA votes": 2142
+    },
+    {
+      "Constituency": "Indore-3 - 206",
+      "NOTA votes": 1117
+    },
+    {
+      "Constituency": "Indore-4 - 207",
+      "NOTA votes": 1986
+    },
+    {
+      "Constituency": "Indore-5 - 208",
+      "NOTA votes": 1549
+    },
+    {
+      "Constituency": "Jabalpur Cantt. - 99",
+      "NOTA votes": 1329
+    },
+    {
+      "Constituency": "Jabalpur Paschim - 100",
+      "NOTA votes": 1445
+    },
+    {
+      "Constituency": "Jabalpur Purba - 97",
+      "NOTA votes": 1444
+    },
+    {
+      "Constituency": "Jabalpur Uttar - 98",
+      "NOTA votes": 1418
+    },
+    {
+      "Constituency": "Jabera  - 56",
+      "NOTA votes": 2023
+    },
+    {
+      "Constituency": "Jaisinghnagar - 84",
+      "NOTA votes": 3909
+    },
+    {
+      "Constituency": "Jaitpur - 85",
+      "NOTA votes": 3626
+    },
+    {
+      "Constituency": "Jaora - 222",
+      "NOTA votes": 1100
+    },
+    {
+      "Constituency": "Jatara - 44",
+      "NOTA votes": 1077
+    },
+    {
+      "Constituency": "Jaura - 4",
+      "NOTA votes": 853
+    },
+    {
+      "Constituency": "Jawad - 230",
+      "NOTA votes": 1315
+    },
+    {
+      "Constituency": "Jhabua - 193",
+      "NOTA votes": 3596
+    },
+    {
+      "Constituency": "Jobat - 192",
+      "NOTA votes": 4643
+    },
+    {
+      "Constituency": "Junnardeo - 122",
+      "NOTA votes": 5086
+    },
+    {
+      "Constituency": "Kalapipal - 169",
+      "NOTA votes": 939
+    },
+    {
+      "Constituency": "Karera - 23",
+      "NOTA votes": 1683
+    },
+    {
+      "Constituency": "Kasrawad - 184",
+      "NOTA votes": 1656
+    },
+    {
+      "Constituency": "Katangi - 113",
+      "NOTA votes": 1027
+    },
+    {
+      "Constituency": "Keolari - 116",
+      "NOTA votes": 2492
+    },
+    {
+      "Constituency": "Khandwa - 177",
+      "NOTA votes": 1876
+    },
+    {
+      "Constituency": "Khargapur - 47",
+      "NOTA votes": 2236
+    },
+    {
+      "Constituency": "Khargone - 185",
+      "NOTA votes": 1409
+    },
+    {
+      "Constituency": "Khategaon - 173",
+      "NOTA votes": 1642
+    },
+    {
+      "Constituency": "Khilchipur - 163",
+      "NOTA votes": 1114
+    },
+    {
+      "Constituency": "Khurai  - 36",
+      "NOTA votes": 1325
+    },
+    {
+      "Constituency": "Kolaras  - 27",
+      "NOTA votes": 1805
+    },
+    {
+      "Constituency": "Kotma - 86",
+      "NOTA votes": 1486
+    },
+    {
+      "Constituency": "Kukshi  - 198",
+      "NOTA votes": 1885
+    },
+    {
+      "Constituency": "Kurwai - 146",
+      "NOTA votes": 1469
+    },
+    {
+      "Constituency": "Lahar  - 11",
+      "NOTA votes": 1556
+    },
+    {
+      "Constituency": "Lakhnadon - 117",
+      "NOTA votes": 4192
+    },
+    {
+      "Constituency": "Lanji  - 109",
+      "NOTA votes": 1767
+    },
+    {
+      "Constituency": "Maharajpur - 48",
+      "NOTA votes": 1679
+    },
+    {
+      "Constituency": "Maheshwar - 183",
+      "NOTA votes": 1667
+    },
+    {
+      "Constituency": "Mahidpur - 213",
+      "NOTA votes": 1417
+    },
+    {
+      "Constituency": "Maihar - 65",
+      "NOTA votes": 890
+    },
+    {
+      "Constituency": "Malhara - 53",
+      "NOTA votes": 1118
+    },
+    {
+      "Constituency": "Malhargarh - 225",
+      "NOTA votes": 1730
+    },
+    {
+      "Constituency": "Manasa  - 228",
+      "NOTA votes": 1849
+    },
+    {
+      "Constituency": "Manawar - 199",
+      "NOTA votes": 1814
+    },
+    {
+      "Constituency": "Mandhata  - 175",
+      "NOTA votes": 1554
+    },
+    {
+      "Constituency": "Mandla - 107",
+      "NOTA votes": 2892
+    },
+    {
+      "Constituency": "Mandsour  - 224",
+      "NOTA votes": 1530
+    },
+    {
+      "Constituency": "Mangawan - 73",
+      "NOTA votes": 1947
+    },
+    {
+      "Constituency": "Manpur - 90",
+      "NOTA votes": 3402
+    },
+    {
+      "Constituency": "Mauganj - 71",
+      "NOTA votes": 1473
+    },
+    {
+      "Constituency": "Mehgaon - 12",
+      "NOTA votes": 905
+    },
+    {
+      "Constituency": "Morena - 6",
+      "NOTA votes": 382
+    },
+    {
+      "Constituency": "Multai - 129",
+      "NOTA votes": 1488
+    },
+    {
+      "Constituency": "Mungaoli - 34",
+      "NOTA votes": 1268
+    },
+    {
+      "Constituency": "Murwara - 93",
+      "NOTA votes": 969
+    },
+    {
+      "Constituency": "Nagada-Khachrod - 212",
+      "NOTA votes": 1126
+    },
+    {
+      "Constituency": "Nagod - 64",
+      "NOTA votes": 1608
+    },
+    {
+      "Constituency": "Narela - 151",
+      "NOTA votes": 878
+    },
+    {
+      "Constituency": "Narsinghgarh - 160",
+      "NOTA votes": 1088
+    },
+    {
+      "Constituency": "Narsingpur - 119",
+      "NOTA votes": 2283
+    },
+    {
+      "Constituency": "Naryoli - 40",
+      "NOTA votes": 1221
+    },
+    {
+      "Constituency": "Neemuch - 229",
+      "NOTA votes": 1840
+    },
+    {
+      "Constituency": "Nepanagar  - 179",
+      "NOTA votes": 2303
+    },
+    {
+      "Constituency": "Niwari - 46",
+      "NOTA votes": 1166
+    },
+    {
+      "Constituency": "Niwas - 106",
+      "NOTA votes": 4346
+    },
+    {
+      "Constituency": "Panagar - 101",
+      "NOTA votes": 1812
+    },
+    {
+      "Constituency": "Pandhana  - 178",
+      "NOTA votes": 2590
+    },
+    {
+      "Constituency": "Pandhurna - 128",
+      "NOTA votes": 3267
+    },
+    {
+      "Constituency": "Panna  - 60",
+      "NOTA votes": 2364
+    },
+    {
+      "Constituency": "Pansemal - 189",
+      "NOTA votes": 3521
+    },
+    {
+      "Constituency": "Parasia - 127",
+      "NOTA votes": 3049
+    },
+    {
+      "Constituency": "Paraswada - 110",
+      "NOTA votes": 2027
+    },
+    {
+      "Constituency": "Patan  - 95",
+      "NOTA votes": 541
+    },
+    {
+      "Constituency": "Pathariya  - 54",
+      "NOTA votes": 712
+    },
+    {
+      "Constituency": "Pawai - 58",
+      "NOTA votes": 2498
+    },
+    {
+      "Constituency": "Petlawad - 195",
+      "NOTA votes": 3562
+    },
+    {
+      "Constituency": "Pichhore - 26",
+      "NOTA votes": 2176
+    },
+    {
+      "Constituency": "Pipariya - 139",
+      "NOTA votes": 2859
+    },
+    {
+      "Constituency": "Pohari  - 24",
+      "NOTA votes": 1556
+    },
+    {
+      "Constituency": "Prithvipur - 45",
+      "NOTA votes": 823
+    },
+    {
+      "Constituency": "Pushprajgarh - 88",
+      "NOTA votes": 3985
+    },
+    {
+      "Constituency": "Raghogarh - 31",
+      "NOTA votes": 2113
+    },
+    {
+      "Constituency": "Raigaon - 62",
+      "NOTA votes": 991
+    },
+    {
+      "Constituency": "Rajgarh  - 162",
+      "NOTA votes": 1742
+    },
+    {
+      "Constituency": "Rajnagar - 50",
+      "NOTA votes": 762
+    },
+    {
+      "Constituency": "Rajpur - 188",
+      "NOTA votes": 1683
+    },
+    {
+      "Constituency": "Rampur-Baghelan - 67",
+      "NOTA votes": 1265
+    },
+    {
+      "Constituency": "Ratlam City - 220",
+      "NOTA votes": 1367
+    },
+    {
+      "Constituency": "Ratlam Rural - 219",
+      "NOTA votes": 1874
+    },
+    {
+      "Constituency": "Rau - 210",
+      "NOTA votes": 2104
+    },
+    {
+      "Constituency": "Rehli - 39",
+      "NOTA votes": 1801
+    },
+    {
+      "Constituency": "Rewa - 74",
+      "NOTA votes": 893
+    },
+    {
+      "Constituency": "Sabalagadh  - 3",
+      "NOTA votes": 589
+    },
+    {
+      "Constituency": "Sagar  - 41",
+      "NOTA votes": 639
+    },
+    {
+      "Constituency": "Sailana  - 221",
+      "NOTA votes": 2580
+    },
+    {
+      "Constituency": "Sanchi  - 142",
+      "NOTA votes": 1616
+    },
+    {
+      "Constituency": "Sanwer - 211",
+      "NOTA votes": 2119
+    },
+    {
+      "Constituency": "Sarangpur - 164",
+      "NOTA votes": 1127
+    },
+    {
+      "Constituency": "Sardarpur - 196",
+      "NOTA votes": 2126
+    },
+    {
+      "Constituency": "Satna - 63",
+      "NOTA votes": 888
+    },
+    {
+      "Constituency": "Saunsar - 125",
+      "NOTA votes": 2422
+    },
+    {
+      "Constituency": "Sehore - 159",
+      "NOTA votes": 917
+    },
+    {
+      "Constituency": "Semariya - 69",
+      "NOTA votes": 1069
+    },
+    {
+      "Constituency": "Sendhawa - 187",
+      "NOTA votes": 5098
+    },
+    {
+      "Constituency": "Seoni - 115",
+      "NOTA votes": 2703
+    },
+    {
+      "Constituency": "Seoni-Malwa - 136",
+      "NOTA votes": 2298
+    },
+    {
+      "Constituency": "Sewda - 20",
+      "NOTA votes": 293
+    },
+    {
+      "Constituency": "Shahpura - 103",
+      "NOTA votes": 4636
+    },
+    {
+      "Constituency": "Shajapur  - 167",
+      "NOTA votes": 1534
+    },
+    {
+      "Constituency": "Shamshabad - 148",
+      "NOTA votes": 1069
+    },
+    {
+      "Constituency": "Sheopur - 1",
+      "NOTA votes": 1801
+    },
+    {
+      "Constituency": "Shivpuri - 25",
+      "NOTA votes": 1389
+    },
+    {
+      "Constituency": "Shujalpur - 168",
+      "NOTA votes": 1270
+    },
+    {
+      "Constituency": "Sidhi - 77",
+      "NOTA votes": 654
+    },
+    {
+      "Constituency": "Sihawal - 78",
+      "NOTA votes": 2176
+    },
+    {
+      "Constituency": "Sihora - 102",
+      "NOTA votes": 3033
+    },
+    {
+      "Constituency": "Silwani - 143",
+      "NOTA votes": 2022
+    },
+    {
+      "Constituency": "Singrauli - 80",
+      "NOTA votes": 1449
+    },
+    {
+      "Constituency": "Sirmour - 68",
+      "NOTA votes": 920
+    },
+    {
+      "Constituency": "Sironj - 147",
+      "NOTA votes": 1136
+    },
+    {
+      "Constituency": "Sohagpur - 138",
+      "NOTA votes": 2362
+    },
+    {
+      "Constituency": "Sonkatch - 170",
+      "NOTA votes": 1262
+    },
+    {
+      "Constituency": "Sumawali - 5",
+      "NOTA votes": 562
+    },
+    {
+      "Constituency": "Surkhi - 37",
+      "NOTA votes": 1079
+    },
+    {
+      "Constituency": "Susner - 165",
+      "NOTA votes": 1321
+    },
+    {
+      "Constituency": "Suwasra - 226",
+      "NOTA votes": 1838
+    },
+    {
+      "Constituency": "Tarana - 214",
+      "NOTA votes": 913
+    },
+    {
+      "Constituency": "Tendukheda  - 120",
+      "NOTA votes": 1389
+    },
+    {
+      "Constituency": "Teonthar - 70",
+      "NOTA votes": 1148
+    },
+    {
+      "Constituency": "Thandla - 194",
+      "NOTA votes": 3108
+    },
+    {
+      "Constituency": "Tikamgarh - 43",
+      "NOTA votes": 466
+    },
+    {
+      "Constituency": "Timarni - 134",
+      "NOTA votes": 2561
+    },
+    {
+      "Constituency": "Udaipura - 140",
+      "NOTA votes": 2032
+    },
+    {
+      "Constituency": "Ujjain Dakshin - 217",
+      "NOTA votes": 2098
+    },
+    {
+      "Constituency": "Ujjain Uttar - 216",
+      "NOTA votes": 1194
+    },
+    {
+      "Constituency": "Vidisha  - 144",
+      "NOTA votes": 1323
+    },
+    {
+      "Constituency": "Vijaypur - 2",
+      "NOTA votes": 1895
+    },
+    {
+      "Constituency": "Vijayraghavgarh - 92",
+      "NOTA votes": 3398
+    },
+    {
+      "Constituency": "Waraseoni - 112",
+      "NOTA votes": 960
+    }
+  ]
+}

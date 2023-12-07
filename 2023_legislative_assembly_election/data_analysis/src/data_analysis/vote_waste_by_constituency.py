@@ -28,13 +28,13 @@ for constituency in constituencies:
     # print(won_candidates.to_dict()[0][0]["Votes"])
 
     lost_candidates = candidate_infos.apply(lambda x: [candidate for candidate in x if candidate['Status'] == 'lost'])
-    print(lost_candidates.to_dict())
+    # print(lost_candidates.to_dict())
 
     lost_candidates_votes = lost_candidates.apply(lambda x: [item['Votes'] for item in x])
     # print()
 
     total_sum = sum(map(int, lost_candidates_votes.sum()))
-    print(total_sum)
+    # print(total_sum)
 
     # Display the result
     # print(f"Sum of the values: {total_sum}")
