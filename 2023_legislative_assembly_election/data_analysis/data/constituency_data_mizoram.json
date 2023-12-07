@@ -1,0 +1,1780 @@
+[
+  {
+    "Constituency": "Aizawl East-I - 13",
+    "Id": "S1613",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1613.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALTHANSANGA",
+        "Status": "won",
+        "Votes": "10727",
+        "Plus_minus": "(+ 2101)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "ZORAMTHANGA",
+        "Status": "lost",
+        "Votes": "8626",
+        "Plus_minus": "( -2101)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALSANGLURA RALTE",
+        "Status": "lost",
+        "Votes": "2520",
+        "Plus_minus": "( -8207)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "LALRUATFELI HLAWNDO",
+        "Status": "lost",
+        "Votes": "441",
+        "Plus_minus": "( -10286)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "90",
+        "Plus_minus": "( -10637)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl East-II - 14",
+    "Id": "S1614",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1614.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "B. LALCHHANZOVA",
+        "Status": "won",
+        "Votes": "7289",
+        "Plus_minus": "(+ 2756)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "B. LALAWMPUII",
+        "Status": "lost",
+        "Votes": "4533",
+        "Plus_minus": "( -2756)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "P.C LALHMINGTHANGA",
+        "Status": "lost",
+        "Votes": "2923",
+        "Plus_minus": "( -4366)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "LALHMACHHUANI",
+        "Status": "lost",
+        "Votes": "216",
+        "Plus_minus": "( -7073)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "ROTHUAMA",
+        "Status": "lost",
+        "Votes": "42",
+        "Plus_minus": "( -7247)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "54",
+        "Plus_minus": "( -7235)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl North-I - 10",
+    "Id": "S1610",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1610.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Vanlalhlana",
+        "Status": "won",
+        "Votes": "10772",
+        "Plus_minus": "(+ 5485)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "R.Lalzirliana",
+        "Status": "lost",
+        "Votes": "5287",
+        "Plus_minus": "( -5485)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Lalnunmawia Chuaungo",
+        "Status": "lost",
+        "Votes": "4423",
+        "Plus_minus": "( -6349)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Lalruatfeli Hlawndo",
+        "Status": "lost",
+        "Votes": "477",
+        "Plus_minus": "( -10295)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "52",
+        "Plus_minus": "( -10720)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl North-II - 11",
+    "Id": "S1611",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1611.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Dr. VANLALTHLANA",
+        "Status": "won",
+        "Votes": "11040",
+        "Plus_minus": "(+ 6507)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "VANLALSAWMA",
+        "Status": "lost",
+        "Votes": "4533",
+        "Plus_minus": "( -6507)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "R. LALRINMAWIA",
+        "Status": "lost",
+        "Votes": "4028",
+        "Plus_minus": "( -7012)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "LALRINPUII",
+        "Status": "lost",
+        "Votes": "95",
+        "Plus_minus": "( -10945)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "39",
+        "Plus_minus": "( -11001)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl North-III - 12",
+    "Id": "S1612",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1612.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "K. SAPDANGA",
+        "Status": "won",
+        "Votes": "6783",
+        "Plus_minus": "(+ 1870)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "C. LALMUANPUIA",
+        "Status": "lost",
+        "Votes": "4913",
+        "Plus_minus": "( -1870)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LAL THANZARA",
+        "Status": "lost",
+        "Votes": "4032",
+        "Plus_minus": "( -2751)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "ANDREW LALREMKIMA PACHUAU",
+        "Status": "lost",
+        "Votes": "217",
+        "Plus_minus": "( -6566)",
+        "Party": "Aam Aadmi Party"
+      },
+      {
+        "Candidate Name": "VANLALVENA",
+        "Status": "lost",
+        "Votes": "67",
+        "Plus_minus": "( -6716)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "CHAWNGHMINGTHANGA",
+        "Status": "lost",
+        "Votes": "55",
+        "Plus_minus": "( -6728)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "43",
+        "Plus_minus": "( -6740)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl South-I - 18",
+    "Id": "S1618",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1618.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "C. LALSAWIVUNGA",
+        "Status": "won",
+        "Votes": "9124",
+        "Plus_minus": "(+ 3625)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "K. VANLALVENA",
+        "Status": "lost",
+        "Votes": "5499",
+        "Plus_minus": "( -3625)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "VANLALAWMPUII CHAWNGTHU",
+        "Status": "lost",
+        "Votes": "3124",
+        "Plus_minus": "( -6000)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "F.LALREMSANGI",
+        "Status": "lost",
+        "Votes": "234",
+        "Plus_minus": "( -8890)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "LALNGAIHAWMA PACHUAU",
+        "Status": "lost",
+        "Votes": "103",
+        "Plus_minus": "( -9021)",
+        "Party": "Aam Aadmi Party"
+      },
+      {
+        "Candidate Name": "ZOSANGLIANA",
+        "Status": "lost",
+        "Votes": "84",
+        "Plus_minus": "( -9040)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "54",
+        "Plus_minus": "( -9070)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl South-II - 19",
+    "Id": "S1619",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1619.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Lalchhuanthanga",
+        "Status": "won",
+        "Votes": "9117",
+        "Plus_minus": "(+ 1639)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Dr. Lalmalsawma Nghaka",
+        "Status": "lost",
+        "Votes": "7478",
+        "Plus_minus": "( -1639)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Denghmingthanga",
+        "Status": "lost",
+        "Votes": "5352",
+        "Plus_minus": "( -3765)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "H. Biaklawma",
+        "Status": "lost",
+        "Votes": "131",
+        "Plus_minus": "( -8986)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "51",
+        "Plus_minus": "( -9066)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl South-III - 20",
+    "Id": "S1620",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1620.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Baryl Vanneihsangi",
+        "Status": "won",
+        "Votes": "9370",
+        "Plus_minus": "(+ 1414)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "F. Lalnunmawia",
+        "Status": "lost",
+        "Votes": "7956",
+        "Plus_minus": "( -1414)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Rosiamngheta",
+        "Status": "lost",
+        "Votes": "2066",
+        "Plus_minus": "( -7304)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Rev. Dr. Zaichhawna Hlawndo",
+        "Status": "lost",
+        "Votes": "208",
+        "Plus_minus": "( -9162)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "56",
+        "Plus_minus": "( -9314)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl West-I - 15",
+    "Id": "S1615",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1615.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "TBC Lalvenchhunga",
+        "Status": "won",
+        "Votes": "11872",
+        "Plus_minus": "(+ 4667)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Zothantluanga",
+        "Status": "lost",
+        "Votes": "7205",
+        "Plus_minus": "( -4667)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "R. Lalbiakthanga",
+        "Status": "lost",
+        "Votes": "4546",
+        "Plus_minus": "( -7326)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Vanlalvena",
+        "Status": "lost",
+        "Votes": "132",
+        "Plus_minus": "( -11740)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "Vanlalmawia Vanchhawng",
+        "Status": "lost",
+        "Votes": "75",
+        "Plus_minus": "( -11797)",
+        "Party": "Aam Aadmi Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "68",
+        "Plus_minus": "( -11804)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl West-II - 16",
+    "Id": "S1616",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1616.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Lalnghinglova Hmar",
+        "Status": "won",
+        "Votes": "10398",
+        "Plus_minus": "(+ 4819)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Lalruatkima",
+        "Status": "lost",
+        "Votes": "5579",
+        "Plus_minus": "( -4819)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Dr. Ngurdingliana",
+        "Status": "lost",
+        "Votes": "1528",
+        "Plus_minus": "( -8870)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "K. Laldingliana",
+        "Status": "lost",
+        "Votes": "99",
+        "Plus_minus": "( -10299)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "36",
+        "Plus_minus": "( -10362)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Aizawl West-III - 17",
+    "Id": "S1617",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1617.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "V. L. ZAITHANZAMA",
+        "Status": "won",
+        "Votes": "9202",
+        "Plus_minus": "(+ 4582)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "K. LALSAWMVELA",
+        "Status": "lost",
+        "Votes": "4620",
+        "Plus_minus": "( -4582)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALSAWTA",
+        "Status": "lost",
+        "Votes": "4369",
+        "Plus_minus": "( -4833)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "JOSEPH BIAKTHIANGHLIMA",
+        "Status": "lost",
+        "Votes": "220",
+        "Plus_minus": "( -8982)",
+        "Party": "Aam Aadmi Party"
+      },
+      {
+        "Candidate Name": "LALHRILZELI HLAWNDO",
+        "Status": "lost",
+        "Votes": "151",
+        "Plus_minus": "( -9051)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "43",
+        "Plus_minus": "( -9159)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Chalfilh - 8",
+    "Id": "S168",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S168.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALBIAKZAMA",
+        "Status": "won",
+        "Votes": "6637",
+        "Plus_minus": "(+ 1833)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "K. LALHMANGAIHA",
+        "Status": "lost",
+        "Votes": "4804",
+        "Plus_minus": "( -1833)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "VANNEIHTHANGA",
+        "Status": "lost",
+        "Votes": "3731",
+        "Plus_minus": "( -2906)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Dr. ZONUNTLUANGA",
+        "Status": "lost",
+        "Votes": "97",
+        "Plus_minus": "( -6540)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "72",
+        "Plus_minus": "( -6565)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Champhai North  - 23",
+    "Id": "S1623",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1623.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "H. GINZALALA",
+        "Status": "won",
+        "Votes": "7134",
+        "Plus_minus": "(+ 710)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Dr. ZR THIAMSANGA",
+        "Status": "lost",
+        "Votes": "6424",
+        "Plus_minus": "( -710)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "K. LALNUNMAWIA",
+        "Status": "lost",
+        "Votes": "2477",
+        "Plus_minus": "( -4657)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "P.S ZATLUANGA",
+        "Status": "lost",
+        "Votes": "243",
+        "Plus_minus": "( -6891)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "75",
+        "Plus_minus": "( -7059)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Champhai South - 24",
+    "Id": "S1624",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1624.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Lt Col. CLEMENT LALHMINGTHANGA",
+        "Status": "won",
+        "Votes": "7323",
+        "Plus_minus": "(+ 329)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "T.J LALNUNTLUANGA",
+        "Status": "lost",
+        "Votes": "6994",
+        "Plus_minus": "( -329)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Dr. LALLIANCHHUNGA",
+        "Status": "lost",
+        "Votes": "2956",
+        "Plus_minus": "( -4367)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "96",
+        "Plus_minus": "( -7227)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Dampa - 2",
+    "Id": "S162",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S162.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALRINTLUANGA SAILO",
+        "Status": "won",
+        "Votes": "6218",
+        "Plus_minus": "(+ 292)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "VANLALSAILOVA",
+        "Status": "lost",
+        "Votes": "5926",
+        "Plus_minus": "( -292)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "LALHMINGTHANGA",
+        "Status": "lost",
+        "Votes": "3146",
+        "Plus_minus": "( -3072)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "VANLALHMUAKA",
+        "Status": "lost",
+        "Votes": "2060",
+        "Plus_minus": "( -4158)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "LALRAMDINGNGHETI",
+        "Status": "lost",
+        "Votes": "51",
+        "Plus_minus": "( -6167)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "42",
+        "Plus_minus": "( -6176)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "East Tuipui - 25",
+    "Id": "S1625",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1625.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Ramthanmawia",
+        "Status": "won",
+        "Votes": "6075",
+        "Plus_minus": "(+ 160)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Dr.C.Lalrammawia",
+        "Status": "lost",
+        "Votes": "5915",
+        "Plus_minus": "( -160)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "C.Lalnunthanga",
+        "Status": "lost",
+        "Votes": "869",
+        "Plus_minus": "( -5206)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "36",
+        "Plus_minus": "( -6039)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Hachhek - 1",
+    "Id": "S161",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S161.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "ROBERT ROMAWIA ROYTE",
+        "Status": "won",
+        "Votes": "5705",
+        "Plus_minus": "(+ 306)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "K J LALBIAKNGHETA",
+        "Status": "lost",
+        "Votes": "5399",
+        "Plus_minus": "( -306)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "LALRINDIKA RALTE",
+        "Status": "lost",
+        "Votes": "5105",
+        "Plus_minus": "( -600)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "MALSAWMTLUANGA",
+        "Status": "lost",
+        "Votes": "1259",
+        "Plus_minus": "( -4446)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "130",
+        "Plus_minus": "( -5575)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Hrangturzo - 28",
+    "Id": "S1628",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1628.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALMUANPUIA PUNTE",
+        "Status": "won",
+        "Votes": "6280",
+        "Plus_minus": "(+ 1255)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "LALREMRUATA CHHANGTE",
+        "Status": "lost",
+        "Votes": "5025",
+        "Plus_minus": "( -1255)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALROENGA",
+        "Status": "lost",
+        "Votes": "2340",
+        "Plus_minus": "( -3940)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Dr. ZAICHHAWNA HLAWNDO",
+        "Status": "lost",
+        "Votes": "211",
+        "Plus_minus": "( -6069)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "LALMALSAWMA",
+        "Status": "lost",
+        "Votes": "88",
+        "Plus_minus": "( -6192)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "37",
+        "Plus_minus": "( -6243)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Kolasib - 5",
+    "Id": "S165",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S165.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALFAMKIMA",
+        "Status": "won",
+        "Votes": "8657",
+        "Plus_minus": "(+ 1169)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "K.LALRINLIANA",
+        "Status": "lost",
+        "Votes": "7488",
+        "Plus_minus": "( -1169)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "S.LALRINAWMA",
+        "Status": "lost",
+        "Votes": "3268",
+        "Plus_minus": "( -5389)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "R.LALTHANGLIANA",
+        "Status": "lost",
+        "Votes": "168",
+        "Plus_minus": "( -8489)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "112",
+        "Plus_minus": "( -8545)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lawngtlai East - 38",
+    "Id": "S1638",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1638.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Dr. Lorrain Lalpekliana Chinzah",
+        "Status": "won",
+        "Votes": "10072",
+        "Plus_minus": "(+ 2101)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "H. Biakzaua",
+        "Status": "lost",
+        "Votes": "7971",
+        "Plus_minus": "( -2101)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "H. Zothangliana",
+        "Status": "lost",
+        "Votes": "1761",
+        "Plus_minus": "( -8311)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "NC Muankima",
+        "Status": "lost",
+        "Votes": "368",
+        "Plus_minus": "( -9704)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "108",
+        "Plus_minus": "( -9964)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lawngtlai West - 37",
+    "Id": "S1637",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1637.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "C. Ngunlianchunga",
+        "Status": "won",
+        "Votes": "11296",
+        "Plus_minus": "(+ 432)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "V. Zirsanga",
+        "Status": "lost",
+        "Votes": "10864",
+        "Plus_minus": "( -432)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Lalnunsema",
+        "Status": "lost",
+        "Votes": "2312",
+        "Plus_minus": "( -8984)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "J.B. Rualchhinga",
+        "Status": "lost",
+        "Votes": "319",
+        "Plus_minus": "( -10977)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "C. Biakchhunga",
+        "Status": "lost",
+        "Votes": "65",
+        "Plus_minus": "( -11231)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "81",
+        "Plus_minus": "( -11215)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lengteng - 21",
+    "Id": "S1621",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1621.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "F.RODINGLIANA",
+        "Status": "won",
+        "Votes": "6171",
+        "Plus_minus": "(+ 47)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "DR. L. THANGMAWIA",
+        "Status": "lost",
+        "Votes": "6124",
+        "Plus_minus": "( -47)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALHMINGTHANGA PACHUAU",
+        "Status": "lost",
+        "Votes": "2442",
+        "Plus_minus": "( -3729)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "B.SUANZALANG",
+        "Status": "lost",
+        "Votes": "54",
+        "Plus_minus": "( -6117)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "86",
+        "Plus_minus": "( -6085)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lunglei East - 31",
+    "Id": "S1631",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1631.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALRINPUII",
+        "Status": "won",
+        "Votes": "5641",
+        "Plus_minus": "(+ 1646)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "JOSEPH LALHIMPUIA",
+        "Status": "lost",
+        "Votes": "3995",
+        "Plus_minus": "( -1646)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "LAWMAWMA TOCHHAWNG",
+        "Status": "lost",
+        "Votes": "3818",
+        "Plus_minus": "( -1823)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALZUIMAWIA",
+        "Status": "lost",
+        "Votes": "82",
+        "Plus_minus": "( -5559)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "48",
+        "Plus_minus": "( -5593)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lunglei North - 30",
+    "Id": "S1630",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1630.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "V. MALSAWMTLUANGA",
+        "Status": "won",
+        "Votes": "7369",
+        "Plus_minus": "(+ 1975)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Dr. VANLALTANPUIA",
+        "Status": "lost",
+        "Votes": "5394",
+        "Plus_minus": "( -1975)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "ERIC R ZOMUANPUIA",
+        "Status": "lost",
+        "Votes": "2396",
+        "Plus_minus": "( -4973)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "K. LALRIMAWIA",
+        "Status": "lost",
+        "Votes": "130",
+        "Plus_minus": "( -7239)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "56",
+        "Plus_minus": "( -7313)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lunglei South - 33",
+    "Id": "S1633",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1633.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALRAMLIANA PAPUIA",
+        "Status": "won",
+        "Votes": "6531",
+        "Plus_minus": "(+ 1226)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Dr K. PACHHUNGA",
+        "Status": "lost",
+        "Votes": "5305",
+        "Plus_minus": "( -1226)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "MERIAM L HRANGCHAL",
+        "Status": "lost",
+        "Votes": "3899",
+        "Plus_minus": "( -2632)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "ZD DENGNGURA",
+        "Status": "lost",
+        "Votes": "114",
+        "Plus_minus": "( -6417)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "T. BIAKSAILOVA",
+        "Status": "lost",
+        "Votes": "87",
+        "Plus_minus": "( -6444)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "69",
+        "Plus_minus": "( -6462)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Lunglei West - 32",
+    "Id": "S1632",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1632.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "T. LALHLIMPUIA",
+        "Status": "won",
+        "Votes": "5029",
+        "Plus_minus": "(+ 1282)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "C. LALRINSANGA",
+        "Status": "lost",
+        "Votes": "3747",
+        "Plus_minus": "( -1282)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "PC LALTHANLIANA",
+        "Status": "lost",
+        "Votes": "2696",
+        "Plus_minus": "( -2333)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "LALNUNTLUANGA SAILO",
+        "Status": "lost",
+        "Votes": "959",
+        "Plus_minus": "( -4070)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "PC.MOSIA",
+        "Status": "lost",
+        "Votes": "450",
+        "Plus_minus": "( -4579)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "R. LALBIAKTLUANGI",
+        "Status": "lost",
+        "Votes": "108",
+        "Plus_minus": "( -4921)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "41",
+        "Plus_minus": "( -4988)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Mamit - 3",
+    "Id": "S163",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S163.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "H. LALZIRLIANA",
+        "Status": "won",
+        "Votes": "7167",
+        "Plus_minus": "(+ 1792)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "K. LALTHANZAMA",
+        "Status": "lost",
+        "Votes": "5375",
+        "Plus_minus": "( -1792)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "H. ZOREMPUIA",
+        "Status": "lost",
+        "Votes": "5359",
+        "Plus_minus": "( -1808)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "LALRINLIANA SAILO",
+        "Status": "lost",
+        "Votes": "2454",
+        "Plus_minus": "( -4713)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "LALRAMDINGNGHETI",
+        "Status": "lost",
+        "Votes": "87",
+        "Plus_minus": "( -7080)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "95",
+        "Plus_minus": "( -7072)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Palak - 40",
+    "Id": "S1640",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1640.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "K. HRAHMO",
+        "Status": "won",
+        "Votes": "6064",
+        "Plus_minus": "(+ 1241)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "KT ROKHAW",
+        "Status": "lost",
+        "Votes": "4823",
+        "Plus_minus": "( -1241)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "I.P. JUNIOR",
+        "Status": "lost",
+        "Votes": "3729",
+        "Plus_minus": "( -2335)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "K. ROBINSON",
+        "Status": "lost",
+        "Votes": "1378",
+        "Plus_minus": "( -4686)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "50",
+        "Plus_minus": "( -6014)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Saiha - 39",
+    "Id": "S1639",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1639.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Dr. K. Beichhua",
+        "Status": "won",
+        "Votes": "6740",
+        "Plus_minus": "(+ 616)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "H.C Lalmalsawma Zasai",
+        "Status": "lost",
+        "Votes": "6124",
+        "Plus_minus": "( -616)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "N. Chakhai",
+        "Status": "lost",
+        "Votes": "3607",
+        "Plus_minus": "( -3133)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "KH. Beithie",
+        "Status": "lost",
+        "Votes": "2219",
+        "Plus_minus": "( -4521)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "A. Phirthianga",
+        "Status": "lost",
+        "Votes": "73",
+        "Plus_minus": "( -6667)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "47",
+        "Plus_minus": "( -6693)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Serchhip - 26",
+    "Id": "S1626",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1626.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALDUHOMA",
+        "Status": "won",
+        "Votes": "8314",
+        "Plus_minus": "(+ 2982)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "J. MALSAWMZUALA VANCHHAWNG",
+        "Status": "lost",
+        "Votes": "5332",
+        "Plus_minus": "( -2982)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "R VANLALTLUANGA",
+        "Status": "lost",
+        "Votes": "4241",
+        "Plus_minus": "( -4073)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "K VANLALRUATI",
+        "Status": "lost",
+        "Votes": "97",
+        "Plus_minus": "( -8217)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "LALAWMPUIA RENTHLEI",
+        "Status": "lost",
+        "Votes": "69",
+        "Plus_minus": "( -8245)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "RAMHLUN-EDENA",
+        "Status": "lost",
+        "Votes": "21",
+        "Plus_minus": "( -8293)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "54",
+        "Plus_minus": "( -8260)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Serlui - 6",
+    "Id": "S166",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S166.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "LALRINSANGA RALTE",
+        "Status": "won",
+        "Votes": "7242",
+        "Plus_minus": "(+ 906)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALHMACHHUANA",
+        "Status": "lost",
+        "Votes": "6336",
+        "Plus_minus": "( -906)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "C LALTHANFELA",
+        "Status": "lost",
+        "Votes": "4375",
+        "Plus_minus": "( -2867)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "ROBINSON MALSAWMTLUANGA HMAR",
+        "Status": "lost",
+        "Votes": "157",
+        "Plus_minus": "( -7085)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "VL NGHAKA",
+        "Status": "lost",
+        "Votes": "62",
+        "Plus_minus": "( -7180)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "52",
+        "Plus_minus": "( -7190)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "South Tuipui - 29",
+    "Id": "S1629",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1629.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Jeje Lalpekhlua",
+        "Status": "won",
+        "Votes": "5468",
+        "Plus_minus": "(+ 135)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Dr. R. Lalthangliana",
+        "Status": "lost",
+        "Votes": "5333",
+        "Plus_minus": "( -135)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "C. Laldintluanga",
+        "Status": "lost",
+        "Votes": "2958",
+        "Plus_minus": "( -2510)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "59",
+        "Plus_minus": "( -5409)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Tawi - 9",
+    "Id": "S169",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S169.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Prof. Lalnilawma",
+        "Status": "won",
+        "Votes": "6991",
+        "Plus_minus": "(+ 1552)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Lalrinenga Sailo",
+        "Status": "lost",
+        "Votes": "5439",
+        "Plus_minus": "( -1552)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Lalringliana Khiangte",
+        "Status": "lost",
+        "Votes": "2240",
+        "Plus_minus": "( -4751)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "64",
+        "Plus_minus": "( -6927)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Thorang - 34",
+    "Id": "S1634",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1634.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "R. Rohmingliana",
+        "Status": "won",
+        "Votes": "4141",
+        "Plus_minus": "(+ 62)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Zodintluanga Ralte",
+        "Status": "lost",
+        "Votes": "4079",
+        "Plus_minus": "( -62)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "C. Lalnunnema",
+        "Status": "lost",
+        "Votes": "3146",
+        "Plus_minus": "( -995)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Shanti Bikash Chakma",
+        "Status": "lost",
+        "Votes": "1772",
+        "Plus_minus": "( -2369)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "119",
+        "Plus_minus": "( -4022)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Tuichang - 22",
+    "Id": "S1622",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1622.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "W CHHUANAWMA",
+        "Status": "won",
+        "Votes": "6988",
+        "Plus_minus": "(+ 909)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "TAWNLUIA",
+        "Status": "lost",
+        "Votes": "6079",
+        "Plus_minus": "( -909)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "C. LALHRIATPUIA",
+        "Status": "lost",
+        "Votes": "1674",
+        "Plus_minus": "( -5314)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "LALHMUNSIAMI",
+        "Status": "lost",
+        "Votes": "67",
+        "Plus_minus": "( -6921)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "50",
+        "Plus_minus": "( -6938)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Tuichawng - 36",
+    "Id": "S1636",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1636.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Rasik Mohan Chakma",
+        "Status": "won",
+        "Votes": "13346",
+        "Plus_minus": "(+ 651)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "Durjya Dhan Chakma",
+        "Status": "lost",
+        "Votes": "12695",
+        "Plus_minus": "( -651)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "Hara Prasad Chakma",
+        "Status": "lost",
+        "Votes": "3232",
+        "Plus_minus": "( -10114)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "Shanti Jiban Chakma",
+        "Status": "lost",
+        "Votes": "423",
+        "Plus_minus": "( -12923)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "260",
+        "Plus_minus": "( -13086)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Tuikum - 27",
+    "Id": "S1627",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1627.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "P.C. VANLALRUATA",
+        "Status": "won",
+        "Votes": "7136",
+        "Plus_minus": "(+ 2161)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Er. LALRINAWMA",
+        "Status": "lost",
+        "Votes": "4975",
+        "Plus_minus": "( -2161)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "T.T. ZOTHANSANGA",
+        "Status": "lost",
+        "Votes": "2679",
+        "Plus_minus": "( -4457)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "C. LALRINMAWII",
+        "Status": "lost",
+        "Votes": "165",
+        "Plus_minus": "( -6971)",
+        "Party": "Independent"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "42",
+        "Plus_minus": "( -7094)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Tuirial - 4",
+    "Id": "S164",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S164.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "K. LALDAWNGLIANA",
+        "Status": "won",
+        "Votes": "6610",
+        "Plus_minus": "(+ 13)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "LALTLANMAWIA",
+        "Status": "lost",
+        "Votes": "6597",
+        "Plus_minus": "( -13)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "Henry Zodinliana Pachuau",
+        "Status": "lost",
+        "Votes": "2503",
+        "Plus_minus": "( -4107)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "F. Vanhmingthanga",
+        "Status": "lost",
+        "Votes": "73",
+        "Plus_minus": "( -6537)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "72",
+        "Plus_minus": "( -6538)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "Tuivawl - 7",
+    "Id": "S167",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S167.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "Lalchhandama Ralte",
+        "Status": "won",
+        "Votes": "6501",
+        "Plus_minus": "(+ 2019)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "JMS Dawngliana",
+        "Status": "lost",
+        "Votes": "4482",
+        "Plus_minus": "( -2019)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "R. L. Pianmawia",
+        "Status": "lost",
+        "Votes": "3590",
+        "Plus_minus": "( -2911)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "K Changliana",
+        "Status": "lost",
+        "Votes": "82",
+        "Plus_minus": "( -6419)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "61",
+        "Plus_minus": "( -6440)",
+        "Party": "None of the Above"
+      }
+    ]
+  },
+  {
+    "Constituency": "West Tuipui - 35",
+    "Id": "S1635",
+    "Url": "https://results.eci.gov.in/AcResultGenDecNew2023/candidateswise-S1635.htm",
+    "Candidates_info": [
+      {
+        "Candidate Name": "PROVA CHAKMA",
+        "Status": "won",
+        "Votes": "7167",
+        "Plus_minus": "(+ 711)",
+        "Party": "Mizo National Front"
+      },
+      {
+        "Candidate Name": "NIHAR KANTI CHAKMA",
+        "Status": "lost",
+        "Votes": "6456",
+        "Plus_minus": "( -711)",
+        "Party": "Indian National Congress"
+      },
+      {
+        "Candidate Name": "KAWLHNUNA",
+        "Status": "lost",
+        "Votes": "789",
+        "Plus_minus": "( -6378)",
+        "Party": "Zoram People\u2019s Movement"
+      },
+      {
+        "Candidate Name": "T. LALENGTHANGA",
+        "Status": "lost",
+        "Votes": "250",
+        "Plus_minus": "( -6917)",
+        "Party": "Bharatiya Janata Party"
+      },
+      {
+        "Candidate Name": "NOTA",
+        "Status": "lost",
+        "Votes": "78",
+        "Plus_minus": "( -7089)",
+        "Party": "None of the Above"
+      }
+    ]
+  }
+]

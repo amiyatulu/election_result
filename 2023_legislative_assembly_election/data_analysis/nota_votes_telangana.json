@@ -1,0 +1,484 @@
+{
+  "Nota votes greater than 1000": 81,
+  "Nota votes greater than 2000": 22,
+  "Nota votes greater than 3000": 4,
+  "No of constituency": 119,
+  "Constituency data": [
+    {
+      "Constituency": "Achampet - 82",
+      "NOTA votes": 2833
+    },
+    {
+      "Constituency": "Adilabad - 7",
+      "NOTA votes": 592
+    },
+    {
+      "Constituency": "Alair - 97",
+      "NOTA votes": 659
+    },
+    {
+      "Constituency": "Alampur - 80",
+      "NOTA votes": 2013
+    },
+    {
+      "Constituency": "Amberpet  - 59",
+      "NOTA votes": 1317
+    },
+    {
+      "Constituency": "Andole - 36",
+      "NOTA votes": 548
+    },
+    {
+      "Constituency": "Armur - 11",
+      "NOTA votes": 1499
+    },
+    {
+      "Constituency": "Asifabad - 5",
+      "NOTA votes": 1515
+    },
+    {
+      "Constituency": "Aswaraopeta - 118",
+      "NOTA votes": 1363
+    },
+    {
+      "Constituency": "Bahadurpura - 69",
+      "NOTA votes": 1279
+    },
+    {
+      "Constituency": "Balkonda - 19",
+      "NOTA votes": 1162
+    },
+    {
+      "Constituency": "Banswada - 14",
+      "NOTA votes": 1012
+    },
+    {
+      "Constituency": "Bellampalli - 3",
+      "NOTA votes": 2179
+    },
+    {
+      "Constituency": "Bhadrachalam - 119",
+      "NOTA votes": 1672
+    },
+    {
+      "Constituency": "Bhongir - 94",
+      "NOTA votes": 882
+    },
+    {
+      "Constituency": "Bhupalpalle - 108",
+      "NOTA votes": 830
+    },
+    {
+      "Constituency": "Boath - 8",
+      "NOTA votes": 2565
+    },
+    {
+      "Constituency": "Bodhan - 12",
+      "NOTA votes": 872
+    },
+    {
+      "Constituency": "Chandrayangutta - 67",
+      "NOTA votes": 1460
+    },
+    {
+      "Constituency": "Charminar - 66",
+      "NOTA votes": 837
+    },
+    {
+      "Constituency": "Chennur - 2",
+      "NOTA votes": 1792
+    },
+    {
+      "Constituency": "Chevella - 53",
+      "NOTA votes": 1423
+    },
+    {
+      "Constituency": "Choppadandi - 27",
+      "NOTA votes": 1260
+    },
+    {
+      "Constituency": "Devarakonda - 86",
+      "NOTA votes": 1613
+    },
+    {
+      "Constituency": "Devarkadra - 76",
+      "NOTA votes": 1706
+    },
+    {
+      "Constituency": "Dharmapuri - 22",
+      "NOTA votes": 2392
+    },
+    {
+      "Constituency": "Dornakal - 101",
+      "NOTA votes": 1392
+    },
+    {
+      "Constituency": "Dubbak - 41",
+      "NOTA votes": 2269
+    },
+    {
+      "Constituency": "Gadwal - 79",
+      "NOTA votes": 775
+    },
+    {
+      "Constituency": "Gajwel - 42",
+      "NOTA votes": 832
+    },
+    {
+      "Constituency": "Ghanpur (Station) - 99",
+      "NOTA votes": 1153
+    },
+    {
+      "Constituency": "Goshamahal - 65",
+      "NOTA votes": 626
+    },
+    {
+      "Constituency": "Husnabad - 32",
+      "NOTA votes": 1222
+    },
+    {
+      "Constituency": "Huzurabad - 31",
+      "NOTA votes": 1208
+    },
+    {
+      "Constituency": "Huzurnagar - 89",
+      "NOTA votes": 843
+    },
+    {
+      "Constituency": "Ibrahimpatnam - 48",
+      "NOTA votes": 1427
+    },
+    {
+      "Constituency": "Jadcherla - 75",
+      "NOTA votes": 1655
+    },
+    {
+      "Constituency": "Jagtial - 21",
+      "NOTA votes": 1471
+    },
+    {
+      "Constituency": "Jangoan - 98",
+      "NOTA votes": 1467
+    },
+    {
+      "Constituency": "Jubilee Hills - 61",
+      "NOTA votes": 1374
+    },
+    {
+      "Constituency": "Jukkal - 13",
+      "NOTA votes": 469
+    },
+    {
+      "Constituency": "Kalwakurthy - 83",
+      "NOTA votes": 661
+    },
+    {
+      "Constituency": "Kamareddy - 16",
+      "NOTA votes": 474
+    },
+    {
+      "Constituency": "Karimnagar - 26",
+      "NOTA votes": 1269
+    },
+    {
+      "Constituency": "Karwan - 64",
+      "NOTA votes": 896
+    },
+    {
+      "Constituency": "Khairatabad  - 60",
+      "NOTA votes": 1194
+    },
+    {
+      "Constituency": "Khammam - 112",
+      "NOTA votes": 1925
+    },
+    {
+      "Constituency": "Khanapur - 6",
+      "NOTA votes": 2114
+    },
+    {
+      "Constituency": "Kodad - 90",
+      "NOTA votes": 887
+    },
+    {
+      "Constituency": "Kodangal - 72",
+      "NOTA votes": 2002
+    },
+    {
+      "Constituency": "Kollapur - 85",
+      "NOTA votes": 1037
+    },
+    {
+      "Constituency": "Koratla - 20",
+      "NOTA votes": 1391
+    },
+    {
+      "Constituency": "Kothagudem - 117",
+      "NOTA votes": 1427
+    },
+    {
+      "Constituency": "Kukatpalle - 46",
+      "NOTA votes": 2458
+    },
+    {
+      "Constituency": "Lal Bahadur Nagar - 49",
+      "NOTA votes": 2966
+    },
+    {
+      "Constituency": "Madhira - 114",
+      "NOTA votes": 1453
+    },
+    {
+      "Constituency": "Mahabubabad - 102",
+      "NOTA votes": 1932
+    },
+    {
+      "Constituency": "Mahbubnagar - 74",
+      "NOTA votes": 1157
+    },
+    {
+      "Constituency": "Maheswaram - 50",
+      "NOTA votes": 2031
+    },
+    {
+      "Constituency": "Makthal - 77",
+      "NOTA votes": 1896
+    },
+    {
+      "Constituency": "Malakpet - 58",
+      "NOTA votes": 881
+    },
+    {
+      "Constituency": "Malkajgiri - 44",
+      "NOTA votes": 2608
+    },
+    {
+      "Constituency": "Manakondur - 30",
+      "NOTA votes": 1998
+    },
+    {
+      "Constituency": "Mancherial - 4",
+      "NOTA votes": 942
+    },
+    {
+      "Constituency": "Manthani - 24",
+      "NOTA votes": 776
+    },
+    {
+      "Constituency": "Medak - 34",
+      "NOTA votes": 1860
+    },
+    {
+      "Constituency": "Medchal - 43",
+      "NOTA votes": 3737
+    },
+    {
+      "Constituency": "Miryalaguda - 88",
+      "NOTA votes": 527
+    },
+    {
+      "Constituency": "Mudhole - 10",
+      "NOTA votes": 1906
+    },
+    {
+      "Constituency": "Mulug - 109",
+      "NOTA votes": 1937
+    },
+    {
+      "Constituency": "Munugode - 93",
+      "NOTA votes": 849
+    },
+    {
+      "Constituency": "Musheerabad - 57",
+      "NOTA votes": 1332
+    },
+    {
+      "Constituency": "Nagarjuna Sagar - 87",
+      "NOTA votes": 1056
+    },
+    {
+      "Constituency": "Nagarkurnool - 81",
+      "NOTA votes": 1122
+    },
+    {
+      "Constituency": "Nakrekal - 95",
+      "NOTA votes": 969
+    },
+    {
+      "Constituency": "Nalgonda - 92",
+      "NOTA votes": 901
+    },
+    {
+      "Constituency": "Nampally - 63",
+      "NOTA votes": 544
+    },
+    {
+      "Constituency": "Narayankhed - 35",
+      "NOTA votes": 861
+    },
+    {
+      "Constituency": "Narayanpet - 73",
+      "NOTA votes": 1517
+    },
+    {
+      "Constituency": "Narsampet - 103",
+      "NOTA votes": 738
+    },
+    {
+      "Constituency": "Narsapur - 37",
+      "NOTA votes": 1386
+    },
+    {
+      "Constituency": "Nirmal - 9",
+      "NOTA votes": 1526
+    },
+    {
+      "Constituency": "Nizamabad (Rural) - 18",
+      "NOTA votes": 2268
+    },
+    {
+      "Constituency": "Nizamabad (Urban) - 17",
+      "NOTA votes": 538
+    },
+    {
+      "Constituency": "Palair - 113",
+      "NOTA votes": 520
+    },
+    {
+      "Constituency": "Palakurthi - 100",
+      "NOTA votes": 2743
+    },
+    {
+      "Constituency": "Pargi - 54",
+      "NOTA votes": 1124
+    },
+    {
+      "Constituency": "Parkal - 104",
+      "NOTA votes": 966
+    },
+    {
+      "Constituency": "Patancheru - 40",
+      "NOTA votes": 2663
+    },
+    {
+      "Constituency": "Peddapalle - 25",
+      "NOTA votes": 865
+    },
+    {
+      "Constituency": "Pinapaka - 110",
+      "NOTA votes": 905
+    },
+    {
+      "Constituency": "Quthbullapur - 45",
+      "NOTA votes": 4079
+    },
+    {
+      "Constituency": "Rajendranagar - 51",
+      "NOTA votes": 1832
+    },
+    {
+      "Constituency": "Ramagundam - 23",
+      "NOTA votes": 1572
+    },
+    {
+      "Constituency": "Sanathnagar - 62",
+      "NOTA votes": 1040
+    },
+    {
+      "Constituency": "Sangareddy - 39",
+      "NOTA votes": 811
+    },
+    {
+      "Constituency": "Sathupalle - 116",
+      "NOTA votes": 635
+    },
+    {
+      "Constituency": "Secunderabad - 70",
+      "NOTA votes": 1518
+    },
+    {
+      "Constituency": "Secunderabad Cantt. - 71",
+      "NOTA votes": 1220
+    },
+    {
+      "Constituency": "Serilingampally - 52",
+      "NOTA votes": 3145
+    },
+    {
+      "Constituency": "Shadnagar - 84",
+      "NOTA votes": 1389
+    },
+    {
+      "Constituency": "Siddipet - 33",
+      "NOTA votes": 1300
+    },
+    {
+      "Constituency": "Sircilla - 29",
+      "NOTA votes": 842
+    },
+    {
+      "Constituency": "Sirpur - 1",
+      "NOTA votes": 2196
+    },
+    {
+      "Constituency": "Suryapet - 91",
+      "NOTA votes": 774
+    },
+    {
+      "Constituency": "Tandur - 56",
+      "NOTA votes": 592
+    },
+    {
+      "Constituency": "Thungathurthi - 96",
+      "NOTA votes": 1355
+    },
+    {
+      "Constituency": "Uppal - 47",
+      "NOTA votes": 2536
+    },
+    {
+      "Constituency": "Vemulawada - 28",
+      "NOTA votes": 1280
+    },
+    {
+      "Constituency": "Vicarabad - 55",
+      "NOTA votes": 1412
+    },
+    {
+      "Constituency": "Wanaparthy - 78",
+      "NOTA votes": 1938
+    },
+    {
+      "Constituency": "Waradhanapet - 107",
+      "NOTA votes": 3612
+    },
+    {
+      "Constituency": "Warangal East - 106",
+      "NOTA votes": 1978
+    },
+    {
+      "Constituency": "Warangal West - 105",
+      "NOTA votes": 2426
+    },
+    {
+      "Constituency": "Wyra - 115",
+      "NOTA votes": 1230
+    },
+    {
+      "Constituency": "Yakutpura - 68",
+      "NOTA votes": 704
+    },
+    {
+      "Constituency": "Yellandu - 111",
+      "NOTA votes": 1418
+    },
+    {
+      "Constituency": "Yellareddy - 15",
+      "NOTA votes": 1300
+    },
+    {
+      "Constituency": "Zahirabad - 38",
+      "NOTA votes": 613
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "Nota votes greater than 1000": 0,
+  "Nota votes greater than 2000": 0,
+  "Nota votes greater than 3000": 0,
+  "No of constituency": 40,
+  "Constituency data": [
+    {
+      "Constituency": "Aizawl East-I - 13",
+      "NOTA votes": 90
+    },
+    {
+      "Constituency": "Aizawl East-II - 14",
+      "NOTA votes": 54
+    },
+    {
+      "Constituency": "Aizawl North-I - 10",
+      "NOTA votes": 52
+    },
+    {
+      "Constituency": "Aizawl North-II - 11",
+      "NOTA votes": 39
+    },
+    {
+      "Constituency": "Aizawl North-III - 12",
+      "NOTA votes": 43
+    },
+    {
+      "Constituency": "Aizawl South-I - 18",
+      "NOTA votes": 54
+    },
+    {
+      "Constituency": "Aizawl South-II - 19",
+      "NOTA votes": 51
+    },
+    {
+      "Constituency": "Aizawl South-III - 20",
+      "NOTA votes": 56
+    },
+    {
+      "Constituency": "Aizawl West-I - 15",
+      "NOTA votes": 68
+    },
+    {
+      "Constituency": "Aizawl West-II - 16",
+      "NOTA votes": 36
+    },
+    {
+      "Constituency": "Aizawl West-III - 17",
+      "NOTA votes": 43
+    },
+    {
+      "Constituency": "Chalfilh - 8",
+      "NOTA votes": 72
+    },
+    {
+      "Constituency": "Champhai North  - 23",
+      "NOTA votes": 75
+    },
+    {
+      "Constituency": "Champhai South - 24",
+      "NOTA votes": 96
+    },
+    {
+      "Constituency": "Dampa - 2",
+      "NOTA votes": 42
+    },
+    {
+      "Constituency": "East Tuipui - 25",
+      "NOTA votes": 36
+    },
+    {
+      "Constituency": "Hachhek - 1",
+      "NOTA votes": 130
+    },
+    {
+      "Constituency": "Hrangturzo - 28",
+      "NOTA votes": 37
+    },
+    {
+      "Constituency": "Kolasib - 5",
+      "NOTA votes": 112
+    },
+    {
+      "Constituency": "Lawngtlai East - 38",
+      "NOTA votes": 108
+    },
+    {
+      "Constituency": "Lawngtlai West - 37",
+      "NOTA votes": 81
+    },
+    {
+      "Constituency": "Lengteng - 21",
+      "NOTA votes": 86
+    },
+    {
+      "Constituency": "Lunglei East - 31",
+      "NOTA votes": 48
+    },
+    {
+      "Constituency": "Lunglei North - 30",
+      "NOTA votes": 56
+    },
+    {
+      "Constituency": "Lunglei South - 33",
+      "NOTA votes": 69
+    },
+    {
+      "Constituency": "Lunglei West - 32",
+      "NOTA votes": 41
+    },
+    {
+      "Constituency": "Mamit - 3",
+      "NOTA votes": 95
+    },
+    {
+      "Constituency": "Palak - 40",
+      "NOTA votes": 50
+    },
+    {
+      "Constituency": "Saiha - 39",
+      "NOTA votes": 47
+    },
+    {
+      "Constituency": "Serchhip - 26",
+      "NOTA votes": 54
+    },
+    {
+      "Constituency": "Serlui - 6",
+      "NOTA votes": 52
+    },
+    {
+      "Constituency": "South Tuipui - 29",
+      "NOTA votes": 59
+    },
+    {
+      "Constituency": "Tawi - 9",
+      "NOTA votes": 64
+    },
+    {
+      "Constituency": "Thorang - 34",
+      "NOTA votes": 119
+    },
+    {
+      "Constituency": "Tuichang - 22",
+      "NOTA votes": 50
+    },
+    {
+      "Constituency": "Tuichawng - 36",
+      "NOTA votes": 260
+    },
+    {
+      "Constituency": "Tuikum - 27",
+      "NOTA votes": 42
+    },
+    {
+      "Constituency": "Tuirial - 4",
+      "NOTA votes": 72
+    },
+    {
+      "Constituency": "Tuivawl - 7",
+      "NOTA votes": 61
+    },
+    {
+      "Constituency": "West Tuipui - 35",
+      "NOTA votes": 78
+    }
+  ]
+}

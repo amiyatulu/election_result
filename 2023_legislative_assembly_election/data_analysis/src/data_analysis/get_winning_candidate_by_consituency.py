@@ -12,6 +12,8 @@ print(df)
 
 # Independent Votes
 
+# How many places runner up lost by 1000 or less votes
+
 
 
 candidate_infos = df[df["Constituency"] == "Agar - 166"]["Candidates_info"]
