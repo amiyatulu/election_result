@@ -1,0 +1,402 @@
+{
+  "number_of_places_runner_up_less_than_1000": 15,
+  "number_of_places_runner_up_less_than_2000_more_than_1000": 13,
+  "number_of_places_runner_up_less_than_3000_more_than_2000": 6,
+  "number_of_places_runner_up_less_than_4000_more_than_3000": 1,
+  "number_of_places_runner_up_less_than_5000_more_than_4000": 3,
+  "number_of_places_runner_up_less_than_6000_more_than_5000": 1,
+  "number_of_places_runner_up_less_than_7000_more_than_6000": 1,
+  "number_of_places_runner_up_less_than_8000_more_than_7000": 0,
+  "number_of_places_runner_up_less_than_9000_more_than_80000": 0,
+  "number_of_places_runner_up_less_than_10000_more_than_9000": 0,
+  "number_of_places_runner_up_greater_than_10000": 0,
+  "number_of_places_runner_up_less_than_20000_more_than_10000": 0,
+  "number_of_places_runner_up_less_than_30000_more_than_20000": 0,
+  "number_of_places_runner_up_less_than_40000_more_than_30000": 0,
+  "number_of_places_runner_up_greate_than_40000": 0,
+  "No of constituency": 40,
+  "Constituency data": {
+    "runner_up_less_than_1000": [
+      {
+        "Constituency": "Champhai North  - 23",
+        "Winner": "H. GINZALALA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 7134,
+        "Runner Up": "Dr. ZR THIAMSANGA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 6424
+      },
+      {
+        "Constituency": "Champhai South - 24",
+        "Winner": "Lt Col. CLEMENT LALHMINGTHANGA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 7323,
+        "Runner Up": "T.J LALNUNTLUANGA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 6994
+      },
+      {
+        "Constituency": "Dampa - 2",
+        "Winner": "LALRINTLUANGA SAILO",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 6218,
+        "Runner Up": "VANLALSAILOVA",
+        "Runner Up Party": "Zoram People\u2019s Movement",
+        "Runner Up Votes": 5926
+      },
+      {
+        "Constituency": "East Tuipui - 25",
+        "Winner": "Ramthanmawia",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 6075,
+        "Runner Up": "Dr.C.Lalrammawia",
+        "Runner Up Party": "Zoram People\u2019s Movement",
+        "Runner Up Votes": 5915
+      },
+      {
+        "Constituency": "Hachhek - 1",
+        "Winner": "ROBERT ROMAWIA ROYTE",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 5705,
+        "Runner Up": "K J LALBIAKNGHETA",
+        "Runner Up Party": "Zoram People\u2019s Movement",
+        "Runner Up Votes": 5399
+      },
+      {
+        "Constituency": "Lawngtlai West - 37",
+        "Winner": "C. Ngunlianchunga",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 11296,
+        "Runner Up": "V. Zirsanga",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 10864
+      },
+      {
+        "Constituency": "Lengteng - 21",
+        "Winner": "F.RODINGLIANA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6171,
+        "Runner Up": "DR. L. THANGMAWIA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 6124
+      },
+      {
+        "Constituency": "Saiha - 39",
+        "Winner": "Dr. K. Beichhua",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 6740,
+        "Runner Up": "H.C Lalmalsawma Zasai",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 6124
+      },
+      {
+        "Constituency": "Serlui - 6",
+        "Winner": "LALRINSANGA RALTE",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 7242,
+        "Runner Up": "LALHMACHHUANA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 6336
+      },
+      {
+        "Constituency": "South Tuipui - 29",
+        "Winner": "Jeje Lalpekhlua",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 5468,
+        "Runner Up": "Dr. R. Lalthangliana",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5333
+      },
+      {
+        "Constituency": "Thorang - 34",
+        "Winner": "R. Rohmingliana",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 4141,
+        "Runner Up": "Zodintluanga Ralte",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 4079
+      },
+      {
+        "Constituency": "Tuichang - 22",
+        "Winner": "W CHHUANAWMA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6988,
+        "Runner Up": "TAWNLUIA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 6079
+      },
+      {
+        "Constituency": "Tuichawng - 36",
+        "Winner": "Rasik Mohan Chakma",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 13346,
+        "Runner Up": "Durjya Dhan Chakma",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 12695
+      },
+      {
+        "Constituency": "Tuirial - 4",
+        "Winner": "K. LALDAWNGLIANA",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 6610,
+        "Runner Up": "LALTLANMAWIA",
+        "Runner Up Party": "Zoram People\u2019s Movement",
+        "Runner Up Votes": 6597
+      },
+      {
+        "Constituency": "West Tuipui - 35",
+        "Winner": "PROVA CHAKMA",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 7167,
+        "Runner Up": "NIHAR KANTI CHAKMA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 6456
+      }
+    ],
+    "runner_up_less_than_2000_more_than_1000": [
+      {
+        "Constituency": "Aizawl North-III - 12",
+        "Winner": "K. SAPDANGA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6783,
+        "Runner Up": "C. LALMUANPUIA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4913
+      },
+      {
+        "Constituency": "Aizawl South-II - 19",
+        "Winner": "Lalchhuanthanga",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 9117,
+        "Runner Up": "Dr. Lalmalsawma Nghaka",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 7478
+      },
+      {
+        "Constituency": "Aizawl South-III - 20",
+        "Winner": "Baryl Vanneihsangi",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 9370,
+        "Runner Up": "F. Lalnunmawia",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 7956
+      },
+      {
+        "Constituency": "Chalfilh - 8",
+        "Winner": "LALBIAKZAMA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6637,
+        "Runner Up": "K. LALHMANGAIHA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4804
+      },
+      {
+        "Constituency": "Hrangturzo - 28",
+        "Winner": "LALMUANPUIA PUNTE",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6280,
+        "Runner Up": "LALREMRUATA CHHANGTE",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5025
+      },
+      {
+        "Constituency": "Kolasib - 5",
+        "Winner": "LALFAMKIMA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 8657,
+        "Runner Up": "K.LALRINLIANA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 7488
+      },
+      {
+        "Constituency": "Lunglei East - 31",
+        "Winner": "LALRINPUII",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 5641,
+        "Runner Up": "JOSEPH LALHIMPUIA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 3995
+      },
+      {
+        "Constituency": "Lunglei North - 30",
+        "Winner": "V. MALSAWMTLUANGA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 7369,
+        "Runner Up": "Dr. VANLALTANPUIA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5394
+      },
+      {
+        "Constituency": "Lunglei South - 33",
+        "Winner": "LALRAMLIANA PAPUIA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6531,
+        "Runner Up": "Dr K. PACHHUNGA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5305
+      },
+      {
+        "Constituency": "Lunglei West - 32",
+        "Winner": "T. LALHLIMPUIA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 5029,
+        "Runner Up": "C. LALRINSANGA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 3747
+      },
+      {
+        "Constituency": "Mamit - 3",
+        "Winner": "H. LALZIRLIANA",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 7167,
+        "Runner Up": "K. LALTHANZAMA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 5375
+      },
+      {
+        "Constituency": "Palak - 40",
+        "Winner": "K. HRAHMO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 6064,
+        "Runner Up": "KT ROKHAW",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4823
+      },
+      {
+        "Constituency": "Tawi - 9",
+        "Winner": "Prof. Lalnilawma",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 6991,
+        "Runner Up": "Lalrinenga Sailo",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5439
+      }
+    ],
+    "runner_up_less_than_3000_more_than_2000": [
+      {
+        "Constituency": "Aizawl East-I - 13",
+        "Winner": "LALTHANSANGA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 10727,
+        "Runner Up": "ZORAMTHANGA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 8626
+      },
+      {
+        "Constituency": "Aizawl East-II - 14",
+        "Winner": "B. LALCHHANZOVA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 7289,
+        "Runner Up": "B. LALAWMPUII",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4533
+      },
+      {
+        "Constituency": "Lawngtlai East - 38",
+        "Winner": "Dr. Lorrain Lalpekliana Chinzah",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 10072,
+        "Runner Up": "H. Biakzaua",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 7971
+      },
+      {
+        "Constituency": "Serchhip - 26",
+        "Winner": "LALDUHOMA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 8314,
+        "Runner Up": "J. MALSAWMZUALA VANCHHAWNG",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5332
+      },
+      {
+        "Constituency": "Tuikum - 27",
+        "Winner": "P.C. VANLALRUATA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 7136,
+        "Runner Up": "Er. LALRINAWMA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4975
+      },
+      {
+        "Constituency": "Tuivawl - 7",
+        "Winner": "Lalchhandama Ralte",
+        "Winner Party": "Mizo National Front",
+        "Winner Votes": 6501,
+        "Runner Up": "JMS Dawngliana",
+        "Runner Up Party": "Zoram People\u2019s Movement",
+        "Runner Up Votes": 4482
+      }
+    ],
+    "runner_up_less_than_4000_more_than_3000": [
+      {
+        "Constituency": "Aizawl South-I - 18",
+        "Winner": "C. LALSAWIVUNGA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 9124,
+        "Runner Up": "K. VANLALVENA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5499
+      }
+    ],
+    "runner_up_less_than_5000_more_than_4000": [
+      {
+        "Constituency": "Aizawl West-I - 15",
+        "Winner": "TBC Lalvenchhunga",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 11872,
+        "Runner Up": "Zothantluanga",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 7205
+      },
+      {
+        "Constituency": "Aizawl West-II - 16",
+        "Winner": "Lalnghinglova Hmar",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 10398,
+        "Runner Up": "Lalruatkima",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5579
+      },
+      {
+        "Constituency": "Aizawl West-III - 17",
+        "Winner": "V. L. ZAITHANZAMA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 9202,
+        "Runner Up": "K. LALSAWMVELA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4620
+      }
+    ],
+    "runner_up_less_than_6000_more_than_5000": [
+      {
+        "Constituency": "Aizawl North-I - 10",
+        "Winner": "Vanlalhlana",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 10772,
+        "Runner Up": "R.Lalzirliana",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 5287
+      }
+    ],
+    "runner_up_less_than_7000_more_than_6000": [
+      {
+        "Constituency": "Aizawl North-II - 11",
+        "Winner": "Dr. VANLALTHLANA",
+        "Winner Party": "Zoram People\u2019s Movement",
+        "Winner Votes": 11040,
+        "Runner Up": "VANLALSAWMA",
+        "Runner Up Party": "Mizo National Front",
+        "Runner Up Votes": 4533
+      }
+    ],
+    "runner_up_less_than_8000_more_than_7000": [],
+    "runner_up_less_than_9000_more_than_8000": [],
+    "runner_up_less_than_10000_more_than_9000": [],
+    "runner_up_less_than_20000_more_than_10000": [],
+    "runner_up_less_than_30000_more_than_20000": [],
+    "runner_up_less_than_40000_more_than_30000": [],
+    ">40000": [],
+    ">10000": []
+  }
+}

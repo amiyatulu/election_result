@@ -1,0 +1,1462 @@
+{
+  "number_of_places_runner_up_less_than_1000": 5,
+  "number_of_places_runner_up_less_than_2000_more_than_1000": 2,
+  "number_of_places_runner_up_less_than_3000_more_than_2000": 3,
+  "number_of_places_runner_up_less_than_4000_more_than_3000": 0,
+  "number_of_places_runner_up_less_than_5000_more_than_4000": 2,
+  "number_of_places_runner_up_less_than_6000_more_than_5000": 3,
+  "number_of_places_runner_up_less_than_7000_more_than_6000": 2,
+  "number_of_places_runner_up_less_than_8000_more_than_7000": 1,
+  "number_of_places_runner_up_less_than_9000_more_than_80000": 3,
+  "number_of_places_runner_up_less_than_10000_more_than_9000": 2,
+  "number_of_places_runner_up_greater_than_10000": 67,
+  "number_of_places_runner_up_less_than_20000_more_than_10000": 30,
+  "number_of_places_runner_up_less_than_30000_more_than_20000": 18,
+  "number_of_places_runner_up_less_than_40000_more_than_30000": 9,
+  "number_of_places_runner_up_greate_than_40000": 10,
+  "No of constituency": 90,
+  "Constituency data": {
+    "runner_up_less_than_1000": [
+      {
+        "Constituency": "Ambikapur - 10",
+        "Winner": "RAJESH AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 90780,
+        "Runner Up": "T. S. BABA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 90686
+      },
+      {
+        "Constituency": "Bindranawagarh - 55",
+        "Winner": "JANAK DHRUW",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 92639,
+        "Runner Up": "GOWARDHAN SINGH MANJHI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 91823
+      },
+      {
+        "Constituency": "Kanker - 81",
+        "Winner": "ASHA RAM NETAM",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 67980,
+        "Runner Up": "SHANKAR DHRUWA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 67964
+      },
+      {
+        "Constituency": "Pali-Tanakhar - 23",
+        "Winner": "TULESHWAR HIRA SINGH MARKAM",
+        "Winner Party": "Gondvana Gantantra Party",
+        "Winner Votes": 60862,
+        "Runner Up": "DULESHWARI SIDAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 60148
+      },
+      {
+        "Constituency": "Pathalgaon - 14",
+        "Winner": "GOMATI SAI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 82320,
+        "Runner Up": "RAMPUKAR SINGH THAKUR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 82065
+      }
+    ],
+    "runner_up_less_than_2000_more_than_1000": [
+      {
+        "Constituency": "Bhilai Nagar - 65",
+        "Winner": "DEVENDRA YADAV",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 54405,
+        "Runner Up": "PREM PRAKASH PANDEY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 53141
+      },
+      {
+        "Constituency": "Konta - 90",
+        "Winner": "KAWASI LAKHMA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 32776,
+        "Runner Up": "SOYAM MUKA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 30795
+      }
+    ],
+    "runner_up_less_than_3000_more_than_2000": [
+      {
+        "Constituency": "Bijapur - 89",
+        "Winner": "VIKRAM MANDAVI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 35739,
+        "Runner Up": "MAHESH GAGDA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 33033
+      },
+      {
+        "Constituency": "Dhamtari - 58",
+        "Winner": "ONKAR SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 88544,
+        "Runner Up": "RANJNA DIPENDRA SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 85938
+      },
+      {
+        "Constituency": "Dongargaon - 76",
+        "Winner": "DALESHWAR SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 81479,
+        "Runner Up": "BHARAT LAL VARMA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 78690
+      }
+    ],
+    "runner_up_less_than_4000_more_than_3000": [],
+    "runner_up_less_than_5000_more_than_4000": [
+      {
+        "Constituency": "Bharatpur-Sonhat - 1",
+        "Winner": "RENUKA SINGH SARUTA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 55809,
+        "Runner Up": "GULAB KAMRO",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 50890
+      },
+      {
+        "Constituency": "Lailunga - 15",
+        "Winner": "VIDYAWATI SIDAR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84666,
+        "Runner Up": "SUNITI SATYANAND RATHIYA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 80490
+      }
+    ],
+    "runner_up_less_than_6000_more_than_5000": [
+      {
+        "Constituency": "Keshkal - 82",
+        "Winner": "NEELKANTH TEKAM",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 77438,
+        "Runner Up": "SANT RAM NETAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 71878
+      },
+      {
+        "Constituency": "Khairagarh - 73",
+        "Winner": "YASHODA NILAMBER VERMA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 89704,
+        "Runner Up": "VIKRANT SINGH \"CHINKU BHAIYA\"",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 84070
+      },
+      {
+        "Constituency": "Saja - 68",
+        "Winner": "ISHWAR SAHU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 101789,
+        "Runner Up": "RAVINDRA CHOUBEY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 96593
+      }
+    ],
+    "runner_up_less_than_7000_more_than_6000": [
+      {
+        "Constituency": "Bastar - 85",
+        "Winner": "BAGHEL LAKHESHWAR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 68401,
+        "Runner Up": "MANIRAM KASHYAP",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 61967
+      },
+      {
+        "Constituency": "Janjgir-Champa - 34",
+        "Winner": "BYAS  KASHYAP S/O SHANIRAM KASHYAP",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 72900,
+        "Runner Up": "NARAYAN CHANDEL",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 65929
+      }
+    ],
+    "runner_up_less_than_8000_more_than_7000": [
+      {
+        "Constituency": "Kota - 25",
+        "Winner": "ATAL SHRIVASTAVA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 73479,
+        "Runner Up": "PRABAL PRATAP SINGH JUDEV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 65522
+      }
+    ],
+    "runner_up_less_than_9000_more_than_8000": [
+      {
+        "Constituency": "Bilha - 29",
+        "Winner": "Dharam Lal Kaushik",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 100346,
+        "Runner Up": "Siyaram Kaushik",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 91389
+      },
+      {
+        "Constituency": "Chitrakot - 87",
+        "Winner": "VINAYAK GOYAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 63954,
+        "Runner Up": "DEEPAK KUMAR BAIJ",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 55584
+      },
+      {
+        "Constituency": "Kurud - 57",
+        "Winner": "Ajay Chandrakar",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 94712,
+        "Runner Up": "Tarni Neelam Chandrakar",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 86622
+      }
+    ],
+    "runner_up_less_than_10000_more_than_9000": [
+      {
+        "Constituency": "Bemetara - 69",
+        "Winner": "DIPESH SAHU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 97731,
+        "Runner Up": "ASHISH CHHABDA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 88597
+      },
+      {
+        "Constituency": "Dharamjaigarh - 19",
+        "Winner": "LALJEET SINGH RATHIA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90493,
+        "Runner Up": "HARISHCHANDRA RATHIA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 80856
+      }
+    ],
+    "runner_up_less_than_20000_more_than_10000": [
+      {
+        "Constituency": "Abhanpur - 53",
+        "Winner": "Indra Kumar Sahu",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 93295,
+        "Runner Up": "Dhanendra Sahu",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 77742
+      },
+      {
+        "Constituency": "Arang - 52",
+        "Winner": "GURU KHUSHWANT SAHEB",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 94039,
+        "Runner Up": "DR. SHIVKUMAR DAHARIYA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 77501
+      },
+      {
+        "Constituency": "Baloda Bazar - 45",
+        "Winner": "Tank Ram Verma",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 108381,
+        "Runner Up": "Shailesh Nitin Trivedi",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 93635
+      },
+      {
+        "Constituency": "Beltara - 31",
+        "Winner": "Sushant Shukla",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 79528,
+        "Runner Up": "Vijay Kesharwani",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 62565
+      },
+      {
+        "Constituency": "Bhatapara - 46",
+        "Winner": "INDRA SAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 94066,
+        "Runner Up": "SHIVRATAN SHARMA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 82750
+      },
+      {
+        "Constituency": "Bilaigarh - 43",
+        "Winner": "KAVITA PRAN LAHREY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 81647,
+        "Runner Up": "DR. DINESH LAL JANGDEY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 63708
+      },
+      {
+        "Constituency": "Chandrapur - 36",
+        "Winner": "RAMKUMAR YADAV",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 85525,
+        "Runner Up": "SANYOGITA YUDHVIR SINGH JUDEV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 69549
+      },
+      {
+        "Constituency": "Dantewada - 88",
+        "Winner": "CHAITRAM ATAMI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 57739,
+        "Runner Up": "CHHAVINDRA KARMA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 40936
+      },
+      {
+        "Constituency": "Dongargarh - 74",
+        "Winner": "HARSHITA SWAMI BAGHEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 89145,
+        "Runner Up": "VINOD KHANDEKAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 74778
+      },
+      {
+        "Constituency": "Durg-Rural - 63",
+        "Winner": "LALIT CHANDRAKAR",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 87175,
+        "Runner Up": "TAMRADHWAJ SAHU",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 70533
+      },
+      {
+        "Constituency": "Gunderdehi - 61",
+        "Winner": "KUNWER SINGH NISHAD",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 103191,
+        "Runner Up": "VIRENDRA SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 88328
+      },
+      {
+        "Constituency": "Jashpur - 12",
+        "Winner": "RAYMUNI BHAGAT",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 89103,
+        "Runner Up": "VINAY BHAGAT",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 71458
+      },
+      {
+        "Constituency": "Katghora - 22",
+        "Winner": "PREMCHAND PATEL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 73680,
+        "Runner Up": "PURUSHOTTAM KANWAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 56780
+      },
+      {
+        "Constituency": "Kondagaon - 83",
+        "Winner": "LATA USENDI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 80465,
+        "Runner Up": "MOHAN MARKAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 61893
+      },
+      {
+        "Constituency": "Mahasamund - 42",
+        "Winner": "YOGESHWAR RAJU SINHA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 84594,
+        "Runner Up": "DR. RASHMI CHANDRAKAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 68442
+      },
+      {
+        "Constituency": "Manendragarh - 2",
+        "Winner": "SHYAM BIHARI JAISWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 48503,
+        "Runner Up": "RAMESH SINGH VAKIL",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 36623
+      },
+      {
+        "Constituency": "Marwahi - 24",
+        "Winner": "PRANAV KUMAR MARPACHI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 51960,
+        "Runner Up": "GULAB RAJ",
+        "Runner Up Party": "Janta Congress Chhattisgarh (J)",
+        "Runner Up Votes": 39882
+      },
+      {
+        "Constituency": "Mungeli - 27",
+        "Winner": "PUNNULAL MOHLE",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 85429,
+        "Runner Up": "SANJEET BANARJEE",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 73648
+      },
+      {
+        "Constituency": "Narayanpur - 84",
+        "Winner": "KEDAR KASHYAP",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 69110,
+        "Runner Up": "CHANDAN KASHYAP",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 49922
+      },
+      {
+        "Constituency": "Nawagarh - 70",
+        "Winner": "DAYALDAS BAGHEL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 101631,
+        "Runner Up": "GURU RUDRA KUMAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 86454
+      },
+      {
+        "Constituency": "Pamgarh - 38",
+        "Winner": "SHESHRAJ HARVANSH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 63963,
+        "Runner Up": "SANTOSH KUMAR LAHARE",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 47789
+      },
+      {
+        "Constituency": "Patan - 62",
+        "Winner": "BHUPESH BAGHEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 95438,
+        "Runner Up": "VIJAY BAGHEL (SANSAD)",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 75715
+      },
+      {
+        "Constituency": "Pratappur - 6",
+        "Winner": "SHAKUNTALA SINGH PORTEY",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83796,
+        "Runner Up": "RAJKUMARI SHIVBHAJAN MARABI",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 72088
+      },
+      {
+        "Constituency": "Rajim - 54",
+        "Winner": "ROHIT SAHU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 96423,
+        "Runner Up": "AMITESH SHUKLA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 84512
+      },
+      {
+        "Constituency": "Sakti - 35",
+        "Winner": "CHARAN DAS MAHANT",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 81519,
+        "Runner Up": "Dr. KHILAWAN SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 69124
+      },
+      {
+        "Constituency": "Samri - 8",
+        "Winner": "UDHHESHWARI PAIKRA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83483,
+        "Runner Up": "VIJAY PAIKRA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 69540
+      },
+      {
+        "Constituency": "Sanjari Balod - 59",
+        "Winner": "SANGEETA SINHA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84649,
+        "Runner Up": "RAKESH KUMAR YADAV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 67603
+      },
+      {
+        "Constituency": "Sihawa - 56",
+        "Winner": "AMBIKA MARKAM",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84891,
+        "Runner Up": "SHRAWAN MARKAM",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 71725
+      },
+      {
+        "Constituency": "Sitapur - 11",
+        "Winner": "POORV SAINIK RAMKUMAR TOPPO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83088,
+        "Runner Up": "AMARJEET BHAGAT",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 65928
+      },
+      {
+        "Constituency": "Takhatpur - 28",
+        "Winner": "DHARMJEET SINGH",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 90978,
+        "Runner Up": "RASHMI ASHISH SINGH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 76086
+      }
+    ],
+    "runner_up_less_than_30000_more_than_20000": [
+      {
+        "Constituency": "Ahiwara - 67",
+        "Winner": "DOMANLAL KORSEWADA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 96717,
+        "Runner Up": "NIRMAL KOSRE",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 71454
+      },
+      {
+        "Constituency": "Akaltara - 33",
+        "Winner": "RAGHAVENDRA KUMAR SINGH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 80043,
+        "Runner Up": "SAURABH SINGH",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 57285
+      },
+      {
+        "Constituency": "Antagarh - 79",
+        "Winner": "VIKRAM USENDI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 59547,
+        "Runner Up": "ROOPSINGH POTAI 'MODDU'",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 35837
+      },
+      {
+        "Constituency": "Baikunthpur - 3",
+        "Winner": "BHAIYA LAL RAJWADE",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 66866,
+        "Runner Up": "AMBICA SINGHDEO",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 41453
+      },
+      {
+        "Constituency": "Bilaspur - 30",
+        "Winner": "AMAR AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83022,
+        "Runner Up": "SHAILESH PANDEY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 54063
+      },
+      {
+        "Constituency": "Jagdalpur - 86",
+        "Winner": "KIRAN DEO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 90336,
+        "Runner Up": "JATEEN JAISWAL",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 60502
+      },
+      {
+        "Constituency": "Jaijaipur - 37",
+        "Winner": "BALESHWAR SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 76747,
+        "Runner Up": "KRISHNA KANT CHANDRA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 50825
+      },
+      {
+        "Constituency": "Kharsia - 18",
+        "Winner": "UMESH PATEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 100988,
+        "Runner Up": "MAHESH SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 79332
+      },
+      {
+        "Constituency": "Khujji - 77",
+        "Winner": "BHOLARAM SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 80465,
+        "Runner Up": "GEETA GHASI SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 54521
+      },
+      {
+        "Constituency": "Korba - 21",
+        "Winner": "LAKHANLAL DEVANGAN S/O TULSIRAM DEVANGAN",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 92029,
+        "Runner Up": "JAISINGH AGRAWAL (JAISINGH BHAIYA)",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 66400
+      },
+      {
+        "Constituency": "Kunkuri - 13",
+        "Winner": "VISHNU DEO SAI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 87604,
+        "Runner Up": "U.D. MINJ",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 62063
+      },
+      {
+        "Constituency": "Lundra - 9",
+        "Winner": "PRABODH MINZ",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 87463,
+        "Runner Up": "DR. PRITAM RAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 63335
+      },
+      {
+        "Constituency": "Masturi - 32",
+        "Winner": "DILIP LAHARIYA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 95497,
+        "Runner Up": "DR. KRISHNA MURTI BANDHI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 75356
+      },
+      {
+        "Constituency": "Pandariya - 71",
+        "Winner": "BHAWNA BOHRA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 120847,
+        "Runner Up": "NEELU CHANDRAVANSHI",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 94449
+      },
+      {
+        "Constituency": "Raipur City North - 50",
+        "Winner": "PURANDAR MISHRA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 54279,
+        "Runner Up": "KULDEEP SINGH JUNEJA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 31225
+      },
+      {
+        "Constituency": "Ramanujganj - 7",
+        "Winner": "RAM VICHAR NETAM",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 99574,
+        "Runner Up": "DR. AJAY KUMAR TIRKEY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 69911
+      },
+      {
+        "Constituency": "Rampur - 20",
+        "Winner": "PHOOLSINGH RATHIYA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 93647,
+        "Runner Up": "NANKI RAM KANWAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 70788
+      },
+      {
+        "Constituency": "Sarangarh - 17",
+        "Winner": "UTTARI GANPAT JANGDE",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 109484,
+        "Runner Up": "SHIVKUMARI SARADHAN CHOUHAN",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 79789
+      }
+    ],
+    "runner_up_less_than_40000_more_than_30000": [
+      {
+        "Constituency": "Basna - 40",
+        "Winner": "SAMPAT AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 108871,
+        "Runner Up": "DEVENDRA BAHADUR SINGH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 72078
+      },
+      {
+        "Constituency": "Bhanupratappur - 80",
+        "Winner": "SAVITRI MANOJ MANDAVI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 83931,
+        "Runner Up": "GAUTAM UIKE",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 52999
+      },
+      {
+        "Constituency": "Dondi Lohara - 60",
+        "Winner": "ANILA BHENDIA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 102762,
+        "Runner Up": "DEVLAL THAKUR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 67183
+      },
+      {
+        "Constituency": "Kasdol - 44",
+        "Winner": "SANDEEP SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 136362,
+        "Runner Up": "DHANI RAM DHIWAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 102597
+      },
+      {
+        "Constituency": "Kawardha - 72",
+        "Winner": "Vijay Sharma",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 144257,
+        "Runner Up": "Akbar Bhai S/O Mohammad Rashid",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 104665
+      },
+      {
+        "Constituency": "Khallari - 41",
+        "Winner": "DWARIKADHISH YADAV",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 104052,
+        "Runner Up": "ALKA CHANDRAKAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 66933
+      },
+      {
+        "Constituency": "Mohla-Manpur - 78",
+        "Winner": "INDRASHAH MANDAVI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 77454,
+        "Runner Up": "SANJEEV SHAH",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 45713
+      },
+      {
+        "Constituency": "Premnagar - 4",
+        "Winner": "BHULAN SINGH MARABI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 99957,
+        "Runner Up": "KHEL SAI SINGH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 66667
+      },
+      {
+        "Constituency": "Raipur Rural - 48",
+        "Winner": "MOTILAL SAHU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 113032,
+        "Runner Up": "PANKAJ SHARMA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 77282
+      }
+    ],
+    ">40000": [
+      {
+        "Constituency": "Bhatgaon - 5",
+        "Winner": "LAXMI RAJWADE",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 105162,
+        "Runner Up": "PARASNATH RAJWADE",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 61200
+      },
+      {
+        "Constituency": "Dharsiwa - 47",
+        "Winner": "Anuj Sharma",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 107283,
+        "Runner Up": "Chhaya Verma",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 62940
+      },
+      {
+        "Constituency": "Durg City - 64",
+        "Winner": "Gajendra Yadav",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 97906,
+        "Runner Up": "Arun Vora",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 49209
+      },
+      {
+        "Constituency": "Lormi - 26",
+        "Winner": "ARUN SAO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 75070,
+        "Runner Up": "THANESHVAR SAHU",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 29179
+      },
+      {
+        "Constituency": "Raigarh - 16",
+        "Winner": "OMPRAKASH CHOUDHARY(O.P.CHOUDHARY)",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 129134,
+        "Runner Up": "PRAKASH SHAKRAJEET NAIK",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 64691
+      },
+      {
+        "Constituency": "Raipur City South - 51",
+        "Winner": "BRIJMOHAN AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 109263,
+        "Runner Up": "Dr. MAHANT RAMSUNDAR DAS",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 41544
+      },
+      {
+        "Constituency": "Raipur City West - 49",
+        "Winner": "RAJESH MUNAT",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 98938,
+        "Runner Up": "VIKAS UPADHYAY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 57709
+      },
+      {
+        "Constituency": "Rajnandgaon - 75",
+        "Winner": "DR. RAMAN SINGH",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 102499,
+        "Runner Up": "GIRISH DEWANGAN",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 57415
+      },
+      {
+        "Constituency": "Saraipali - 39",
+        "Winner": "CHATURI NAND",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 100503,
+        "Runner Up": "SARLA KOSARIYA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 58615
+      },
+      {
+        "Constituency": "Vaishali Nagar - 66",
+        "Winner": "RIKESH SEN",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 98272,
+        "Runner Up": "MUKESH CHANDRAKAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 58198
+      }
+    ],
+    ">10000": [
+      {
+        "Constituency": "Abhanpur - 53",
+        "Winner": "Indra Kumar Sahu",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 93295,
+        "Runner Up": "Dhanendra Sahu",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 77742
+      },
+      {
+        "Constituency": "Ahiwara - 67",
+        "Winner": "DOMANLAL KORSEWADA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 96717,
+        "Runner Up": "NIRMAL KOSRE",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 71454
+      },
+      {
+        "Constituency": "Akaltara - 33",
+        "Winner": "RAGHAVENDRA KUMAR SINGH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 80043,
+        "Runner Up": "SAURABH SINGH",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 57285
+      },
+      {
+        "Constituency": "Antagarh - 79",
+        "Winner": "VIKRAM USENDI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 59547,
+        "Runner Up": "ROOPSINGH POTAI 'MODDU'",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 35837
+      },
+      {
+        "Constituency": "Arang - 52",
+        "Winner": "GURU KHUSHWANT SAHEB",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 94039,
+        "Runner Up": "DR. SHIVKUMAR DAHARIYA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 77501
+      },
+      {
+        "Constituency": "Baikunthpur - 3",
+        "Winner": "BHAIYA LAL RAJWADE",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 66866,
+        "Runner Up": "AMBICA SINGHDEO",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 41453
+      },
+      {
+        "Constituency": "Baloda Bazar - 45",
+        "Winner": "Tank Ram Verma",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 108381,
+        "Runner Up": "Shailesh Nitin Trivedi",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 93635
+      },
+      {
+        "Constituency": "Basna - 40",
+        "Winner": "SAMPAT AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 108871,
+        "Runner Up": "DEVENDRA BAHADUR SINGH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 72078
+      },
+      {
+        "Constituency": "Beltara - 31",
+        "Winner": "Sushant Shukla",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 79528,
+        "Runner Up": "Vijay Kesharwani",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 62565
+      },
+      {
+        "Constituency": "Bhanupratappur - 80",
+        "Winner": "SAVITRI MANOJ MANDAVI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 83931,
+        "Runner Up": "GAUTAM UIKE",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 52999
+      },
+      {
+        "Constituency": "Bhatapara - 46",
+        "Winner": "INDRA SAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 94066,
+        "Runner Up": "SHIVRATAN SHARMA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 82750
+      },
+      {
+        "Constituency": "Bhatgaon - 5",
+        "Winner": "LAXMI RAJWADE",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 105162,
+        "Runner Up": "PARASNATH RAJWADE",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 61200
+      },
+      {
+        "Constituency": "Bilaigarh - 43",
+        "Winner": "KAVITA PRAN LAHREY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 81647,
+        "Runner Up": "DR. DINESH LAL JANGDEY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 63708
+      },
+      {
+        "Constituency": "Bilaspur - 30",
+        "Winner": "AMAR AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83022,
+        "Runner Up": "SHAILESH PANDEY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 54063
+      },
+      {
+        "Constituency": "Chandrapur - 36",
+        "Winner": "RAMKUMAR YADAV",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 85525,
+        "Runner Up": "SANYOGITA YUDHVIR SINGH JUDEV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 69549
+      },
+      {
+        "Constituency": "Dantewada - 88",
+        "Winner": "CHAITRAM ATAMI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 57739,
+        "Runner Up": "CHHAVINDRA KARMA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 40936
+      },
+      {
+        "Constituency": "Dharsiwa - 47",
+        "Winner": "Anuj Sharma",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 107283,
+        "Runner Up": "Chhaya Verma",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 62940
+      },
+      {
+        "Constituency": "Dondi Lohara - 60",
+        "Winner": "ANILA BHENDIA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 102762,
+        "Runner Up": "DEVLAL THAKUR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 67183
+      },
+      {
+        "Constituency": "Dongargarh - 74",
+        "Winner": "HARSHITA SWAMI BAGHEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 89145,
+        "Runner Up": "VINOD KHANDEKAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 74778
+      },
+      {
+        "Constituency": "Durg City - 64",
+        "Winner": "Gajendra Yadav",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 97906,
+        "Runner Up": "Arun Vora",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 49209
+      },
+      {
+        "Constituency": "Durg-Rural - 63",
+        "Winner": "LALIT CHANDRAKAR",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 87175,
+        "Runner Up": "TAMRADHWAJ SAHU",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 70533
+      },
+      {
+        "Constituency": "Gunderdehi - 61",
+        "Winner": "KUNWER SINGH NISHAD",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 103191,
+        "Runner Up": "VIRENDRA SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 88328
+      },
+      {
+        "Constituency": "Jagdalpur - 86",
+        "Winner": "KIRAN DEO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 90336,
+        "Runner Up": "JATEEN JAISWAL",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 60502
+      },
+      {
+        "Constituency": "Jaijaipur - 37",
+        "Winner": "BALESHWAR SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 76747,
+        "Runner Up": "KRISHNA KANT CHANDRA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 50825
+      },
+      {
+        "Constituency": "Jashpur - 12",
+        "Winner": "RAYMUNI BHAGAT",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 89103,
+        "Runner Up": "VINAY BHAGAT",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 71458
+      },
+      {
+        "Constituency": "Kasdol - 44",
+        "Winner": "SANDEEP SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 136362,
+        "Runner Up": "DHANI RAM DHIWAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 102597
+      },
+      {
+        "Constituency": "Katghora - 22",
+        "Winner": "PREMCHAND PATEL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 73680,
+        "Runner Up": "PURUSHOTTAM KANWAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 56780
+      },
+      {
+        "Constituency": "Kawardha - 72",
+        "Winner": "Vijay Sharma",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 144257,
+        "Runner Up": "Akbar Bhai S/O Mohammad Rashid",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 104665
+      },
+      {
+        "Constituency": "Khallari - 41",
+        "Winner": "DWARIKADHISH YADAV",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 104052,
+        "Runner Up": "ALKA CHANDRAKAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 66933
+      },
+      {
+        "Constituency": "Kharsia - 18",
+        "Winner": "UMESH PATEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 100988,
+        "Runner Up": "MAHESH SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 79332
+      },
+      {
+        "Constituency": "Khujji - 77",
+        "Winner": "BHOLARAM SAHU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 80465,
+        "Runner Up": "GEETA GHASI SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 54521
+      },
+      {
+        "Constituency": "Kondagaon - 83",
+        "Winner": "LATA USENDI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 80465,
+        "Runner Up": "MOHAN MARKAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 61893
+      },
+      {
+        "Constituency": "Korba - 21",
+        "Winner": "LAKHANLAL DEVANGAN S/O TULSIRAM DEVANGAN",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 92029,
+        "Runner Up": "JAISINGH AGRAWAL (JAISINGH BHAIYA)",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 66400
+      },
+      {
+        "Constituency": "Kunkuri - 13",
+        "Winner": "VISHNU DEO SAI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 87604,
+        "Runner Up": "U.D. MINJ",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 62063
+      },
+      {
+        "Constituency": "Lormi - 26",
+        "Winner": "ARUN SAO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 75070,
+        "Runner Up": "THANESHVAR SAHU",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 29179
+      },
+      {
+        "Constituency": "Lundra - 9",
+        "Winner": "PRABODH MINZ",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 87463,
+        "Runner Up": "DR. PRITAM RAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 63335
+      },
+      {
+        "Constituency": "Mahasamund - 42",
+        "Winner": "YOGESHWAR RAJU SINHA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 84594,
+        "Runner Up": "DR. RASHMI CHANDRAKAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 68442
+      },
+      {
+        "Constituency": "Manendragarh - 2",
+        "Winner": "SHYAM BIHARI JAISWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 48503,
+        "Runner Up": "RAMESH SINGH VAKIL",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 36623
+      },
+      {
+        "Constituency": "Marwahi - 24",
+        "Winner": "PRANAV KUMAR MARPACHI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 51960,
+        "Runner Up": "GULAB RAJ",
+        "Runner Up Party": "Janta Congress Chhattisgarh (J)",
+        "Runner Up Votes": 39882
+      },
+      {
+        "Constituency": "Masturi - 32",
+        "Winner": "DILIP LAHARIYA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 95497,
+        "Runner Up": "DR. KRISHNA MURTI BANDHI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 75356
+      },
+      {
+        "Constituency": "Mohla-Manpur - 78",
+        "Winner": "INDRASHAH MANDAVI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 77454,
+        "Runner Up": "SANJEEV SHAH",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 45713
+      },
+      {
+        "Constituency": "Mungeli - 27",
+        "Winner": "PUNNULAL MOHLE",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 85429,
+        "Runner Up": "SANJEET BANARJEE",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 73648
+      },
+      {
+        "Constituency": "Narayanpur - 84",
+        "Winner": "KEDAR KASHYAP",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 69110,
+        "Runner Up": "CHANDAN KASHYAP",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 49922
+      },
+      {
+        "Constituency": "Nawagarh - 70",
+        "Winner": "DAYALDAS BAGHEL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 101631,
+        "Runner Up": "GURU RUDRA KUMAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 86454
+      },
+      {
+        "Constituency": "Pamgarh - 38",
+        "Winner": "SHESHRAJ HARVANSH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 63963,
+        "Runner Up": "SANTOSH KUMAR LAHARE",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 47789
+      },
+      {
+        "Constituency": "Pandariya - 71",
+        "Winner": "BHAWNA BOHRA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 120847,
+        "Runner Up": "NEELU CHANDRAVANSHI",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 94449
+      },
+      {
+        "Constituency": "Patan - 62",
+        "Winner": "BHUPESH BAGHEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 95438,
+        "Runner Up": "VIJAY BAGHEL (SANSAD)",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 75715
+      },
+      {
+        "Constituency": "Pratappur - 6",
+        "Winner": "SHAKUNTALA SINGH PORTEY",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83796,
+        "Runner Up": "RAJKUMARI SHIVBHAJAN MARABI",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 72088
+      },
+      {
+        "Constituency": "Premnagar - 4",
+        "Winner": "BHULAN SINGH MARABI",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 99957,
+        "Runner Up": "KHEL SAI SINGH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 66667
+      },
+      {
+        "Constituency": "Raigarh - 16",
+        "Winner": "OMPRAKASH CHOUDHARY(O.P.CHOUDHARY)",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 129134,
+        "Runner Up": "PRAKASH SHAKRAJEET NAIK",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 64691
+      },
+      {
+        "Constituency": "Raipur City North - 50",
+        "Winner": "PURANDAR MISHRA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 54279,
+        "Runner Up": "KULDEEP SINGH JUNEJA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 31225
+      },
+      {
+        "Constituency": "Raipur City South - 51",
+        "Winner": "BRIJMOHAN AGRAWAL",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 109263,
+        "Runner Up": "Dr. MAHANT RAMSUNDAR DAS",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 41544
+      },
+      {
+        "Constituency": "Raipur City West - 49",
+        "Winner": "RAJESH MUNAT",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 98938,
+        "Runner Up": "VIKAS UPADHYAY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 57709
+      },
+      {
+        "Constituency": "Raipur Rural - 48",
+        "Winner": "MOTILAL SAHU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 113032,
+        "Runner Up": "PANKAJ SHARMA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 77282
+      },
+      {
+        "Constituency": "Rajim - 54",
+        "Winner": "ROHIT SAHU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 96423,
+        "Runner Up": "AMITESH SHUKLA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 84512
+      },
+      {
+        "Constituency": "Rajnandgaon - 75",
+        "Winner": "DR. RAMAN SINGH",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 102499,
+        "Runner Up": "GIRISH DEWANGAN",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 57415
+      },
+      {
+        "Constituency": "Ramanujganj - 7",
+        "Winner": "RAM VICHAR NETAM",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 99574,
+        "Runner Up": "DR. AJAY KUMAR TIRKEY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 69911
+      },
+      {
+        "Constituency": "Rampur - 20",
+        "Winner": "PHOOLSINGH RATHIYA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 93647,
+        "Runner Up": "NANKI RAM KANWAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 70788
+      },
+      {
+        "Constituency": "Sakti - 35",
+        "Winner": "CHARAN DAS MAHANT",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 81519,
+        "Runner Up": "Dr. KHILAWAN SAHU",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 69124
+      },
+      {
+        "Constituency": "Samri - 8",
+        "Winner": "UDHHESHWARI PAIKRA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83483,
+        "Runner Up": "VIJAY PAIKRA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 69540
+      },
+      {
+        "Constituency": "Sanjari Balod - 59",
+        "Winner": "SANGEETA SINHA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84649,
+        "Runner Up": "RAKESH KUMAR YADAV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 67603
+      },
+      {
+        "Constituency": "Saraipali - 39",
+        "Winner": "CHATURI NAND",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 100503,
+        "Runner Up": "SARLA KOSARIYA",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 58615
+      },
+      {
+        "Constituency": "Sarangarh - 17",
+        "Winner": "UTTARI GANPAT JANGDE",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 109484,
+        "Runner Up": "SHIVKUMARI SARADHAN CHOUHAN",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 79789
+      },
+      {
+        "Constituency": "Sihawa - 56",
+        "Winner": "AMBIKA MARKAM",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84891,
+        "Runner Up": "SHRAWAN MARKAM",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 71725
+      },
+      {
+        "Constituency": "Sitapur - 11",
+        "Winner": "POORV SAINIK RAMKUMAR TOPPO",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 83088,
+        "Runner Up": "AMARJEET BHAGAT",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 65928
+      },
+      {
+        "Constituency": "Takhatpur - 28",
+        "Winner": "DHARMJEET SINGH",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 90978,
+        "Runner Up": "RASHMI ASHISH SINGH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 76086
+      },
+      {
+        "Constituency": "Vaishali Nagar - 66",
+        "Winner": "RIKESH SEN",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 98272,
+        "Runner Up": "MUKESH CHANDRAKAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 58198
+      }
+    ]
+  }
+}

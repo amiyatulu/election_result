@@ -1,0 +1,1957 @@
+{
+  "number_of_places_runner_up_less_than_1000": 2,
+  "number_of_places_runner_up_less_than_2000_more_than_1000": 2,
+  "number_of_places_runner_up_less_than_3000_more_than_2000": 1,
+  "number_of_places_runner_up_less_than_4000_more_than_3000": 3,
+  "number_of_places_runner_up_less_than_5000_more_than_4000": 3,
+  "number_of_places_runner_up_less_than_6000_more_than_5000": 3,
+  "number_of_places_runner_up_less_than_7000_more_than_6000": 4,
+  "number_of_places_runner_up_less_than_8000_more_than_7000": 6,
+  "number_of_places_runner_up_less_than_9000_more_than_80000": 2,
+  "number_of_places_runner_up_less_than_10000_more_than_9000": 0,
+  "number_of_places_runner_up_greater_than_10000": 93,
+  "number_of_places_runner_up_less_than_20000_more_than_10000": 20,
+  "number_of_places_runner_up_less_than_30000_more_than_20000": 23,
+  "number_of_places_runner_up_less_than_40000_more_than_30000": 16,
+  "number_of_places_runner_up_greate_than_40000": 34,
+  "No of constituency": 119,
+  "Constituency data": {
+    "runner_up_less_than_1000": [
+      {
+        "Constituency": "Chevella - 53",
+        "Winner": "KALE YADAIAH",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 76218,
+        "Runner Up": "BEEM BHARATH PAMENA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 75950
+      },
+      {
+        "Constituency": "Yakutpura - 68",
+        "Winner": "JAFFAR HUSSAIN",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 46153,
+        "Runner Up": "AMJED ULLAH KHAN",
+        "Runner Up Party": "Majlis Bachao Tahreek",
+        "Runner Up Votes": 45275
+      }
+    ],
+    "runner_up_less_than_2000_more_than_1000": [
+      {
+        "Constituency": "Devarkadra - 76",
+        "Winner": "GAVINOLLA MADHUSUDAN REDDY (GMR)",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 88551,
+        "Runner Up": "ALLA VENKATESWAR REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 87159
+      },
+      {
+        "Constituency": "Jukkal - 13",
+        "Winner": "Laxmi Kantha Rao Thota",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 64489,
+        "Runner Up": "Hanmant Shinde",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63337
+      }
+    ],
+    "runner_up_less_than_3000_more_than_2000": [
+      {
+        "Constituency": "Nampally - 63",
+        "Winner": "MOHAMMED MAJID HUSSAIN",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 62185,
+        "Runner Up": "MOHAMMED FEROZ KHAN",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 60148
+      }
+    ],
+    "runner_up_less_than_4000_more_than_3000": [
+      {
+        "Constituency": "Bodhan - 12",
+        "Winner": "P. SUDARSHAN REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 66963,
+        "Runner Up": "MOHAMMED SHAKIL AAMIR",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63901
+      },
+      {
+        "Constituency": "Karimnagar - 26",
+        "Winner": "GANGULA KAMALAKAR",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 92179,
+        "Runner Up": "BANDI SANJAY KUMAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 89016
+      },
+      {
+        "Constituency": "Sirpur - 1",
+        "Winner": "DR.PALVAI HARISH BABU",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 63702,
+        "Runner Up": "KONERU KONAPPA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 60614
+      }
+    ],
+    "runner_up_less_than_5000_more_than_4000": [
+      {
+        "Constituency": "Balkonda - 19",
+        "Winner": "PRASHANTH REDDY VEMULA",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 70417,
+        "Runner Up": "SUNIL KUMAR MUTHYALA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 65884
+      },
+      {
+        "Constituency": "Khanapur - 6",
+        "Winner": "VEDMA BHOJJU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 58870,
+        "Runner Up": "JOHNSON NAIK BHUKYA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 54168
+      },
+      {
+        "Constituency": "Suryapet - 91",
+        "Winner": "GUNTAKANDLA JAGADISH REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 75143,
+        "Runner Up": "DAMODAR REDDY RAMREDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 70537
+      }
+    ],
+    "runner_up_less_than_6000_more_than_5000": [
+      {
+        "Constituency": "Bhadrachalam - 119",
+        "Winner": "Dr. Tellam Venkata Rao",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 53252,
+        "Runner Up": "Podem Veeraiah",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 47533
+      },
+      {
+        "Constituency": "Kalwakurthy - 83",
+        "Winner": "Narayan Reddy Kasireddy",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 75858,
+        "Runner Up": "Thalloju Achari",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 70448
+      },
+      {
+        "Constituency": "Nagarkurnool - 81",
+        "Winner": "Dr. KUCHKULLA RAJESH  REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87161,
+        "Runner Up": "MARRI JANARDHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81913
+      }
+    ],
+    "runner_up_less_than_7000_more_than_6000": [
+      {
+        "Constituency": "Adilabad - 7",
+        "Winner": "PAYAL SHANKER",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 67608,
+        "Runner Up": "JOGU RAMANNA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 60916
+      },
+      {
+        "Constituency": "Kamareddy - 16",
+        "Winner": "KATIPALLY VENKATA RAMANA REDDY",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 66652,
+        "Runner Up": "KALVAKUNTLA CHANDRASHEKAR RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 59911
+      },
+      {
+        "Constituency": "Narayankhed - 35",
+        "Winner": "PATLOLLA SANJEEVA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 91373,
+        "Runner Up": "MAHAREDDY BHUPAL REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 84826
+      },
+      {
+        "Constituency": "Tandur - 56",
+        "Winner": "B. MANOHAR REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84662,
+        "Runner Up": "PILOT ROHITH REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 78079
+      }
+    ],
+    "runner_up_less_than_8000_more_than_7000": [
+      {
+        "Constituency": "Gadwal - 79",
+        "Winner": "BANDLA KRISHNA MOHAN REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 94097,
+        "Runner Up": "SARITHA W/O THIRUPATAIAH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 87061
+      },
+      {
+        "Constituency": "Ghanpur (Station) - 99",
+        "Winner": "KADIYAM SRIHARI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 101696,
+        "Runner Up": "INDIRA SINGAPURAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 93917
+      },
+      {
+        "Constituency": "Narayanpet - 73",
+        "Winner": "CHITTEM PARNIKA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 84708,
+        "Runner Up": "S.RAJENDER REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 76757
+      },
+      {
+        "Constituency": "Parkal - 104",
+        "Winner": "REVURI PRAKASH REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 72573,
+        "Runner Up": "CHALLA. DHARMA REDDY.",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 64632
+      },
+      {
+        "Constituency": "Patancheru - 40",
+        "Winner": "GUDEM MAHIPAL REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 105387,
+        "Runner Up": "KATA SRINIVAS GOUD",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 98296
+      },
+      {
+        "Constituency": "Shadnagar - 84",
+        "Winner": "K SHANKARAIAH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 77817,
+        "Runner Up": "ANJAIAH YELGANAMONI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 70689
+      }
+    ],
+    "runner_up_less_than_9000_more_than_8000": [
+      {
+        "Constituency": "Narsapur - 37",
+        "Winner": "VAKITI SUNITHA LAXMA REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 88410,
+        "Runner Up": "AAVULA RAJI REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 79555
+      },
+      {
+        "Constituency": "Sangareddy - 39",
+        "Winner": "CHINTA PRABHAKAR",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 83112,
+        "Runner Up": "T. JAYAPRAKASH REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 74895
+      }
+    ],
+    "runner_up_less_than_10000_more_than_9000": [],
+    "runner_up_less_than_20000_more_than_10000": [
+      {
+        "Constituency": "Husnabad - 32",
+        "Winner": "PONNAM PRABHAKAR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 100955,
+        "Runner Up": "SATISH KUMAR VODITELA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81611
+      },
+      {
+        "Constituency": "Huzurabad - 31",
+        "Winner": "KAUSHIK REDDY PADI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 80333,
+        "Runner Up": "EATALA RAJENDAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 63460
+      },
+      {
+        "Constituency": "Jadcherla - 75",
+        "Winner": "ANIRUDH REDDY JANAMPALLI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90865,
+        "Runner Up": "CHARLAKOLA LAXMA RREDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 75694
+      },
+      {
+        "Constituency": "Jagtial - 21",
+        "Winner": "Dr. Sanjay",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 70243,
+        "Runner Up": "Jeevan Reddy. T",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 54421
+      },
+      {
+        "Constituency": "Jangoan - 98",
+        "Winner": "PALLA RAJESHWAR REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 98975,
+        "Runner Up": "KOMMURI PRATAP REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 83192
+      },
+      {
+        "Constituency": "Jubilee Hills - 61",
+        "Winner": "MAGANTI GOPINATH",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 80549,
+        "Runner Up": "MOHAMMED AZHARUDDIN",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 64212
+      },
+      {
+        "Constituency": "Koratla - 20",
+        "Winner": "KALVAKUNTLA SANJAY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 72115,
+        "Runner Up": "ARVIND DHARMAPURI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 61810
+      },
+      {
+        "Constituency": "Mahbubnagar - 74",
+        "Winner": "Yennam Srinivas Reddy",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87227,
+        "Runner Up": "V. Srinivas Goud",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 68489
+      },
+      {
+        "Constituency": "Makthal - 77",
+        "Winner": "VAKITI SRIHARI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 74917,
+        "Runner Up": "CHITTEM RAM MOHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 57392
+      },
+      {
+        "Constituency": "Medak - 34",
+        "Winner": "MYNAMPALLY ROHITH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87126,
+        "Runner Up": "PADMA DEVENDER REDDY.M",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 76969
+      },
+      {
+        "Constituency": "Narsampet - 103",
+        "Winner": "DONTHI MADHAVA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 104185,
+        "Runner Up": "PEDDI SUDARSHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 85296
+      },
+      {
+        "Constituency": "Nizamabad (Urban) - 17",
+        "Winner": "DHANPAL SURYANARAYANA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 75240,
+        "Runner Up": "MOHAMMED ALI SHABBIR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 59853
+      },
+      {
+        "Constituency": "Sathupalle - 116",
+        "Winner": "MATTA RAGAMAYEE",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 111245,
+        "Runner Up": "SANDRA VENKATA VEERAIAH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 91805
+      },
+      {
+        "Constituency": "Secunderabad Cantt. - 71",
+        "Winner": "LASYA NANDITHA SAYANNA",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 59057,
+        "Runner Up": "SRIGANESH. N",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 41888
+      },
+      {
+        "Constituency": "Vemulawada - 28",
+        "Winner": "AADI SRINIVAS",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 71451,
+        "Runner Up": "CHALIMEDA LAKSHMI NARASIMHA RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 56870
+      },
+      {
+        "Constituency": "Vicarabad - 55",
+        "Winner": "GADDAM PRASAD KUMAR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 86885,
+        "Runner Up": "DR. ANAND METHUKU",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 73992
+      },
+      {
+        "Constituency": "Waradhanapet - 107",
+        "Winner": "K.R.NAGARAJ.K",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 106696,
+        "Runner Up": "AROORI RAMESH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 87238
+      },
+      {
+        "Constituency": "Warangal East - 106",
+        "Winner": "KONDA SUREKHA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 67757,
+        "Runner Up": "ERRABELLI PRADEEP KUMAR RAO",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 52105
+      },
+      {
+        "Constituency": "Warangal West - 105",
+        "Winner": "NAINI RAJENDER REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 72649,
+        "Runner Up": "DASYAM VINAY BHASKER",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 57318
+      },
+      {
+        "Constituency": "Zahirabad - 38",
+        "Winner": "KONINTY MANIK RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 97205,
+        "Runner Up": "A.CHANDRASEKHAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 84415
+      }
+    ],
+    "runner_up_less_than_30000_more_than_20000": [
+      {
+        "Constituency": "Amberpet  - 59",
+        "Winner": "KALERU VENKATESH",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 74416,
+        "Runner Up": "CHENABOYANNA KRISHNA YADAV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 49879
+      },
+      {
+        "Constituency": "Andole - 36",
+        "Winner": "C. DAMODAR RAJANARSIMHA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 114147,
+        "Runner Up": "CHANTI KRANTHI KIRAN",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 85954
+      },
+      {
+        "Constituency": "Armur - 11",
+        "Winner": "Paidi Rakesh Reddy",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 72658,
+        "Runner Up": "Prodduturi Vinay Kumar Reddy",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 42989
+      },
+      {
+        "Constituency": "Asifabad - 5",
+        "Winner": "KOVA LAXMI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 83036,
+        "Runner Up": "AJMERA SHYAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 60238
+      },
+      {
+        "Constituency": "Aswaraopeta - 118",
+        "Winner": "ADINARAYANA. JARE",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 74993,
+        "Runner Up": "MECHA NAGESWARA RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 46088
+      },
+      {
+        "Constituency": "Banswada - 14",
+        "Winner": "SRINIVAS REDDY PARIGE (POCHARAM)",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 76278,
+        "Runner Up": "EANUGU RAVINDER REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 52814
+      },
+      {
+        "Constituency": "Bhongir - 94",
+        "Winner": "KUMBAM ANIL KUMAR REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 102742,
+        "Runner Up": "PAILLA SHEKAR REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 76541
+      },
+      {
+        "Constituency": "Boath - 8",
+        "Winner": "ANIL JADHAV",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 76792,
+        "Runner Up": "SOYAM BAPURAO",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 53992
+      },
+      {
+        "Constituency": "Charminar - 66",
+        "Winner": "MIR ZULFEQAR ALI",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 49103,
+        "Runner Up": "MEGHA RANI AGARWAL",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 26250
+      },
+      {
+        "Constituency": "Dharmapuri - 22",
+        "Winner": "Adluri Laxman Kumar",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 91393,
+        "Runner Up": "Koppula Eshwar",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 69354
+      },
+      {
+        "Constituency": "Goshamahal - 65",
+        "Winner": "T. RAJA SINGH",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 80182,
+        "Runner Up": "NAND KISHORE VYAS",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 58725
+      },
+      {
+        "Constituency": "Khairatabad  - 60",
+        "Winner": "DANAM NAGENDER",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 67368,
+        "Runner Up": "P VIJAYA REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 45358
+      },
+      {
+        "Constituency": "Kollapur - 85",
+        "Winner": "JUPALLY KRISHNA RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 93609,
+        "Runner Up": "BEERAM HARSHAVARDHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63678
+      },
+      {
+        "Constituency": "Kothagudem - 117",
+        "Winner": "KUNAMNENI SAMBASIVA RAO",
+        "Winner Party": "Communist Party of India",
+        "Winner Votes": 80336,
+        "Runner Up": "JALAGAM VENKAT RAO",
+        "Runner Up Party": "All India Forward Bloc",
+        "Runner Up Votes": 53789
+      },
+      {
+        "Constituency": "Lal Bahadur Nagar - 49",
+        "Winner": "DEVIREDDY SUDHIR REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 111380,
+        "Runner Up": "SAMA RANGA REDDY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 89075
+      },
+      {
+        "Constituency": "Maheswaram - 50",
+        "Winner": "Patlolla Sabitha Indra Reddy",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 125578,
+        "Runner Up": "Andela Sriramulu Yadav",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 99391
+      },
+      {
+        "Constituency": "Malakpet - 58",
+        "Winner": "AHMED BIN ABDULLAH BALALA",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 55805,
+        "Runner Up": "SHAIK AKBAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 29699
+      },
+      {
+        "Constituency": "Mudhole - 10",
+        "Winner": "RAM RAO PAWAR",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 98252,
+        "Runner Up": "GADDIGARI VITTAL REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 74253
+      },
+      {
+        "Constituency": "Nizamabad (Rural) - 18",
+        "Winner": "BHOOPATHI REDDY REKULAPALLY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 78378,
+        "Runner Up": "GOVERDHAN BAJIREDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 56415
+      },
+      {
+        "Constituency": "Pargi - 54",
+        "Winner": "TAMMANNAGARI RAM MOHAN REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 98536,
+        "Runner Up": "K. MAHESH REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 74523
+      },
+      {
+        "Constituency": "Sircilla - 29",
+        "Winner": "KALVAKUNTLA TARAKA RAMA RAO (K.T.R)",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 89244,
+        "Runner Up": "K.K. MAHENDER REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 59557
+      },
+      {
+        "Constituency": "Wanaparthy - 78",
+        "Winner": "MEGHA REDDY TUDI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 107115,
+        "Runner Up": "SINGIREDDY NIRANJAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81795
+      },
+      {
+        "Constituency": "Yellareddy - 15",
+        "Winner": "MADAN MOHAN RAO. K",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 86989,
+        "Runner Up": "SURENDAR JAJALA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 62988
+      }
+    ],
+    "runner_up_less_than_40000_more_than_30000": [
+      {
+        "Constituency": "Alampur - 80",
+        "Winner": "VIJAYUDU",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 104060,
+        "Runner Up": "Dr. S.A.SAMPATH KUMAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 73487
+      },
+      {
+        "Constituency": "Bellampalli - 3",
+        "Winner": "GADDAM VINOD",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 82217,
+        "Runner Up": "DURGAM CHINNAIAH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 45339
+      },
+      {
+        "Constituency": "Chennur - 2",
+        "Winner": "Gaddam Vivekanand",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87541,
+        "Runner Up": "Balka Suman",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 50026
+      },
+      {
+        "Constituency": "Choppadandi - 27",
+        "Winner": "MEDIPALLY SATHYAM",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90395,
+        "Runner Up": "RAVI SHANKAR SUNKE",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 52956
+      },
+      {
+        "Constituency": "Devarakonda - 86",
+        "Winner": "BALU NAIK NENAVATH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 111344,
+        "Runner Up": "RAVINDRA KUMAR RAMAVATH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81323
+      },
+      {
+        "Constituency": "Ibrahimpatnam - 48",
+        "Winner": "MALREDDY RANGA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 126506,
+        "Runner Up": "MANCHIREDDY KISHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 89806
+      },
+      {
+        "Constituency": "Kodangal - 72",
+        "Winner": "ANUMULA REVANTH REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 107429,
+        "Runner Up": "PATNAM NARENDER REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 74897
+      },
+      {
+        "Constituency": "Madhira - 114",
+        "Winner": "BHATTI VIKRAMARKA MALLU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 108970,
+        "Runner Up": "KAMAL RAJU LINGALA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 73518
+      },
+      {
+        "Constituency": "Manakondur - 30",
+        "Winner": "DR. KAVVAMPALLY SATYANARAYANA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 96773,
+        "Runner Up": "ERUPULA BALAKISHAN RASAMAYI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 64408
+      },
+      {
+        "Constituency": "Manthani - 24",
+        "Winner": "Duddilla Sridhar Babu",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 103822,
+        "Runner Up": "Putta Madhukar",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 72442
+      },
+      {
+        "Constituency": "Medchal - 43",
+        "Winner": "CHAMAKURA MALLA REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 186017,
+        "Runner Up": "THOTAKURA VAJRESH YADAV (JANGAIAH YADAV)",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 152598
+      },
+      {
+        "Constituency": "Mulug - 109",
+        "Winner": "Danasari Anasuya Seethakka",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 102267,
+        "Runner Up": "Nagajyothi Bade",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 68567
+      },
+      {
+        "Constituency": "Musheerabad - 57",
+        "Winner": "MUTA GOPAL",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 75207,
+        "Runner Up": "ANJAN KUMAR YADAV MANDADI",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 37410
+      },
+      {
+        "Constituency": "Pinapaka - 110",
+        "Winner": "PAYAM VENKATESWARLU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90510,
+        "Runner Up": "KANTHA RAO REGA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 56004
+      },
+      {
+        "Constituency": "Rajendranagar - 51",
+        "Winner": "T. Prakash Goud",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 121734,
+        "Runner Up": "Thokala Srinivas Reddy",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 89638
+      },
+      {
+        "Constituency": "Wyra - 115",
+        "Winner": "RAMDAS MALOTH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 93913,
+        "Runner Up": "MADANLAL BANOTH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 60868
+      }
+    ],
+    ">40000": [
+      {
+        "Constituency": "Achampet - 82",
+        "Winner": "CHIKKUDU VAMSHI KRISHNA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 115337,
+        "Runner Up": "GUVVALA BALARAJU",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 66011
+      },
+      {
+        "Constituency": "Alair - 97",
+        "Winner": "ILAIAH BEERLA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 122140,
+        "Runner Up": "GONGIDI SUNITHA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 72504
+      },
+      {
+        "Constituency": "Bahadurpura - 69",
+        "Winner": "MOHAMMED MUBEEN",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 89451,
+        "Runner Up": "MIR INAYATH ALI BAQRI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 22426
+      },
+      {
+        "Constituency": "Bhupalpalle - 108",
+        "Winner": "GANDRA SATYANARAYANA RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 123116,
+        "Runner Up": "GANDRA VENKATA RAMANA REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 70417
+      },
+      {
+        "Constituency": "Chandrayangutta - 67",
+        "Winner": "Akbar Uddin Owaisi",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 99776,
+        "Runner Up": "MUPPI SEETHARAM REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 18116
+      },
+      {
+        "Constituency": "Dornakal - 101",
+        "Winner": "JATOTH RAM CHANDER NAIK",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 115587,
+        "Runner Up": "DHARAMSOTH REDYA NAIK",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 62456
+      },
+      {
+        "Constituency": "Dubbak - 41",
+        "Winner": "Kotta Prabhakar Reddy",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 97879,
+        "Runner Up": "M RAGHUNANDAN RAO",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 44366
+      },
+      {
+        "Constituency": "Gajwel - 42",
+        "Winner": "KALVAKUNTLA CHANDRASHEKAR RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 111684,
+        "Runner Up": "EATALA RAJENDER",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 66653
+      },
+      {
+        "Constituency": "Huzurnagar - 89",
+        "Winner": "UTTAM KUMAR REDDY NALAMADA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 116707,
+        "Runner Up": "SAIDI REDDY SHANAMPUDI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 71819
+      },
+      {
+        "Constituency": "Karwan - 64",
+        "Winner": "KAUSAR MOHIUDDIN",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 83388,
+        "Runner Up": "AMAR SINGH",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 41402
+      },
+      {
+        "Constituency": "Khammam - 112",
+        "Winner": "TUMMALA NAGESWARA RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 136016,
+        "Runner Up": "AJAY KUMAR PUVVADA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 86635
+      },
+      {
+        "Constituency": "Kodad - 90",
+        "Winner": "NALAMADA PADMAVATHI REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 125783,
+        "Runner Up": "BOLLAM. MALLAIAH YADAV",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 67611
+      },
+      {
+        "Constituency": "Kukatpalle - 46",
+        "Winner": "MADHAVARAM KRISHNA RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 135635,
+        "Runner Up": "BANDI RAMESH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 65248
+      },
+      {
+        "Constituency": "Mahabubabad - 102",
+        "Winner": "Dr. MURALI NAIK BHUKYA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 116644,
+        "Runner Up": "BANOTH SHANKAR NAIK",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 66473
+      },
+      {
+        "Constituency": "Malkajgiri - 44",
+        "Winner": "MARRI RAJASHEKAR REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 125049,
+        "Runner Up": "MYNAMPALLY HANUMANTH RAO",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 75519
+      },
+      {
+        "Constituency": "Mancherial - 4",
+        "Winner": "KOKKIRALA PREMSAGAR RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 105945,
+        "Runner Up": "RAGHUNATH VERABELLI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 39829
+      },
+      {
+        "Constituency": "Miryalaguda - 88",
+        "Winner": "BATHULA LAXMA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 114462,
+        "Runner Up": "NALLAMOTHU BHASKAR RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 65680
+      },
+      {
+        "Constituency": "Munugode - 93",
+        "Winner": "KOMATIREDDY RAJ GOPAL REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 119624,
+        "Runner Up": "KOOSUKUNTLA PRABHAKAR REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 79034
+      },
+      {
+        "Constituency": "Nagarjuna Sagar - 87",
+        "Winner": "KUNDURU JAYAVEER",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 119831,
+        "Runner Up": "NOMULA BHAGATH KUMAR",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63982
+      },
+      {
+        "Constituency": "Nakrekal - 95",
+        "Winner": "VEMULA VEERESHAM",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 133540,
+        "Runner Up": "CHIRUMARTHY LINGAIAH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 64701
+      },
+      {
+        "Constituency": "Nalgonda - 92",
+        "Winner": "KOMATI REDDY VENKAT REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 107405,
+        "Runner Up": "KANCHARLA. BHUPAL REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 53073
+      },
+      {
+        "Constituency": "Nirmal - 9",
+        "Winner": "ALLETI MAHESHWAR REDDY",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 106400,
+        "Runner Up": "ALLOLA INDRAKARAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 55697
+      },
+      {
+        "Constituency": "Palair - 113",
+        "Winner": "PONGULETI SRINIVASA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 127820,
+        "Runner Up": "KANDALA UPENDER REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 71170
+      },
+      {
+        "Constituency": "Palakurthi - 100",
+        "Winner": "YASHASWINI MAMIDALA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 126848,
+        "Runner Up": "DAYAKAR RAO ERRABELLI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 79214
+      },
+      {
+        "Constituency": "Peddapalle - 25",
+        "Winner": "Chinthakunta Vijaya Ramana Rao",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 118888,
+        "Runner Up": "Dasari Manohar Reddy",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63780
+      },
+      {
+        "Constituency": "Quthbullapur - 45",
+        "Winner": "K.P. VIVEKANAND",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 187999,
+        "Runner Up": "KUNA SRISAILAM GOUD",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 102423
+      },
+      {
+        "Constituency": "Ramagundam - 23",
+        "Winner": "MAKKAN SINGH RAJ THAKUR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 92227,
+        "Runner Up": "KORUKANTI CHANDER PATEL",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 35433
+      },
+      {
+        "Constituency": "Sanathnagar - 62",
+        "Winner": "TALASANI SRINIVAS YADAV",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 72557,
+        "Runner Up": "MARRI SHASHIDHAR REDDY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 30730
+      },
+      {
+        "Constituency": "Secunderabad - 70",
+        "Winner": "PADMA RAO. T",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 78223,
+        "Runner Up": "ADAM SANTHOSH KUMAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 32983
+      },
+      {
+        "Constituency": "Serilingampally - 52",
+        "Winner": "AREKAPUDI GANDHI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 157332,
+        "Runner Up": "JAGADEESWAR GOUD",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 110780
+      },
+      {
+        "Constituency": "Siddipet - 33",
+        "Winner": "THANNEERU HARISH RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 105514,
+        "Runner Up": "PUJALA HARI KRISHNA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 23206
+      },
+      {
+        "Constituency": "Thungathurthi - 96",
+        "Winner": "MANDULA SAMEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 129535,
+        "Runner Up": "GADARI KISHORE KUMAR",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 78441
+      },
+      {
+        "Constituency": "Uppal - 47",
+        "Winner": "BANDARI LAKSHMA REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 132927,
+        "Runner Up": "PARAMESHWAR REDDY MANDUMULA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 83897
+      },
+      {
+        "Constituency": "Yellandu - 111",
+        "Winner": "KORAM KANAKAIAH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 109171,
+        "Runner Up": "BANOTH HARI PRIYA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 51862
+      }
+    ],
+    ">10000": [
+      {
+        "Constituency": "Achampet - 82",
+        "Winner": "CHIKKUDU VAMSHI KRISHNA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 115337,
+        "Runner Up": "GUVVALA BALARAJU",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 66011
+      },
+      {
+        "Constituency": "Alair - 97",
+        "Winner": "ILAIAH BEERLA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 122140,
+        "Runner Up": "GONGIDI SUNITHA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 72504
+      },
+      {
+        "Constituency": "Alampur - 80",
+        "Winner": "VIJAYUDU",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 104060,
+        "Runner Up": "Dr. S.A.SAMPATH KUMAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 73487
+      },
+      {
+        "Constituency": "Amberpet  - 59",
+        "Winner": "KALERU VENKATESH",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 74416,
+        "Runner Up": "CHENABOYANNA KRISHNA YADAV",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 49879
+      },
+      {
+        "Constituency": "Andole - 36",
+        "Winner": "C. DAMODAR RAJANARSIMHA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 114147,
+        "Runner Up": "CHANTI KRANTHI KIRAN",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 85954
+      },
+      {
+        "Constituency": "Armur - 11",
+        "Winner": "Paidi Rakesh Reddy",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 72658,
+        "Runner Up": "Prodduturi Vinay Kumar Reddy",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 42989
+      },
+      {
+        "Constituency": "Asifabad - 5",
+        "Winner": "KOVA LAXMI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 83036,
+        "Runner Up": "AJMERA SHYAM",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 60238
+      },
+      {
+        "Constituency": "Aswaraopeta - 118",
+        "Winner": "ADINARAYANA. JARE",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 74993,
+        "Runner Up": "MECHA NAGESWARA RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 46088
+      },
+      {
+        "Constituency": "Bahadurpura - 69",
+        "Winner": "MOHAMMED MUBEEN",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 89451,
+        "Runner Up": "MIR INAYATH ALI BAQRI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 22426
+      },
+      {
+        "Constituency": "Banswada - 14",
+        "Winner": "SRINIVAS REDDY PARIGE (POCHARAM)",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 76278,
+        "Runner Up": "EANUGU RAVINDER REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 52814
+      },
+      {
+        "Constituency": "Bellampalli - 3",
+        "Winner": "GADDAM VINOD",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 82217,
+        "Runner Up": "DURGAM CHINNAIAH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 45339
+      },
+      {
+        "Constituency": "Bhongir - 94",
+        "Winner": "KUMBAM ANIL KUMAR REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 102742,
+        "Runner Up": "PAILLA SHEKAR REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 76541
+      },
+      {
+        "Constituency": "Bhupalpalle - 108",
+        "Winner": "GANDRA SATYANARAYANA RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 123116,
+        "Runner Up": "GANDRA VENKATA RAMANA REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 70417
+      },
+      {
+        "Constituency": "Boath - 8",
+        "Winner": "ANIL JADHAV",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 76792,
+        "Runner Up": "SOYAM BAPURAO",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 53992
+      },
+      {
+        "Constituency": "Chandrayangutta - 67",
+        "Winner": "Akbar Uddin Owaisi",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 99776,
+        "Runner Up": "MUPPI SEETHARAM REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 18116
+      },
+      {
+        "Constituency": "Charminar - 66",
+        "Winner": "MIR ZULFEQAR ALI",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 49103,
+        "Runner Up": "MEGHA RANI AGARWAL",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 26250
+      },
+      {
+        "Constituency": "Chennur - 2",
+        "Winner": "Gaddam Vivekanand",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87541,
+        "Runner Up": "Balka Suman",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 50026
+      },
+      {
+        "Constituency": "Choppadandi - 27",
+        "Winner": "MEDIPALLY SATHYAM",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90395,
+        "Runner Up": "RAVI SHANKAR SUNKE",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 52956
+      },
+      {
+        "Constituency": "Devarakonda - 86",
+        "Winner": "BALU NAIK NENAVATH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 111344,
+        "Runner Up": "RAVINDRA KUMAR RAMAVATH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81323
+      },
+      {
+        "Constituency": "Dharmapuri - 22",
+        "Winner": "Adluri Laxman Kumar",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 91393,
+        "Runner Up": "Koppula Eshwar",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 69354
+      },
+      {
+        "Constituency": "Dornakal - 101",
+        "Winner": "JATOTH RAM CHANDER NAIK",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 115587,
+        "Runner Up": "DHARAMSOTH REDYA NAIK",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 62456
+      },
+      {
+        "Constituency": "Dubbak - 41",
+        "Winner": "Kotta Prabhakar Reddy",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 97879,
+        "Runner Up": "M RAGHUNANDAN RAO",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 44366
+      },
+      {
+        "Constituency": "Gajwel - 42",
+        "Winner": "KALVAKUNTLA CHANDRASHEKAR RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 111684,
+        "Runner Up": "EATALA RAJENDER",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 66653
+      },
+      {
+        "Constituency": "Goshamahal - 65",
+        "Winner": "T. RAJA SINGH",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 80182,
+        "Runner Up": "NAND KISHORE VYAS",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 58725
+      },
+      {
+        "Constituency": "Husnabad - 32",
+        "Winner": "PONNAM PRABHAKAR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 100955,
+        "Runner Up": "SATISH KUMAR VODITELA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81611
+      },
+      {
+        "Constituency": "Huzurabad - 31",
+        "Winner": "KAUSHIK REDDY PADI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 80333,
+        "Runner Up": "EATALA RAJENDAR",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 63460
+      },
+      {
+        "Constituency": "Huzurnagar - 89",
+        "Winner": "UTTAM KUMAR REDDY NALAMADA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 116707,
+        "Runner Up": "SAIDI REDDY SHANAMPUDI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 71819
+      },
+      {
+        "Constituency": "Ibrahimpatnam - 48",
+        "Winner": "MALREDDY RANGA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 126506,
+        "Runner Up": "MANCHIREDDY KISHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 89806
+      },
+      {
+        "Constituency": "Jadcherla - 75",
+        "Winner": "ANIRUDH REDDY JANAMPALLI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90865,
+        "Runner Up": "CHARLAKOLA LAXMA RREDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 75694
+      },
+      {
+        "Constituency": "Jagtial - 21",
+        "Winner": "Dr. Sanjay",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 70243,
+        "Runner Up": "Jeevan Reddy. T",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 54421
+      },
+      {
+        "Constituency": "Jangoan - 98",
+        "Winner": "PALLA RAJESHWAR REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 98975,
+        "Runner Up": "KOMMURI PRATAP REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 83192
+      },
+      {
+        "Constituency": "Jubilee Hills - 61",
+        "Winner": "MAGANTI GOPINATH",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 80549,
+        "Runner Up": "MOHAMMED AZHARUDDIN",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 64212
+      },
+      {
+        "Constituency": "Karwan - 64",
+        "Winner": "KAUSAR MOHIUDDIN",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 83388,
+        "Runner Up": "AMAR SINGH",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 41402
+      },
+      {
+        "Constituency": "Khairatabad  - 60",
+        "Winner": "DANAM NAGENDER",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 67368,
+        "Runner Up": "P VIJAYA REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 45358
+      },
+      {
+        "Constituency": "Khammam - 112",
+        "Winner": "TUMMALA NAGESWARA RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 136016,
+        "Runner Up": "AJAY KUMAR PUVVADA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 86635
+      },
+      {
+        "Constituency": "Kodad - 90",
+        "Winner": "NALAMADA PADMAVATHI REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 125783,
+        "Runner Up": "BOLLAM. MALLAIAH YADAV",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 67611
+      },
+      {
+        "Constituency": "Kodangal - 72",
+        "Winner": "ANUMULA REVANTH REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 107429,
+        "Runner Up": "PATNAM NARENDER REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 74897
+      },
+      {
+        "Constituency": "Kollapur - 85",
+        "Winner": "JUPALLY KRISHNA RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 93609,
+        "Runner Up": "BEERAM HARSHAVARDHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63678
+      },
+      {
+        "Constituency": "Koratla - 20",
+        "Winner": "KALVAKUNTLA SANJAY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 72115,
+        "Runner Up": "ARVIND DHARMAPURI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 61810
+      },
+      {
+        "Constituency": "Kothagudem - 117",
+        "Winner": "KUNAMNENI SAMBASIVA RAO",
+        "Winner Party": "Communist Party of India",
+        "Winner Votes": 80336,
+        "Runner Up": "JALAGAM VENKAT RAO",
+        "Runner Up Party": "All India Forward Bloc",
+        "Runner Up Votes": 53789
+      },
+      {
+        "Constituency": "Kukatpalle - 46",
+        "Winner": "MADHAVARAM KRISHNA RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 135635,
+        "Runner Up": "BANDI RAMESH",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 65248
+      },
+      {
+        "Constituency": "Lal Bahadur Nagar - 49",
+        "Winner": "DEVIREDDY SUDHIR REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 111380,
+        "Runner Up": "SAMA RANGA REDDY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 89075
+      },
+      {
+        "Constituency": "Madhira - 114",
+        "Winner": "BHATTI VIKRAMARKA MALLU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 108970,
+        "Runner Up": "KAMAL RAJU LINGALA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 73518
+      },
+      {
+        "Constituency": "Mahabubabad - 102",
+        "Winner": "Dr. MURALI NAIK BHUKYA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 116644,
+        "Runner Up": "BANOTH SHANKAR NAIK",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 66473
+      },
+      {
+        "Constituency": "Mahbubnagar - 74",
+        "Winner": "Yennam Srinivas Reddy",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87227,
+        "Runner Up": "V. Srinivas Goud",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 68489
+      },
+      {
+        "Constituency": "Maheswaram - 50",
+        "Winner": "Patlolla Sabitha Indra Reddy",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 125578,
+        "Runner Up": "Andela Sriramulu Yadav",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 99391
+      },
+      {
+        "Constituency": "Makthal - 77",
+        "Winner": "VAKITI SRIHARI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 74917,
+        "Runner Up": "CHITTEM RAM MOHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 57392
+      },
+      {
+        "Constituency": "Malakpet - 58",
+        "Winner": "AHMED BIN ABDULLAH BALALA",
+        "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+        "Winner Votes": 55805,
+        "Runner Up": "SHAIK AKBAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 29699
+      },
+      {
+        "Constituency": "Malkajgiri - 44",
+        "Winner": "MARRI RAJASHEKAR REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 125049,
+        "Runner Up": "MYNAMPALLY HANUMANTH RAO",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 75519
+      },
+      {
+        "Constituency": "Manakondur - 30",
+        "Winner": "DR. KAVVAMPALLY SATYANARAYANA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 96773,
+        "Runner Up": "ERUPULA BALAKISHAN RASAMAYI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 64408
+      },
+      {
+        "Constituency": "Mancherial - 4",
+        "Winner": "KOKKIRALA PREMSAGAR RAO",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 105945,
+        "Runner Up": "RAGHUNATH VERABELLI",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 39829
+      },
+      {
+        "Constituency": "Manthani - 24",
+        "Winner": "Duddilla Sridhar Babu",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 103822,
+        "Runner Up": "Putta Madhukar",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 72442
+      },
+      {
+        "Constituency": "Medak - 34",
+        "Winner": "MYNAMPALLY ROHITH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 87126,
+        "Runner Up": "PADMA DEVENDER REDDY.M",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 76969
+      },
+      {
+        "Constituency": "Medchal - 43",
+        "Winner": "CHAMAKURA MALLA REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 186017,
+        "Runner Up": "THOTAKURA VAJRESH YADAV (JANGAIAH YADAV)",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 152598
+      },
+      {
+        "Constituency": "Miryalaguda - 88",
+        "Winner": "BATHULA LAXMA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 114462,
+        "Runner Up": "NALLAMOTHU BHASKAR RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 65680
+      },
+      {
+        "Constituency": "Mudhole - 10",
+        "Winner": "RAM RAO PAWAR",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 98252,
+        "Runner Up": "GADDIGARI VITTAL REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 74253
+      },
+      {
+        "Constituency": "Mulug - 109",
+        "Winner": "Danasari Anasuya Seethakka",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 102267,
+        "Runner Up": "Nagajyothi Bade",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 68567
+      },
+      {
+        "Constituency": "Munugode - 93",
+        "Winner": "KOMATIREDDY RAJ GOPAL REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 119624,
+        "Runner Up": "KOOSUKUNTLA PRABHAKAR REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 79034
+      },
+      {
+        "Constituency": "Musheerabad - 57",
+        "Winner": "MUTA GOPAL",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 75207,
+        "Runner Up": "ANJAN KUMAR YADAV MANDADI",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 37410
+      },
+      {
+        "Constituency": "Nagarjuna Sagar - 87",
+        "Winner": "KUNDURU JAYAVEER",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 119831,
+        "Runner Up": "NOMULA BHAGATH KUMAR",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63982
+      },
+      {
+        "Constituency": "Nakrekal - 95",
+        "Winner": "VEMULA VEERESHAM",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 133540,
+        "Runner Up": "CHIRUMARTHY LINGAIAH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 64701
+      },
+      {
+        "Constituency": "Nalgonda - 92",
+        "Winner": "KOMATI REDDY VENKAT REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 107405,
+        "Runner Up": "KANCHARLA. BHUPAL REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 53073
+      },
+      {
+        "Constituency": "Narsampet - 103",
+        "Winner": "DONTHI MADHAVA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 104185,
+        "Runner Up": "PEDDI SUDARSHAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 85296
+      },
+      {
+        "Constituency": "Nirmal - 9",
+        "Winner": "ALLETI MAHESHWAR REDDY",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 106400,
+        "Runner Up": "ALLOLA INDRAKARAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 55697
+      },
+      {
+        "Constituency": "Nizamabad (Rural) - 18",
+        "Winner": "BHOOPATHI REDDY REKULAPALLY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 78378,
+        "Runner Up": "GOVERDHAN BAJIREDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 56415
+      },
+      {
+        "Constituency": "Nizamabad (Urban) - 17",
+        "Winner": "DHANPAL SURYANARAYANA",
+        "Winner Party": "Bharatiya Janata Party",
+        "Winner Votes": 75240,
+        "Runner Up": "MOHAMMED ALI SHABBIR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 59853
+      },
+      {
+        "Constituency": "Palair - 113",
+        "Winner": "PONGULETI SRINIVASA REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 127820,
+        "Runner Up": "KANDALA UPENDER REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 71170
+      },
+      {
+        "Constituency": "Palakurthi - 100",
+        "Winner": "YASHASWINI MAMIDALA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 126848,
+        "Runner Up": "DAYAKAR RAO ERRABELLI",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 79214
+      },
+      {
+        "Constituency": "Pargi - 54",
+        "Winner": "TAMMANNAGARI RAM MOHAN REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 98536,
+        "Runner Up": "K. MAHESH REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 74523
+      },
+      {
+        "Constituency": "Peddapalle - 25",
+        "Winner": "Chinthakunta Vijaya Ramana Rao",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 118888,
+        "Runner Up": "Dasari Manohar Reddy",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 63780
+      },
+      {
+        "Constituency": "Pinapaka - 110",
+        "Winner": "PAYAM VENKATESWARLU",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 90510,
+        "Runner Up": "KANTHA RAO REGA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 56004
+      },
+      {
+        "Constituency": "Quthbullapur - 45",
+        "Winner": "K.P. VIVEKANAND",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 187999,
+        "Runner Up": "KUNA SRISAILAM GOUD",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 102423
+      },
+      {
+        "Constituency": "Rajendranagar - 51",
+        "Winner": "T. Prakash Goud",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 121734,
+        "Runner Up": "Thokala Srinivas Reddy",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 89638
+      },
+      {
+        "Constituency": "Ramagundam - 23",
+        "Winner": "MAKKAN SINGH RAJ THAKUR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 92227,
+        "Runner Up": "KORUKANTI CHANDER PATEL",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 35433
+      },
+      {
+        "Constituency": "Sanathnagar - 62",
+        "Winner": "TALASANI SRINIVAS YADAV",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 72557,
+        "Runner Up": "MARRI SHASHIDHAR REDDY",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 30730
+      },
+      {
+        "Constituency": "Sathupalle - 116",
+        "Winner": "MATTA RAGAMAYEE",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 111245,
+        "Runner Up": "SANDRA VENKATA VEERAIAH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 91805
+      },
+      {
+        "Constituency": "Secunderabad - 70",
+        "Winner": "PADMA RAO. T",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 78223,
+        "Runner Up": "ADAM SANTHOSH KUMAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 32983
+      },
+      {
+        "Constituency": "Secunderabad Cantt. - 71",
+        "Winner": "LASYA NANDITHA SAYANNA",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 59057,
+        "Runner Up": "SRIGANESH. N",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 41888
+      },
+      {
+        "Constituency": "Serilingampally - 52",
+        "Winner": "AREKAPUDI GANDHI",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 157332,
+        "Runner Up": "JAGADEESWAR GOUD",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 110780
+      },
+      {
+        "Constituency": "Siddipet - 33",
+        "Winner": "THANNEERU HARISH RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 105514,
+        "Runner Up": "PUJALA HARI KRISHNA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 23206
+      },
+      {
+        "Constituency": "Sircilla - 29",
+        "Winner": "KALVAKUNTLA TARAKA RAMA RAO (K.T.R)",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 89244,
+        "Runner Up": "K.K. MAHENDER REDDY",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 59557
+      },
+      {
+        "Constituency": "Thungathurthi - 96",
+        "Winner": "MANDULA SAMEL",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 129535,
+        "Runner Up": "GADARI KISHORE KUMAR",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 78441
+      },
+      {
+        "Constituency": "Uppal - 47",
+        "Winner": "BANDARI LAKSHMA REDDY",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 132927,
+        "Runner Up": "PARAMESHWAR REDDY MANDUMULA",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 83897
+      },
+      {
+        "Constituency": "Vemulawada - 28",
+        "Winner": "AADI SRINIVAS",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 71451,
+        "Runner Up": "CHALIMEDA LAKSHMI NARASIMHA RAO",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 56870
+      },
+      {
+        "Constituency": "Vicarabad - 55",
+        "Winner": "GADDAM PRASAD KUMAR",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 86885,
+        "Runner Up": "DR. ANAND METHUKU",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 73992
+      },
+      {
+        "Constituency": "Wanaparthy - 78",
+        "Winner": "MEGHA REDDY TUDI",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 107115,
+        "Runner Up": "SINGIREDDY NIRANJAN REDDY",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 81795
+      },
+      {
+        "Constituency": "Waradhanapet - 107",
+        "Winner": "K.R.NAGARAJ.K",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 106696,
+        "Runner Up": "AROORI RAMESH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 87238
+      },
+      {
+        "Constituency": "Warangal East - 106",
+        "Winner": "KONDA SUREKHA",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 67757,
+        "Runner Up": "ERRABELLI PRADEEP KUMAR RAO",
+        "Runner Up Party": "Bharatiya Janata Party",
+        "Runner Up Votes": 52105
+      },
+      {
+        "Constituency": "Warangal West - 105",
+        "Winner": "NAINI RAJENDER REDDY",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 72649,
+        "Runner Up": "DASYAM VINAY BHASKER",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 57318
+      },
+      {
+        "Constituency": "Wyra - 115",
+        "Winner": "RAMDAS MALOTH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 93913,
+        "Runner Up": "MADANLAL BANOTH",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 60868
+      },
+      {
+        "Constituency": "Yellandu - 111",
+        "Winner": "KORAM KANAKAIAH",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 109171,
+        "Runner Up": "BANOTH HARI PRIYA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 51862
+      },
+      {
+        "Constituency": "Yellareddy - 15",
+        "Winner": "MADAN MOHAN RAO. K",
+        "Winner Party": "Indian National Congress",
+        "Winner Votes": 86989,
+        "Runner Up": "SURENDAR JAJALA",
+        "Runner Up Party": "Bharat Rashtra Samithi",
+        "Runner Up Votes": 62988
+      },
+      {
+        "Constituency": "Zahirabad - 38",
+        "Winner": "KONINTY MANIK RAO",
+        "Winner Party": "Bharat Rashtra Samithi",
+        "Winner Votes": 97205,
+        "Runner Up": "A.CHANDRASEKHAR",
+        "Runner Up Party": "Indian National Congress",
+        "Runner Up Votes": 84415
+      }
+    ]
+  }
+}
