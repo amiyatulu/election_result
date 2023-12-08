@@ -1,0 +1,258 @@
+{
+  "No of constituency where vote wastage won": 36,
+  "No of constituency": 40,
+  "Constituency data where vote wastage won": [
+    {
+      "Constituency": "Aizawl East-I - 13",
+      "Winner": "LALTHANSANGA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 10727,
+      "Vote Wastage": 11677
+    },
+    {
+      "Constituency": "Aizawl East-II - 14",
+      "Winner": "B. LALCHHANZOVA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 7289,
+      "Vote Wastage": 7768
+    },
+    {
+      "Constituency": "Aizawl North-III - 12",
+      "Winner": "K. SAPDANGA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6783,
+      "Vote Wastage": 9327
+    },
+    {
+      "Constituency": "Aizawl South-II - 19",
+      "Winner": "Lalchhuanthanga",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 9117,
+      "Vote Wastage": 13012
+    },
+    {
+      "Constituency": "Aizawl South-III - 20",
+      "Winner": "Baryl Vanneihsangi",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 9370,
+      "Vote Wastage": 10286
+    },
+    {
+      "Constituency": "Aizawl West-I - 15",
+      "Winner": "TBC Lalvenchhunga",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 11872,
+      "Vote Wastage": 12026
+    },
+    {
+      "Constituency": "Aizawl West-III - 17",
+      "Winner": "V. L. ZAITHANZAMA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 9202,
+      "Vote Wastage": 9403
+    },
+    {
+      "Constituency": "Chalfilh - 8",
+      "Winner": "LALBIAKZAMA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6637,
+      "Vote Wastage": 8704
+    },
+    {
+      "Constituency": "Champhai North  - 23",
+      "Winner": "H. GINZALALA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 7134,
+      "Vote Wastage": 9219
+    },
+    {
+      "Constituency": "Champhai South - 24",
+      "Winner": "Lt Col. CLEMENT LALHMINGTHANGA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 7323,
+      "Vote Wastage": 10046
+    },
+    {
+      "Constituency": "Dampa - 2",
+      "Winner": "LALRINTLUANGA SAILO",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 6218,
+      "Vote Wastage": 11225
+    },
+    {
+      "Constituency": "East Tuipui - 25",
+      "Winner": "Ramthanmawia",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 6075,
+      "Vote Wastage": 6820
+    },
+    {
+      "Constituency": "Hachhek - 1",
+      "Winner": "ROBERT ROMAWIA ROYTE",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 5705,
+      "Vote Wastage": 11893
+    },
+    {
+      "Constituency": "Hrangturzo - 28",
+      "Winner": "LALMUANPUIA PUNTE",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6280,
+      "Vote Wastage": 7701
+    },
+    {
+      "Constituency": "Kolasib - 5",
+      "Winner": "LALFAMKIMA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 8657,
+      "Vote Wastage": 11036
+    },
+    {
+      "Constituency": "Lawngtlai East - 38",
+      "Winner": "Dr. Lorrain Lalpekliana Chinzah",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 10072,
+      "Vote Wastage": 10208
+    },
+    {
+      "Constituency": "Lawngtlai West - 37",
+      "Winner": "C. Ngunlianchunga",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 11296,
+      "Vote Wastage": 13641
+    },
+    {
+      "Constituency": "Lengteng - 21",
+      "Winner": "F.RODINGLIANA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6171,
+      "Vote Wastage": 8706
+    },
+    {
+      "Constituency": "Lunglei East - 31",
+      "Winner": "LALRINPUII",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 5641,
+      "Vote Wastage": 7943
+    },
+    {
+      "Constituency": "Lunglei North - 30",
+      "Winner": "V. MALSAWMTLUANGA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 7369,
+      "Vote Wastage": 7976
+    },
+    {
+      "Constituency": "Lunglei South - 33",
+      "Winner": "LALRAMLIANA PAPUIA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6531,
+      "Vote Wastage": 9474
+    },
+    {
+      "Constituency": "Lunglei West - 32",
+      "Winner": "T. LALHLIMPUIA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 5029,
+      "Vote Wastage": 8001
+    },
+    {
+      "Constituency": "Mamit - 3",
+      "Winner": "H. LALZIRLIANA",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 7167,
+      "Vote Wastage": 13370
+    },
+    {
+      "Constituency": "Palak - 40",
+      "Winner": "K. HRAHMO",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 6064,
+      "Vote Wastage": 9980
+    },
+    {
+      "Constituency": "Saiha - 39",
+      "Winner": "Dr. K. Beichhua",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 6740,
+      "Vote Wastage": 12070
+    },
+    {
+      "Constituency": "Serchhip - 26",
+      "Winner": "LALDUHOMA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 8314,
+      "Vote Wastage": 9814
+    },
+    {
+      "Constituency": "Serlui - 6",
+      "Winner": "LALRINSANGA RALTE",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 7242,
+      "Vote Wastage": 10982
+    },
+    {
+      "Constituency": "South Tuipui - 29",
+      "Winner": "Jeje Lalpekhlua",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 5468,
+      "Vote Wastage": 8350
+    },
+    {
+      "Constituency": "Tawi - 9",
+      "Winner": "Prof. Lalnilawma",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6991,
+      "Vote Wastage": 7743
+    },
+    {
+      "Constituency": "Thorang - 34",
+      "Winner": "R. Rohmingliana",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 4141,
+      "Vote Wastage": 9116
+    },
+    {
+      "Constituency": "Tuichang - 22",
+      "Winner": "W CHHUANAWMA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 6988,
+      "Vote Wastage": 7870
+    },
+    {
+      "Constituency": "Tuichawng - 36",
+      "Winner": "Rasik Mohan Chakma",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 13346,
+      "Vote Wastage": 16610
+    },
+    {
+      "Constituency": "Tuikum - 27",
+      "Winner": "P.C. VANLALRUATA",
+      "Winner Party": "Zoram People\u2019s Movement",
+      "Winner Votes": 7136,
+      "Vote Wastage": 7861
+    },
+    {
+      "Constituency": "Tuirial - 4",
+      "Winner": "K. LALDAWNGLIANA",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 6610,
+      "Vote Wastage": 9245
+    },
+    {
+      "Constituency": "Tuivawl - 7",
+      "Winner": "Lalchhandama Ralte",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 6501,
+      "Vote Wastage": 8215
+    },
+    {
+      "Constituency": "West Tuipui - 35",
+      "Winner": "PROVA CHAKMA",
+      "Winner Party": "Mizo National Front",
+      "Winner Votes": 7167,
+      "Vote Wastage": 7573
+    }
+  ]
+}

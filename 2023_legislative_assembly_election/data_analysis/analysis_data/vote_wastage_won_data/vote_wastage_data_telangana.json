@@ -1,0 +1,482 @@
+{
+  "No of constituency where vote wastage won": 68,
+  "No of constituency": 119,
+  "Constituency data where vote wastage won": [
+    {
+      "Constituency": "Adilabad - 7",
+      "Winner": "PAYAL SHANKER",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 67608,
+      "Vote Wastage": 121044
+    },
+    {
+      "Constituency": "Armur - 11",
+      "Winner": "Paidi Rakesh Reddy",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 72658,
+      "Vote Wastage": 89168
+    },
+    {
+      "Constituency": "Asifabad - 5",
+      "Winner": "KOVA LAXMI",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 83036,
+      "Vote Wastage": 101605
+    },
+    {
+      "Constituency": "Balkonda - 19",
+      "Winner": "PRASHANTH REDDY VEMULA",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 70417,
+      "Vote Wastage": 104422
+    },
+    {
+      "Constituency": "Banswada - 14",
+      "Winner": "SRINIVAS REDDY PARIGE (POCHARAM)",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 76278,
+      "Vote Wastage": 83801
+    },
+    {
+      "Constituency": "Bhadrachalam - 119",
+      "Winner": "Dr. Tellam Venkata Rao",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 53252,
+      "Vote Wastage": 64877
+    },
+    {
+      "Constituency": "Boath - 8",
+      "Winner": "ANIL JADHAV",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 76792,
+      "Vote Wastage": 97226
+    },
+    {
+      "Constituency": "Bodhan - 12",
+      "Winner": "P. SUDARSHAN REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 66963,
+      "Vote Wastage": 104966
+    },
+    {
+      "Constituency": "Chevella - 53",
+      "Winner": "KALE YADAIAH",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 76218,
+      "Vote Wastage": 120584
+    },
+    {
+      "Constituency": "Choppadandi - 27",
+      "Winner": "MEDIPALLY SATHYAM",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 90395,
+      "Vote Wastage": 91793
+    },
+    {
+      "Constituency": "Devarkadra - 76",
+      "Winner": "GAVINOLLA MADHUSUDAN REDDY (GMR)",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 88551,
+      "Vote Wastage": 106872
+    },
+    {
+      "Constituency": "Gadwal - 79",
+      "Winner": "BANDLA KRISHNA MOHAN REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 94097,
+      "Vote Wastage": 120775
+    },
+    {
+      "Constituency": "Gajwel - 42",
+      "Winner": "KALVAKUNTLA CHANDRASHEKAR RAO",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 111684,
+      "Vote Wastage": 120733
+    },
+    {
+      "Constituency": "Ghanpur (Station) - 99",
+      "Winner": "KADIYAM SRIHARI",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 101696,
+      "Vote Wastage": 114059
+    },
+    {
+      "Constituency": "Husnabad - 32",
+      "Winner": "PONNAM PRABHAKAR",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 100955,
+      "Vote Wastage": 105743
+    },
+    {
+      "Constituency": "Huzurabad - 31",
+      "Winner": "KAUSHIK REDDY PADI",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 80333,
+      "Vote Wastage": 128978
+    },
+    {
+      "Constituency": "Jagtial - 21",
+      "Winner": "Dr. Sanjay",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 70243,
+      "Vote Wastage": 106116
+    },
+    {
+      "Constituency": "Jangoan - 98",
+      "Winner": "PALLA RAJESHWAR REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 98975,
+      "Vote Wastage": 104625
+    },
+    {
+      "Constituency": "Jubilee Hills - 61",
+      "Winner": "MAGANTI GOPINATH",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 80549,
+      "Vote Wastage": 102763
+    },
+    {
+      "Constituency": "Jukkal - 13",
+      "Winner": "Laxmi Kantha Rao Thota",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 64489,
+      "Vote Wastage": 100050
+    },
+    {
+      "Constituency": "Kalwakurthy - 83",
+      "Winner": "Narayan Reddy Kasireddy",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 75858,
+      "Vote Wastage": 126894
+    },
+    {
+      "Constituency": "Kamareddy - 16",
+      "Winner": "KATIPALLY VENKATA RAMANA REDDY",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 66652,
+      "Vote Wastage": 126237
+    },
+    {
+      "Constituency": "Karimnagar - 26",
+      "Winner": "GANGULA KAMALAKAR",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 92179,
+      "Vote Wastage": 137595
+    },
+    {
+      "Constituency": "Karwan - 64",
+      "Winner": "KAUSAR MOHIUDDIN",
+      "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+      "Winner Votes": 83388,
+      "Vote Wastage": 92448
+    },
+    {
+      "Constituency": "Khairatabad  - 60",
+      "Winner": "DANAM NAGENDER",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 67368,
+      "Vote Wastage": 87556
+    },
+    {
+      "Constituency": "Khanapur - 6",
+      "Winner": "VEDMA BHOJJU",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 58870,
+      "Vote Wastage": 115369
+    },
+    {
+      "Constituency": "Kollapur - 85",
+      "Winner": "JUPALLY KRISHNA RAO",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 93609,
+      "Vote Wastage": 98619
+    },
+    {
+      "Constituency": "Koratla - 20",
+      "Winner": "KALVAKUNTLA SANJAY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 72115,
+      "Vote Wastage": 111475
+    },
+    {
+      "Constituency": "Kothagudem - 117",
+      "Winner": "KUNAMNENI SAMBASIVA RAO",
+      "Winner Party": "Communist Party of India",
+      "Winner Votes": 80336,
+      "Vote Wastage": 107584
+    },
+    {
+      "Constituency": "Lal Bahadur Nagar - 49",
+      "Winner": "DEVIREDDY SUDHIR REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 111380,
+      "Vote Wastage": 183751
+    },
+    {
+      "Constituency": "Mahbubnagar - 74",
+      "Winner": "Yennam Srinivas Reddy",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 87227,
+      "Vote Wastage": 94345
+    },
+    {
+      "Constituency": "Maheswaram - 50",
+      "Winner": "Patlolla Sabitha Indra Reddy",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 125578,
+      "Vote Wastage": 180756
+    },
+    {
+      "Constituency": "Makthal - 77",
+      "Winner": "VAKITI SRIHARI",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 74917,
+      "Vote Wastage": 112917
+    },
+    {
+      "Constituency": "Malakpet - 58",
+      "Winner": "AHMED BIN ABDULLAH BALALA",
+      "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+      "Winner Votes": 55805,
+      "Vote Wastage": 76219
+    },
+    {
+      "Constituency": "Malkajgiri - 44",
+      "Winner": "MARRI RAJASHEKAR REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 125049,
+      "Vote Wastage": 140362
+    },
+    {
+      "Constituency": "Medak - 34",
+      "Winner": "MYNAMPALLY ROHITH",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 87126,
+      "Vote Wastage": 99737
+    },
+    {
+      "Constituency": "Medchal - 43",
+      "Winner": "CHAMAKURA MALLA REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 186017,
+      "Vote Wastage": 214499
+    },
+    {
+      "Constituency": "Mudhole - 10",
+      "Winner": "RAM RAO PAWAR",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 98252,
+      "Vote Wastage": 103950
+    },
+    {
+      "Constituency": "Musheerabad - 57",
+      "Winner": "MUTA GOPAL",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 75207,
+      "Vote Wastage": 78045
+    },
+    {
+      "Constituency": "Nagarkurnool - 81",
+      "Winner": "Dr. KUCHKULLA RAJESH  REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 87161,
+      "Vote Wastage": 97455
+    },
+    {
+      "Constituency": "Nampally - 63",
+      "Winner": "MOHAMMED MAJID HUSSAIN",
+      "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+      "Winner Votes": 62185,
+      "Vote Wastage": 90115
+    },
+    {
+      "Constituency": "Narayankhed - 35",
+      "Winner": "PATLOLLA SANJEEVA REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 91373,
+      "Vote Wastage": 102663
+    },
+    {
+      "Constituency": "Narayanpet - 73",
+      "Winner": "CHITTEM PARNIKA REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 84708,
+      "Vote Wastage": 98191
+    },
+    {
+      "Constituency": "Narsapur - 37",
+      "Winner": "VAKITI SUNITHA LAXMA REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 88410,
+      "Vote Wastage": 109652
+    },
+    {
+      "Constituency": "Nizamabad (Rural) - 18",
+      "Winner": "BHOOPATHI REDDY REKULAPALLY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 78378,
+      "Vote Wastage": 116640
+    },
+    {
+      "Constituency": "Nizamabad (Urban) - 17",
+      "Winner": "DHANPAL SURYANARAYANA",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 75240,
+      "Vote Wastage": 109092
+    },
+    {
+      "Constituency": "Pargi - 54",
+      "Winner": "TAMMANNAGARI RAM MOHAN REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 98536,
+      "Vote Wastage": 102844
+    },
+    {
+      "Constituency": "Parkal - 104",
+      "Winner": "REVURI PRAKASH REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 72573,
+      "Vote Wastage": 116108
+    },
+    {
+      "Constituency": "Patancheru - 40",
+      "Winner": "GUDEM MAHIPAL REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 105387,
+      "Vote Wastage": 171494
+    },
+    {
+      "Constituency": "Quthbullapur - 45",
+      "Winner": "K.P. VIVEKANAND",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 187999,
+      "Vote Wastage": 213668
+    },
+    {
+      "Constituency": "Rajendranagar - 51",
+      "Winner": "T. Prakash Goud",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 121734,
+      "Vote Wastage": 206459
+    },
+    {
+      "Constituency": "Sangareddy - 39",
+      "Winner": "CHINTA PRABHAKAR",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 83112,
+      "Vote Wastage": 104394
+    },
+    {
+      "Constituency": "Secunderabad Cantt. - 71",
+      "Winner": "LASYA NANDITHA SAYANNA",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 59057,
+      "Vote Wastage": 65460
+    },
+    {
+      "Constituency": "Serilingampally - 52",
+      "Winner": "AREKAPUDI GANDHI",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 157332,
+      "Vote Wastage": 200498
+    },
+    {
+      "Constituency": "Shadnagar - 84",
+      "Winner": "K SHANKARAIAH",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 77817,
+      "Vote Wastage": 117738
+    },
+    {
+      "Constituency": "Sircilla - 29",
+      "Winner": "KALVAKUNTLA TARAKA RAMA RAO (K.T.R)",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 89244,
+      "Vote Wastage": 99496
+    },
+    {
+      "Constituency": "Sirpur - 1",
+      "Winner": "DR.PALVAI HARISH BABU",
+      "Winner Party": "Bharatiya Janata Party",
+      "Winner Votes": 63702,
+      "Vote Wastage": 123178
+    },
+    {
+      "Constituency": "Suryapet - 91",
+      "Winner": "GUNTAKANDLA JAGADISH REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 75143,
+      "Vote Wastage": 131526
+    },
+    {
+      "Constituency": "Tandur - 56",
+      "Winner": "B. MANOHAR REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 84662,
+      "Vote Wastage": 90563
+    },
+    {
+      "Constituency": "Uppal - 47",
+      "Winner": "BANDARI LAKSHMA REDDY",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 132927,
+      "Vote Wastage": 142099
+    },
+    {
+      "Constituency": "Vemulawada - 28",
+      "Winner": "AADI SRINIVAS",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 71451,
+      "Vote Wastage": 102694
+    },
+    {
+      "Constituency": "Vicarabad - 55",
+      "Winner": "GADDAM PRASAD KUMAR",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 86885,
+      "Vote Wastage": 87397
+    },
+    {
+      "Constituency": "Waradhanapet - 107",
+      "Winner": "K.R.NAGARAJ.K",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 106696,
+      "Vote Wastage": 112080
+    },
+    {
+      "Constituency": "Warangal East - 106",
+      "Winner": "KONDA SUREKHA",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 67757,
+      "Vote Wastage": 103930
+    },
+    {
+      "Constituency": "Warangal West - 105",
+      "Winner": "NAINI RAJENDER REDDY",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 72649,
+      "Vote Wastage": 94376
+    },
+    {
+      "Constituency": "Yakutpura - 68",
+      "Winner": "JAFFAR HUSSAIN",
+      "Winner Party": "All India Majlis-E-Ittehadul Muslimeen",
+      "Winner Votes": 46153,
+      "Vote Wastage": 94281
+    },
+    {
+      "Constituency": "Yellareddy - 15",
+      "Winner": "MADAN MOHAN RAO. K",
+      "Winner Party": "Indian National Congress",
+      "Winner Votes": 86989,
+      "Vote Wastage": 97811
+    },
+    {
+      "Constituency": "Zahirabad - 38",
+      "Winner": "KONINTY MANIK RAO",
+      "Winner Party": "Bharat Rashtra Samithi",
+      "Winner Votes": 97205,
+      "Vote Wastage": 111884
+    }
+  ]
+}
