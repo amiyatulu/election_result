@@ -1,0 +1,2114 @@
+{
+  "Election": "Uttar Pradesh General Election 2022",
+  "No of constituency where vote wastage won": 301,
+  "No of constituency": 403,
+  "Constituency data where vote wastage won": [
+    {
+      "Constituency": "Behat",
+      "Winner": "Umar Ali Khan",
+      "Winner Party": "SP",
+      "Winner Votes": 134513.0,
+      "Vote Wastage": 146860.0
+    },
+    {
+      "Constituency": "Nakur",
+      "Winner": "MUKESH CHOUDHARY",
+      "Winner Party": "BJP",
+      "Winner Votes": 104114.0,
+      "Vote Wastage": 166538.0
+    },
+    {
+      "Constituency": "Saharanpur Nagar",
+      "Winner": "RAJEEV GUMBER",
+      "Winner Party": "BJP",
+      "Winner Votes": 143195.0,
+      "Vote Wastage": 149917.0
+    },
+    {
+      "Constituency": "Saharanpur",
+      "Winner": "Ashu Malik",
+      "Winner Party": "SP",
+      "Winner Votes": 107007.0,
+      "Vote Wastage": 152848.0
+    },
+    {
+      "Constituency": "Deoband",
+      "Winner": "BRIJESH",
+      "Winner Party": "BJP",
+      "Winner Votes": 93890.0,
+      "Vote Wastage": 148303.0
+    },
+    {
+      "Constituency": "Rampur Maniharan",
+      "Winner": "Devender Kumar Nim",
+      "Winner Party": "BJP",
+      "Winner Votes": 89109.0,
+      "Vote Wastage": 143124.0
+    },
+    {
+      "Constituency": "Gangoh",
+      "Winner": "KIRAT SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 116582.0,
+      "Vote Wastage": 154008.0
+    },
+    {
+      "Constituency": "Thana Bhawan",
+      "Winner": "Ashraf Ali Khan",
+      "Winner Party": "RLD",
+      "Winner Votes": 103751.0,
+      "Vote Wastage": 114790.0
+    },
+    {
+      "Constituency": "Shamli",
+      "Winner": "Persann Kumar",
+      "Winner Party": "RLD",
+      "Winner Votes": 103070.0,
+      "Vote Wastage": 107882.0
+    },
+    {
+      "Constituency": "Charthawal",
+      "Winner": "Pankaj Kumar Malik",
+      "Winner Party": "SP",
+      "Winner Votes": 97363.0,
+      "Vote Wastage": 124827.0
+    },
+    {
+      "Constituency": "Purqazi",
+      "Winner": "Anil Kumar",
+      "Winner Party": "RLD",
+      "Winner Votes": 92672.0,
+      "Vote Wastage": 122413.0
+    },
+    {
+      "Constituency": "Muzaffar Nagar",
+      "Winner": "Kapil Dev Agarwal",
+      "Winner Party": "BJP",
+      "Winner Votes": 111794.0,
+      "Vote Wastage": 113749.0
+    },
+    {
+      "Constituency": "Khatauli",
+      "Winner": "VIKRAM SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 100651.0,
+      "Vote Wastage": 121318.0
+    },
+    {
+      "Constituency": "Meerapur",
+      "Winner": "Chandan Chauhan",
+      "Winner Party": "RLD",
+      "Winner Votes": 107421.0,
+      "Vote Wastage": 109271.0
+    },
+    {
+      "Constituency": "Najibabad",
+      "Winner": "TASLEEM AHMAD",
+      "Winner Party": "SP",
+      "Winner Votes": 102675.0,
+      "Vote Wastage": 129940.0
+    },
+    {
+      "Constituency": "Nagina",
+      "Winner": "MANOJ KUMAR PARAS",
+      "Winner Party": "SP",
+      "Winner Votes": 97155.0,
+      "Vote Wastage": 126127.0
+    },
+    {
+      "Constituency": "Barhapur",
+      "Winner": "KUNWAR SUSHANT SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 100100.0,
+      "Vote Wastage": 140660.0
+    },
+    {
+      "Constituency": "Dhampur",
+      "Winner": "ASHOK KUMAR RANA",
+      "Winner Party": "BJP",
+      "Winner Votes": 81791.0,
+      "Vote Wastage": 123276.0
+    },
+    {
+      "Constituency": "Nehtaur",
+      "Winner": "OMKUMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 77935.0,
+      "Vote Wastage": 121979.0
+    },
+    {
+      "Constituency": "Bijnor",
+      "Winner": "Suchi",
+      "Winner Party": "BJP",
+      "Winner Votes": 97165.0,
+      "Vote Wastage": 154977.0
+    },
+    {
+      "Constituency": "Chandpur",
+      "Winner": "SWAMI OMVESH",
+      "Winner Party": "SP",
+      "Winner Votes": 90522.0,
+      "Vote Wastage": 133852.0
+    },
+    {
+      "Constituency": "Noorpur",
+      "Winner": "RAM AVATAR SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 92574.0,
+      "Vote Wastage": 121395.0
+    },
+    {
+      "Constituency": "Kanth",
+      "Winner": "Kamal Akhtar",
+      "Winner Party": "SP",
+      "Winner Votes": 134692.0,
+      "Vote Wastage": 139147.0
+    },
+    {
+      "Constituency": "Thakurdwara",
+      "Winner": "NAVAB JAN",
+      "Winner Party": "SP",
+      "Winner Votes": 134391.0,
+      "Vote Wastage": 141217.0
+    },
+    {
+      "Constituency": "Moradabad Nagar",
+      "Winner": "RITESH KUMAR GUPTA",
+      "Winner Party": "BJP",
+      "Winner Votes": 148384.0,
+      "Vote Wastage": 173320.0
+    },
+    {
+      "Constituency": "Kundarki",
+      "Winner": "ZIA UR REHMAN",
+      "Winner Party": "SP",
+      "Winner Votes": 125792.0,
+      "Vote Wastage": 145993.0
+    },
+    {
+      "Constituency": "Bilari",
+      "Winner": "MOHAMMAD FAHEEM IRFAN",
+      "Winner Party": "SP",
+      "Winner Votes": 95338.0,
+      "Vote Wastage": 143506.0
+    },
+    {
+      "Constituency": "Chandausi",
+      "Winner": "GULAB DEBI",
+      "Winner Party": "BJP",
+      "Winner Votes": 112890.0,
+      "Vote Wastage": 115044.0
+    },
+    {
+      "Constituency": "Asmoli",
+      "Winner": "PINKI SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 111652.0,
+      "Vote Wastage": 148500.0
+    },
+    {
+      "Constituency": "Sambhal",
+      "Winner": "IQBAL MEHMOOD",
+      "Winner Party": "SP",
+      "Winner Votes": 107073.0,
+      "Vote Wastage": 137780.0
+    },
+    {
+      "Constituency": "Bilaspur",
+      "Winner": "Baldev Singh Aulakh",
+      "Winner Party": "BJP",
+      "Winner Votes": 101998.0,
+      "Vote Wastage": 134261.0
+    },
+    {
+      "Constituency": "Milak",
+      "Winner": "Rajbala Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 97948.0,
+      "Vote Wastage": 129282.0
+    },
+    {
+      "Constituency": "Dhanaura",
+      "Winner": "RAJEEV KUMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 103054.0,
+      "Vote Wastage": 140643.0
+    },
+    {
+      "Constituency": "Naugawan Sadat",
+      "Winner": "SAMARPAL SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 108497.0,
+      "Vote Wastage": 136340.0
+    },
+    {
+      "Constituency": "Hasanpur",
+      "Winner": "MAHENDRA",
+      "Winner Party": "BJP",
+      "Winner Votes": 120135.0,
+      "Vote Wastage": 148789.0
+    },
+    {
+      "Constituency": "Siwalkhas",
+      "Winner": "GHULAM MOHAMMAD",
+      "Winner Party": "RLD",
+      "Winner Votes": 101749.0,
+      "Vote Wastage": 131918.0
+    },
+    {
+      "Constituency": "Sardhana",
+      "Winner": "Atul Pradhan",
+      "Winner Party": "SP",
+      "Winner Votes": 118573.0,
+      "Vote Wastage": 124633.0
+    },
+    {
+      "Constituency": "Hastinapur",
+      "Winner": "Dinesh",
+      "Winner Party": "BJP",
+      "Winner Votes": 107587.0,
+      "Vote Wastage": 122689.0
+    },
+    {
+      "Constituency": "Kithore",
+      "Winner": "SHAHID MANZOOR",
+      "Winner Party": "SP",
+      "Winner Votes": 107104.0,
+      "Vote Wastage": 146765.0
+    },
+    {
+      "Constituency": "Meerut South",
+      "Winner": "Dr. Somendra Singh Tomar",
+      "Winner Party": "BJP",
+      "Winner Votes": 129667.0,
+      "Vote Wastage": 168726.0
+    },
+    {
+      "Constituency": "Baraut",
+      "Winner": "KRISHAN PAL MALIK",
+      "Winner Party": "BJP",
+      "Winner Votes": 90931.0,
+      "Vote Wastage": 105295.0
+    },
+    {
+      "Constituency": "Baghpat",
+      "Winner": "Yogesh Dhama",
+      "Winner Party": "BJP",
+      "Winner Votes": 101420.0,
+      "Vote Wastage": 112692.0
+    },
+    {
+      "Constituency": "Loni",
+      "Winner": "NANDKISHOR",
+      "Winner Party": "BJP",
+      "Winner Votes": 127410.0,
+      "Vote Wastage": 187685.0
+    },
+    {
+      "Constituency": "Dhaulana",
+      "Winner": "DHARMESH SINGH TOMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 125028.0,
+      "Vote Wastage": 154985.0
+    },
+    {
+      "Constituency": "Hapur",
+      "Winner": "VIJAYPAL (AADHTI)",
+      "Winner Party": "BJP",
+      "Winner Votes": 97862.0,
+      "Vote Wastage": 148705.0
+    },
+    {
+      "Constituency": "Garhmukteshwar",
+      "Winner": "HARENDRA SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 104113.0,
+      "Vote Wastage": 132107.0
+    },
+    {
+      "Constituency": "Sikandrabad",
+      "Winner": "Lakshmi Raj",
+      "Winner Party": "BJP",
+      "Winner Votes": 125644.0,
+      "Vote Wastage": 147489.0
+    },
+    {
+      "Constituency": "Bulandshahr",
+      "Winner": "Pradeep Kumar Chaudhary",
+      "Winner Party": "BJP",
+      "Winner Votes": 127076.0,
+      "Vote Wastage": 132594.0
+    },
+    {
+      "Constituency": "Chharra",
+      "Winner": "RAVENDRA PAL SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 111293.0,
+      "Vote Wastage": 131765.0
+    },
+    {
+      "Constituency": "Koil",
+      "Winner": "ANIL PARASHAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 108067.0,
+      "Vote Wastage": 144339.0
+    },
+    {
+      "Constituency": "Aligarh",
+      "Winner": "MUKTA RAJA",
+      "Winner Party": "BJP",
+      "Winner Votes": 120389.0,
+      "Vote Wastage": 132198.0
+    },
+    {
+      "Constituency": "Sadabad",
+      "Winner": "PRADEEP KUMAR SINGH",
+      "Winner Party": "RLD",
+      "Winner Votes": 104874.0,
+      "Vote Wastage": 137608.0
+    },
+    {
+      "Constituency": "Sikandra Rao",
+      "Winner": "Birendra Singh Rana",
+      "Winner Party": "BJP",
+      "Winner Votes": 98094.0,
+      "Vote Wastage": 137525.0
+    },
+    {
+      "Constituency": "Mant",
+      "Winner": "RAJESH CHAUDHARY",
+      "Winner Party": "BJP",
+      "Winner Votes": 83958.0,
+      "Vote Wastage": 140828.0
+    },
+    {
+      "Constituency": "Goverdhan",
+      "Winner": "MEGHSHYAM",
+      "Winner Party": "BJP",
+      "Winner Votes": 100199.0,
+      "Vote Wastage": 121438.0
+    },
+    {
+      "Constituency": "Baldev",
+      "Winner": "PURAN PRAKASH",
+      "Winner Party": "BJP",
+      "Winner Votes": 108414.0,
+      "Vote Wastage": 137187.0
+    },
+    {
+      "Constituency": "Etmadpur",
+      "Winner": "DR. DHARMPAL SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 146603.0,
+      "Vote Wastage": 153985.0
+    },
+    {
+      "Constituency": "Agra Cantt.",
+      "Winner": "Dr. G S Dharmesh",
+      "Winner Party": "BJP",
+      "Winner Votes": 117796.0,
+      "Vote Wastage": 134020.0
+    },
+    {
+      "Constituency": "Fatehpur Sikri",
+      "Winner": "Babulal",
+      "Winner Party": "BJP",
+      "Winner Votes": 112095.0,
+      "Vote Wastage": 130827.0
+    },
+    {
+      "Constituency": "Kheragarh",
+      "Winner": "Bhagwan Singh Kushwaha",
+      "Winner Party": "BJP",
+      "Winner Votes": 96574.0,
+      "Vote Wastage": 108683.0
+    },
+    {
+      "Constituency": "Bah",
+      "Winner": "Rani Pakshalika Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 78360.0,
+      "Vote Wastage": 112022.0
+    },
+    {
+      "Constituency": "Tundla",
+      "Winner": "PREM PAL SINGH DHANGAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 122881.0,
+      "Vote Wastage": 125570.0
+    },
+    {
+      "Constituency": "Jasrana",
+      "Winner": "SACHIN YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 108289.0,
+      "Vote Wastage": 139473.0
+    },
+    {
+      "Constituency": "Firozabad",
+      "Winner": "MANISH ASIJA",
+      "Winner Party": "BJP",
+      "Winner Votes": 112509.0,
+      "Vote Wastage": 146524.0
+    },
+    {
+      "Constituency": "Shikohabad",
+      "Winner": "MUKESH VERMA",
+      "Winner Party": "SP",
+      "Winner Votes": 106279.0,
+      "Vote Wastage": 129159.0
+    },
+    {
+      "Constituency": "Sirsaganj",
+      "Winner": "SARVESH SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 96224.0,
+      "Vote Wastage": 111968.0
+    },
+    {
+      "Constituency": "Patiyali",
+      "Winner": "Nadira Sultan alias Bitiya",
+      "Winner Party": "SP",
+      "Winner Votes": 91958.0,
+      "Vote Wastage": 127591.0
+    },
+    {
+      "Constituency": "Aliganj",
+      "Winner": "SATYAPAL SINGH RATHORE",
+      "Winner Party": "BJP",
+      "Winner Votes": 102873.0,
+      "Vote Wastage": 123502.0
+    },
+    {
+      "Constituency": "Etah",
+      "Winner": "Vipin kumar David",
+      "Winner Party": "BJP",
+      "Winner Votes": 97539.0,
+      "Vote Wastage": 112950.0
+    },
+    {
+      "Constituency": "Marhara",
+      "Winner": "Virendra Singh Lodhi",
+      "Winner Party": "BJP",
+      "Winner Votes": 101387.0,
+      "Vote Wastage": 105483.0
+    },
+    {
+      "Constituency": "Jalesar",
+      "Winner": "SANJEEV KUMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 91339.0,
+      "Vote Wastage": 111192.0
+    },
+    {
+      "Constituency": "Mainpuri",
+      "Winner": "JAYVEER SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 99814.0,
+      "Vote Wastage": 113775.0
+    },
+    {
+      "Constituency": "Bhongaon",
+      "Winner": "Ram Naresh Agnihotri",
+      "Winner Party": "BJP",
+      "Winner Votes": 97208.0,
+      "Vote Wastage": 117945.0
+    },
+    {
+      "Constituency": "Kishni",
+      "Winner": "ENG. BRAJESH KATHERIYA",
+      "Winner Party": "SP",
+      "Winner Votes": 97070.0,
+      "Vote Wastage": 98725.0
+    },
+    {
+      "Constituency": "Bisauli",
+      "Winner": "ASHUTOSH MAURYA URF RAJU",
+      "Winner Party": "SP",
+      "Winner Votes": 110569.0,
+      "Vote Wastage": 139395.0
+    },
+    {
+      "Constituency": "Sahaswan",
+      "Winner": "BRAJESH YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 83673.0,
+      "Vote Wastage": 167199.0
+    },
+    {
+      "Constituency": "Bilsi",
+      "Winner": "HARISH CHANDRA",
+      "Winner Party": "BJP",
+      "Winner Votes": 93500.0,
+      "Vote Wastage": 111819.0
+    },
+    {
+      "Constituency": "Badaun",
+      "Winner": "Mahesh Chandra Gupta",
+      "Winner Party": "BJP",
+      "Winner Votes": 101096.0,
+      "Vote Wastage": 118087.0
+    },
+    {
+      "Constituency": "Shekhupur",
+      "Winner": "Himanshu Yadav",
+      "Winner Party": "SP",
+      "Winner Votes": 105531.0,
+      "Vote Wastage": 140835.0
+    },
+    {
+      "Constituency": "Dataganj",
+      "Winner": "RAJEEV SINGH URF BABBU BHAIYA",
+      "Winner Party": "BJP",
+      "Winner Votes": 107591.0,
+      "Vote Wastage": 129713.0
+    },
+    {
+      "Constituency": "Baheri",
+      "Winner": "ATAUR REHMAN",
+      "Winner Party": "SP",
+      "Winner Votes": 124145.0,
+      "Vote Wastage": 141858.0
+    },
+    {
+      "Constituency": "Bhojipura",
+      "Winner": "SHAZIL ISLAM ANSARI",
+      "Winner Party": "SP",
+      "Winner Votes": 119402.0,
+      "Vote Wastage": 140848.0
+    },
+    {
+      "Constituency": "Nawabganj",
+      "Winner": "Dr. M. P. Arya",
+      "Winner Party": "BJP",
+      "Winner Votes": 111113.0,
+      "Vote Wastage": 119390.0
+    },
+    {
+      "Constituency": "Faridpur",
+      "Winner": "PROF. SHYAM BIHARI LAL",
+      "Winner Party": "BJP",
+      "Winner Votes": 92070.0,
+      "Vote Wastage": 111537.0
+    },
+    {
+      "Constituency": "Bithari Chainpur",
+      "Winner": "DR. RAGHAVENDRA SHARMA",
+      "Winner Party": "BJP",
+      "Winner Votes": 115417.0,
+      "Vote Wastage": 132613.0
+    },
+    {
+      "Constituency": "Aonla",
+      "Winner": "DHARMPAL SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 88956.0,
+      "Vote Wastage": 102553.0
+    },
+    {
+      "Constituency": "Pilibhit",
+      "Winner": "SANJAY SINGH GANGWAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 125506.0,
+      "Vote Wastage": 135503.0
+    },
+    {
+      "Constituency": "Katra",
+      "Winner": "Veer Vikram Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 77800.0,
+      "Vote Wastage": 117167.0
+    },
+    {
+      "Constituency": "Jalalabad",
+      "Winner": "Hari Prakash Verma",
+      "Winner Party": "BJP",
+      "Winner Votes": 99609.0,
+      "Vote Wastage": 117079.0
+    },
+    {
+      "Constituency": "Tilhar",
+      "Winner": "SALONA KUSHWAHA",
+      "Winner Party": "BJP",
+      "Winner Votes": 102307.0,
+      "Vote Wastage": 111148.0
+    },
+    {
+      "Constituency": "Shahjahanpur",
+      "Winner": "Suresh Kumar Khanna",
+      "Winner Party": "BJP",
+      "Winner Votes": 109942.0,
+      "Vote Wastage": 114505.0
+    },
+    {
+      "Constituency": "Dadraul",
+      "Winner": "MANVENDRA SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 100957.0,
+      "Vote Wastage": 123098.0
+    },
+    {
+      "Constituency": "Gola Gokrannath",
+      "Winner": "Arvind Giri",
+      "Winner Party": "BJP",
+      "Winner Votes": 126534.0,
+      "Vote Wastage": 133459.0
+    },
+    {
+      "Constituency": "Sri Nagar",
+      "Winner": "Manju Tyagi",
+      "Winner Party": "BJP",
+      "Winner Votes": 108249.0,
+      "Vote Wastage": 121044.0
+    },
+    {
+      "Constituency": "Dhaurahra",
+      "Winner": "VINOD SHANKAR AWASTHI",
+      "Winner Party": "BJP",
+      "Winner Votes": 113498.0,
+      "Vote Wastage": 115817.0
+    },
+    {
+      "Constituency": "Lakhimpur",
+      "Winner": "Yogesh Verma",
+      "Winner Party": "BJP",
+      "Winner Votes": 127663.0,
+      "Vote Wastage": 141809.0
+    },
+    {
+      "Constituency": "Kasta",
+      "Winner": "SAURABH SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 103315.0,
+      "Vote Wastage": 112235.0
+    },
+    {
+      "Constituency": "Mohammdi",
+      "Winner": "LOKENDRA PRATAP SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 99377.0,
+      "Vote Wastage": 133059.0
+    },
+    {
+      "Constituency": "Maholi",
+      "Winner": "SHASHANK TRIVEDI",
+      "Winner Party": "BJP",
+      "Winner Votes": 112040.0,
+      "Vote Wastage": 138464.0
+    },
+    {
+      "Constituency": "Sitapur",
+      "Winner": "Rakesh Rathour",
+      "Winner Party": "BJP",
+      "Winner Votes": 99349.0,
+      "Vote Wastage": 133203.0
+    },
+    {
+      "Constituency": "Laharpur",
+      "Winner": "ANIL KUMAR VERMA",
+      "Winner Party": "SP",
+      "Winner Votes": 112987.0,
+      "Vote Wastage": 127164.0
+    },
+    {
+      "Constituency": "Biswan",
+      "Winner": "NIRMAL VERMA",
+      "Winner Party": "BJP",
+      "Winner Votes": 106014.0,
+      "Vote Wastage": 130772.0
+    },
+    {
+      "Constituency": "Sevata",
+      "Winner": "GYAN TIWARI",
+      "Winner Party": "BJP",
+      "Winner Votes": 108057.0,
+      "Vote Wastage": 115074.0
+    },
+    {
+      "Constituency": "Mahmoodabad",
+      "Winner": "ASHA MAURYA",
+      "Winner Party": "BJP",
+      "Winner Votes": 92091.0,
+      "Vote Wastage": 127762.0
+    },
+    {
+      "Constituency": "Sidhauli",
+      "Winner": "Manish Rawat",
+      "Winner Party": "BJP",
+      "Winner Votes": 106222.0,
+      "Vote Wastage": 137497.0
+    },
+    {
+      "Constituency": "Misrikh",
+      "Winner": "RAMKRISHNA BHARGAVA",
+      "Winner Party": "BJP",
+      "Winner Votes": 91092.0,
+      "Vote Wastage": 130249.0
+    },
+    {
+      "Constituency": "Sawayazpur",
+      "Winner": "Madhavendra Pratap Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 114263.0,
+      "Vote Wastage": 133959.0
+    },
+    {
+      "Constituency": "Shahabad",
+      "Winner": "RAJNI TIWARI",
+      "Winner Party": "BJP",
+      "Winner Votes": 94561.0,
+      "Vote Wastage": 138956.0
+    },
+    {
+      "Constituency": "Gopamau",
+      "Winner": "Shyam Prakash",
+      "Winner Party": "BJP",
+      "Winner Votes": 91762.0,
+      "Vote Wastage": 121286.0
+    },
+    {
+      "Constituency": "Sandi",
+      "Winner": "Prabhash Kumar",
+      "Winner Party": "BJP",
+      "Winner Votes": 81519.0,
+      "Vote Wastage": 113992.0
+    },
+    {
+      "Constituency": "Bilgram-Mallanwan",
+      "Winner": "ASHISH KUMAR SINGH 'ASHU'",
+      "Winner Party": "BJP",
+      "Winner Votes": 82075.0,
+      "Vote Wastage": 152689.0
+    },
+    {
+      "Constituency": "Balamau",
+      "Winner": "Rampal Verma",
+      "Winner Party": "BJP",
+      "Winner Votes": 81994.0,
+      "Vote Wastage": 109393.0
+    },
+    {
+      "Constituency": "Sandila",
+      "Winner": "Alka Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 101730.0,
+      "Vote Wastage": 102715.0
+    },
+    {
+      "Constituency": "Bangermau",
+      "Winner": "Shrikant Katiyar",
+      "Winner Party": "BJP",
+      "Winner Votes": 90980.0,
+      "Vote Wastage": 112547.0
+    },
+    {
+      "Constituency": "Malihabad",
+      "Winner": "JAI DEVI",
+      "Winner Party": "BJP",
+      "Winner Votes": 106372.0,
+      "Vote Wastage": 134569.0
+    },
+    {
+      "Constituency": "Bakshi Kaa Talab",
+      "Winner": "YOGESH SHUKLA",
+      "Winner Party": "BJP",
+      "Winner Votes": 147922.0,
+      "Vote Wastage": 171130.0
+    },
+    {
+      "Constituency": "Sarojini Nagar",
+      "Winner": "Rajeshwar Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 160626.0,
+      "Vote Wastage": 166747.0
+    },
+    {
+      "Constituency": "Lucknow West",
+      "Winner": "ARMAAN KHAN",
+      "Winner Party": "SP",
+      "Winner Votes": 124497.0,
+      "Vote Wastage": 133823.0
+    },
+    {
+      "Constituency": "Lucknow Central",
+      "Winner": "RAVIDAS MEHROTRA",
+      "Winner Party": "SP",
+      "Winner Votes": 104488.0,
+      "Vote Wastage": 106079.0
+    },
+    {
+      "Constituency": "Mohanlalganj",
+      "Winner": "Amresh Kumar",
+      "Winner Party": "BJP",
+      "Winner Votes": 107089.0,
+      "Vote Wastage": 138653.0
+    },
+    {
+      "Constituency": "Bachhrawan",
+      "Winner": "SHYAM SUNDER",
+      "Winner Party": "SP",
+      "Winner Votes": 65747.0,
+      "Vote Wastage": 143765.0
+    },
+    {
+      "Constituency": "Tiloi",
+      "Winner": "MAYANKESHWAR SHARAN SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 99472.0,
+      "Vote Wastage": 105468.0
+    },
+    {
+      "Constituency": "Harchandpur",
+      "Winner": "RAHUL RAJPOOT urf RAHUL LODHI",
+      "Winner Party": "SP",
+      "Winner Votes": 92498.0,
+      "Vote Wastage": 109153.0
+    },
+    {
+      "Constituency": "Rae Bareli",
+      "Winner": "ADITI SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 102429.0,
+      "Vote Wastage": 127671.0
+    },
+    {
+      "Constituency": "Salon",
+      "Winner": "ASHOK KUMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 87715.0,
+      "Vote Wastage": 112608.0
+    },
+    {
+      "Constituency": "Sareni",
+      "Winner": "DEVENDRA PRATAP SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 66166.0,
+      "Vote Wastage": 150534.0
+    },
+    {
+      "Constituency": "Unchahar",
+      "Winner": "Manoj Kumar Pandey",
+      "Winner Party": "SP",
+      "Winner Votes": 82514.0,
+      "Vote Wastage": 129516.0
+    },
+    {
+      "Constituency": "Jagdishpur",
+      "Winner": "SURESH KUMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 89315.0,
+      "Vote Wastage": 113953.0
+    },
+    {
+      "Constituency": "Gauriganj",
+      "Winner": "Rakesh Pratap Singh",
+      "Winner Party": "SP",
+      "Winner Votes": 79040.0,
+      "Vote Wastage": 123816.0
+    },
+    {
+      "Constituency": "Amethi",
+      "Winner": "MAHARAJI PRAJAPATI",
+      "Winner Party": "SP",
+      "Winner Votes": 88217.0,
+      "Vote Wastage": 101647.0
+    },
+    {
+      "Constituency": "Isauli",
+      "Winner": "MOHD TAHIR KHAN",
+      "Winner Party": "SP",
+      "Winner Votes": 69629.0,
+      "Vote Wastage": 133114.0
+    },
+    {
+      "Constituency": "Sultanpur",
+      "Winner": "VINOD SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 92715.0,
+      "Vote Wastage": 126793.0
+    },
+    {
+      "Constituency": "Sadar",
+      "Winner": "RAJ PRASAD UPADHYAY",
+      "Winner Party": "BJP",
+      "Winner Votes": 85249.0,
+      "Vote Wastage": 118247.0
+    },
+    {
+      "Constituency": "Lambhua",
+      "Winner": "SITARAM VERMA",
+      "Winner Party": "BJP",
+      "Winner Votes": 82999.0,
+      "Vote Wastage": 127836.0
+    },
+    {
+      "Constituency": "Kadipur",
+      "Winner": "RAJESH KUMAR GAUTAM",
+      "Winner Party": "BJP",
+      "Winner Votes": 96405.0,
+      "Vote Wastage": 125540.0
+    },
+    {
+      "Constituency": "Kaimganj",
+      "Winner": "Dr. SURABHI",
+      "Winner Party": "ADAL",
+      "Winner Votes": 114952.0,
+      "Vote Wastage": 126279.0
+    },
+    {
+      "Constituency": "Chhibramau",
+      "Winner": "Archana Pandey",
+      "Winner Party": "BJP",
+      "Winner Votes": 124773.0,
+      "Vote Wastage": 156824.0
+    },
+    {
+      "Constituency": "Tirwa",
+      "Winner": "Kailash Rajput",
+      "Winner Party": "BJP",
+      "Winner Votes": 106089.0,
+      "Vote Wastage": 132275.0
+    },
+    {
+      "Constituency": "Kannauj",
+      "Winner": "ASIM ARUN",
+      "Winner Party": "BJP",
+      "Winner Votes": 120876.0,
+      "Vote Wastage": 150559.0
+    },
+    {
+      "Constituency": "Etawah",
+      "Winner": "Sarita Bhadauriya",
+      "Winner Party": "BJP",
+      "Winner Votes": 98150.0,
+      "Vote Wastage": 147392.0
+    },
+    {
+      "Constituency": "Bharthana",
+      "Winner": "RAGHVENDRA KUMAR SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 103676.0,
+      "Vote Wastage": 143058.0
+    },
+    {
+      "Constituency": "Bidhuna",
+      "Winner": "Rekha Verma",
+      "Winner Party": "SP",
+      "Winner Votes": 97257.0,
+      "Vote Wastage": 131083.0
+    },
+    {
+      "Constituency": "Dibiyapur",
+      "Winner": "Pradeep Kumar Yadav",
+      "Winner Party": "SP",
+      "Winner Votes": 80865.0,
+      "Vote Wastage": 119590.0
+    },
+    {
+      "Constituency": "Auraiya",
+      "Winner": "Gudiya Katheriya",
+      "Winner Party": "BJP",
+      "Winner Votes": 88631.0,
+      "Vote Wastage": 107115.0
+    },
+    {
+      "Constituency": "Rasulabad",
+      "Winner": "Poonam Sankhwar",
+      "Winner Party": "BJP",
+      "Winner Votes": 91783.0,
+      "Vote Wastage": 104478.0
+    },
+    {
+      "Constituency": "Akbarpur - Raniya",
+      "Winner": "Pratibha Shukla",
+      "Winner Party": "BJP",
+      "Winner Votes": 92827.0,
+      "Vote Wastage": 119003.0
+    },
+    {
+      "Constituency": "Sikandra",
+      "Winner": "AJIT SINGH PAL",
+      "Winner Party": "BJP",
+      "Winner Votes": 89461.0,
+      "Vote Wastage": 109846.0
+    },
+    {
+      "Constituency": "Bhognipur",
+      "Winner": "RAKESH SACHAN",
+      "Winner Party": "BJP",
+      "Winner Votes": 87809.0,
+      "Vote Wastage": 130335.0
+    },
+    {
+      "Constituency": "Bithoor",
+      "Winner": "ABHIJEET SINGH SANGA",
+      "Winner Party": "BJP",
+      "Winner Votes": 107330.0,
+      "Vote Wastage": 134069.0
+    },
+    {
+      "Constituency": "Kanpur Cantt.",
+      "Winner": "MOHAMMAD HASAN 'ROOMI'",
+      "Winner Party": "SP",
+      "Winner Votes": 94729.0,
+      "Vote Wastage": 94763.0
+    },
+    {
+      "Constituency": "Ghatampur",
+      "Winner": "SAROJ KUREEL",
+      "Winner Party": "ADAL",
+      "Winner Votes": 81727.0,
+      "Vote Wastage": 114739.0
+    },
+    {
+      "Constituency": "Madhaugarh",
+      "Winner": "MOOL CHANDRA SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 105231.0,
+      "Vote Wastage": 149597.0
+    },
+    {
+      "Constituency": "Kalpi",
+      "Winner": "VINOD CHATURVEDI",
+      "Winner Party": "SP",
+      "Winner Votes": 69782.0,
+      "Vote Wastage": 166959.0
+    },
+    {
+      "Constituency": "Orai",
+      "Winner": "GAURI SHANKAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 128644.0,
+      "Vote Wastage": 142463.0
+    },
+    {
+      "Constituency": "Garautha",
+      "Winner": "Jawahar Lal Rajput",
+      "Winner Party": "BJP",
+      "Winner Votes": 114059.0,
+      "Vote Wastage": 121913.0
+    },
+    {
+      "Constituency": "Hamirpur",
+      "Winner": "DR. MANOJ KUMAR PRAJAPATI",
+      "Winner Party": "BJP",
+      "Winner Votes": 105432.0,
+      "Vote Wastage": 157242.0
+    },
+    {
+      "Constituency": "Mahoba",
+      "Winner": "RAKESH KUMAR GOSWAMI",
+      "Winner Party": "BJP",
+      "Winner Votes": 94490.0,
+      "Vote Wastage": 112689.0
+    },
+    {
+      "Constituency": "Charkhari",
+      "Winner": "BRIJBHUSHAN RAJPUT",
+      "Winner Party": "BJP",
+      "Winner Votes": 102051.0,
+      "Vote Wastage": 121027.0
+    },
+    {
+      "Constituency": "Tindwari",
+      "Winner": "RAMKESH NISHAD",
+      "Winner Party": "BJP",
+      "Winner Votes": 86812.0,
+      "Vote Wastage": 109409.0
+    },
+    {
+      "Constituency": "Baberu",
+      "Winner": "VISHAMBHAR SINGH YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 79614.0,
+      "Vote Wastage": 125839.0
+    },
+    {
+      "Constituency": "Naraini",
+      "Winner": "Ommani Varma",
+      "Winner Party": "BJP",
+      "Winner Votes": 83263.0,
+      "Vote Wastage": 130704.0
+    },
+    {
+      "Constituency": "Banda",
+      "Winner": "PRAKASH DWIVEDI",
+      "Winner Party": "BJP",
+      "Winner Votes": 81557.0,
+      "Vote Wastage": 115743.0
+    },
+    {
+      "Constituency": "Chitrakoot",
+      "Winner": "ANIL KUMAR ANIL PRADHAN",
+      "Winner Party": "SP",
+      "Winner Votes": 104771.0,
+      "Vote Wastage": 137586.0
+    },
+    {
+      "Constituency": "Manikpur",
+      "Winner": "AVINASH CHANDRA DWIVEDI",
+      "Winner Party": "ADAL",
+      "Winner Votes": 73132.0,
+      "Vote Wastage": 134798.0
+    },
+    {
+      "Constituency": "Jahanabad",
+      "Winner": "RAJENDRA SINGH PATEL",
+      "Winner Party": "BJP",
+      "Winner Votes": 78503.0,
+      "Vote Wastage": 111997.0
+    },
+    {
+      "Constituency": "Bindki",
+      "Winner": "Jay Kumar Singh Jaiki",
+      "Winner Party": "ADAL",
+      "Winner Votes": 78165.0,
+      "Vote Wastage": 112656.0
+    },
+    {
+      "Constituency": "Fatehpur",
+      "Winner": "Chandra Prakash",
+      "Winner Party": "SP",
+      "Winner Votes": 96839.0,
+      "Vote Wastage": 117211.0
+    },
+    {
+      "Constituency": "Ayah Shah",
+      "Winner": "Vikas Gupta",
+      "Winner Party": "BJP",
+      "Winner Votes": 71231.0,
+      "Vote Wastage": 89188.0
+    },
+    {
+      "Constituency": "Husainganj",
+      "Winner": "USHA MAURYA",
+      "Winner Party": "SP",
+      "Winner Votes": 91884.0,
+      "Vote Wastage": 96475.0
+    },
+    {
+      "Constituency": "Khaga",
+      "Winner": "KRISHNA PASWAN",
+      "Winner Party": "BJP",
+      "Winner Votes": 83735.0,
+      "Vote Wastage": 116251.0
+    },
+    {
+      "Constituency": "Babaganj",
+      "Winner": "VINOD KUMAR",
+      "Winner Party": "JDL",
+      "Winner Votes": 67282.0,
+      "Vote Wastage": 99522.0
+    },
+    {
+      "Constituency": "Vishwanath Ganj",
+      "Winner": "JEET LAL",
+      "Winner Party": "ADAL",
+      "Winner Votes": 86829.0,
+      "Vote Wastage": 114101.0
+    },
+    {
+      "Constituency": "Pratapgarh",
+      "Winner": "RAJENDRA KUMAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 89762.0,
+      "Vote Wastage": 106219.0
+    },
+    {
+      "Constituency": "Patti",
+      "Winner": "RAM SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 108070.0,
+      "Vote Wastage": 113692.0
+    },
+    {
+      "Constituency": "Raniganj",
+      "Winner": "RAKESH KUMAR VERMA ALIAS DR. R. K. VERMA",
+      "Winner Party": "SP",
+      "Winner Votes": 75583.0,
+      "Vote Wastage": 113132.0
+    },
+    {
+      "Constituency": "Sirathu",
+      "Winner": "DR. PALLAVI PATEL",
+      "Winner Party": "SP",
+      "Winner Votes": 106278.0,
+      "Vote Wastage": 122348.0
+    },
+    {
+      "Constituency": "Manjhanpur",
+      "Winner": "Indrajeet Saroj",
+      "Winner Party": "SP",
+      "Winner Votes": 121506.0,
+      "Vote Wastage": 135905.0
+    },
+    {
+      "Constituency": "Chail",
+      "Winner": "Pooja Pal",
+      "Winner Party": "SP",
+      "Winner Votes": 88818.0,
+      "Vote Wastage": 135166.0
+    },
+    {
+      "Constituency": "Phaphamau",
+      "Winner": "GURU PRASAD MAURYA",
+      "Winner Party": "BJP",
+      "Winner Votes": 91186.0,
+      "Vote Wastage": 119587.0
+    },
+    {
+      "Constituency": "Soraon",
+      "Winner": "Geeta Shastri (Pasi)",
+      "Winner Party": "SP",
+      "Winner Votes": 91474.0,
+      "Vote Wastage": 131695.0
+    },
+    {
+      "Constituency": "Phulpur",
+      "Winner": "Praveen Patel",
+      "Winner Party": "BJP",
+      "Winner Votes": 103557.0,
+      "Vote Wastage": 143031.0
+    },
+    {
+      "Constituency": "Pratappur",
+      "Winner": "VIJAMA YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 91142.0,
+      "Vote Wastage": 136221.0
+    },
+    {
+      "Constituency": "Handia",
+      "Winner": "HAKIM LAL BIND",
+      "Winner Party": "SP",
+      "Winner Votes": 84417.0,
+      "Vote Wastage": 130034.0
+    },
+    {
+      "Constituency": "Meja",
+      "Winner": "SANDEEP SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 78555.0,
+      "Vote Wastage": 107942.0
+    },
+    {
+      "Constituency": "Karachhana",
+      "Winner": "PIYUSH RANJAN NISHAD",
+      "Winner Party": "BJP",
+      "Winner Votes": 89527.0,
+      "Vote Wastage": 113662.0
+    },
+    {
+      "Constituency": "Bara",
+      "Winner": "VACHASPATI",
+      "Winner Party": "ADAL",
+      "Winner Votes": 89203.0,
+      "Vote Wastage": 115926.0
+    },
+    {
+      "Constituency": "Koraon",
+      "Winner": "Rajmani",
+      "Winner Party": "BJP",
+      "Winner Votes": 84587.0,
+      "Vote Wastage": 123024.0
+    },
+    {
+      "Constituency": "Kursi",
+      "Winner": "Sakendra Pratap",
+      "Winner Party": "BJP",
+      "Winner Votes": 118720.0,
+      "Vote Wastage": 169799.0
+    },
+    {
+      "Constituency": "Ram Nagar",
+      "Winner": "FAREED MAHFOOZ KIDWAI",
+      "Winner Party": "SP",
+      "Winner Votes": 98799.0,
+      "Vote Wastage": 136662.0
+    },
+    {
+      "Constituency": "Barabanki",
+      "Winner": "Dharmraj Singh Yadav",
+      "Winner Party": "SP",
+      "Winner Votes": 125500.0,
+      "Vote Wastage": 140896.0
+    },
+    {
+      "Constituency": "Zaidpur",
+      "Winner": "Gaurav Kumar",
+      "Winner Party": "SP",
+      "Winner Votes": 113558.0,
+      "Vote Wastage": 164350.0
+    },
+    {
+      "Constituency": "Dariyabad",
+      "Winner": "Satish Chandra Sharma",
+      "Winner Party": "BJP",
+      "Winner Votes": 128219.0,
+      "Vote Wastage": 145338.0
+    },
+    {
+      "Constituency": "Rudauli",
+      "Winner": "Ram Chandra Yadav",
+      "Winner Party": "BJP",
+      "Winner Votes": 94031.0,
+      "Vote Wastage": 124889.0
+    },
+    {
+      "Constituency": "Milkipur",
+      "Winner": "AWADHESH PRASAD",
+      "Winner Party": "SP",
+      "Winner Votes": 103905.0,
+      "Vote Wastage": 112610.0
+    },
+    {
+      "Constituency": "Bikapur",
+      "Winner": "AMIT SINGH CHAUHAN",
+      "Winner Party": "BJP",
+      "Winner Votes": 107268.0,
+      "Vote Wastage": 134669.0
+    },
+    {
+      "Constituency": "Ayodhya",
+      "Winner": "VED PRAKASH GUPTA",
+      "Winner Party": "BJP",
+      "Winner Votes": 113414.0,
+      "Vote Wastage": 117844.0
+    },
+    {
+      "Constituency": "Goshainganj",
+      "Winner": "ABHAY SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 105863.0,
+      "Vote Wastage": 135435.0
+    },
+    {
+      "Constituency": "Katehari",
+      "Winner": "Lalji Verma",
+      "Winner Party": "SP",
+      "Winner Votes": 93524.0,
+      "Vote Wastage": 154036.0
+    },
+    {
+      "Constituency": "Tanda",
+      "Winner": "Ram Murti Verma",
+      "Winner Party": "SP",
+      "Winner Votes": 95263.0,
+      "Vote Wastage": 123787.0
+    },
+    {
+      "Constituency": "Alapur",
+      "Winner": "Tribhuwan Dutt",
+      "Winner Party": "SP",
+      "Winner Votes": 74165.0,
+      "Vote Wastage": 134482.0
+    },
+    {
+      "Constituency": "Jalalpur",
+      "Winner": "Rakesh Pandey",
+      "Winner Party": "SP",
+      "Winner Votes": 93668.0,
+      "Vote Wastage": 165229.0
+    },
+    {
+      "Constituency": "Akbarpur",
+      "Winner": "RAM ACHAL RAJBHAR",
+      "Winner Party": "SP",
+      "Winner Votes": 81931.0,
+      "Vote Wastage": 132912.0
+    },
+    {
+      "Constituency": "Balha",
+      "Winner": "SAROJ SONKAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 100483.0,
+      "Vote Wastage": 114329.0
+    },
+    {
+      "Constituency": "Nanpara",
+      "Winner": "Ram Niwas Verma",
+      "Winner Party": "ADAL",
+      "Winner Votes": 87689.0,
+      "Vote Wastage": 112005.0
+    },
+    {
+      "Constituency": "Matera",
+      "Winner": "MARIYA",
+      "Winner Party": "SP",
+      "Winner Votes": 102255.0,
+      "Vote Wastage": 110117.0
+    },
+    {
+      "Constituency": "Bahraich",
+      "Winner": "ANUPMA JAISWAL",
+      "Winner Party": "BJP",
+      "Winner Votes": 107628.0,
+      "Vote Wastage": 124080.0
+    },
+    {
+      "Constituency": "Payagpur",
+      "Winner": "Subhash Tripathi",
+      "Winner Party": "BJP",
+      "Winner Votes": 110162.0,
+      "Vote Wastage": 120451.0
+    },
+    {
+      "Constituency": "Kaiserganj",
+      "Winner": "ANAND KUMAR YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 103135.0,
+      "Vote Wastage": 123482.0
+    },
+    {
+      "Constituency": "Bhinga",
+      "Winner": "Indrani Devi",
+      "Winner Party": "SP",
+      "Winner Votes": 103661.0,
+      "Vote Wastage": 127443.0
+    },
+    {
+      "Constituency": "Shrawasti",
+      "Winner": "Ram Feran",
+      "Winner Party": "BJP",
+      "Winner Votes": 98640.0,
+      "Vote Wastage": 154437.0
+    },
+    {
+      "Constituency": "Tulsipur",
+      "Winner": "KAILASH NATH",
+      "Winner Party": "BJP",
+      "Winner Votes": 87032.0,
+      "Vote Wastage": 115755.0
+    },
+    {
+      "Constituency": "Gainsari",
+      "Winner": "DR. SHIV PRATAP YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 75345.0,
+      "Vote Wastage": 114540.0
+    },
+    {
+      "Constituency": "Utraula",
+      "Winner": "RAMPRATAP VERMA URF SHASHIKANT VERMA",
+      "Winner Party": "BJP",
+      "Winner Votes": 87162.0,
+      "Vote Wastage": 109018.0
+    },
+    {
+      "Constituency": "Balrampur",
+      "Winner": "PALTOO RAM",
+      "Winner Party": "BJP",
+      "Winner Votes": 101146.0,
+      "Vote Wastage": 105574.0
+    },
+    {
+      "Constituency": "Gonda",
+      "Winner": "PRATEEK BHUSHAN SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 96528.0,
+      "Vote Wastage": 103687.0
+    },
+    {
+      "Constituency": "Katra Bazar",
+      "Winner": "Bawan Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 112291.0,
+      "Vote Wastage": 122351.0
+    },
+    {
+      "Constituency": "Gaura",
+      "Winner": "Prabhat Kumar Verma",
+      "Winner Party": "BJP",
+      "Winner Votes": 73545.0,
+      "Vote Wastage": 99012.0
+    },
+    {
+      "Constituency": "Shohratgarh",
+      "Winner": "VINAY VERMA",
+      "Winner Party": "ADAL",
+      "Winner Votes": 71062.0,
+      "Vote Wastage": 118651.0
+    },
+    {
+      "Constituency": "Kapilvastu",
+      "Winner": "SHYAMDHANI RAHI",
+      "Winner Party": "BJP",
+      "Winner Votes": 122940.0,
+      "Vote Wastage": 129416.0
+    },
+    {
+      "Constituency": "Bansi",
+      "Winner": "Jai Pratap Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 84596.0,
+      "Vote Wastage": 104158.0
+    },
+    {
+      "Constituency": "Itwa",
+      "Winner": "MATA PRASAD PANDEY",
+      "Winner Party": "SP",
+      "Winner Votes": 64253.0,
+      "Vote Wastage": 102447.0
+    },
+    {
+      "Constituency": "Domariyaganj",
+      "Winner": "SAIYADA KHATOON",
+      "Winner Party": "SP",
+      "Winner Votes": 85098.0,
+      "Vote Wastage": 121488.0
+    },
+    {
+      "Constituency": "Harraiya",
+      "Winner": "AJAY SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 88200.0,
+      "Vote Wastage": 133134.0
+    },
+    {
+      "Constituency": "Kaptanganj",
+      "Winner": "KAVINDRA CHAUDHARY",
+      "Winner Party": "SP",
+      "Winner Votes": 94273.0,
+      "Vote Wastage": 121652.0
+    },
+    {
+      "Constituency": "Rudhauli",
+      "Winner": "Rajendra Prasad Chaudhary",
+      "Winner Party": "SP",
+      "Winner Votes": 86360.0,
+      "Vote Wastage": 148171.0
+    },
+    {
+      "Constituency": "Basti Sadar",
+      "Winner": "Mahendra Nath Yadav",
+      "Winner Party": "SP",
+      "Winner Votes": 86029.0,
+      "Vote Wastage": 130064.0
+    },
+    {
+      "Constituency": "Mahadewa",
+      "Winner": "Dudhram",
+      "Winner Party": "SBSP",
+      "Winner Votes": 83350.0,
+      "Vote Wastage": 127837.0
+    },
+    {
+      "Constituency": "Menhdawal",
+      "Winner": "ANIL KUMAR TRIPATHI",
+      "Winner Party": "NINSHAD",
+      "Winner Votes": 90193.0,
+      "Vote Wastage": 152037.0
+    },
+    {
+      "Constituency": "Khalilabad",
+      "Winner": "ANKUR TIWARI",
+      "Winner Party": "BJP",
+      "Winner Votes": 76086.0,
+      "Vote Wastage": 174541.0
+    },
+    {
+      "Constituency": "Dhanghata",
+      "Winner": "GANESH CHANDRA",
+      "Winner Party": "BJP",
+      "Winner Votes": 83241.0,
+      "Vote Wastage": 132981.0
+    },
+    {
+      "Constituency": "Pharenda",
+      "Winner": "Virendra Chaudhary",
+      "Winner Party": "INC",
+      "Winner Votes": 85181.0,
+      "Vote Wastage": 126309.0
+    },
+    {
+      "Constituency": "Nautanwa",
+      "Winner": "RISHI TRIPATHI",
+      "Winner Party": "NINSHAD",
+      "Winner Votes": 90263.0,
+      "Vote Wastage": 135200.0
+    },
+    {
+      "Constituency": "Gorakhpur Rural",
+      "Winner": "BIPIN SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 126376.0,
+      "Vote Wastage": 128489.0
+    },
+    {
+      "Constituency": "Sahajanwa",
+      "Winner": "PRADEEP SHUKLA",
+      "Winner Party": "BJP",
+      "Winner Votes": 105981.0,
+      "Vote Wastage": 118508.0
+    },
+    {
+      "Constituency": "Khajani",
+      "Winner": "SHRIRAM CHAUHAN",
+      "Winner Party": "BJP",
+      "Winner Votes": 90210.0,
+      "Vote Wastage": 108618.0
+    },
+    {
+      "Constituency": "Chauri-Chaura",
+      "Winner": "SARVAN KUMAR NISHAD",
+      "Winner Party": "BJP",
+      "Winner Votes": 91958.0,
+      "Vote Wastage": 113994.0
+    },
+    {
+      "Constituency": "Bansgaon",
+      "Winner": "DR. VIMLESH PASWAN",
+      "Winner Party": "BJP",
+      "Winner Votes": 87224.0,
+      "Vote Wastage": 101318.0
+    },
+    {
+      "Constituency": "Chillupar",
+      "Winner": "RAJESH TRIPATHI",
+      "Winner Party": "BJP",
+      "Winner Votes": 96777.0,
+      "Vote Wastage": 131007.0
+    },
+    {
+      "Constituency": "Khadda",
+      "Winner": "VIVEKA NAND PANDEY",
+      "Winner Party": "NINSHAD",
+      "Winner Votes": 88291.0,
+      "Vote Wastage": 116668.0
+    },
+    {
+      "Constituency": "Padrauna",
+      "Winner": "MANISH KUMAR URF MANTU",
+      "Winner Party": "BJP",
+      "Winner Votes": 114496.0,
+      "Vote Wastage": 115411.0
+    },
+    {
+      "Constituency": "Rudrapur",
+      "Winner": "JAI PRAKASH NISHAD",
+      "Winner Party": "BJP",
+      "Winner Votes": 78187.0,
+      "Vote Wastage": 103676.0
+    },
+    {
+      "Constituency": "Pathardeva",
+      "Winner": "SURYA PRATAP SHAHI",
+      "Winner Party": "BJP",
+      "Winner Votes": 93858.0,
+      "Vote Wastage": 107325.0
+    },
+    {
+      "Constituency": "Rampur Karkhana",
+      "Winner": "SURENDRA CHAURASIA",
+      "Winner Party": "BJP",
+      "Winner Votes": 90742.0,
+      "Vote Wastage": 116173.0
+    },
+    {
+      "Constituency": "Bhatpar Rani",
+      "Winner": "SABHAKUNWAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 91282.0,
+      "Vote Wastage": 103000.0
+    },
+    {
+      "Constituency": "Salempur",
+      "Winner": "BIJAYLAXMI GAUTAM",
+      "Winner Party": "BJP",
+      "Winner Votes": 82047.0,
+      "Vote Wastage": 95753.0
+    },
+    {
+      "Constituency": "Barhaj",
+      "Winner": "DEEPAK KUMAR MISHRA \"SHAKA\"",
+      "Winner Party": "BJP",
+      "Winner Votes": 85758.0,
+      "Vote Wastage": 99350.0
+    },
+    {
+      "Constituency": "Atrauliya",
+      "Winner": "DR. SANGRAM YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 91502.0,
+      "Vote Wastage": 139839.0
+    },
+    {
+      "Constituency": "Gopalpur",
+      "Winner": "NAFEES AHMAD",
+      "Winner Party": "SP",
+      "Winner Votes": 84401.0,
+      "Vote Wastage": 122117.0
+    },
+    {
+      "Constituency": "Sagri",
+      "Winner": "HRIDAY NARAYAN SINGH PATEL",
+      "Winner Party": "SP",
+      "Winner Votes": 83093.0,
+      "Vote Wastage": 111247.0
+    },
+    {
+      "Constituency": "Mubarakpur",
+      "Winner": "AKHILESH",
+      "Winner Party": "SP",
+      "Winner Votes": 80726.0,
+      "Vote Wastage": 143412.0
+    },
+    {
+      "Constituency": "Azamgarh",
+      "Winner": "DURGA PRASAD YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 100813.0,
+      "Vote Wastage": 135517.0
+    },
+    {
+      "Constituency": "Nizamabad",
+      "Winner": "ALAM BADI",
+      "Winner Party": "SP",
+      "Winner Votes": 79835.0,
+      "Vote Wastage": 104877.0
+    },
+    {
+      "Constituency": "Phoolpur-Pawai",
+      "Winner": "RAMAKANT YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 81164.0,
+      "Vote Wastage": 112080.0
+    },
+    {
+      "Constituency": "Didarganj",
+      "Winner": "KAMLAKANT RAJBHAR URF PAPPU",
+      "Winner Party": "SP",
+      "Winner Votes": 74342.0,
+      "Vote Wastage": 126615.0
+    },
+    {
+      "Constituency": "Lalganj",
+      "Winner": "BECHAI",
+      "Winner Party": "SP",
+      "Winner Votes": 83767.0,
+      "Vote Wastage": 134890.0
+    },
+    {
+      "Constituency": "Mehnagar",
+      "Winner": "PUJA",
+      "Winner Party": "SP",
+      "Winner Votes": 86960.0,
+      "Vote Wastage": 134056.0
+    },
+    {
+      "Constituency": "Madhuban",
+      "Winner": "RAM BILASH CHAUHAN",
+      "Winner Party": "BJP",
+      "Winner Votes": 79032.0,
+      "Vote Wastage": 145226.0
+    },
+    {
+      "Constituency": "Ghosi",
+      "Winner": "DARA SINGH CHAUHAN",
+      "Winner Party": "SP",
+      "Winner Votes": 108430.0,
+      "Vote Wastage": 148425.0
+    },
+    {
+      "Constituency": "Muhammadabad-Gohna",
+      "Winner": "RAJENDRA KUMAR",
+      "Winner Party": "SP",
+      "Winner Votes": 94688.0,
+      "Vote Wastage": 133603.0
+    },
+    {
+      "Constituency": "Mau",
+      "Winner": "ABBAS ANSARI",
+      "Winner Party": "SBSP",
+      "Winner Votes": 124691.0,
+      "Vote Wastage": 154305.0
+    },
+    {
+      "Constituency": "Belthara Road",
+      "Winner": "Hansu Ram",
+      "Winner Party": "SBSP",
+      "Winner Votes": 78995.0,
+      "Vote Wastage": 120622.0
+    },
+    {
+      "Constituency": "Rasara",
+      "Winner": "UMASHANKAR SINGH",
+      "Winner Party": "BSP",
+      "Winner Votes": 87887.0,
+      "Vote Wastage": 112685.0
+    },
+    {
+      "Constituency": "Sikanderpur",
+      "Winner": "ZIYAUDDIN RIZVI",
+      "Winner Party": "SP",
+      "Winner Votes": 75446.0,
+      "Vote Wastage": 101025.0
+    },
+    {
+      "Constituency": "Phephana",
+      "Winner": "SANGRAM SINGH",
+      "Winner Party": "SP",
+      "Winner Votes": 92516.0,
+      "Vote Wastage": 97146.0
+    },
+    {
+      "Constituency": "Bansdih",
+      "Winner": "KETAKEE SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 103305.0,
+      "Vote Wastage": 113393.0
+    },
+    {
+      "Constituency": "Bairia",
+      "Winner": "JAI PRAKASH ANCHAL",
+      "Winner Party": "SP",
+      "Winner Votes": 71241.0,
+      "Vote Wastage": 105413.0
+    },
+    {
+      "Constituency": "Badlapur",
+      "Winner": "RAMESH CHANDRA MISHRA",
+      "Winner Party": "BJP",
+      "Winner Votes": 82391.0,
+      "Vote Wastage": 125028.0
+    },
+    {
+      "Constituency": "Shahganj",
+      "Winner": "Ramesh",
+      "Winner Party": "NINSHAD",
+      "Winner Votes": 87233.0,
+      "Vote Wastage": 153687.0
+    },
+    {
+      "Constituency": "Jaunpur",
+      "Winner": "GIRISH CHANDRA YADAV",
+      "Winner Party": "BJP",
+      "Winner Votes": 97760.0,
+      "Vote Wastage": 150687.0
+    },
+    {
+      "Constituency": "Malhani",
+      "Winner": "LUCKY YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 97357.0,
+      "Vote Wastage": 131338.0
+    },
+    {
+      "Constituency": "Mungra Badshahpur",
+      "Winner": "PANKAJ",
+      "Winner Party": "SP",
+      "Winner Votes": 92048.0,
+      "Vote Wastage": 127652.0
+    },
+    {
+      "Constituency": "Machhlishahr",
+      "Winner": "DR. RAGINI",
+      "Winner Party": "SP",
+      "Winner Votes": 91659.0,
+      "Vote Wastage": 126653.0
+    },
+    {
+      "Constituency": "Mariyahu",
+      "Winner": "DR R.K. PATEL",
+      "Winner Party": "ADAL",
+      "Winner Votes": 76007.0,
+      "Vote Wastage": 117657.0
+    },
+    {
+      "Constituency": "Zafrabad",
+      "Winner": "JAGDISH NARAYAN",
+      "Winner Party": "SBSP",
+      "Winner Votes": 90620.0,
+      "Vote Wastage": 132731.0
+    },
+    {
+      "Constituency": "Kerakat",
+      "Winner": "Tufani Saroj",
+      "Winner Party": "SP",
+      "Winner Votes": 94022.0,
+      "Vote Wastage": 146236.0
+    },
+    {
+      "Constituency": "Jakhanian",
+      "Winner": "BEDI",
+      "Winner Party": "SBSP",
+      "Winner Votes": 113378.0,
+      "Vote Wastage": 141230.0
+    },
+    {
+      "Constituency": "Saidpur",
+      "Winner": "ANKIT BHARTI",
+      "Winner Party": "SP",
+      "Winner Votes": 109711.0,
+      "Vote Wastage": 126925.0
+    },
+    {
+      "Constituency": "Ghazipur",
+      "Winner": "JAIKISHAN",
+      "Winner Party": "SP",
+      "Winner Votes": 92472.0,
+      "Vote Wastage": 134123.0
+    },
+    {
+      "Constituency": "Jangipur",
+      "Winner": "VIRENDRA KUMAR YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 103125.0,
+      "Vote Wastage": 127340.0
+    },
+    {
+      "Constituency": "Zahoorabad",
+      "Winner": "OM PRAKASH RAJBHAR",
+      "Winner Party": "SBSP",
+      "Winner Votes": 114860.0,
+      "Vote Wastage": 132406.0
+    },
+    {
+      "Constituency": "Mohammadabad",
+      "Winner": "SUHAIB Alias MANNU ANSARI",
+      "Winner Party": "SP",
+      "Winner Votes": 111443.0,
+      "Vote Wastage": 134771.0
+    },
+    {
+      "Constituency": "Zamania",
+      "Winner": "OM PRAKASH",
+      "Winner Party": "SP",
+      "Winner Votes": 94695.0,
+      "Vote Wastage": 138695.0
+    },
+    {
+      "Constituency": "Mughalsarai",
+      "Winner": "RAMESH JAISWAL",
+      "Winner Party": "BJP",
+      "Winner Votes": 102216.0,
+      "Vote Wastage": 138860.0
+    },
+    {
+      "Constituency": "Sakaldiha",
+      "Winner": "PRABHU NARAYAN SINGH YADAV",
+      "Winner Party": "SP",
+      "Winner Votes": 86328.0,
+      "Vote Wastage": 125790.0
+    },
+    {
+      "Constituency": "Saiyadraja",
+      "Winner": "SUSHIL SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 87891.0,
+      "Vote Wastage": 122140.0
+    },
+    {
+      "Constituency": "Chakia",
+      "Winner": "KAILASH",
+      "Winner Party": "BJP",
+      "Winner Votes": 97812.0,
+      "Vote Wastage": 148982.0
+    },
+    {
+      "Constituency": "Pindra",
+      "Winner": "AWADHESH KUMAR SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 84325.0,
+      "Vote Wastage": 136222.0
+    },
+    {
+      "Constituency": "Ajagara",
+      "Winner": "TRIBHUWAN RAM",
+      "Winner Party": "BJP",
+      "Winner Votes": 101088.0,
+      "Vote Wastage": 143986.0
+    },
+    {
+      "Constituency": "Shivpur",
+      "Winner": "Anil Rajbhar",
+      "Winner Party": "BJP",
+      "Winner Votes": 115231.0,
+      "Vote Wastage": 136560.0
+    },
+    {
+      "Constituency": "Rohaniya",
+      "Winner": "DR. SUNIL PATEL",
+      "Winner Party": "ADAL",
+      "Winner Votes": 118663.0,
+      "Vote Wastage": 128130.0
+    },
+    {
+      "Constituency": "Sevapuri",
+      "Winner": "Neel Ratan Singh",
+      "Winner Party": "BJP",
+      "Winner Votes": 105163.0,
+      "Vote Wastage": 115747.0
+    },
+    {
+      "Constituency": "Bhadohi",
+      "Winner": "ZAHID",
+      "Winner Party": "SP",
+      "Winner Votes": 100738.0,
+      "Vote Wastage": 149627.0
+    },
+    {
+      "Constituency": "Gyanpur",
+      "Winner": "VIPUL DUBEY",
+      "Winner Party": "NINSHAD",
+      "Winner Votes": 73446.0,
+      "Vote Wastage": 141808.0
+    },
+    {
+      "Constituency": "Aurai",
+      "Winner": "Dinanath Bhashkar",
+      "Winner Party": "BJP",
+      "Winner Votes": 93691.0,
+      "Vote Wastage": 131054.0
+    },
+    {
+      "Constituency": "Chhanbey",
+      "Winner": "RAHUL PRAKASH KOL",
+      "Winner Party": "ADAL",
+      "Winner Votes": 102502.0,
+      "Vote Wastage": 114237.0
+    },
+    {
+      "Constituency": "Majhawan",
+      "Winner": "DR. VINOD KUMAR BIND",
+      "Winner Party": "NINSHAD",
+      "Winner Votes": 103235.0,
+      "Vote Wastage": 142156.0
+    },
+    {
+      "Constituency": "Marihan",
+      "Winner": "RAMA SHANKAR SINGH",
+      "Winner Party": "BJP",
+      "Winner Votes": 105377.0,
+      "Vote Wastage": 131356.0
+    },
+    {
+      "Constituency": "Ghorawal",
+      "Winner": "Dr. Anil Kumar Maurya",
+      "Winner Party": "BJP",
+      "Winner Votes": 101277.0,
+      "Vote Wastage": 149065.0
+    },
+    {
+      "Constituency": "Robertsganj",
+      "Winner": "Bhupesh Chaubey",
+      "Winner Party": "BJP",
+      "Winner Votes": 84496.0,
+      "Vote Wastage": 125228.0
+    },
+    {
+      "Constituency": "Obra",
+      "Winner": "SANJEEV KUMAR GOND",
+      "Winner Party": "BJP",
+      "Winner Votes": 78364.0,
+      "Vote Wastage": 84775.0
+    },
+    {
+      "Constituency": "Duddhi",
+      "Winner": "RAMDULAR",
+      "Winner Party": "BJP",
+      "Winner Votes": 84407.0,
+      "Vote Wastage": 120062.0
+    }
+  ]
+}
