@@ -1,0 +1,126 @@
+{
+  "Election": "Delhi Legislative Election 2020",
+  "No of constituency where vote wastage won": 17,
+  "No of constituency": 70,
+  "Constituency data where vote wastage won": [
+    {
+      "Constituency": "ADARSH NAGAR",
+      "Winner": "PAWAN SHARMA",
+      "Winner Party": "AAAP",
+      "Winner Votes": 46892.0,
+      "Vote Wastage": 56860.0
+    },
+    {
+      "Constituency": "BADLI",
+      "Winner": "AJESH YADAV",
+      "Winner Party": "AAAP",
+      "Winner Votes": 69427.0,
+      "Vote Wastage": 70416.0
+    },
+    {
+      "Constituency": "BAWANA(SC)",
+      "Winner": "JAI BHAGWAN",
+      "Winner Party": "AAAP",
+      "Winner Votes": 95715.0,
+      "Vote Wastage": 102127.0
+    },
+    {
+      "Constituency": "KIRARI",
+      "Winner": "RITURAJ GOVIND",
+      "Winner Party": "AAAP",
+      "Winner Votes": 86312.0,
+      "Vote Wastage": 87120.0
+    },
+    {
+      "Constituency": "NANGLOI JAT",
+      "Winner": "RAGHUVINDER SHOKEEN",
+      "Winner Party": "AAAP",
+      "Winner Votes": 74444.0,
+      "Vote Wastage": 76828.0
+    },
+    {
+      "Constituency": "SHALIMAR BAGH",
+      "Winner": "BANDANA KUMARI",
+      "Winner Party": "AAAP",
+      "Winner Votes": 57707.0,
+      "Vote Wastage": 59096.0
+    },
+    {
+      "Constituency": "NAJAFGARH",
+      "Winner": "KAILASH GAHLOT",
+      "Winner Party": "AAAP",
+      "Winner Votes": 81507.0,
+      "Vote Wastage": 81973.0
+    },
+    {
+      "Constituency": "BIJWASAN",
+      "Winner": "BHUPINDER SINGH JOON",
+      "Winner Party": "AAAP",
+      "Winner Votes": 57271.0,
+      "Vote Wastage": 67701.0
+    },
+    {
+      "Constituency": "DELHI CANTT",
+      "Winner": "Virender Singh Kadian",
+      "Winner Party": "AAAP",
+      "Winner Votes": 28971.0,
+      "Vote Wastage": 29955.0
+    },
+    {
+      "Constituency": "KASTURBA NAGAR",
+      "Winner": "MADAN LAL",
+      "Winner Party": "AAAP",
+      "Winner Votes": 37100.0,
+      "Vote Wastage": 54610.0
+    },
+    {
+      "Constituency": "CHHATARPUR",
+      "Winner": "KARTAR SINGH TANWAR",
+      "Winner Party": "AAAP",
+      "Winner Votes": 69411.0,
+      "Vote Wastage": 71872.0
+    },
+    {
+      "Constituency": "BADARPUR",
+      "Winner": "RAMVIR SINGH BIDHURI",
+      "Winner Party": "BJP",
+      "Winner Votes": 90082.0,
+      "Vote Wastage": 101378.0
+    },
+    {
+      "Constituency": "PATPARGANJ",
+      "Winner": "Manish Sisodia",
+      "Winner Party": "AAAP",
+      "Winner Votes": 70163.0,
+      "Vote Wastage": 72083.0
+    },
+    {
+      "Constituency": "LAXMI NAGAR",
+      "Winner": "ABHAY VERMA",
+      "Winner Party": "BJP",
+      "Winner Votes": 65735.0,
+      "Vote Wastage": 71085.0
+    },
+    {
+      "Constituency": "KRISHNA NAGAR",
+      "Winner": "S. K. Bagga (Advocate)",
+      "Winner Party": "AAAP",
+      "Winner Votes": 72111.0,
+      "Vote Wastage": 74744.0
+    },
+    {
+      "Constituency": "GANDHI NAGAR",
+      "Winner": "ANIL KUMAR BAJPAI",
+      "Winner Party": "BJP",
+      "Winner Votes": 48824.0,
+      "Vote Wastage": 65683.0
+    },
+    {
+      "Constituency": "SHAHDARA",
+      "Winner": "RAM NIWAS GOEL",
+      "Winner Party": "AAAP",
+      "Winner Votes": 62103.0,
+      "Vote Wastage": 63280.0
+    }
+  ]
+}
