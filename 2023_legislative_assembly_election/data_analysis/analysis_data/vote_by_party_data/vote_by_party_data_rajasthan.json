@@ -1,0 +1,2523 @@
+{
+  "NoOfConstituencies": 199,
+  "ConstituencyData": [
+    {
+      "Constituency": "Adarsh Nagar - 53",
+      "VotesByParty": {
+        "Indian National Congress": 103421,
+        "Bharatiya Janata Party": 89348,
+        "Aam Aadmi Party": 1122,
+        "Independent": 1767,
+        "Aazad Samaj Party (Kanshi Ram)": 633,
+        "Parivartan Party of India": 287,
+        "All India Majlis-E-Ittehadul Muslimeen": 210,
+        "Rashtriya Janata Sena": 52,
+        "None of the Above": 1377
+      }
+    },
+    {
+      "Constituency": "Ahore - 141",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 83259,
+        "Indian National Congress": 72044,
+        "Independent": 6015,
+        "Bahujan Samaj Party": 1370,
+        "Abhinav Rajasthan Party": 1045,
+        "Aazad Samaj Party (Kanshi Ram)": 849,
+        "Gana Suraksha Party": 188,
+        "None of the Above": 2999
+      }
+    },
+    {
+      "Constituency": "Ajmer North  - 100",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 57895,
+        "Indian National Congress": 53251,
+        "Independent": 28987,
+        "Aam Aadmi Party": 688,
+        "Right to Recall Party": 417,
+        "Bahujan Samaj Party": 301,
+        "Rashtriya Loktantrik Party": 216,
+        "Ambedkarite Party of India": 183,
+        "None of the Above": 1231
+      }
+    },
+    {
+      "Constituency": "Ajmer South  - 101",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 71319,
+        "Indian National Congress": 66873,
+        "Independent": 456,
+        "Rashtriya Loktantrik Party": 440,
+        "Aam Aadmi Party": 362,
+        "Bahujan Samaj Party": 297,
+        "Right to Recall Party": 220,
+        "National Future Party": 208,
+        "Republican Party of India": 155,
+        "None of the Above": 1674
+      }
+    },
+    {
+      "Constituency": "Alwar Rural - 65",
+      "VotesByParty": {
+        "Indian National Congress": 108584,
+        "Bharatiya Janata Party": 81251,
+        "Bahujan Samaj Party": 1617,
+        "Aam Aadmi Party": 1604,
+        "Rashtriya Loktantrik Party": 979,
+        "Independent": 1393,
+        "None of the Above": 1252
+      }
+    },
+    {
+      "Constituency": "Alwar Urban  - 66",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 90504,
+        "Indian National Congress": 81417,
+        "Bahujan Samaj Party": 1076,
+        "Independent": 1572,
+        "None of the Above": 1294
+      }
+    },
+    {
+      "Constituency": "Amber - 47",
+      "VotesByParty": {
+        "Indian National Congress": 108914,
+        "Bharatiya Janata Party": 99822,
+        "Rashtriya Loktantrik Party": 4326,
+        "Independent": 9576,
+        "Aam Aadmi Party": 1412,
+        "Bahujan Samaj Party": 879,
+        "Aam Aadmi Parivartan Party": 689,
+        "None of the Above": 1106
+      }
+    },
+    {
+      "Constituency": "Anta - 193",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 87390,
+        "Indian National Congress": 81529,
+        "Aam Aadmi Party": 1334,
+        "Independent": 3076,
+        "Rashtriya Loktantrik Party": 934,
+        "Bahujan Samaj Party": 530,
+        "None of the Above": 1271
+      }
+    },
+    {
+      "Constituency": "Anupgarh - 6",
+      "VotesByParty": {
+        "Indian National Congress": 102746,
+        "Bharatiya Janata Party": 64865,
+        "Independent": 10933,
+        "Communist Party of India  (Marxist)": 8886,
+        "Bahujan Samaj Party": 1637,
+        "Rashtriya Loktantrik Party": 1609,
+        "Majdoor Kisan Akali Dal": 669,
+        "None of the Above": 1847
+      }
+    },
+    {
+      "Constituency": "Asind - 177",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 74586,
+        "Indian National Congress": 73060,
+        "Rashtriya Loktantrik Party": 56904,
+        "Independent": 10724,
+        "Aam Aadmi Party": 1784,
+        "Indian Peoples Green Party": 1142,
+        "Ambedkarite Party of India": 719,
+        "Bahujan Samaj Party": 704,
+        "Right to Recall Party": 362,
+        "None of the Above": 2029
+      }
+    },
+    {
+      "Constituency": "Aspur - 159",
+      "VotesByParty": {
+        "Bharat Adivasi Party": 93742,
+        "Bharatiya Janata Party": 64802,
+        "Indian National Congress": 31630,
+        "Aam Aadmi Party": 3043,
+        "Independent": 3011,
+        "Bahujan Samaj Party": 1401,
+        "None of the Above": 3086
+      }
+    },
+    {
+      "Constituency": "Bagidora - 165",
+      "VotesByParty": {
+        "Indian National Congress": 101742,
+        "Bharat Adivasi Party": 60387,
+        "Bharatiya Janata Party": 45140,
+        "Bhartiya Tribal Party": 8517,
+        "Bahujan Samaj Party": 2759,
+        "None of the Above": 4335
+      }
+    },
+    {
+      "Constituency": "Bagru - 56",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 145170,
+        "Indian National Congress": 99920,
+        "Rashtriya Loktantrik Party": 3732,
+        "Aam Aadmi Party": 2194,
+        "Independent": 2194,
+        "Bahujan Samaj Party": 470,
+        "Jannayak Janta Party": 180,
+        "Peoples Party of India (Democratic)": 172,
+        "Rashtriya Janata Sena": 158,
+        "Lok Janshakti Party(Ram Vilas)": 151,
+        "None of the Above": 2407
+      }
+    },
+    {
+      "Constituency": "Bali - 120",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 107938,
+        "Indian National Congress": 97445,
+        "Aam Aadmi Party": 5823,
+        "Aazad Samaj Party (Kanshi Ram)": 2735,
+        "Independent": 1828,
+        "Bharat Adivasi Party": 1259,
+        "Bhartiya Tribal Party": 805,
+        "Bahujan Samaj Party": 589,
+        "Bharatiya Nav Kranti Party": 454,
+        "None of the Above": 3144
+      }
+    },
+    {
+      "Constituency": "Bamanwas - 91",
+      "VotesByParty": {
+        "Indian National Congress": 80378,
+        "Bharatiya Janata Party": 72513,
+        "Bahujan Samaj Party": 1881,
+        "Independent": 2382,
+        "None of the Above": 1556
+      }
+    },
+    {
+      "Constituency": "Bandikui - 85",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 92067,
+        "Indian National Congress": 79687,
+        "Bahujan Samaj Party": 3308,
+        "Rashtriya Loktantrik Party": 1547,
+        "Independent": 1977,
+        "None of the Above": 980
+      }
+    },
+    {
+      "Constituency": "Bansur - 63",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 61605,
+        "Aazad Samaj Party (Kanshi Ram)": 54185,
+        "Indian National Congress": 45639,
+        "Bahujan Samaj Party": 12580,
+        "Independent": 6394,
+        "None of the Above": 1623
+      }
+    },
+    {
+      "Constituency": "Banswara - 164",
+      "VotesByParty": {
+        "Indian National Congress": 93017,
+        "Bharatiya Janata Party": 91617,
+        "Bharat Adivasi Party": 34666,
+        "Independent": 3327,
+        "Bahujan Samaj Party": 1910,
+        "Bhartiya Tribal Party": 1387,
+        "None of the Above": 3528
+      }
+    },
+    {
+      "Constituency": "Baran Atru - 195",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 101530,
+        "Indian National Congress": 81776,
+        "Bahujan Samaj Party": 978,
+        "Aazad Samaj Party (Kanshi Ram)": 972,
+        "Independent": 765,
+        "Peoples Party of India (Democratic)": 469,
+        "None of the Above": 2091
+      }
+    },
+    {
+      "Constituency": "Bari - 78",
+      "VotesByParty": {
+        "Bahujan Samaj Party": 106060,
+        "Bharatiya Janata Party": 78636,
+        "Indian National Congress": 11601,
+        "Aam Aadmi Party": 1148,
+        "Independent": 2752,
+        "Rashtriya Loktantrik Party": 429,
+        "None of the Above": 941
+      }
+    },
+    {
+      "Constituency": "Bari Sadri - 171",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 103940,
+        "Indian National Congress": 92108,
+        "Bharat Adivasi Party": 11833,
+        "Independent": 4776,
+        "Bahujan Samaj Party": 1393,
+        "Aazad Samaj Party (Kanshi Ram)": 1014,
+        "None of the Above": 3580
+      }
+    },
+    {
+      "Constituency": "Barmer - 135",
+      "VotesByParty": {
+        "Independent": 108970,
+        "Indian National Congress": 93611,
+        "Bharatiya Janata Party": 5355,
+        "Aam Aadmi Party": 2282,
+        "Bahujan Samaj Party": 2053,
+        "Rashtriya Loktantrik Party": 1682,
+        "Bahujan Mukti Party": 1404,
+        "None of the Above": 1559
+      }
+    },
+    {
+      "Constituency": "Baseri - 77",
+      "VotesByParty": {
+        "Indian National Congress": 86145,
+        "Bharatiya Janata Party": 59035,
+        "Independent": 3251,
+        "Bahujan Samaj Party": 1133,
+        "Rajasthan Vikas Party": 747,
+        "None of the Above": 1045
+      }
+    },
+    {
+      "Constituency": "Bassi - 57",
+      "VotesByParty": {
+        "Indian National Congress": 88043,
+        "Bharatiya Janata Party": 81729,
+        "Independent": 12541,
+        "Rashtriya Loktantrik Party": 834,
+        "Bahujan Samaj Party": 670,
+        "Aam Aadmi Party": 644,
+        "None of the Above": 1411
+      }
+    },
+    {
+      "Constituency": "Bayana - 76",
+      "VotesByParty": {
+        "Independent": 108767,
+        "Indian National Congress": 65107,
+        "Bharatiya Janata Party": 14398,
+        "Bahujan Samaj Party": 1620,
+        "Aam Aadmi Party": 642,
+        "Rashtriya Loktantrik Party": 527,
+        "Bharatiya Yuva Jan Ekta Party": 431,
+        "None of the Above": 1003
+      }
+    },
+    {
+      "Constituency": "Baytoo - 136",
+      "VotesByParty": {
+        "Indian National Congress": 76821,
+        "Rashtriya Loktantrik Party": 75911,
+        "Bharatiya Janata Party": 51720,
+        "Independent": 4850,
+        "Bharatiya Samta Samaj Party": 1388,
+        "All India Majlis-E-Ittehadul Muslimeen": 507,
+        "None of the Above": 2173
+      }
+    },
+    {
+      "Constituency": "Beawar - 103",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 67623,
+        "Indian National Congress": 58745,
+        "Independent": 49678,
+        "Rashtriya Vyapari Party": 2708,
+        "Bahujan Samaj Party": 893,
+        "Indian Peoples Green Party": 312,
+        "None of the Above": 1771
+      }
+    },
+    {
+      "Constituency": "Begun - 168",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 136714,
+        "Indian National Congress": 86053,
+        "Rashtriya Loktantrik Party": 4299,
+        "Bahujan Samaj Party": 2297,
+        "Independent": 2094,
+        "Right to Recall Party": 1133,
+        "Aam Aadmi Party": 998,
+        "None of the Above": 2103
+      }
+    },
+    {
+      "Constituency": "Behror - 62",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 70400,
+        "Rashtriya Janata Sena": 53177,
+        "Indian National Congress": 46668,
+        "Aam Aadmi Party": 2612,
+        "Indian Peoples Green Party": 692,
+        "Bahujan Mukti Party": 685,
+        "Independent": 541,
+        "None of the Above": 1091
+      }
+    },
+    {
+      "Constituency": "Bhadra - 11",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 102748,
+        "Communist Party of India  (Marxist)": 101616,
+        "Independent": 14174,
+        "Indian National Congress": 3771,
+        "Aam Aadmi Party": 2252,
+        "Bahujan Samaj Party": 1546,
+        "Aazad Samaj Party (Kanshi Ram)": 1501,
+        "Jannayak Janta Party": 1231,
+        "None of the Above": 1130
+      }
+    },
+    {
+      "Constituency": "Bharatpur - 73",
+      "VotesByParty": {
+        "Rashtriya Lok Dal": 81878,
+        "Bharatiya Janata Party": 76491,
+        "Bahujan Samaj Party": 25231,
+        "Jannayak Janta Party": 742,
+        "Lok Janshakti Party(Ram Vilas)": 690,
+        "Independent": 2274,
+        "Abhinav Loktantra Party": 499,
+        "None of the Above": 1472
+      }
+    },
+    {
+      "Constituency": "Bhilwara - 180",
+      "VotesByParty": {
+        "Independent": 71828,
+        "Indian National Congress": 59317,
+        "Bharatiya Janata Party": 55625,
+        "Social Democratic Party Of India": 2309,
+        "Bahujan Samaj Party": 558,
+        "Right to Recall Party": 193,
+        "None of the Above": 1257
+      }
+    },
+    {
+      "Constituency": "Bhim - 173",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 93905,
+        "Indian National Congress": 62137,
+        "Bahujan Samaj Party": 1334,
+        "Aam Aadmi Party": 1288,
+        "Independent": 2974,
+        "Lok Janshakti Party(Ram Vilas)": 242,
+        "None of the Above": 1548
+      }
+    },
+    {
+      "Constituency": "Bhinmal - 143",
+      "VotesByParty": {
+        "Indian National Congress": 97157,
+        "Bharatiya Janata Party": 96130,
+        "Independent": 3849,
+        "Abhinav Rajasthan Party": 2100,
+        "None of the Above": 4084
+      }
+    },
+    {
+      "Constituency": "Bhopalgarh - 126",
+      "VotesByParty": {
+        "Indian National Congress": 86224,
+        "Rashtriya Loktantrik Party": 61926,
+        "Bharatiya Janata Party": 49540,
+        "Abhinav Rajasthan Party": 1211,
+        "Bahujan Samaj Party": 1090,
+        "Indian Peoples Green Party": 890,
+        "None of the Above": 1848
+      }
+    },
+    {
+      "Constituency": "Bikaner East  - 14",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 89917,
+        "Indian National Congress": 70614,
+        "Rashtriya Loktantrik Party": 3696,
+        "Bahujan Samaj Party": 962,
+        "Independent": 1789,
+        "Public Political Party": 579,
+        "Abhinav Rajasthan Party": 140,
+        "None of the Above": 1725
+      }
+    },
+    {
+      "Constituency": "Bikaner West  - 13",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 98648,
+        "Indian National Congress": 78454,
+        "Independent": 1329,
+        "Aam Aadmi Party": 622,
+        "Bahujan Samaj Party": 245,
+        "Jan Sangharsh Virat Party": 101,
+        "None of the Above": 1584
+      }
+    },
+    {
+      "Constituency": "Bilara - 131",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 90766,
+        "Indian National Congress": 80342,
+        "Rashtriya Loktantrik Party": 20478,
+        "Bahujan Samaj Party": 1271,
+        "Independent": 1547,
+        "None of the Above": 1844
+      }
+    },
+    {
+      "Constituency": "Bundi - 186",
+      "VotesByParty": {
+        "Indian National Congress": 100107,
+        "Bharatiya Janata Party": 81293,
+        "Independent": 47350,
+        "Aazad Samaj Party (Kanshi Ram)": 2272,
+        "Aam Aadmi Party": 1924,
+        "Bahujan Samaj Party": 1344,
+        "Abhinav Loktantra Party": 1336,
+        "None of the Above": 3428
+      }
+    },
+    {
+      "Constituency": "Chaksu - 58",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 104064,
+        "Indian National Congress": 54684,
+        "Rashtriya Loktantrik Party": 14068,
+        "Bahujan Samaj Party": 1350,
+        "Independent": 1244,
+        "None of the Above": 1147
+      }
+    },
+    {
+      "Constituency": "Chhabra - 196",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 65000,
+        "Indian National Congress": 59892,
+        "Independent": 63589,
+        "Aam Aadmi Party": 2918,
+        "Abhinav Loktantra Party": 1674,
+        "Bahujan Samaj Party": 1327,
+        "Parivartan Party of India": 1082,
+        "None of the Above": 3101
+      }
+    },
+    {
+      "Constituency": "Chittorgarh - 169",
+      "VotesByParty": {
+        "Independent": 100066,
+        "Indian National Congress": 91623,
+        "Bharatiya Janata Party": 19913,
+        "Abhinav Loktantra Party": 1537,
+        "Pehchan People\u2019s Party": 1426,
+        "Bahujan Samaj Party": 987,
+        "None of the Above": 1527
+      }
+    },
+    {
+      "Constituency": "Chohtan - 140",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 103205,
+        "Indian National Congress": 101777,
+        "Rashtriya Loktantrik Party": 22149,
+        "Bahujan Samaj Party": 4572,
+        "Independent": 1847,
+        "None of the Above": 3901
+      }
+    },
+    {
+      "Constituency": "Chomu - 43",
+      "VotesByParty": {
+        "Indian National Congress": 85746,
+        "Bharatiya Janata Party": 80051,
+        "Rashtriya Loktantrik Party": 42369,
+        "Bahujan Samaj Party": 1399,
+        "Aam Aadmi Party": 1051,
+        "Independent": 1960,
+        "None of the Above": 987
+      }
+    },
+    {
+      "Constituency": "Chorasi - 161",
+      "VotesByParty": {
+        "Bharat Adivasi Party": 111150,
+        "Bharatiya Janata Party": 41984,
+        "Indian National Congress": 28120,
+        "Independent": 12528,
+        "Bhartiya Tribal Party": 3318,
+        "Indian Peoples Green Party": 1969,
+        "Aam Aadmi Party": 1914,
+        "Bahujan Samaj Party": 1362,
+        "None of the Above": 3795
+      }
+    },
+    {
+      "Constituency": "Churu - 22",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 99432,
+        "Indian National Congress": 92558,
+        "Aam Aadmi Party": 1418,
+        "Rashtriya Loktantrik Party": 849,
+        "Bahujan Samaj Party": 764,
+        "National Janmandal Party": 760,
+        "Independent": 1141,
+        "Abhinav Rajasthan Party": 608,
+        "None of the Above": 1151
+      }
+    },
+    {
+      "Constituency": "Civil Lines - 51",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 98661,
+        "Indian National Congress": 70332,
+        "Aam Aadmi Party": 1385,
+        "Rajasthan Democratic Front": 598,
+        "Rashtriya Loktantrik Party": 389,
+        "Independent": 743,
+        "Indian Peoples Green Party": 127,
+        "None of the Above": 1216
+      }
+    },
+    {
+      "Constituency": "Dag - 197",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 99251,
+        "Indian National Congress": 76990,
+        "Independent": 23701,
+        "Aazad Samaj Party (Kanshi Ram)": 4241,
+        "Aam Aadmi Party": 3539,
+        "Bahujan Samaj Party": 2219,
+        "None of the Above": 3225
+      }
+    },
+    {
+      "Constituency": "Danta Ramgarh - 36",
+      "VotesByParty": {
+        "Indian National Congress": 99413,
+        "Bharatiya Janata Party": 91416,
+        "Communist Party of India  (Marxist)": 20891,
+        "Jannayak Janta Party": 1567,
+        "Ummeed Party of India": 1542,
+        "Aam Aadmi Party": 955,
+        "Bahujan Samaj Party": 856,
+        "Independent": 2719,
+        "None of the Above": 1400
+      }
+    },
+    {
+      "Constituency": "Dausa - 88",
+      "VotesByParty": {
+        "Indian National Congress": 98238,
+        "Bharatiya Janata Party": 67034,
+        "Aazad Samaj Party (Kanshi Ram)": 11751,
+        "Bahujan Samaj Party": 1742,
+        "Independent": 656,
+        "Rashtriya Janata Sena": 609,
+        "Abhinav Loktantra Party": 531,
+        "Bhartiya Janta Dal": 363,
+        "Rajasthan Democratic Front": 276,
+        "None of the Above": 1350
+      }
+    },
+    {
+      "Constituency": "Deedwana - 107",
+      "VotesByParty": {
+        "Independent": 72752,
+        "Indian National Congress": 68560,
+        "Bharatiya Janata Party": 48814,
+        "Aam Aadmi Party": 2516,
+        "Bahujan Samaj Party": 771,
+        "Abhinav Rajasthan Party": 742,
+        "None of the Above": 1778
+      }
+    },
+    {
+      "Constituency": "Deeg-Kumher - 72",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 89063,
+        "Indian National Congress": 81168,
+        "Bahujan Samaj Party": 4487,
+        "Rashtriya Loktantrik Party": 1015,
+        "Independent": 1351,
+        "None of the Above": 734
+      }
+    },
+    {
+      "Constituency": "Degana - 112",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 88752,
+        "Indian National Congress": 80997,
+        "Rashtriya Loktantrik Party": 12065,
+        "Independent": 4457,
+        "Aam Aadmi Party": 1138,
+        "Bahujan Samaj Party": 955,
+        "Aam Janmat Party,": 814,
+        "Rashtravadi Bharat Party": 307,
+        "None of the Above": 2500
+      }
+    },
+    {
+      "Constituency": "Deoli-Uniara - 97",
+      "VotesByParty": {
+        "Indian National Congress": 105001,
+        "Bharatiya Janata Party": 85826,
+        "Rashtriya Loktantrik Party": 19773,
+        "Bahujan Samaj Party": 1554,
+        "Aam Aadmi Party": 1495,
+        "Independent": 3982,
+        "Abhinav Loktantra Party": 1007,
+        "Right to Recall Party": 364,
+        "Rashtravadi Bharat Party": 328,
+        "Abhinav Rajasthan Party": 304,
+        "None of the Above": 1475
+      }
+    },
+    {
+      "Constituency": "Dhariawad - 157",
+      "VotesByParty": {
+        "Bharat Adivasi Party": 83655,
+        "Bharatiya Janata Party": 76964,
+        "Indian National Congress": 46449,
+        "Independent": 5233,
+        "Aam Aadmi Party": 2465,
+        "Bahujan Samaj Party": 2394,
+        "Communist Party of India  (Marxist-Leninist)  (Liberation)": 1627,
+        "None of the Above": 3294
+      }
+    },
+    {
+      "Constituency": "Dhod - 34",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 85543,
+        "Communist Party of India  (Marxist)": 72165,
+        "Indian National Congress": 34487,
+        "Rashtriya Loktantrik Party": 3350,
+        "Independent": 3259,
+        "Bahujan Samaj Party": 1017,
+        "Bahujan Mukti Party": 445,
+        "Bharatiya Yuva Jan Ekta Party": 313,
+        "Parivartan Party of India": 261,
+        "None of the Above": 1383
+      }
+    },
+    {
+      "Constituency": "Dholpur - 79",
+      "VotesByParty": {
+        "Indian National Congress": 69724,
+        "Bahujan Samaj Party": 52935,
+        "Bharatiya Janata Party": 45637,
+        "Azad Samaj Party": 1822,
+        "Independent": 2521,
+        "Samajwadi Party": 389,
+        "None of the Above": 1430
+      }
+    },
+    {
+      "Constituency": "Dudu - 45",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 116561,
+        "Indian National Congress": 80818,
+        "Rashtriya Loktantrik Party": 1742,
+        "Bahujan Samaj Party": 1571,
+        "None of the Above": 1232
+      }
+    },
+    {
+      "Constituency": "Dungargarh - 17",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 65690,
+        "Indian National Congress": 57565,
+        "Communist Party of India  (Marxist)": 56498,
+        "Bahujan Samaj Party": 6379,
+        "Rashtriya Loktantrik Party": 3478,
+        "Independent": 7468,
+        "Abhinav Rajasthan Party": 1001,
+        "Asankhya Samaj Party": 319,
+        "None of the Above": 3439
+      }
+    },
+    {
+      "Constituency": "Dungarpur - 158",
+      "VotesByParty": {
+        "Indian National Congress": 69338,
+        "Bharat Adivasi Party": 50285,
+        "Bharatiya Janata Party": 45602,
+        "Independent": 16165,
+        "Aam Aadmi Party": 2348,
+        "Communist Party of India  (Marxist)": 2318,
+        "Bhartiya Tribal Party": 1519,
+        "Abhinav Loktantra Party": 1354,
+        "Bahujan Samaj Party": 561,
+        "None of the Above": 4266
+      }
+    },
+    {
+      "Constituency": "Fatehpur - 32",
+      "VotesByParty": {
+        "Indian National Congress": 84194,
+        "Bharatiya Janata Party": 58201,
+        "Jannayak Janta Party": 23851,
+        "Independent": 12319,
+        "Bahujan Samaj Party": 834,
+        "Bharat Adivasi Party": 664,
+        "All India Majlis-E-Ittehadul Muslimeen": 273,
+        "Abhinav Rajasthan Party": 249,
+        "Rajasthan Vikas Party": 165,
+        "None of the Above": 762
+      }
+    },
+    {
+      "Constituency": "Ganganagar - 2",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 81001,
+        "Independent": 56876,
+        "Indian National Congress": 39006,
+        "Aam Aadmi Party": 1987,
+        "Bahujan Samaj Party": 766,
+        "Rashtriya Jatigat Aarakshan Virodhi Party": 473,
+        "None of the Above": 1277
+      }
+    },
+    {
+      "Constituency": "Gangapur - 90",
+      "VotesByParty": {
+        "Indian National Congress": 83457,
+        "Bharatiya Janata Party": 64189,
+        "Independent": 33997,
+        "Aazad Samaj Party (Kanshi Ram)": 13467,
+        "Bahujan Samaj Party": 1648,
+        "Aam Aadmi Party": 862,
+        "Jannayak Janta Party": 600,
+        "Bharat Adivasi Party": 374,
+        "All India Majlis-E-Ittehadul Muslimeen": 254,
+        "None of the Above": 507
+      }
+    },
+    {
+      "Constituency": "Garhi - 163",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 87392,
+        "Indian National Congress": 72285,
+        "Bharat Adivasi Party": 43525,
+        "Independent": 13566,
+        "Bahujan Samaj Party": 1875,
+        "Bhartiya Tribal Party": 1609,
+        "Bahujan Mukti Party": 1072,
+        "None of the Above": 5192
+      }
+    },
+    {
+      "Constituency": "Ghatol - 162",
+      "VotesByParty": {
+        "Indian National Congress": 88335,
+        "Bharat Adivasi Party": 84644,
+        "Bharatiya Janata Party": 55537,
+        "Aam Aadmi Party": 3935,
+        "Bhartiya Tribal Party": 1867,
+        "Independent": 1586,
+        "Bahujan Samaj Party": 1585,
+        "None of the Above": 4087
+      }
+    },
+    {
+      "Constituency": "Gogunda - 149",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 87827,
+        "Indian National Congress": 84162,
+        "Bharat Adivasi Party": 8094,
+        "Bahujan Samaj Party": 3400,
+        "Communist Party of India": 2773,
+        "Independent": 4731,
+        "Aam Aadmi Party": 2483,
+        "None of the Above": 3527
+      }
+    },
+    {
+      "Constituency": "Gudha Malani - 139",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 107632,
+        "Indian National Congress": 92415,
+        "Aazad Samaj Party (Kanshi Ram)": 9924,
+        "Abhinav Rajasthan Party": 2315,
+        "Bahujan Samaj Party": 2198,
+        "Independent": 2479,
+        "National Janmandal Party": 591,
+        "Bahujan Mukti Party": 404,
+        "None of the Above": 2358
+      }
+    },
+    {
+      "Constituency": "Hanumangarh - 8",
+      "VotesByParty": {
+        "Independent": 93825,
+        "Bharatiya Janata Party": 79625,
+        "Indian National Congress": 59366,
+        "Communist Party of India  (Marxist)": 2843,
+        "Bahujan Samaj Party": 1787,
+        "Aam Aadmi Party": 890,
+        "Jai Hind Congress Party": 741,
+        "Indian Peoples Green Party": 431,
+        "None of the Above": 1715
+      }
+    },
+    {
+      "Constituency": "Hawa Mahal - 49",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 95989,
+        "Indian National Congress": 95015,
+        "All India Majlis-E-Ittehadul Muslimeen": 588,
+        "Aam Aadmi Party": 573,
+        "Republican Party of India (Athawale)": 417,
+        "Aam Aadmi Parivartan Party": 409,
+        "Independent": 247,
+        "Welfare Party Of India": 190,
+        "Rashtriya Janata Sena": 142,
+        "Lok Janshakti Party(Ram Vilas)": 140,
+        "None of the Above": 1463
+      }
+    },
+    {
+      "Constituency": "Hindaun - 82",
+      "VotesByParty": {
+        "Indian National Congress": 91627,
+        "Bharatiya Janata Party": 53351,
+        "Bahujan Samaj Party": 29777,
+        "Jannayak Janta Party": 6372,
+        "Bahujan Shoshit Samaj Sangharsh Samta Party": 1782,
+        "Rashtriya Loktantrik Party": 1138,
+        "Parivartan Party of India": 719,
+        "Hindustan Janta Party": 494,
+        "Independent": 472,
+        "None of the Above": 1686
+      }
+    },
+    {
+      "Constituency": "Hindoli - 184",
+      "VotesByParty": {
+        "Indian National Congress": 127354,
+        "Bharatiya Janata Party": 82350,
+        "Aazad Samaj Party (Kanshi Ram)": 9312,
+        "Bahujan Samaj Party": 1227,
+        "Independent": 1887,
+        "None of the Above": 2861
+      }
+    },
+    {
+      "Constituency": "Jahazpur - 182",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 96933,
+        "Indian National Congress": 96353,
+        "Bahujan Samaj Party": 1567,
+        "Independent": 1958,
+        "Aazad Samaj Party (Kanshi Ram)": 678,
+        "Right to Recall Party": 454,
+        "None of the Above": 2542
+      }
+    },
+    {
+      "Constituency": "Jaisalmer - 132",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 104636,
+        "Indian National Congress": 85949,
+        "Rashtriya Loktantrik Party": 2262,
+        "Independent": 3150,
+        "Bheem Tribal Congress": 1240,
+        "None of the Above": 1602
+      }
+    },
+    {
+      "Constituency": "Jaitaran - 116",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 66277,
+        "Indian National Congress": 52751,
+        "Independent": 59647,
+        "Aazad Samaj Party (Kanshi Ram)": 28067,
+        "Bahujan Samaj Party": 1357,
+        "Abhinav Rajasthan Party": 998,
+        "Abhinav Loktantra Party": 716,
+        "Bharat Lok Sewak Party": 594,
+        "None of the Above": 3060
+      }
+    },
+    {
+      "Constituency": "Jalore - 142",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 84519,
+        "Indian National Congress": 64983,
+        "Independent": 25958,
+        "Bahujan Samaj Party": 3459,
+        "None of the Above": 3177
+      }
+    },
+    {
+      "Constituency": "Jamwa Ramgarh - 48",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 100041,
+        "Indian National Congress": 61614,
+        "Independent": 15415,
+        "Rashtriya Loktantrik Party": 1201,
+        "None of the Above": 1438
+      }
+    },
+    {
+      "Constituency": "Jayal - 108",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 70468,
+        "Indian National Congress": 68903,
+        "Rashtriya Loktantrik Party": 32799,
+        "Bahujan Samaj Party": 1466,
+        "Independent": 3060,
+        "Abhinav Rajasthan Party": 887,
+        "None of the Above": 2200
+      }
+    },
+    {
+      "Constituency": "Jhadol - 150",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 76537,
+        "Indian National Congress": 70049,
+        "Bharat Adivasi Party": 44503,
+        "Communist Party of India  (Marxist)": 4539,
+        "Bhartiya Tribal Party": 4204,
+        "Bahujan Samaj Party": 4126,
+        "Independent": 8300,
+        "None of the Above": 6488
+      }
+    },
+    {
+      "Constituency": "Jhalrapatan - 198",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 138831,
+        "Indian National Congress": 85638,
+        "Bahujan Samaj Party": 3431,
+        "Indian Peoples Green Party": 2177,
+        "None of the Above": 3194
+      }
+    },
+    {
+      "Constituency": "Jhotwara - 46",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 147913,
+        "Indian National Congress": 97746,
+        "Independent": 59494,
+        "Rashtriya Loktantrik Party": 1256,
+        "Bahujan Samaj Party": 740,
+        "Right to Recall Party": 668,
+        "Indian Peoples Green Party": 477,
+        "Jannayak Janta Party": 158,
+        "Rashtriya Sawarn Dal": 124,
+        "Rashtriya Janata Sena": 105,
+        "None of the Above": 1111
+      }
+    },
+    {
+      "Constituency": "Jhunjhunu - 27",
+      "VotesByParty": {
+        "Indian National Congress": 86798,
+        "Bharatiya Janata Party": 57935,
+        "Independent": 44041,
+        "Aazad Samaj Party (Kanshi Ram)": 3095,
+        "Bahujan Samaj Party": 1193,
+        "Bahujan Mukti Party": 405,
+        "Aam Aadmi Party": 290,
+        "None of the Above": 1385
+      }
+    },
+    {
+      "Constituency": "Jodhpur - 128",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 71192,
+        "Indian National Congress": 57667,
+        "Rashtriya Loktantrik Party": 911,
+        "Aam Aadmi Party": 490,
+        "Communist Party of India": 323,
+        "Independent": 284,
+        "Welfare Party Of India": 140,
+        "Bahujan Samaj Party": 90,
+        "People\u2019s Liberal Party": 69,
+        "None of the Above": 844
+      }
+    },
+    {
+      "Constituency": "Kaman - 70",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 78646,
+        "Independent": 67228,
+        "Indian National Congress": 58130,
+        "Bahujan Samaj Party": 1847,
+        "Aazad Samaj Party (Kanshi Ram)": 287,
+        "Lok Janshakti Party(Ram Vilas)": 277,
+        "Jannayak Janta Party": 212,
+        "All India Majlis-E-Ittehadul Muslimeen": 174,
+        "Indian Peoples Green Party": 105,
+        "None of the Above": 1076
+      }
+    },
+    {
+      "Constituency": "Kapasan - 167",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 84778,
+        "Indian National Congress": 63434,
+        "Rashtriya Loktantrik Party": 29425,
+        "Independent": 18371,
+        "Right to Recall Party": 1267,
+        "Bahujan Samaj Party": 1110,
+        "Bahujan Mukti Party": 528,
+        "None of the Above": 2845
+      }
+    },
+    {
+      "Constituency": "Karauli - 83",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 89666,
+        "Indian National Congress": 87483,
+        "Bahujan Samaj Party": 13182,
+        "Independent": 1991,
+        "Aam Aadmi Party": 691,
+        "Aazad Samaj Party (Kanshi Ram)": 595,
+        "Bahujan Mukti Party": 151,
+        "None of the Above": 1135
+      }
+    },
+    {
+      "Constituency": "Kathumar - 69",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 79756,
+        "Indian National Congress": 79347,
+        "Independent": 3032,
+        "Bahujan Samaj Party": 828,
+        "Aam Aadmi Party": 688,
+        "None of the Above": 738
+      }
+    },
+    {
+      "Constituency": "Kekri - 105",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 99671,
+        "Indian National Congress": 92129,
+        "Aazad Samaj Party (Kanshi Ram)": 2098,
+        "Bahujan Samaj Party": 1549,
+        "Independent": 3361,
+        "None of the Above": 1547
+      }
+    },
+    {
+      "Constituency": "Keshoraipatan - 185",
+      "VotesByParty": {
+        "Indian National Congress": 101541,
+        "Bharatiya Janata Party": 84454,
+        "Independent": 14455,
+        "Bahujan Samaj Party": 1443,
+        "Aazad Samaj Party (Kanshi Ram)": 1185,
+        "None of the Above": 2947
+      }
+    },
+    {
+      "Constituency": "Khajuwala - 12",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 91276,
+        "Indian National Congress": 73902,
+        "Jannayak Janta Party": 3953,
+        "Rashtriya Loktantrik Party": 2421,
+        "Public Political Party": 1269,
+        "Bahujan Samaj Party": 1207,
+        "Asankhya Samaj Party": 775,
+        "Independent": 486,
+        "None of the Above": 2062
+      }
+    },
+    {
+      "Constituency": "Khandar - 93",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 92059,
+        "Indian National Congress": 78044,
+        "Rashtriya Loktantrik Party": 2394,
+        "Aam Aadmi Party": 1992,
+        "Bahujan Samaj Party": 1165,
+        "Independent": 2543,
+        "None of the Above": 2056
+      }
+    },
+    {
+      "Constituency": "Khandela - 37",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 114236,
+        "Indian National Congress": 71597,
+        "Independent": 14728,
+        "Jannayak Janta Party": 852,
+        "Aam Aadmi Party": 620,
+        "Bahujan Samaj Party": 525,
+        "None of the Above": 1445
+      }
+    },
+    {
+      "Constituency": "Khanpur - 199",
+      "VotesByParty": {
+        "Indian National Congress": 101045,
+        "Bharatiya Janata Party": 92620,
+        "Aam Aadmi Party": 2634,
+        "Bahujan Samaj Party": 1778,
+        "Independent": 2881,
+        "None of the Above": 2106
+      }
+    },
+    {
+      "Constituency": "Kherwara - 151",
+      "VotesByParty": {
+        "Indian National Congress": 77342,
+        "Bharatiya Janata Party": 60098,
+        "Bhartiya Tribal Party": 53290,
+        "Bharat Adivasi Party": 16189,
+        "Aam Aadmi Party": 2816,
+        "Indian Peoples Green Party": 1838,
+        "Independent": 1748,
+        "Bahujan Samaj Party": 1466,
+        "Ummeed Party of India": 1126,
+        "None of the Above": 3265
+      }
+    },
+    {
+      "Constituency": "Khetri - 31",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 70597,
+        "Bahujan Samaj Party": 61483,
+        "Indian National Congress": 27981,
+        "Independent": 7751,
+        "None of the Above": 1013
+      }
+    },
+    {
+      "Constituency": "Khinwsar - 110",
+      "VotesByParty": {
+        "Rashtriya Loktantrik Party": 79492,
+        "Bharatiya Janata Party": 77433,
+        "Indian National Congress": 27763,
+        "Independent": 15872,
+        "Abhinav Rajasthan Party": 4357,
+        "Bharatiya Mulnivasi Aazad Party": 1159,
+        "Bahujan Samaj Party": 1155,
+        "None of the Above": 2130
+      }
+    },
+    {
+      "Constituency": "Kishan Pole - 52",
+      "VotesByParty": {
+        "Indian National Congress": 76611,
+        "Bharatiya Janata Party": 69555,
+        "Aam Aadmi Party": 619,
+        "All India Majlis-E-Ittehadul Muslimeen": 415,
+        "Bahujan Samaj Party": 313,
+        "Independent": 330,
+        "None of the Above": 1026
+      }
+    },
+    {
+      "Constituency": "Kishanganj - 194",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 101857,
+        "Indian National Congress": 79576,
+        "Bahujan Samaj Party": 1488,
+        "Independent": 5393,
+        "None of the Above": 2322
+      }
+    },
+    {
+      "Constituency": "Kishangarh - 98",
+      "VotesByParty": {
+        "Indian National Congress": 83645,
+        "Independent": 87473,
+        "Bharatiya Janata Party": 37534,
+        "Bahujan Samaj Party": 1456,
+        "Right to Recall Party": 889,
+        "Bhartiya Public Labour Party": 888,
+        "Aazad Samaj Party (Kanshi Ram)": 871,
+        "Aam Janmat Party,": 517,
+        "None of the Above": 3467
+      }
+    },
+    {
+      "Constituency": "Kishangarh Bas - 60",
+      "VotesByParty": {
+        "Indian National Congress": 91916,
+        "Bharatiya Janata Party": 81420,
+        "Bahujan Samaj Party": 23371,
+        "Aam Aadmi Party": 1500,
+        "Independent": 1554,
+        "Peoples Party of India (Democratic)": 564,
+        "Abhinav Rajasthan Party": 433,
+        "All India Majlis-E-Ittehadul Muslimeen": 294,
+        "None of the Above": 1037
+      }
+    },
+    {
+      "Constituency": "Kolayat - 15",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 101093,
+        "Indian National Congress": 68160,
+        "Rashtriya Loktantrik Party": 27854,
+        "Bahujan Samaj Party": 1390,
+        "Abhinav Rajasthan Party": 1210,
+        "Independent": 455,
+        "None of the Above": 1856
+      }
+    },
+    {
+      "Constituency": "Kota North  - 189",
+      "VotesByParty": {
+        "Indian National Congress": 94899,
+        "Bharatiya Janata Party": 92413,
+        "Welfare Party Of India": 860,
+        "Bahujan Samaj Party": 811,
+        "Right to Recall Party": 463,
+        "Independent": 664,
+        "None of the Above": 1594
+      }
+    },
+    {
+      "Constituency": "Kota South  - 190",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 95393,
+        "Indian National Congress": 83431,
+        "Bahujan Samaj Party": 1085,
+        "Independent": 1563,
+        "None of the Above": 1727
+      }
+    },
+    {
+      "Constituency": "Kotputli - 40",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 67716,
+        "Indian National Congress": 67395,
+        "Independent": 35468,
+        "Rashtriya Loktantrik Party": 2187,
+        "Jannayak Janta Party": 1682,
+        "Bahujan Samaj Party": 1088,
+        "None of the Above": 930
+      }
+    },
+    {
+      "Constituency": "Kumbhalgarh - 174",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 78133,
+        "Indian National Congress": 56073,
+        "Bharat Adivasi Party": 8813,
+        "Independent": 7516,
+        "Bhartiya Tribal Party": 1843,
+        "Bahujan Samaj Party": 1623,
+        "None of the Above": 1915
+      }
+    },
+    {
+      "Constituency": "Kushalgarh - 166",
+      "VotesByParty": {
+        "Indian National Congress": 97480,
+        "Bharatiya Janata Party": 87676,
+        "Bharat Adivasi Party": 33758,
+        "Independent": 6721,
+        "Aam Aadmi Party": 2480,
+        "Bhartiya Tribal Party": 981,
+        "Bahujan Mukti Party": 754,
+        "Bahujan Samaj Party": 719,
+        "None of the Above": 4410
+      }
+    },
+    {
+      "Constituency": "Lachhmangarh - 33",
+      "VotesByParty": {
+        "Indian National Congress": 113304,
+        "Bharatiya Janata Party": 94334,
+        "Communist Party of India  (Marxist)": 1875,
+        "Rashtriya Loktantrik Party": 1551,
+        "Janata Congress": 797,
+        "Bharatiya Yuva Jan Ekta Party": 700,
+        "Bahujan Samaj Party": 695,
+        "Independent": 949,
+        "None of the Above": 1552
+      }
+    },
+    {
+      "Constituency": "Ladnun - 106",
+      "VotesByParty": {
+        "Indian National Congress": 97229,
+        "Bharatiya Janata Party": 81275,
+        "Bahujan Samaj Party": 7225,
+        "Communist Party of India  (Marxist)": 5512,
+        "None of the Above": 2499
+      }
+    },
+    {
+      "Constituency": "Ladpura - 191",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 121248,
+        "Indian National Congress": 95726,
+        "Aazad Samaj Party (Kanshi Ram)": 976,
+        "Bahujan Samaj Party": 917,
+        "Independent": 1568,
+        "Marxist Communist Party of India (United)": 290,
+        "Right to Recall Party": 240,
+        "None of the Above": 2440
+      }
+    },
+    {
+      "Constituency": "Lalsot - 89",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 120962,
+        "Indian National Congress": 73894,
+        "Bahujan Samaj Party": 1787,
+        "None of the Above": 2419
+      }
+    },
+    {
+      "Constituency": "Lohawat - 123",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 81415,
+        "Indian National Congress": 70866,
+        "Rashtriya Loktantrik Party": 49859,
+        "Bahujan Samaj Party": 1703,
+        "Bheem Tribal Congress": 1314,
+        "Independent": 1418,
+        "None of the Above": 1913
+      }
+    },
+    {
+      "Constituency": "Luni - 130",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 123498,
+        "Indian National Congress": 98820,
+        "Rashtriya Loktantrik Party": 16529,
+        "Bahujan Samaj Party": 2079,
+        "Bheem Tribal Congress": 1312,
+        "None of the Above": 1875
+      }
+    },
+    {
+      "Constituency": "Lunkaransar - 16",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 60452,
+        "Indian National Congress": 51583,
+        "Independent": 80461,
+        "Rashtriya Loktantrik Party": 3170,
+        "Asankhya Samaj Party": 2494,
+        "Bahujan Samaj Party": 1819,
+        "None of the Above": 1613
+      }
+    },
+    {
+      "Constituency": "Mahuwa - 86",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 66376,
+        "Indian National Congress": 58459,
+        "Aazad Samaj Party (Kanshi Ram)": 14861,
+        "Independent": 14133,
+        "Bahujan Samaj Party": 2737,
+        "Jannayak Janta Party": 612,
+        "Janata Congress": 353,
+        "Rajasthan Vikas Party": 343,
+        "Lok Janshakti Party(Ram Vilas)": 299,
+        "Bahujan Shoshit Samaj Sangharsh Samta Party": 282,
+        "Peoples Party of India (Democratic)": 210,
+        "None of the Above": 1133
+      }
+    },
+    {
+      "Constituency": "Makrana - 113",
+      "VotesByParty": {
+        "Indian National Congress": 96544,
+        "Bharatiya Janata Party": 67230,
+        "Rashtriya Loktantrik Party": 19932,
+        "Independent": 18603,
+        "All India Majlis-E-Ittehadul Muslimeen": 1162,
+        "Bahujan Samaj Party": 674,
+        "None of the Above": 1673
+      }
+    },
+    {
+      "Constituency": "Malpura - 94",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 85915,
+        "Indian National Congress": 69726,
+        "Independent": 48184,
+        "Bahujan Samaj Party": 1927,
+        "Right to Recall Party": 863,
+        "None of the Above": 1816
+      }
+    },
+    {
+      "Constituency": "Malviya Nagar - 54",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 92506,
+        "Indian National Congress": 57012,
+        "Bahujan Samaj Party": 661,
+        "Independent": 525,
+        "Aazad Samaj Party (Kanshi Ram)": 142,
+        "Nav Hind Party": 88,
+        "Rashtriya Vyapari Party": 74,
+        "None of the Above": 1598
+      }
+    },
+    {
+      "Constituency": "Mandal - 178",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 126291,
+        "Indian National Congress": 90413,
+        "Bahujan Samaj Party": 1597,
+        "Independent": 1042,
+        "Right to Recall Party": 631,
+        "None of the Above": 2248
+      }
+    },
+    {
+      "Constituency": "Mandalgarh - 183",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 93119,
+        "Indian National Congress": 84925,
+        "Rashtriya Loktantrik Party": 10514,
+        "Bharat Adivasi Party": 2281,
+        "Bahujan Samaj Party": 1763,
+        "Janata Congress": 919,
+        "Independent": 1754,
+        "Right to Recall Party": 682,
+        "Lok Janshakti Party(Ram Vilas)": 572,
+        "None of the Above": 3000
+      }
+    },
+    {
+      "Constituency": "Mandawa - 28",
+      "VotesByParty": {
+        "Indian National Congress": 98747,
+        "Bharatiya Janata Party": 80030,
+        "Bahujan Samaj Party": 2114,
+        "Independent": 2659,
+        "Abhinav Rajasthan Party": 555,
+        "None of the Above": 1127
+      }
+    },
+    {
+      "Constituency": "Manohar Thana - 200",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 85304,
+        "Independent": 89972,
+        "Indian National Congress": 38429,
+        "Bhartiya Tribal Party": 6345,
+        "Bahujan Samaj Party": 2275,
+        "None of the Above": 3199
+      }
+    },
+    {
+      "Constituency": "Marwar Junction - 119",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 99604,
+        "Indian National Congress": 66583,
+        "Independent": 8891,
+        "Aazad Samaj Party (Kanshi Ram)": 2808,
+        "Bahujan Samaj Party": 1126,
+        "Aam Aadmi Party": 447,
+        "Jai Maha Bharath Party": 237,
+        "None of the Above": 2597
+      }
+    },
+    {
+      "Constituency": "Masuda - 104",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 74266,
+        "Indian National Congress": 47550,
+        "Bahujan Samaj Party": 29508,
+        "Independent": 27263,
+        "Rashtriya Loktantrik Party": 18554,
+        "Right to Recall Party": 1255,
+        "None of the Above": 1640
+      }
+    },
+    {
+      "Constituency": "Mavli - 154",
+      "VotesByParty": {
+        "Indian National Congress": 77696,
+        "Bharatiya Janata Party": 76129,
+        "Rashtriya Loktantrik Party": 32521,
+        "Bharat Adivasi Party": 7873,
+        "Independent": 4217,
+        "Communist Party of India": 1352,
+        "Bahujan Samaj Party": 1231,
+        "None of the Above": 2441
+      }
+    },
+    {
+      "Constituency": "Merta - 111",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 77493,
+        "Indian National Congress": 59978,
+        "Rashtriya Loktantrik Party": 56761,
+        "Abhinav Rajasthan Party": 3540,
+        "Bahujan Samaj Party": 1454,
+        "Aam Janmat Party,": 865,
+        "None of the Above": 1939
+      }
+    },
+    {
+      "Constituency": "Mundawar - 61",
+      "VotesByParty": {
+        "Indian National Congress": 105735,
+        "Bharatiya Janata Party": 70111,
+        "Aazad Samaj Party (Kanshi Ram)": 2986,
+        "Aam Aadmi Party": 1031,
+        "Bahujan Samaj Party": 805,
+        "Independent": 1426,
+        "None of the Above": 744
+      }
+    },
+    {
+      "Constituency": "Nadbai - 74",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 103795,
+        "Indian National Congress": 88028,
+        "Bahujan Samaj Party": 10301,
+        "Aam Aadmi Party": 877,
+        "Aazad Samaj Party (Kanshi Ram)": 726,
+        "Independent": 2073,
+        "Right to Recall Party": 250,
+        "Samajwadi Party": 125,
+        "Indian Peoples Green Party": 122,
+        "Lok Janshakti Party(Ram Vilas)": 88,
+        "None of the Above": 570
+      }
+    },
+    {
+      "Constituency": "Nagar - 71",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 75579,
+        "Indian National Congress": 74048,
+        "Aazad Samaj Party (Kanshi Ram)": 46314,
+        "Samajwadi Party": 2215,
+        "Bahujan Samaj Party": 1327,
+        "Independent": 1385,
+        "None of the Above": 571
+      }
+    },
+    {
+      "Constituency": "Nagaur - 109",
+      "VotesByParty": {
+        "Indian National Congress": 87110,
+        "Bharatiya Janata Party": 72490,
+        "Independent": 24010,
+        "Bahujan Samaj Party": 1502,
+        "Abhinav Rajasthan Party": 915,
+        "None of the Above": 2159
+      }
+    },
+    {
+      "Constituency": "Nasirabad - 102",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 79364,
+        "Indian National Congress": 78229,
+        "Rashtriya Jan Shourya Party": 15975,
+        "Independent": 3174,
+        "Bahujan Samaj Party": 1263,
+        "Jannayak Janta Party": 1061,
+        "Republican Party of India (Athawale)": 516,
+        "Right to Recall Party": 356,
+        "None of the Above": 1392
+      }
+    },
+    {
+      "Constituency": "Nathdwara - 176",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 94950,
+        "Indian National Congress": 87446,
+        "Independent": 2682,
+        "Bahujan Samaj Party": 1762,
+        "None of the Above": 2163
+      }
+    },
+    {
+      "Constituency": "Nawalgarh - 29",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 112037,
+        "Indian National Congress": 88857,
+        "Aam Aadmi Party": 1260,
+        "Bahujan Samaj Party": 1072,
+        "Independent": 2342,
+        "Aazad Samaj Party (Kanshi Ram)": 464,
+        "Right to Recall Party": 152,
+        "Rashtriya Jankranti Party": 90,
+        "None of the Above": 1352
+      }
+    },
+    {
+      "Constituency": "Nawan - 115",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 106159,
+        "Indian National Congress": 82211,
+        "Independent": 4210,
+        "Aazad Samaj Party (Kanshi Ram)": 3041,
+        "National Janmandal Party": 1607,
+        "Rashtriya Loktantrik Party": 1504,
+        "Communist Party of India  (Marxist)": 1095,
+        "Aam Aadmi Party": 909,
+        "None of the Above": 1364
+      }
+    },
+    {
+      "Constituency": "Neem Ka Thana - 38",
+      "VotesByParty": {
+        "Indian National Congress": 105878,
+        "Bharatiya Janata Party": 72788,
+        "Rashtriya Loktantrik Party": 5500,
+        "Jannayak Janta Party": 5202,
+        "Aam Aadmi Party": 3123,
+        "Bahujan Samaj Party": 1300,
+        "Independent": 2601,
+        "None of the Above": 1283
+      }
+    },
+    {
+      "Constituency": "Nimbahera - 170",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 116640,
+        "Indian National Congress": 112795,
+        "Bahujan Samaj Party": 1544,
+        "Right to Recall Party": 1076,
+        "Akhil Bharatiya Congress Dal (Ambedkar)": 1060,
+        "Aam Aadmi Party": 633,
+        "Rashtriya Loktantrik Party": 445,
+        "Independent": 659,
+        "Bahujan Mukti Party": 213,
+        "None of the Above": 2485
+      }
+    },
+    {
+      "Constituency": "Niwai - 95",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 92775,
+        "Indian National Congress": 79834,
+        "Rashtriya Loktantrik Party": 20362,
+        "Asankhya Samaj Party": 996,
+        "Aam Aadmi Party": 872,
+        "Independent": 1908,
+        "Bahujan Samaj Party": 666,
+        "None of the Above": 1972
+      }
+    },
+    {
+      "Constituency": "Nohar - 10",
+      "VotesByParty": {
+        "Indian National Congress": 103623,
+        "Bharatiya Janata Party": 102728,
+        "Communist Party of India  (Marxist)": 26824,
+        "Rashtriya Loktantrik Party": 1396,
+        "Bahujan Samaj Party": 1172,
+        "Independent": 1413,
+        "Rashtriya Janata Sena": 586,
+        "Abhinav Loktantra Party": 326,
+        "None of the Above": 1690
+      }
+    },
+    {
+      "Constituency": "Nokha - 18",
+      "VotesByParty": {
+        "Indian National Congress": 83215,
+        "Bharatiya Janata Party": 75066,
+        "Vikas Manch": 33781,
+        "Independent": 17022,
+        "Indian Peoples Green Party": 1363,
+        "Bahujan Samaj Party": 1237,
+        "Bahujan Mukti Party": 671,
+        "None of the Above": 1753
+      }
+    },
+    {
+      "Constituency": "Osian - 125",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 103746,
+        "Indian National Congress": 100939,
+        "Independent": 1597,
+        "Bahujan Samaj Party": 1259,
+        "Abhinav Rajasthan Party": 308,
+        "None of the Above": 1913
+      }
+    },
+    {
+      "Constituency": "Pachpadra - 137",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 77997,
+        "Indian National Congress": 75468,
+        "Rashtriya Loktantrik Party": 22581,
+        "Bhartiya Tribal Party": 3030,
+        "Independent": 3658,
+        "Bahujan Samaj Party": 1427,
+        "Gana Suraksha Party": 250,
+        "None of the Above": 2209
+      }
+    },
+    {
+      "Constituency": "Pali - 118",
+      "VotesByParty": {
+        "Indian National Congress": 95092,
+        "Bharatiya Janata Party": 87204,
+        "Rashtriya Loktantrik Party": 2738,
+        "Bahujan Samaj Party": 955,
+        "Indian Indira Congress (R)": 755,
+        "Abhinav Rajasthan Party": 385,
+        "Indian Peoples Green Party": 367,
+        "None of the Above": 1760
+      }
+    },
+    {
+      "Constituency": "Parbatsar - 114",
+      "VotesByParty": {
+        "Indian National Congress": 91530,
+        "Bharatiya Janata Party": 81214,
+        "Rashtriya Loktantrik Party": 20195,
+        "Bahujan Samaj Party": 1404,
+        "Independent": 1086,
+        "None of the Above": 1342
+      }
+    },
+    {
+      "Constituency": "Phalodi - 122",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 80243,
+        "Indian National Congress": 69459,
+        "Independent": 16144,
+        "Rashtriya Loktantrik Party": 8666,
+        "Bahujan Samaj Party": 1189,
+        "Bheem Tribal Congress": 967,
+        "None of the Above": 1860
+      }
+    },
+    {
+      "Constituency": "Phulera - 44",
+      "VotesByParty": {
+        "Indian National Congress": 112244,
+        "Bharatiya Janata Party": 85346,
+        "Aazad Samaj Party (Kanshi Ram)": 3075,
+        "Bahujan Samaj Party": 1307,
+        "Rashtriya Janata Sena": 850,
+        "Independent": 1356,
+        "Ambedkarite Party of India": 606,
+        "None of the Above": 1220
+      }
+    },
+    {
+      "Constituency": "Pilani - 25",
+      "VotesByParty": {
+        "Indian National Congress": 72835,
+        "Bharatiya Janata Party": 57990,
+        "Independent": 36590,
+        "Rashtriya Loktantrik Party": 1951,
+        "Aam Aadmi Party": 1143,
+        "Bahujan Samaj Party": 1093,
+        "None of the Above": 1145
+      }
+    },
+    {
+      "Constituency": "Pilibanga - 9",
+      "VotesByParty": {
+        "Indian National Congress": 143091,
+        "Bharatiya Janata Party": 87818,
+        "Rashtriya Loktantrik Party": 10525,
+        "Aam Aadmi Party": 1772,
+        "Bahujan Samaj Party": 1586,
+        "Independent": 1059,
+        "None of the Above": 1553
+      }
+    },
+    {
+      "Constituency": "Pindwara abu - 147",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 70647,
+        "Indian National Congress": 57553,
+        "Bharat Adivasi Party": 23894,
+        "Bheem Tribal Congress": 2053,
+        "Independent": 1798,
+        "Bahujan Samaj Party": 1613,
+        "None of the Above": 3666
+      }
+    },
+    {
+      "Constituency": "Pipalda - 187",
+      "VotesByParty": {
+        "Indian National Congress": 89281,
+        "Bharatiya Janata Party": 68276,
+        "Bahujan Samaj Party": 1387,
+        "Aam Aadmi Party": 1348,
+        "Independent": 689,
+        "Abhinav Loktantra Party": 557,
+        "None of the Above": 1624
+      }
+    },
+    {
+      "Constituency": "Pokaran - 133",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 112925,
+        "Indian National Congress": 77498,
+        "Rashtriya Loktantrik Party": 4690,
+        "Bheem Tribal Congress": 1113,
+        "Independent": 1714,
+        "None of the Above": 773
+      }
+    },
+    {
+      "Constituency": "Pratapgarh - 172",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 87644,
+        "Indian National Congress": 62535,
+        "Bharat Adivasi Party": 62023,
+        "Bahujan Samaj Party": 2000,
+        "Communist Party of India  (Marxist-Leninist)  (Liberation)": 1618,
+        "Bahujan Mukti Party": 974,
+        "None of the Above": 2128
+      }
+    },
+    {
+      "Constituency": "Pushkar - 99",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 84619,
+        "Indian National Congress": 70750,
+        "Rashtriya Loktantrik Party": 16052,
+        "Independent": 13984,
+        "Aam Aadmi Party": 1166,
+        "Bahujan Samaj Party": 973,
+        "Right to Recall Party": 604,
+        "Bheem Tribal Congress": 250,
+        "Akhil Bhartiya Aamjan Party": 172,
+        "Jan Sangh Party": 170,
+        "None of the Above": 882
+      }
+    },
+    {
+      "Constituency": "Raisinghnagar - 5",
+      "VotesByParty": {
+        "Indian National Congress": 79586,
+        "Bharatiya Janata Party": 65561,
+        "Communist Party of India  (Marxist)": 61057,
+        "Bahujan Samaj Party": 984,
+        "Aam Aadmi Party": 977,
+        "Rashtriya Loktantrik Party": 944,
+        "Majdoor Kisan Akali Dal": 890,
+        "Independent": 2116,
+        "Jai Hind Congress Party": 611,
+        "Rashtravadi Bharat Party": 407,
+        "None of the Above": 1522
+      }
+    },
+    {
+      "Constituency": "Rajakhera - 80",
+      "VotesByParty": {
+        "Indian National Congress": 89120,
+        "Bharatiya Janata Party": 73563,
+        "Indian Peoples Green Party": 1118,
+        "Independent": 2001,
+        "None of the Above": 1513
+      }
+    },
+    {
+      "Constituency": "Rajgarh-Laxmangarh - 68",
+      "VotesByParty": {
+        "Indian National Congress": 93459,
+        "Bharatiya Janata Party": 70892,
+        "Independent": 18433,
+        "Samajwadi Party": 1042,
+        "Aam Aadmi Party": 878,
+        "Bahujan Samaj Party": 868,
+        "None of the Above": 426
+      }
+    },
+    {
+      "Constituency": "Rajsamand - 175",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 94043,
+        "Indian National Congress": 62081,
+        "Independent": 15378,
+        "Aam Aadmi Party": 1772,
+        "Bahujan Samaj Party": 886,
+        "Right to Recall Party": 396,
+        "None of the Above": 1238
+      }
+    },
+    {
+      "Constituency": "Ramganj Mandi - 192",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 103504,
+        "Indian National Congress": 85082,
+        "Bahujan Samaj Party": 2387,
+        "Independent": 2339,
+        "None of the Above": 2019
+      }
+    },
+    {
+      "Constituency": "Ramgarh - 67",
+      "VotesByParty": {
+        "Indian National Congress": 93765,
+        "Aazad Samaj Party (Kanshi Ram)": 74069,
+        "Bharatiya Janata Party": 34882,
+        "Bahujan Samaj Party": 1219,
+        "Aam Aadmi Party": 1178,
+        "Independent": 4751,
+        "Jannayak Janta Party": 600,
+        "None of the Above": 695
+      }
+    },
+    {
+      "Constituency": "Raniwara - 145",
+      "VotesByParty": {
+        "Indian National Congress": 112681,
+        "Bharatiya Janata Party": 90319,
+        "Aazad Samaj Party (Kanshi Ram)": 1989,
+        "Bahujan Samaj Party": 1947,
+        "Independent": 2922,
+        "Swatantrata Abhivyakti Party": 682,
+        "Bahujan Mukti Party": 360,
+        "None of the Above": 2685
+      }
+    },
+    {
+      "Constituency": "Ratangarh - 23",
+      "VotesByParty": {
+        "Indian National Congress": 109383,
+        "Bharatiya Janata Party": 79720,
+        "Independent": 8246,
+        "Aam Aadmi Party": 1505,
+        "Bahujan Samaj Party": 1145,
+        "Aazad Samaj Party (Kanshi Ram)": 992,
+        "Communist Party of India": 801,
+        "None of the Above": 1943
+      }
+    },
+    {
+      "Constituency": "Reodar - 148",
+      "VotesByParty": {
+        "Indian National Congress": 93120,
+        "Bharatiya Janata Party": 89556,
+        "Bahujan Samaj Party": 3797,
+        "Independent": 3179,
+        "Bharat Adivasi Party": 2319,
+        "Bheem Tribal Congress": 1236,
+        "None of the Above": 5178
+      }
+    },
+    {
+      "Constituency": "Sadulpur - 19",
+      "VotesByParty": {
+        "Bahujan Samaj Party": 64368,
+        "Indian National Congress": 61794,
+        "Bharatiya Janata Party": 59429,
+        "Communist Party of India  (Marxist)": 5707,
+        "Aazad Samaj Party (Kanshi Ram)": 1256,
+        "Bahujan Mukti Party": 428,
+        "Independent": 1698,
+        "None of the Above": 860
+      }
+    },
+    {
+      "Constituency": "Sadulshahar - 1",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 74433,
+        "Independent": 61094,
+        "Indian National Congress": 57999,
+        "Aam Aadmi Party": 1925,
+        "Bahujan Samaj Party": 824,
+        "Republican Party of India (Athawale)": 648,
+        "None of the Above": 1162
+      }
+    },
+    {
+      "Constituency": "Sagwara - 160",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 75175,
+        "Bharat Adivasi Party": 63176,
+        "Indian National Congress": 46742,
+        "Independent": 10787,
+        "Bhartiya Tribal Party": 3242,
+        "Aam Aadmi Party": 1692,
+        "Bahujan Samaj Party": 1423,
+        "Bahujan Mukti Party": 541,
+        "None of the Above": 3339
+      }
+    },
+    {
+      "Constituency": "Sahara - 179",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 117203,
+        "Indian National Congress": 54684,
+        "Rashtriya Loktantrik Party": 8971,
+        "Communist Party of India": 4125,
+        "Bahujan Samaj Party": 1402,
+        "Right to Recall Party": 1156,
+        "Independent": 639,
+        "None of the Above": 1591
+      }
+    },
+    {
+      "Constituency": "Salumber - 156",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 80086,
+        "Indian National Congress": 65395,
+        "Bharat Adivasi Party": 51691,
+        "Independent": 7383,
+        "Communist Party of India": 2224,
+        "Bahujan Samaj Party": 1733,
+        "Bhartiya Tribal Party": 1105,
+        "None of the Above": 3702
+      }
+    },
+    {
+      "Constituency": "Sanchore - 144",
+      "VotesByParty": {
+        "Independent": 99643,
+        "Indian National Congress": 90847,
+        "Bharatiya Janata Party": 30535,
+        "Bahujan Samaj Party": 26108,
+        "Rashtriya Loktantrik Party": 4612,
+        "Aam Aadmi Party": 4292,
+        "None of the Above": 1940
+      }
+    },
+    {
+      "Constituency": "Sanganer - 55",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 145162,
+        "Indian National Congress": 97081,
+        "Aam Aadmi Party": 1426,
+        "Rashtriya Loktantrik Party": 650,
+        "Independent": 2194,
+        "Abhinav Loktantra Party": 235,
+        "Rashtra Bhakt Dal": 153,
+        "Right to Recall Party": 94,
+        "Nav Hind Party": 69,
+        "Rashtriya Janata Sena": 52,
+        "None of the Above": 1296
+      }
+    },
+    {
+      "Constituency": "Sangaria - 7",
+      "VotesByParty": {
+        "Indian National Congress": 98341,
+        "Bharatiya Janata Party": 56331,
+        "Independent": 44528,
+        "Aazad Samaj Party (Kanshi Ram)": 3036,
+        "Bahujan Samaj Party": 1397,
+        "Indian Peoples Green Party": 602,
+        "Aam Aadmi Party": 589,
+        "National Janmandal Party": 583,
+        "Hindustan Janta Party": 306,
+        "None of the Above": 1765
+      }
+    },
+    {
+      "Constituency": "Sangod - 188",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 93435,
+        "Indian National Congress": 67849,
+        "Bahujan Samaj Party": 1622,
+        "Aazad Samaj Party (Kanshi Ram)": 1531,
+        "Right to Recall Party": 1065,
+        "Independent": 683,
+        "None of the Above": 1320
+      }
+    },
+    {
+      "Constituency": "Sapotra - 84",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 111385,
+        "Indian National Congress": 67551,
+        "Bahujan Samaj Party": 11304,
+        "Aam Aadmi Party": 1492,
+        "Independent": 4676,
+        "None of the Above": 1634
+      }
+    },
+    {
+      "Constituency": "Sardarpura - 127",
+      "VotesByParty": {
+        "Indian National Congress": 96859,
+        "Bharatiya Janata Party": 70463,
+        "Aazad Samaj Party (Kanshi Ram)": 813,
+        "Bahujan Samaj Party": 773,
+        "Independent": 701,
+        "Indian Peoples Green Party": 79,
+        "None of the Above": 1222
+      }
+    },
+    {
+      "Constituency": "Sardarshahar - 21",
+      "VotesByParty": {
+        "Indian National Congress": 99582,
+        "Independent": 77950,
+        "Bharatiya Janata Party": 52538,
+        "Bahujan Samaj Party": 2135,
+        "Communist Party of India  (Marxist)": 1977,
+        "None of the Above": 1401
+      }
+    },
+    {
+      "Constituency": "Sawai Madhopur - 92",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 81087,
+        "Indian National Congress": 58577,
+        "Independent": 39591,
+        "Aam Aadmi Party": 1169,
+        "Communist Party of India": 761,
+        "Bahujan Samaj Party": 698,
+        "All India Majlis-E-Ittehadul Muslimeen": 465,
+        "Indian Peoples Green Party": 195,
+        "Samrat Mihir Bhoj Samaj Party": 115,
+        "None of the Above": 1470
+      }
+    },
+    {
+      "Constituency": "Shahpura - 42",
+      "VotesByParty": {
+        "Indian National Congress": 124072,
+        "Independent": 59164,
+        "Bharatiya Janata Party": 11233,
+        "Rashtriya Loktantrik Party": 1423,
+        "Bahujan Samaj Party": 1059,
+        "Aam Aadmi Party": 1044,
+        "None of the Above": 1035
+      }
+    },
+    {
+      "Constituency": "Shahpura - 181",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 100135,
+        "Indian National Congress": 40837,
+        "Independent": 36527,
+        "Right to Recall Party": 2014,
+        "Bahujan Samaj Party": 1437,
+        "Aam Aadmi Party": 1205,
+        "None of the Above": 2326
+      }
+    },
+    {
+      "Constituency": "Sheo - 134",
+      "VotesByParty": {
+        "Independent": 157500,
+        "Indian National Congress": 55264,
+        "Bharatiya Janata Party": 22820,
+        "Rashtriya Loktantrik Party": 7345,
+        "Bhartiya Tribal Party": 2736,
+        "Bahujan Samaj Party": 2064,
+        "Bahujan Mukti Party": 2033,
+        "None of the Above": 3120
+      }
+    },
+    {
+      "Constituency": "Shergarh - 124",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 102868,
+        "Indian National Congress": 77824,
+        "Rashtriya Loktantrik Party": 16952,
+        "Bahujan Samaj Party": 2206,
+        "Indian Peoples Green Party": 1762,
+        "Bhartiya Tribal Party": 1628,
+        "Bheem Tribal Congress": 1257,
+        "Independent": 1077,
+        "None of the Above": 1553
+      }
+    },
+    {
+      "Constituency": "Sikar - 35",
+      "VotesByParty": {
+        "Indian National Congress": 97161,
+        "Bharatiya Janata Party": 67123,
+        "Independent": 43471,
+        "Communist Party of India  (Marxist)": 1760,
+        "Bahujan Samaj Party": 981,
+        "Bharatiya Yuva Jan Ekta Party": 601,
+        "Aam Aadmi Party": 555,
+        "Social Democratic Party Of India": 398,
+        "Rashtriya Loktantrik Party": 219,
+        "Bhartiya Janraj Party": 185,
+        "Jannayak Janta Party": 164,
+        "Janata Congress": 118,
+        "Bhartiya Jan Satta Party": 110,
+        "None of the Above": 695
+      }
+    },
+    {
+      "Constituency": "Sikrai - 87",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 91996,
+        "Indian National Congress": 82568,
+        "Aazad Samaj Party (Kanshi Ram)": 2869,
+        "Independent": 3338,
+        "Bahujan Samaj Party": 1198,
+        "Bahujan Shoshit Samaj Sangharsh Samta Party": 529,
+        "None of the Above": 1210
+      }
+    },
+    {
+      "Constituency": "Sirohi - 146",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 114729,
+        "Indian National Congress": 78924,
+        "Aazad Samaj Party (Kanshi Ram)": 2298,
+        "Independent": 3189,
+        "Rashtriya Rashtrawadi Party": 774,
+        "Gana Suraksha Party": 319,
+        "None of the Above": 2339
+      }
+    },
+    {
+      "Constituency": "Siwana - 138",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 62875,
+        "Independent": 58454,
+        "Indian National Congress": 44115,
+        "Rashtriya Loktantrik Party": 7486,
+        "Bahujan Samaj Party": 2133,
+        "Indian Peoples Green Party": 1380,
+        "None of the Above": 2260
+      }
+    },
+    {
+      "Constituency": "Sojat - 117",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 94852,
+        "Indian National Congress": 63080,
+        "Aazad Samaj Party (Kanshi Ram)": 2266,
+        "Aam Aadmi Party": 1993,
+        "Independent": 4823,
+        "Bahujan Samaj Party": 1067,
+        "None of the Above": 2024
+      }
+    },
+    {
+      "Constituency": "Soorsagar - 129",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 117065,
+        "Indian National Congress": 78306,
+        "Bahujan Samaj Party": 820,
+        "Independent": 1743,
+        "Communist Party of India": 632,
+        "Jannayak Janta Party": 443,
+        "Aam Aadmi Parivartan Party": 92,
+        "People\u2019s Liberal Party": 74,
+        "None of the Above": 1734
+      }
+    },
+    {
+      "Constituency": "Srimadhopur - 39",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 81080,
+        "Indian National Congress": 66621,
+        "Independent": 43237,
+        "Aam Aadmi Party": 1209,
+        "Bahujan Samaj Party": 887,
+        "Lok Janshakti Party(Ram Vilas)": 722,
+        "None of the Above": 2676
+      }
+    },
+    {
+      "Constituency": "Sujangarh - 24",
+      "VotesByParty": {
+        "Indian National Congress": 86790,
+        "Bharatiya Janata Party": 84337,
+        "Rashtriya Loktantrik Party": 19438,
+        "Independent": 8636,
+        "None of the Above": 1788
+      }
+    },
+    {
+      "Constituency": "Sumerpur - 121",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 104044,
+        "Indian National Congress": 76662,
+        "Bahujan Samaj Party": 3003,
+        "Rashtriya Loktantrik Party": 1812,
+        "Independent": 4675,
+        "None of the Above": 2290
+      }
+    },
+    {
+      "Constituency": "Surajgarh - 26",
+      "VotesByParty": {
+        "Indian National Congress": 115684,
+        "Bharatiya Janata Party": 78270,
+        "Bahujan Samaj Party": 1170,
+        "Independent": 2395,
+        "Communist Party of India  (Marxist-Leninist)  (Liberation)": 820,
+        "Aazad Samaj Party (Kanshi Ram)": 785,
+        "Abhinav Rajasthan Party": 200,
+        "None of the Above": 1024
+      }
+    },
+    {
+      "Constituency": "Suratgarh - 4",
+      "VotesByParty": {
+        "Indian National Congress": 116841,
+        "Bharatiya Janata Party": 66382,
+        "Independent": 13149,
+        "Jannayak Janta Party": 6840,
+        "Bahujan Samaj Party": 2153,
+        "Aam Aadmi Party": 1895,
+        "Bheem Tribal Congress": 166,
+        "None of the Above": 1717
+      }
+    },
+    {
+      "Constituency": "Taranagar - 20",
+      "VotesByParty": {
+        "Indian National Congress": 108236,
+        "Bharatiya Janata Party": 97891,
+        "Communist Party of India  (Marxist)": 6815,
+        "Bahujan Samaj Party": 1126,
+        "Independent": 2004,
+        "Jannayak Janta Party": 966,
+        "Rashtriya Loktantrik Party": 686,
+        "None of the Above": 867
+      }
+    },
+    {
+      "Constituency": "Thanagazi - 64",
+      "VotesByParty": {
+        "Indian National Congress": 67350,
+        "Bharatiya Janata Party": 65411,
+        "Aam Aadmi Party": 19876,
+        "Independent": 8480,
+        "Aazad Samaj Party (Kanshi Ram)": 4971,
+        "Ambedkarite Party of India": 746,
+        "Bahujan Samaj Party": 696,
+        "Samajwadi Party": 181,
+        "None of the Above": 1096
+      }
+    },
+    {
+      "Constituency": "Tijara - 59",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 110209,
+        "Indian National Congress": 104036,
+        "Aazad Samaj Party (Kanshi Ram)": 8054,
+        "Bahujan Samaj Party": 567,
+        "Independent": 979,
+        "Aam Aadmi Parivartan Party": 172,
+        "None of the Above": 778
+      }
+    },
+    {
+      "Constituency": "Todabhim - 81",
+      "VotesByParty": {
+        "Indian National Congress": 97389,
+        "Bharatiya Janata Party": 68528,
+        "Independent": 6000,
+        "Aazad Samaj Party (Kanshi Ram)": 3436,
+        "Bahujan Samaj Party": 2529,
+        "Aam Aadmi Party": 1072,
+        "None of the Above": 1125
+      }
+    },
+    {
+      "Constituency": "Tonk - 96",
+      "VotesByParty": {
+        "Indian National Congress": 105812,
+        "Bharatiya Janata Party": 76337,
+        "Social Democratic Party Of India": 1737,
+        "Aazad Samaj Party (Kanshi Ram)": 1050,
+        "Bahujan Samaj Party": 927,
+        "Independent": 952,
+        "Indian Peoples Green Party": 255,
+        "None of the Above": 1487
+      }
+    },
+    {
+      "Constituency": "Udaipur - 153",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 97466,
+        "Indian National Congress": 64695,
+        "Bharat Adivasi Party": 589,
+        "Aam Aadmi Party": 348,
+        "Independent": 809,
+        "Bahujan Samaj Party": 225,
+        "Indian Peoples Green Party": 125,
+        "Bahujan Mukti Party": 113,
+        "None of the Above": 1579
+      }
+    },
+    {
+      "Constituency": "Udaipur Rural  - 152",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 103039,
+        "Indian National Congress": 75694,
+        "Bharat Adivasi Party": 25172,
+        "Bahujan Samaj Party": 2173,
+        "Communist Party of India": 1963,
+        "Aam Aadmi Party": 1741,
+        "Independent": 2060,
+        "None of the Above": 2703
+      }
+    },
+    {
+      "Constituency": "Udaipurwati - 30",
+      "VotesByParty": {
+        "Indian National Congress": 68399,
+        "Bharatiya Janata Party": 67983,
+        "Shiv Sena": 57823,
+        "Rashtriya Loktantrik Party": 914,
+        "Bahujan Mukti Party": 812,
+        "Bahujan Samaj Party": 729,
+        "Independent": 969,
+        "None of the Above": 1430
+      }
+    },
+    {
+      "Constituency": "Vallabhnagar - 155",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 83227,
+        "Indian National Congress": 63167,
+        "Janta Sena Rajasthan": 47032,
+        "Bharat Adivasi Party": 3387,
+        "Bahujan Samaj Party": 1849,
+        "Independent": 3032,
+        "None of the Above": 2209
+      }
+    },
+    {
+      "Constituency": "Vidhyadhar Nagar - 50",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 158516,
+        "Indian National Congress": 87148,
+        "Aam Aadmi Party": 780,
+        "Republican Party of India (Athawale)": 548,
+        "Rashtriya Loktantrik Party": 444,
+        "Independent": 906,
+        "Ambedkarite Party of India": 250,
+        "Parivartan Party of India": 90,
+        "Loktantrik Janshakti Party": 81,
+        "National Janmandal Party": 78,
+        "None of the Above": 1568
+      }
+    },
+    {
+      "Constituency": "Viratnagar - 41",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 83262,
+        "Indian National Congress": 65673,
+        "Aazad Samaj Party (Kanshi Ram)": 18897,
+        "Independent": 7560,
+        "Bahujan Samaj Party": 860,
+        "None of the Above": 1344
+      }
+    },
+    {
+      "Constituency": "Weir - 75",
+      "VotesByParty": {
+        "Bharatiya Janata Party": 94056,
+        "Indian National Congress": 87084,
+        "Rashtriya Loktantrik Party": 3255,
+        "Independent": 1598,
+        "Aam Aadmi Party": 1045,
+        "Bahujan Samaj Party": 925,
+        "None of the Above": 990
+      }
+    }
+  ]
+}
