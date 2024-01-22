@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 
-json_file_path = "data/constituency_data_mizoram.json"
+json_file_path = "data/rajasthan/constituency_data_rajasthan_with_karanpur.json"
 df = pd.read_json(json_file_path)
 
 # print(df)
@@ -58,7 +58,7 @@ total_data = {
 
 json_data = json.dumps(total_data, indent=2)
 
-json_file_path = 'nota_votes_mizoram.json'
+json_file_path = 'nota_votes_rajathan_with_karanpur.json'
 
 # Save the JSON data to a file
 with open(json_file_path, 'w') as json_file:
