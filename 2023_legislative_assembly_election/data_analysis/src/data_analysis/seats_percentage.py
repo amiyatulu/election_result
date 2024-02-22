@@ -5,23 +5,24 @@
 #     "BHRTADVSIP": 1
 # }
 
-# seat_counts = {
-#     "BJP": 115,
-#     "INC": 69,
-#     "BHRTADVSIP": 3,
-#     "BSP":2,
-#     "RLD": 1,
-#     "IND": 8,
-# }
-
-
 seat_counts = {
-    "BHRS": 39,
-    "INC": 64,
-    "BJP": 8,
-    "AIMIM": 7,
-    "CPI":1
+    "BJP": 115,
+    "INC": 70,
+    "BHRTADVSIP": 3,
+    "BSP":2,
+    "RLD": 1,
+    "RLTP": 1,
+    "IND": 8,
 }
+
+
+# seat_counts = {
+#     "BHRS": 39,
+#     "INC": 64,
+#     "BJP": 8,
+#     "AIMIM": 7,
+#     "CPI":1
+# }
 
 # Total number of seats
 total_seats = sum(seat_counts.values())

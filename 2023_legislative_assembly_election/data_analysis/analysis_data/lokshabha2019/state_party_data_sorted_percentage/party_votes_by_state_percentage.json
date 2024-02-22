@@ -1,0 +1,5618 @@
+{
+  "Andaman & Nicobar Islands": {
+    "INC": {
+      "votes": 95308,
+      "percentage": 45.976767520839765
+    },
+    "BJP": {
+      "votes": 93901,
+      "percentage": 45.29802794072245
+    },
+    "IND": {
+      "votes": 9417,
+      "percentage": 4.542779407224453
+    },
+    "AAAP": {
+      "votes": 2839,
+      "percentage": 1.3695392096326027
+    },
+    "BSP": {
+      "votes": 2486,
+      "percentage": 1.1992513121333745
+    },
+    "AITC": {
+      "votes": 1721,
+      "percentage": 0.830213800555727
+    },
+    "NOTA": {
+      "votes": 1412,
+      "percentage": 0.6811515899969126
+    },
+    "AINHCP": {
+      "votes": 212,
+      "percentage": 0.1022692188947206
+    }
+  },
+  "Andhra Pradesh": {
+    "YSRCP": {
+      "votes": 15537006,
+      "percentage": 49.14824607226994
+    },
+    "TDP": {
+      "votes": 12515345,
+      "percentage": 39.58981902558017
+    },
+    "JnP": {
+      "votes": 1829346,
+      "percentage": 5.786774321856008
+    },
+    "NOTA": {
+      "votes": 468822,
+      "percentage": 1.4830256884816637
+    },
+    "INC": {
+      "votes": 406977,
+      "percentage": 1.287391260694255
+    },
+    "BJP": {
+      "votes": 303985,
+      "percentage": 0.9615964351355067
+    },
+    "IND": {
+      "votes": 248025,
+      "percentage": 0.7845780411023046
+    },
+    "BSP": {
+      "votes": 83613,
+      "percentage": 0.2644931912133333
+    },
+    "CPIM": {
+      "votes": 41111,
+      "percentage": 0.13004651889026042
+    },
+    "PPOI": {
+      "votes": 27339,
+      "percentage": 0.08648152027293984
+    },
+    "CPI": {
+      "votes": 26536,
+      "percentage": 0.08394138856442195
+    },
+    "JAJGP": {
+      "votes": 11464,
+      "percentage": 0.03626409701923927
+    },
+    "PRSHP": {
+      "votes": 9738,
+      "percentage": 0.030804237331939287
+    },
+    "RPI(A)": {
+      "votes": 8614,
+      "percentage": 0.02724868560046468
+    },
+    "MPP": {
+      "votes": 7342,
+      "percentage": 0.023224965135664227
+    },
+    "SDPI": {
+      "votes": 7293,
+      "percentage": 0.02306996332530635
+    },
+    "IPBP": {
+      "votes": 6937,
+      "percentage": 0.021943827723522574
+    },
+    "SP": {
+      "votes": 6753,
+      "percentage": 0.02136178010911748
+    },
+    "AYSRCP": {
+      "votes": 5511,
+      "percentage": 0.01743295871188308
+    },
+    "SAPRP": {
+      "votes": 4983,
+      "percentage": 0.01576273512272063
+    },
+    "VCK": {
+      "votes": 4864,
+      "percentage": 0.015386302154708638
+    },
+    "DABAP": {
+      "votes": 4444,
+      "percentage": 0.01405771520878396
+    },
+    "CPI(ML)(L)": {
+      "votes": 4440,
+      "percentage": 0.01404506199977515
+    },
+    "NVSP": {
+      "votes": 4286,
+      "percentage": 0.013557913452936105
+    },
+    "RKSP": {
+      "votes": 3460,
+      "percentage": 0.010945025792617575
+    },
+    "IUML": {
+      "votes": 2387,
+      "percentage": 0.007550802476005245
+    },
+    "SUCI(C)": {
+      "votes": 2184,
+      "percentage": 0.006908652118808318
+    },
+    "SMFB": {
+      "votes": 2107,
+      "percentage": 0.006665077845388795
+    },
+    "AINPP": {
+      "votes": 2023,
+      "percentage": 0.006399360456203858
+    },
+    "RPI(KH)": {
+      "votes": 1804,
+      "percentage": 0.005706597262971706
+    },
+    "APoI": {
+      "votes": 1757,
+      "percentage": 0.00555792205711823
+    },
+    "VJNP": {
+      "votes": 1726,
+      "percentage": 0.00545985968729998
+    },
+    "AIFB": {
+      "votes": 1687,
+      "percentage": 0.005336490899464117
+    },
+    "ARPS": {
+      "votes": 1563,
+      "percentage": 0.004944241420191118
+    },
+    "ANC": {
+      "votes": 1510,
+      "percentage": 0.004776586400824433
+    },
+    "NRCP": {
+      "votes": 1489,
+      "percentage": 0.004710157053528199
+    },
+    "NPT": {
+      "votes": 1341,
+      "percentage": 0.004241988320202361
+    },
+    "ACP": {
+      "votes": 1263,
+      "percentage": 0.003995250744530635
+    },
+    "RRS": {
+      "votes": 1229,
+      "percentage": 0.00388769846795578
+    },
+    "RD": {
+      "votes": 1220,
+      "percentage": 0.0038592287476859654
+    },
+    "NavaP": {
+      "votes": 1135,
+      "percentage": 0.0035903480562488287
+    },
+    "BAHUMP": {
+      "votes": 1017,
+      "percentage": 0.003217078390489038
+    },
+    "ILP(AP)": {
+      "votes": 1017,
+      "percentage": 0.003217078390489038
+    },
+    "RPC(S)": {
+      "votes": 996,
+      "percentage": 0.0031506490431928045
+    },
+    "JPD": {
+      "votes": 913,
+      "percentage": 0.0028880949562600706
+    },
+    "NNKP": {
+      "votes": 887,
+      "percentage": 0.002805849097702829
+    },
+    "BCUF": {
+      "votes": 649,
+      "percentage": 0.0020529831616788456
+    },
+    "NDDHP": {
+      "votes": 628,
+      "percentage": 0.0019865538143826115
+    },
+    "MCPI": {
+      "votes": 583,
+      "percentage": 0.0018442052130335392
+    },
+    "HMRD": {
+      "votes": 447,
+      "percentage": 0.00141399610673412
+    },
+    "AlPP": {
+      "votes": 370,
+      "percentage": 0.001170421833314596
+    },
+    "RDHP": {
+      "votes": 368,
+      "percentage": 0.0011640952288101928
+    }
+  },
+  "Arunachal Pradesh": {
+    "BJP": {
+      "votes": 379679,
+      "percentage": 58.22484898580106
+    },
+    "INC": {
+      "votes": 134888,
+      "percentage": 20.6854564777002
+    },
+    "JD(S)": {
+      "votes": 59878,
+      "percentage": 9.182460730174164
+    },
+    "PPA": {
+      "votes": 27703,
+      "percentage": 4.248333438124433
+    },
+    "NPEP": {
+      "votes": 27119,
+      "percentage": 4.158775385644028
+    },
+    "IND": {
+      "votes": 13439,
+      "percentage": 2.060908676856451
+    },
+    "NOTA": {
+      "votes": 7464,
+      "percentage": 1.1446255200577833
+    },
+    "AIFB": {
+      "votes": 1921,
+      "percentage": 0.2945907856418813
+    }
+  },
+  "Assam": {
+    "BJP": {
+      "votes": 6484596,
+      "percentage": 36.05344270392425
+    },
+    "INC": {
+      "votes": 6373659,
+      "percentage": 35.436648570065294
+    },
+    "AGP": {
+      "votes": 1480697,
+      "percentage": 8.232467288844598
+    },
+    "AIUDF": {
+      "votes": 1402088,
+      "percentage": 7.7954122930495195
+    },
+    "IND": {
+      "votes": 868715,
+      "percentage": 4.8299333495162315
+    },
+    "BOPF": {
+      "votes": 446774,
+      "percentage": 2.484000670296662
+    },
+    "UPPL": {
+      "votes": 312435,
+      "percentage": 1.7370947043116598
+    },
+    "NOTA": {
+      "votes": 178353,
+      "percentage": 0.9916176222193336
+    },
+    "AITC": {
+      "votes": 74522,
+      "percentage": 0.4143318499998832
+    },
+    "VPI": {
+      "votes": 50355,
+      "percentage": 0.279966725352837
+    },
+    "NPEP": {
+      "votes": 48689,
+      "percentage": 0.27070399941821627
+    },
+    "CPIM": {
+      "votes": 40937,
+      "percentage": 0.2276039685387566
+    },
+    "ASDC": {
+      "votes": 36915,
+      "percentage": 0.20524221361135891
+    },
+    "CPI": {
+      "votes": 31227,
+      "percentage": 0.17361773274934053
+    },
+    "PUJP": {
+      "votes": 22415,
+      "percentage": 0.12462425079503212
+    },
+    "HND": {
+      "votes": 22031,
+      "percentage": 0.12248926474527559
+    },
+    "AJM": {
+      "votes": 21678,
+      "percentage": 0.12052663434016088
+    },
+    "SUCI(C)": {
+      "votes": 16831,
+      "percentage": 0.09357799532148943
+    },
+    "BGanP": {
+      "votes": 13039,
+      "percentage": 0.07249500808014382
+    },
+    "RPI(A)": {
+      "votes": 11250,
+      "percentage": 0.06254841942646047
+    },
+    "NCP": {
+      "votes": 11010,
+      "percentage": 0.061214053145362636
+    },
+    "ADRP": {
+      "votes": 8285,
+      "percentage": 0.04606343599539777
+    },
+    "BMUP": {
+      "votes": 6933,
+      "percentage": 0.03854650594521337
+    },
+    "AIFB": {
+      "votes": 5816,
+      "percentage": 0.03233614287860392
+    },
+    "NRCong": {
+      "votes": 4278,
+      "percentage": 0.023785078960568695
+    },
+    "SwaBP": {
+      "votes": 4110,
+      "percentage": 0.022851022563800224
+    },
+    "TNRMPI": {
+      "votes": 3973,
+      "percentage": 0.022089321811673546
+    },
+    "SP": {
+      "votes": 2383,
+      "percentage": 0.013249145199400469
+    },
+    "BNJD": {
+      "votes": 2072,
+      "percentage": 0.011520028893477873
+    }
+  },
+  "Bihar": {
+    "BJP": {
+      "votes": 9619548,
+      "percentage": 23.573474928517186
+    },
+    "JD(U)": {
+      "votes": 8902719,
+      "percentage": 21.81682789483805
+    },
+    "RJD": {
+      "votes": 6270769,
+      "percentage": 15.36702304557582
+    },
+    "LJP": {
+      "votes": 3206979,
+      "percentage": 7.858959594856339
+    },
+    "INC": {
+      "votes": 3140797,
+      "percentage": 7.696775288720634
+    },
+    "IND": {
+      "votes": 2225474,
+      "percentage": 5.453702766810546
+    },
+    "BLSP": {
+      "votes": 1462518,
+      "percentage": 3.584017815130721
+    },
+    "HAMS": {
+      "votes": 956501,
+      "percentage": 2.343982517952155
+    },
+    "NOTA": {
+      "votes": 816950,
+      "percentage": 2.0020015849863335
+    },
+    "BSP": {
+      "votes": 682428,
+      "percentage": 1.6723446204040073
+    },
+    "VSIP": {
+      "votes": 660706,
+      "percentage": 1.6191131148907283
+    },
+    "CPI(ML)(L)": {
+      "votes": 545096,
+      "percentage": 1.3358015251480635
+    },
+    "AIMIM": {
+      "votes": 295029,
+      "percentage": 0.7229922585432804
+    },
+    "CPI": {
+      "votes": 280250,
+      "percentage": 0.6867751321285513
+    },
+    "JAPL": {
+      "votes": 97631,
+      "percentage": 0.239252606333069
+    },
+    "RAHIS": {
+      "votes": 67782,
+      "percentage": 0.16610523463313992
+    },
+    "SHS": {
+      "votes": 64462,
+      "percentage": 0.1579693080009658
+    },
+    "BMUP": {
+      "votes": 63443,
+      "percentage": 0.155472166664163
+    },
+    "RSPSR": {
+      "votes": 55803,
+      "percentage": 0.13674973308891897
+    },
+    "PPID": {
+      "votes": 55477,
+      "percentage": 0.13595084390756695
+    },
+    "SSD": {
+      "votes": 54483,
+      "percentage": 0.1335149670785365
+    },
+    "VPI": {
+      "votes": 42919,
+      "percentage": 0.10517645636333735
+    },
+    "BJKVP": {
+      "votes": 40906,
+      "percentage": 0.10024343819750407
+    },
+    "NCP": {
+      "votes": 38991,
+      "percentage": 0.0955505769021386
+    },
+    "RJBP": {
+      "votes": 37610,
+      "percentage": 0.09216632549279148
+    },
+    "SBSP": {
+      "votes": 36617,
+      "percentage": 0.08973289924407195
+    },
+    "JANADIP": {
+      "votes": 34770,
+      "percentage": 0.08520667740984737
+    },
+    "SUCI(C)": {
+      "votes": 33146,
+      "percentage": 0.08122693498495258
+    },
+    "BLND": {
+      "votes": 32445,
+      "percentage": 0.07950907818701461
+    },
+    "AAM": {
+      "votes": 32218,
+      "percentage": 0.07895279645644127
+    },
+    "AJPR": {
+      "votes": 31017,
+      "percentage": 0.07600964950305539
+    },
+    "JMM": {
+      "votes": 30853,
+      "percentage": 0.07560775433206848
+    },
+    "YKP": {
+      "votes": 30492,
+      "percentage": 0.0747230948398351
+    },
+    "WAP": {
+      "votes": 29392,
+      "percentage": 0.07202745649784971
+    },
+    "JDR": {
+      "votes": 27584,
+      "percentage": 0.06759680729575007
+    },
+    "CPIM": {
+      "votes": 27577,
+      "percentage": 0.0675796532335738
+    },
+    "AAAP": {
+      "votes": 26147,
+      "percentage": 0.06407532338899279
+    },
+    "BNDl": {
+      "votes": 26065,
+      "percentage": 0.06387437580349933
+    },
+    "SJDD": {
+      "votes": 25630,
+      "percentage": 0.06280837336825966
+    },
+    "APoI": {
+      "votes": 25234,
+      "percentage": 0.06183794356514491
+    },
+    "BMF": {
+      "votes": 23765,
+      "percentage": 0.058238041088438976
+    },
+    "BJKD": {
+      "votes": 23414,
+      "percentage": 0.057377887399314535
+    },
+    "AHFBK": {
+      "votes": 23252,
+      "percentage": 0.05698089338894942
+    },
+    "PSPL": {
+      "votes": 20434,
+      "percentage": 0.050075158072845016
+    },
+    "BBC": {
+      "votes": 19003,
+      "percentage": 0.04656837764795311
+    },
+    "MOSP": {
+      "votes": 17980,
+      "percentage": 0.044061433989906695
+    },
+    "JTVP": {
+      "votes": 17955,
+      "percentage": 0.0440001694821343
+    },
+    "VCSMP": {
+      "votes": 17856,
+      "percentage": 0.04375756203135562
+    },
+    "JPJD": {
+      "votes": 17791,
+      "percentage": 0.04359827431114739
+    },
+    "AIFB": {
+      "votes": 16454,
+      "percentage": 0.04032184843547969
+    },
+    "RMGP": {
+      "votes": 16371,
+      "percentage": 0.04011845026967534
+    },
+    "BDlP": {
+      "votes": 15376,
+      "percentage": 0.037680122860334
+    },
+    "SPL": {
+      "votes": 15132,
+      "percentage": 0.037082181264475426
+    },
+    "MADP": {
+      "votes": 14532,
+      "percentage": 0.035611833077937936
+    },
+    "JHP": {
+      "votes": 13693,
+      "percentage": 0.03355579619709635
+    },
+    "JP": {
+      "votes": 13467,
+      "percentage": 0.0330019650468339
+    },
+    "PMP": {
+      "votes": 13238,
+      "percentage": 0.03244078215563875
+    },
+    "BMtrP": {
+      "votes": 12737,
+      "percentage": 0.031213041419879954
+    },
+    "ANC": {
+      "votes": 12431,
+      "percentage": 0.030463163844745834
+    },
+    "BALP": {
+      "votes": 12270,
+      "percentage": 0.03006862041469161
+    },
+    "GJNP": {
+      "votes": 11678,
+      "percentage": 0.028617876870641292
+    },
+    "ASDHP": {
+      "votes": 11598,
+      "percentage": 0.028421830445769625
+    },
+    "AMiP": {
+      "votes": 11311,
+      "percentage": 0.027718513896542528
+    },
+    "PMPT": {
+      "votes": 11081,
+      "percentage": 0.02715488042503649
+    },
+    "HND": {
+      "votes": 10966,
+      "percentage": 0.02687306368928347
+    },
+    "RVNP": {
+      "votes": 10721,
+      "percentage": 0.026272671513113997
+    },
+    "RPI(A)": {
+      "votes": 10283,
+      "percentage": 0.025199317336941633
+    },
+    "AKBMP": {
+      "votes": 10127,
+      "percentage": 0.024817026808441885
+    },
+    "BBMP": {
+      "votes": 9894,
+      "percentage": 0.024246041596003163
+    },
+    "LAJSP": {
+      "votes": 9868,
+      "percentage": 0.024182326507919873
+    },
+    "BhAmAP": {
+      "votes": 9628,
+      "percentage": 0.023594187233304878
+    },
+    "LJVM": {
+      "votes": 9278,
+      "percentage": 0.022736484124491342
+    },
+    "JKiP": {
+      "votes": 9264,
+      "percentage": 0.022702176000138803
+    },
+    "ravp": {
+      "votes": 9109,
+      "percentage": 0.02232233605194995
+    },
+    "SAAFP": {
+      "votes": 8643,
+      "percentage": 0.0211803656270725
+    },
+    "RSWD": {
+      "votes": 8381,
+      "percentage": 0.0205383135856178
+    },
+    "APKSP": {
+      "votes": 8354,
+      "percentage": 0.020472147917223613
+    },
+    "BRM": {
+      "votes": 7944,
+      "percentage": 0.01946740998975633
+    },
+    "SGUP": {
+      "votes": 6514,
+      "percentage": 0.015963080145175317
+    },
+    "RSJVP": {
+      "votes": 6497,
+      "percentage": 0.01592142027989009
+    },
+    "RPI": {
+      "votes": 6428,
+      "percentage": 0.015752330238438278
+    },
+    "SaBP": {
+      "votes": 6395,
+      "percentage": 0.01567146108817872
+    },
+    "LSD": {
+      "votes": 6313,
+      "percentage": 0.01547051350268526
+    },
+    "ManJP": {
+      "votes": 6267,
+      "percentage": 0.015357786808384052
+    },
+    "JGHTP": {
+      "votes": 6171,
+      "percentage": 0.015122531098538054
+    },
+    "PBI": {
+      "votes": 5965,
+      "percentage": 0.014617711554493519
+    },
+    "BhNP": {
+      "votes": 5674,
+      "percentage": 0.013904592684022837
+    },
+    "AITC": {
+      "votes": 5483,
+      "percentage": 0.013436531844641735
+    },
+    "PUJP": {
+      "votes": 5074,
+      "percentage": 0.012434244497485349
+    },
+    "BHAPRAP": {
+      "votes": 4965,
+      "percentage": 0.012167131243597706
+    },
+    "NJP": {
+      "votes": 4444,
+      "percentage": 0.010890378901620989
+    },
+    "mimm": {
+      "votes": 4413,
+      "percentage": 0.010814410911983218
+    },
+    "AKBHAD": {
+      "votes": 4378,
+      "percentage": 0.010728640601101864
+    },
+    "BLRP": {
+      "votes": 4208,
+      "percentage": 0.010312041948249577
+    },
+    "SPAKP": {
+      "votes": 3978,
+      "percentage": 0.00974840847674354
+    },
+    "BKVP": {
+      "votes": 3778,
+      "percentage": 0.009258292414564377
+    },
+    "RUC": {
+      "votes": 3776,
+      "percentage": 0.009253391253942585
+    },
+    "BSSPA": {
+      "votes": 3615,
+      "percentage": 0.00885884782388836
+    },
+    "ABJS": {
+      "votes": 3597,
+      "percentage": 0.008814737378292234
+    },
+    "JKNPP": {
+      "votes": 3545,
+      "percentage": 0.008687307202125653
+    },
+    "AAHPty": {
+      "votes": 3434,
+      "percentage": 0.008415292787616218
+    },
+    "RRP": {
+      "votes": 3195,
+      "percentage": 0.007829604093312119
+    },
+    "KPOI": {
+      "votes": 3064,
+      "percentage": 0.007508578072584767
+    },
+    "SP": {
+      "votes": 2881,
+      "percentage": 0.007060121875690834
+    },
+    "PSS": {
+      "votes": 2830,
+      "percentage": 0.006935142279835147
+    },
+    "RSTSAHP": {
+      "votes": 2756,
+      "percentage": 0.006753799336828858
+    },
+    "RPP": {
+      "votes": 2718,
+      "percentage": 0.006660677285014817
+    },
+    "BNSKP": {
+      "votes": 2640,
+      "percentage": 0.006469532020764944
+    },
+    "LCD": {
+      "votes": 2384,
+      "percentage": 0.005842183461175615
+    },
+    "JRVP": {
+      "votes": 2364,
+      "percentage": 0.0057931718549577
+    },
+    "SANVP": {
+      "votes": 2364,
+      "percentage": 0.0057931718549577
+    },
+    "BIP": {
+      "votes": 2231,
+      "percentage": 0.0054672446736085565
+    },
+    "SWSP": {
+      "votes": 2069,
+      "percentage": 0.005070250663243434
+    },
+    "RACHEP": {
+      "votes": 1975,
+      "percentage": 0.004839896114019228
+    },
+    "RDU": {
+      "votes": 1907,
+      "percentage": 0.004673256652878314
+    },
+    "BJAZP": {
+      "votes": 1814,
+      "percentage": 0.004445352683965002
+    },
+    "JPS": {
+      "votes": 1793,
+      "percentage": 0.0043938904974361905
+    },
+    "BHAIP": {
+      "votes": 1613,
+      "percentage": 0.003952786041474945
+    },
+    "RJPD": {
+      "votes": 1414,
+      "percentage": 0.003465120559606678
+    }
+  },
+  "Chandigarh": {
+    "BJP": {
+      "votes": 231188,
+      "percentage": 50.636049832664575
+    },
+    "INC": {
+      "votes": 184218,
+      "percentage": 40.3484256452489
+    },
+    "AAAP": {
+      "votes": 13781,
+      "percentage": 3.018389374638608
+    },
+    "BSP": {
+      "votes": 7396,
+      "percentage": 1.6199120393895323
+    },
+    "IND": {
+      "votes": 4714,
+      "percentage": 1.0324858509575792
+    },
+    "NOTA": {
+      "votes": 4335,
+      "percentage": 0.9494752150829668
+    },
+    "CHKAP": {
+      "votes": 3186,
+      "percentage": 0.6978150023654746
+    },
+    "BMFP": {
+      "votes": 1578,
+      "percentage": 0.3456221198156682
+    },
+    "BMUP": {
+      "votes": 920,
+      "percentage": 0.2015033905135708
+    },
+    "SAKAP": {
+      "votes": 658,
+      "percentage": 0.14411872930209738
+    },
+    "BHAPRAP": {
+      "votes": 531,
+      "percentage": 0.11630250039424578
+    },
+    "JanSP": {
+      "votes": 486,
+      "percentage": 0.10644635629303849
+    },
+    "BhaRP": {
+      "votes": 461,
+      "percentage": 0.10097072068125668
+    },
+    "BJSAP": {
+      "votes": 452,
+      "percentage": 0.09899949186101523
+    },
+    "CPIM": {
+      "votes": 377,
+      "percentage": 0.08257258502566978
+    },
+    "HSS": {
+      "votes": 365,
+      "percentage": 0.0799442799320145
+    },
+    "BSP(A)": {
+      "votes": 312,
+      "percentage": 0.06833593243503706
+    },
+    "BKNP": {
+      "votes": 285,
+      "percentage": 0.062422245974312694
+    },
+    "ANC": {
+      "votes": 245,
+      "percentage": 0.053661228995461795
+    },
+    "RPI(A)": {
+      "votes": 212,
+      "percentage": 0.0464333899879098
+    },
+    "AKBHAD": {
+      "votes": 209,
+      "percentage": 0.04577631371449598
+    },
+    "RaJPa": {
+      "votes": 194,
+      "percentage": 0.042490932347426895
+    },
+    "AIFB": {
+      "votes": 164,
+      "percentage": 0.035920169613288706
+    },
+    "RasLP": {
+      "votes": 158,
+      "percentage": 0.034606017066461076
+    },
+    "SVJSP": {
+      "votes": 143,
+      "percentage": 0.03132063569939198
+    }
+  },
+  "Chhattisgarh": {
+    "BJP": {
+      "votes": 6902477,
+      "percentage": 50.69962781464669
+    },
+    "INC": {
+      "votes": 5569183,
+      "percentage": 40.90640292342263
+    },
+    "BSP": {
+      "votes": 313261,
+      "percentage": 2.300944444848427
+    },
+    "IND": {
+      "votes": 259902,
+      "percentage": 1.909015367712533
+    },
+    "NOTA": {
+      "votes": 196265,
+      "percentage": 1.4415929894502557
+    },
+    "GGP": {
+      "votes": 86097,
+      "percentage": 0.6323941182212756
+    },
+    "APoI": {
+      "votes": 57703,
+      "percentage": 0.42383634509590656
+    },
+    "SHS": {
+      "votes": 50719,
+      "percentage": 0.3725379198121291
+    },
+    "CPI": {
+      "votes": 38395,
+      "percentage": 0.2820164717598276
+    },
+    "RJsbhP": {
+      "votes": 16902,
+      "percentage": 0.12414747768419342
+    },
+    "BSCP": {
+      "votes": 14931,
+      "percentage": 0.1096702159095191
+    },
+    "SDP(MP)": {
+      "votes": 12107,
+      "percentage": 0.08892755368137081
+    },
+    "ABSKP": {
+      "votes": 9912,
+      "percentage": 0.07280498158831648
+    },
+    "SSD": {
+      "votes": 9060,
+      "percentage": 0.06654692627019242
+    },
+    "PSPL": {
+      "votes": 8887,
+      "percentage": 0.06527621785465784
+    },
+    "BMUP": {
+      "votes": 8769,
+      "percentage": 0.06440949188336836
+    },
+    "BKNP": {
+      "votes": 7093,
+      "percentage": 0.05209904503691776
+    },
+    "PPID": {
+      "votes": 6240,
+      "percentage": 0.045833644583443786
+    },
+    "BTP": {
+      "votes": 5501,
+      "percentage": 0.04040558955985966
+    },
+    "BHBHP": {
+      "votes": 5045,
+      "percentage": 0.03705620784030031
+    },
+    "SUCI(C)": {
+      "votes": 3690,
+      "percentage": 0.027103549441171083
+    },
+    "SSBD": {
+      "votes": 2802,
+      "percentage": 0.020581069250450237
+    },
+    "SUSP": {
+      "votes": 2568,
+      "percentage": 0.018862307578571096
+    },
+    "RPI(A)": {
+      "votes": 2561,
+      "percentage": 0.01881089163112172
+    },
+    "CPIM": {
+      "votes": 2263,
+      "percentage": 0.016622041296848283
+    },
+    "AVVP": {
+      "votes": 2201,
+      "percentage": 0.016166642905153808
+    },
+    "cvgrp": {
+      "votes": 2187,
+      "percentage": 0.016063811010255058
+    },
+    "BYPP": {
+      "votes": 1986,
+      "percentage": 0.014587438804922973
+    },
+    "KMSP": {
+      "votes": 1854,
+      "percentage": 0.013617880938734742
+    },
+    "BSHSP": {
+      "votes": 1852,
+      "percentage": 0.013603190668034918
+    },
+    "RGOP": {
+      "votes": 1850,
+      "percentage": 0.013588500397335097
+    },
+    "CSM": {
+      "votes": 1522,
+      "percentage": 0.011179296002564334
+    },
+    "FDLP": {
+      "votes": 1519,
+      "percentage": 0.011157260596514602
+    },
+    "RP(K)": {
+      "votes": 1506,
+      "percentage": 0.01106177383696576
+    },
+    "SABHP": {
+      "votes": 1210,
+      "percentage": 0.008887613773392145
+    },
+    "BHBP": {
+      "votes": 1069,
+      "percentage": 0.007851949689054713
+    },
+    "SWAP": {
+      "votes": 966,
+      "percentage": 0.007095400748013895
+    },
+    "BLRP": {
+      "votes": 826,
+      "percentage": 0.006067081799026373
+    },
+    "IPBP": {
+      "votes": 797,
+      "percentage": 0.005854072873878958
+    },
+    "BHAPRAP": {
+      "votes": 775,
+      "percentage": 0.005692479896180919
+    }
+  },
+  "Dadra & Nagar Haveli": {
+    "IND": {
+      "votes": 97458,
+      "percentage": 48.978053401546866
+    },
+    "BJP": {
+      "votes": 81420,
+      "percentage": 40.91806837770061
+    },
+    "INC": {
+      "votes": 8608,
+      "percentage": 4.325997698295835
+    },
+    "SHS": {
+      "votes": 4000,
+      "percentage": 2.010221978762005
+    },
+    "NOTA": {
+      "votes": 2950,
+      "percentage": 1.4825387093369784
+    },
+    "BMUP": {
+      "votes": 1596,
+      "percentage": 0.8020785695260398
+    },
+    "NSBHP": {
+      "votes": 1160,
+      "percentage": 0.5829643738409814
+    },
+    "BSP": {
+      "votes": 948,
+      "percentage": 0.47642260896659516
+    },
+    "BTP": {
+      "votes": 843,
+      "percentage": 0.4236542820240925
+    }
+  },
+  "Daman & Diu": {
+    "BJP": {
+      "votes": 37597,
+      "percentage": 42.983228343756075
+    },
+    "INC": {
+      "votes": 27655,
+      "percentage": 31.61691570727915
+    },
+    "IND": {
+      "votes": 19938,
+      "percentage": 22.79436143090695
+    },
+    "NOTA": {
+      "votes": 1487,
+      "percentage": 1.7000308680789766
+    },
+    "BSP": {
+      "votes": 792,
+      "percentage": 0.9054636499788496
+    }
+  },
+  "Goa": {
+    "BJP": {
+      "votes": 436650,
+      "percentage": 51.17773847489988
+    },
+    "INC": {
+      "votes": 366158,
+      "percentage": 42.915695326903446
+    },
+    "AAAP": {
+      "votes": 25647,
+      "percentage": 3.005966926979863
+    },
+    "NOTA": {
+      "votes": 12499,
+      "percentage": 1.4649503107701216
+    },
+    "IND": {
+      "votes": 7677,
+      "percentage": 0.8997858657318364
+    },
+    "RPI(KM)": {
+      "votes": 2809,
+      "percentage": 0.32922997223404044
+    },
+    "SHS": {
+      "votes": 1763,
+      "percentage": 0.20663312248081642
+    }
+  },
+  "Gujarat": {
+    "BJP": {
+      "votes": 18091275,
+      "percentage": 62.20788595983407
+    },
+    "INC": {
+      "votes": 9337084,
+      "percentage": 32.10609847395451
+    },
+    "IND": {
+      "votes": 626629,
+      "percentage": 2.1546997307334537
+    },
+    "NOTA": {
+      "votes": 400932,
+      "percentage": 1.378627660772842
+    },
+    "BSP": {
+      "votes": 249184,
+      "percentage": 0.8568334655802476
+    },
+    "BTP": {
+      "votes": 180260,
+      "percentage": 0.6198343413120242
+    },
+    "NCP": {
+      "votes": 27305,
+      "percentage": 0.09388980744216587
+    },
+    "HND": {
+      "votes": 22482,
+      "percentage": 0.07730564551967672
+    },
+    "BMUP": {
+      "votes": 20823,
+      "percentage": 0.07160107893675957
+    },
+    "VPP": {
+      "votes": 14974,
+      "percentage": 0.05148895721073033
+    },
+    "SVPP": {
+      "votes": 13884,
+      "percentage": 0.04774092973913316
+    },
+    "GAGUP": {
+      "votes": 10469,
+      "percentage": 0.03599825651389982
+    },
+    "YJJP": {
+      "votes": 10147,
+      "percentage": 0.034891041058987625
+    },
+    "CPI": {
+      "votes": 5735,
+      "percentage": 0.019720126192302553
+    },
+    "ADPT": {
+      "votes": 5682,
+      "percentage": 0.019537882654692782
+    },
+    "BNJD": {
+      "votes": 5271,
+      "percentage": 0.018124635598888713
+    },
+    "RPWP": {
+      "votes": 3762,
+      "percentage": 0.012935852612980334
+    },
+    "JANSAPP": {
+      "votes": 3646,
+      "percentage": 0.012536979964626873
+    },
+    "RTORP": {
+      "votes": 3577,
+      "percentage": 0.012299719510002832
+    },
+    "aicp": {
+      "votes": 3391,
+      "percentage": 0.011660147849711939
+    },
+    "JSVP": {
+      "votes": 3330,
+      "percentage": 0.011450395853595032
+    },
+    "SANVP": {
+      "votes": 3282,
+      "percentage": 0.01128534510255222
+    },
+    "RSP(S)": {
+      "votes": 3256,
+      "percentage": 0.01119594261240403
+    },
+    "RSPS": {
+      "votes": 3016,
+      "percentage": 0.010370688857189975
+    },
+    "ANC": {
+      "votes": 2804,
+      "percentage": 0.009641714706750893
+    },
+    "NIRBHP": {
+      "votes": 2449,
+      "percentage": 0.008421026860496767
+    },
+    "PPID": {
+      "votes": 2163,
+      "percentage": 0.007437599468866683
+    },
+    "STBSP": {
+      "votes": 2142,
+      "percentage": 0.007365389765285454
+    },
+    "MaNPa": {
+      "votes": 1887,
+      "percentage": 0.006488557650370518
+    },
+    "BARESP": {
+      "votes": 1692,
+      "percentage": 0.005818038974259097
+    },
+    "SUCI(C)": {
+      "votes": 1614,
+      "percentage": 0.005549831503814529
+    },
+    "GJPP": {
+      "votes": 1524,
+      "percentage": 0.005240361345609258
+    },
+    "PPOI": {
+      "votes": 1472,
+      "percentage": 0.005061556365312879
+    },
+    "PAP": {
+      "votes": 1346,
+      "percentage": 0.0046282981438254996
+    },
+    "YuS": {
+      "votes": 1296,
+      "percentage": 0.004456370278155904
+    },
+    "RVZP": {
+      "votes": 1290,
+      "percentage": 0.004435738934275553
+    },
+    "AINHCP": {
+      "votes": 1097,
+      "percentage": 0.003772097372790916
+    },
+    "APoI": {
+      "votes": 1055,
+      "percentage": 0.0036276779656284563
+    },
+    "ABJS": {
+      "votes": 1034,
+      "percentage": 0.0035554682620472264
+    },
+    "BRP": {
+      "votes": 992,
+      "percentage": 0.003411048854884766
+    },
+    "BMFP": {
+      "votes": 858,
+      "percentage": 0.0029502821748902514
+    },
+    "RNNBP": {
+      "votes": 811,
+      "percentage": 0.002788669981160832
+    },
+    "BSDL": {
+      "votes": 743,
+      "percentage": 0.0025548480838501826
+    },
+    "BAHUMP": {
+      "votes": 713,
+      "percentage": 0.0024516913644484256
+    },
+    "LoRP": {
+      "votes": 705,
+      "percentage": 0.0024241829059412903
+    },
+    "LOGAP": {
+      "votes": 635,
+      "percentage": 0.0021834838940038574
+    },
+    "BSCP": {
+      "votes": 613,
+      "percentage": 0.002107835633109236
+    },
+    "SABHP": {
+      "votes": 604,
+      "percentage": 0.0020768886172887087
+    },
+    "REALDP": {
+      "votes": 532,
+      "percentage": 0.0018293124907244917
+    },
+    "BBC": {
+      "votes": 497,
+      "percentage": 0.001708962984755775
+    }
+  },
+  "Haryana": {
+    "BJP": {
+      "votes": 7357347,
+      "percentage": 58.016213493381244
+    },
+    "INC": {
+      "votes": 3604106,
+      "percentage": 28.42010620795462
+    },
+    "JNJP": {
+      "votes": 619970,
+      "percentage": 4.888761109064391
+    },
+    "BSP": {
+      "votes": 461273,
+      "percentage": 3.6373590706993224
+    },
+    "INLD": {
+      "votes": 240258,
+      "percentage": 1.894549682309777
+    },
+    "IND": {
+      "votes": 135637,
+      "percentage": 1.069562866832535
+    },
+    "LTSP": {
+      "votes": 55280,
+      "percentage": 0.4359093409504969
+    },
+    "AAAP": {
+      "votes": 45498,
+      "percentage": 0.35877357443136226
+    },
+    "NOTA": {
+      "votes": 41781,
+      "percentage": 0.3294632448309101
+    },
+    "BMUP": {
+      "votes": 11162,
+      "percentage": 0.08801772908266002
+    },
+    "PPID": {
+      "votes": 10849,
+      "percentage": 0.08554957380557056
+    },
+    "CPIM": {
+      "votes": 9150,
+      "percentage": 0.07215214308424468
+    },
+    "RasLP": {
+      "votes": 9005,
+      "percentage": 0.07100874846706266
+    },
+    "PSPL": {
+      "votes": 8094,
+      "percentage": 0.06382507607911218
+    },
+    "CPI": {
+      "votes": 7563,
+      "percentage": 0.059637886136190435
+    },
+    "SHS": {
+      "votes": 6761,
+      "percentage": 0.0533137310811561
+    },
+    "AAPP": {
+      "votes": 6729,
+      "percentage": 0.05306139571736421
+    },
+    "SUCI(C)": {
+      "votes": 5760,
+      "percentage": 0.045420365482540914
+    },
+    "SNP": {
+      "votes": 5027,
+      "percentage": 0.039640308555682846
+    },
+    "BHAPRAP": {
+      "votes": 4587,
+      "percentage": 0.0361706973035443
+    },
+    "BSCP": {
+      "votes": 4532,
+      "percentage": 0.03573699589702699
+    },
+    "BKNP": {
+      "votes": 2688,
+      "percentage": 0.021196170558519096
+    },
+    "VoP": {
+      "votes": 2478,
+      "percentage": 0.01954021973363479
+    },
+    "BHTJP": {
+      "votes": 2209,
+      "percentage": 0.01741902558175918
+    },
+    "RPI(A)": {
+      "votes": 2128,
+      "percentage": 0.016780301692160948
+    },
+    "RRP": {
+      "votes": 1868,
+      "percentage": 0.014730076861351811
+    },
+    "RMPOI": {
+      "votes": 1851,
+      "percentage": 0.014596023699337367
+    },
+    "RABSP": {
+      "votes": 1777,
+      "percentage": 0.014012498170568613
+    },
+    "AIFB": {
+      "votes": 1523,
+      "percentage": 0.012009586220470455
+    },
+    "JJJKP": {
+      "votes": 1243,
+      "percentage": 0.009801651787291381
+    },
+    "HCP": {
+      "votes": 1192,
+      "percentage": 0.00939949230124805
+    },
+    "ABJS": {
+      "votes": 1027,
+      "percentage": 0.008098388081696098
+    },
+    "NNMP": {
+      "votes": 985,
+      "percentage": 0.007767197916719236
+    },
+    "RGD": {
+      "votes": 774,
+      "percentage": 0.006103361611716436
+    },
+    "SPAKP": {
+      "votes": 770,
+      "percentage": 0.006071819691242449
+    },
+    "BJSAP": {
+      "votes": 766,
+      "percentage": 0.006040277770768462
+    },
+    "ABD": {
+      "votes": 716,
+      "percentage": 0.005646003764843628
+    },
+    "RaNP": {
+      "votes": 658,
+      "percentage": 0.0051886459179708196
+    },
+    "MYSP": {
+      "votes": 605,
+      "percentage": 0.004770715471690496
+    },
+    "AJNSP": {
+      "votes": 551,
+      "percentage": 0.004344899545291675
+    },
+    "RJAVP": {
+      "votes": 535,
+      "percentage": 0.004218731863395727
+    },
+    "RASAP": {
+      "votes": 527,
+      "percentage": 0.004155648022447754
+    },
+    "RMEP": {
+      "votes": 509,
+      "percentage": 0.004013709380314813
+    },
+    "LPSP": {
+      "votes": 478,
+      "percentage": 0.003769259496641417
+    },
+    "RVP": {
+      "votes": 477,
+      "percentage": 0.00376137401652292
+    },
+    "AVIRP": {
+      "votes": 471,
+      "percentage": 0.0037140611358119397
+    },
+    "RPIE": {
+      "votes": 463,
+      "percentage": 0.0036509772948639663
+    },
+    "RPI": {
+      "votes": 443,
+      "percentage": 0.003493267692494032
+    },
+    "DSPVAD": {
+      "votes": 422,
+      "percentage": 0.0033276726100056023
+    },
+    "BAHUMP": {
+      "votes": 357,
+      "percentage": 0.0028151164023033173
+    },
+    "DKSP": {
+      "votes": 346,
+      "percentage": 0.0027283761209998536
+    },
+    "ToP": {
+      "votes": 330,
+      "percentage": 0.002602208439103907
+    }
+  },
+  "Himachal Pradesh": {
+    "BJP": {
+      "votes": 2661281,
+      "percentage": 69.11104174479034
+    },
+    "INC": {
+      "votes": 1051113,
+      "percentage": 27.29644649380949
+    },
+    "IND": {
+      "votes": 35710,
+      "percentage": 0.9273561494282125
+    },
+    "NOTA": {
+      "votes": 33008,
+      "percentage": 0.8571876723698248
+    },
+    "BSP": {
+      "votes": 32780,
+      "percentage": 0.8512667201976144
+    },
+    "CPIM": {
+      "votes": 14838,
+      "percentage": 0.3853293347862172
+    },
+    "AIFB": {
+      "votes": 7097,
+      "percentage": 0.1843026209042852
+    },
+    "RADM": {
+      "votes": 3799,
+      "percentage": 0.09865656711503164
+    },
+    "NED": {
+      "votes": 2371,
+      "percentage": 0.06157270877329297
+    },
+    "SatBP": {
+      "votes": 2319,
+      "percentage": 0.060222316172613415
+    },
+    "APoI": {
+      "votes": 1872,
+      "percentage": 0.04861413362446413
+    },
+    "SWAP": {
+      "votes": 1839,
+      "percentage": 0.0477571537048021
+    },
+    "HIMJKP": {
+      "votes": 970,
+      "percentage": 0.025190015820368696
+    },
+    "BSCP": {
+      "votes": 751,
+      "percentage": 0.019502785444429786
+    },
+    "PPID": {
+      "votes": 511,
+      "percentage": 0.013270204210524128
+    },
+    "BMUP": {
+      "votes": 473,
+      "percentage": 0.012283378848489067
+    }
+  },
+  "Jammu & Kashmir": {
+    "BJP": {
+      "votes": 1648041,
+      "percentage": 46.38942730186324
+    },
+    "INC": {
+      "votes": 1011527,
+      "percentage": 28.472688622656733
+    },
+    "JKN": {
+      "votes": 280356,
+      "percentage": 7.891523500107808
+    },
+    "IND": {
+      "votes": 226239,
+      "percentage": 6.368226059513226
+    },
+    "JPC": {
+      "votes": 133612,
+      "percentage": 3.760940510980341
+    },
+    "JKPDP": {
+      "votes": 84054,
+      "percentage": 2.365970823802814
+    },
+    "PDP": {
+      "votes": 36700,
+      "percentage": 1.0330398224184842
+    },
+    "JKNPP": {
+      "votes": 34044,
+      "percentage": 0.9582781393573535
+    },
+    "BSP": {
+      "votes": 30877,
+      "percentage": 0.8691327138096876
+    },
+    "DSSP": {
+      "votes": 26588,
+      "percentage": 0.748404980884541
+    },
+    "NOTA": {
+      "votes": 21739,
+      "percentage": 0.6119142424946983
+    },
+    "AIFB": {
+      "votes": 3866,
+      "percentage": 0.10882103415449208
+    },
+    "SHS": {
+      "votes": 3430,
+      "percentage": 0.09654840847126432
+    },
+    "NRCP": {
+      "votes": 2776,
+      "percentage": 0.07813946994642267
+    },
+    "MaNPa": {
+      "votes": 2184,
+      "percentage": 0.06147572131231524
+    },
+    "INDPP": {
+      "votes": 1723,
+      "percentage": 0.048499390027984965
+    },
+    "JKPPAP": {
+      "votes": 1612,
+      "percentage": 0.04537493715908982
+    },
+    "HND": {
+      "votes": 1281,
+      "percentage": 0.036057875000492595
+    },
+    "JD(U)": {
+      "votes": 1250,
+      "percentage": 0.03518528005512549
+    },
+    "RaJPa": {
+      "votes": 506,
+      "percentage": 0.014243001366314796
+    },
+    "PSPL": {
+      "votes": 217,
+      "percentage": 0.006108164617569784
+    }
+  },
+  "Jharkhand": {
+    "BJP": {
+      "votes": 7623987,
+      "percentage": 50.95581073011968
+    },
+    "INC": {
+      "votes": 2338466,
+      "percentage": 15.629411605085378
+    },
+    "JMM": {
+      "votes": 1722635,
+      "percentage": 11.51343293437931
+    },
+    "JVM": {
+      "votes": 750799,
+      "percentage": 5.018053118448802
+    },
+    "AJSUP": {
+      "votes": 648277,
+      "percentage": 4.332835314736213
+    },
+    "IND": {
+      "votes": 621247,
+      "percentage": 4.152177141521183
+    },
+    "RJD": {
+      "votes": 361478,
+      "percentage": 2.415980582220589
+    },
+    "NOTA": {
+      "votes": 189365,
+      "percentage": 1.265643173172923
+    },
+    "BSP": {
+      "votes": 166519,
+      "percentage": 1.1129492543689803
+    },
+    "CPI(ML)(L)": {
+      "votes": 73211,
+      "percentage": 0.48931429963912476
+    },
+    "AITC": {
+      "votes": 72070,
+      "percentage": 0.48168829240130207
+    },
+    "CPI": {
+      "votes": 70843,
+      "percentage": 0.47348749408332785
+    },
+    "CPIM": {
+      "votes": 41283,
+      "percentage": 0.275919769324309
+    },
+    "JKP": {
+      "votes": 35060,
+      "percentage": 0.23432761941986469
+    },
+    "APoI": {
+      "votes": 25819,
+      "percentage": 0.1725643127724326
+    },
+    "BMUP": {
+      "votes": 18007,
+      "percentage": 0.12035189511960935
+    },
+    "AIFB": {
+      "votes": 15683,
+      "percentage": 0.10481916872109921
+    },
+    "JKPP": {
+      "votes": 13975,
+      "percentage": 0.09340355052460379
+    },
+    "BLSD": {
+      "votes": 13047,
+      "percentage": 0.08720115375273745
+    },
+    "SUCI(C)": {
+      "votes": 12715,
+      "percentage": 0.08498219283866457
+    },
+    "AHNP": {
+      "votes": 9786,
+      "percentage": 0.06540587802746138
+    },
+    "JMM(U)": {
+      "votes": 8672,
+      "percentage": 0.05796032845433733
+    },
+    "AMB": {
+      "votes": 8300,
+      "percentage": 0.05547402285182194
+    },
+    "RPI(A)": {
+      "votes": 7729,
+      "percentage": 0.05165767742430502
+    },
+    "JKP(N)": {
+      "votes": 7665,
+      "percentage": 0.05122992592279701
+    },
+    "PPID": {
+      "votes": 6885,
+      "percentage": 0.04601670449816796
+    },
+    "PSPU": {
+      "votes": 6580,
+      "percentage": 0.04397820124879378
+    },
+    "KS": {
+      "votes": 5647,
+      "percentage": 0.0377423863908721
+    },
+    "VPI": {
+      "votes": 5099,
+      "percentage": 0.034079764159209644
+    },
+    "JPJD": {
+      "votes": 4998,
+      "percentage": 0.03340471882089229
+    },
+    "HND": {
+      "votes": 4987,
+      "percentage": 0.0333311990315706
+    },
+    "RJANSWP": {
+      "votes": 4897,
+      "percentage": 0.032729673482574946
+    },
+    "VSP": {
+      "votes": 4490,
+      "percentage": 0.030009441277672348
+    },
+    "PUJP": {
+      "votes": 4483,
+      "percentage": 0.029962655957194904
+    },
+    "PSS": {
+      "votes": 4286,
+      "percentage": 0.02864598336661552
+    },
+    "JSVP": {
+      "votes": 4164,
+      "percentage": 0.02783058206686585
+    },
+    "ANC": {
+      "votes": 4121,
+      "percentage": 0.02754318652679014
+    },
+    "JAC": {
+      "votes": 3983,
+      "percentage": 0.026620847351663462
+    },
+    "RTSGP": {
+      "votes": 3895,
+      "percentage": 0.02603268903708993
+    },
+    "ABHM": {
+      "votes": 3845,
+      "percentage": 0.025698508176536787
+    },
+    "BHAPRAP": {
+      "votes": 3479,
+      "percentage": 0.02325230427728777
+    },
+    "MOSP": {
+      "votes": 3254,
+      "percentage": 0.021748490404798624
+    },
+    "BaSaPa": {
+      "votes": 2701,
+      "percentage": 0.018052450087080847
+    },
+    "AAM": {
+      "votes": 2627,
+      "percentage": 0.017557862413462196
+    },
+    "RTORP": {
+      "votes": 2481,
+      "percentage": 0.016582054300647013
+    },
+    "HBP": {
+      "votes": 2373,
+      "percentage": 0.015860223641852224
+    },
+    "RSPSR": {
+      "votes": 2307,
+      "percentage": 0.015419104905922071
+    },
+    "UPNSE": {
+      "votes": 2051,
+      "percentage": 0.013708098899889973
+    },
+    "BMSM": {
+      "votes": 1864,
+      "percentage": 0.012458262481421215
+    },
+    "BJKD": {
+      "votes": 1842,
+      "percentage": 0.01231122290277783
+    },
+    "BHAZS": {
+      "votes": 1527,
+      "percentage": 0.010205883481293023
+    },
+    "BYPP": {
+      "votes": 1463,
+      "percentage": 0.009778131979784999
+    },
+    "SP": {
+      "votes": 1453,
+      "percentage": 0.00971129580767437
+    },
+    "JKPS": {
+      "votes": 1244,
+      "percentage": 0.008314419810562227
+    },
+    "BMFP": {
+      "votes": 1206,
+      "percentage": 0.008060442356541839
+    },
+    "BLRP": {
+      "votes": 1088,
+      "percentage": 0.0072717755256364175
+    }
+  },
+  "Karnataka": {
+    "BJP": {
+      "votes": 18053454,
+      "percentage": 51.377720997048215
+    },
+    "INC": {
+      "votes": 11203016,
+      "percentage": 31.88228858441532
+    },
+    "JD(S)": {
+      "votes": 3397229,
+      "percentage": 9.668060401354838
+    },
+    "IND": {
+      "votes": 1367841,
+      "percentage": 3.89269295871712
+    },
+    "BSP": {
+      "votes": 412382,
+      "percentage": 1.17358414296814
+    },
+    "NOTA": {
+      "votes": 250810,
+      "percentage": 0.7137717914405555
+    },
+    "UPJP": {
+      "votes": 120800,
+      "percentage": 0.34378068022016306
+    },
+    "SDPI": {
+      "votes": 46839,
+      "percentage": 0.13329754371549848
+    },
+    "SUCI(C)": {
+      "votes": 24505,
+      "percentage": 0.06973796000658192
+    },
+    "ASP": {
+      "votes": 22619,
+      "percentage": 0.06437065567797905
+    },
+    "CPIM": {
+      "votes": 21923,
+      "percentage": 0.06238993255353175
+    },
+    "PPOI": {
+      "votes": 20760,
+      "percentage": 0.059080189746445244
+    },
+    "INCP": {
+      "votes": 20235,
+      "percentage": 0.057586109803435426
+    },
+    "CPI": {
+      "votes": 17227,
+      "percentage": 0.04902574319662872
+    },
+    "RPIK": {
+      "votes": 14746,
+      "percentage": 0.04196514826594805
+    },
+    "SHS": {
+      "votes": 14350,
+      "percentage": 0.040838185108934937
+    },
+    "SJPA": {
+      "votes": 14213,
+      "percentage": 0.040448301390473326
+    },
+    "RPI(A)": {
+      "votes": 6545,
+      "percentage": 0.01862619662285569
+    },
+    "BBM": {
+      "votes": 5971,
+      "percentage": 0.016992669218498294
+    },
+    "rpsn": {
+      "votes": 5081,
+      "percentage": 0.014459847981776892
+    },
+    "AHNP": {
+      "votes": 4992,
+      "percentage": 0.014206565858104753
+    },
+    "SAJP": {
+      "votes": 4991,
+      "percentage": 0.01420371999154664
+    },
+    "RSPS": {
+      "votes": 4863,
+      "percentage": 0.013839449072108054
+    },
+    "IPBP": {
+      "votes": 4625,
+      "percentage": 0.01316213283127694
+    },
+    "ABML(S)": {
+      "votes": 4624,
+      "percentage": 0.013159286964718825
+    },
+    "HJP": {
+      "votes": 4400,
+      "percentage": 0.012521812855701303
+    },
+    "ILP(AP)": {
+      "votes": 3906,
+      "percentage": 0.01111595477599302
+    },
+    "KPPR": {
+      "votes": 3697,
+      "percentage": 0.010521168665347209
+    },
+    "APoI": {
+      "votes": 3635,
+      "percentage": 0.010344724938744146
+    },
+    "PSS": {
+      "votes": 3539,
+      "percentage": 0.010071521749165207
+    },
+    "SMFB": {
+      "votes": 3397,
+      "percentage": 0.00966740869791303
+    },
+    "BPKP": {
+      "votes": 3385,
+      "percentage": 0.009633258299215663
+    },
+    "BJKD": {
+      "votes": 3344,
+      "percentage": 0.00951657777033299
+    },
+    "RJBP": {
+      "votes": 3128,
+      "percentage": 0.008901870593780382
+    },
+    "KKMP": {
+      "votes": 3084,
+      "percentage": 0.008776652465223368
+    },
+    "ICF": {
+      "votes": 3017,
+      "percentage": 0.008585979405829735
+    },
+    "KCVP": {
+      "votes": 2510,
+      "percentage": 0.00714312506086597
+    },
+    "BHAPRAP": {
+      "votes": 2372,
+      "percentage": 0.006750395475846248
+    },
+    "BBKD": {
+      "votes": 2159,
+      "percentage": 0.006144225898967981
+    },
+    "PSPL": {
+      "votes": 2055,
+      "percentage": 0.005848255776924132
+    },
+    "BAHUMP": {
+      "votes": 2028,
+      "percentage": 0.0057714173798550554
+    },
+    "KJP": {
+      "votes": 2013,
+      "percentage": 0.005728729381483347
+    },
+    "KKJHS": {
+      "votes": 1707,
+      "percentage": 0.004857894214700483
+    },
+    "BHBHP": {
+      "votes": 1685,
+      "percentage": 0.004795285150421977
+    },
+    "BHPP": {
+      "votes": 1649,
+      "percentage": 0.004692833954329875
+    },
+    "MLPOIRF": {
+      "votes": 1609,
+      "percentage": 0.004578999292005318
+    },
+    "EP": {
+      "votes": 1442,
+      "percentage": 0.004103739576800291
+    },
+    "PBI": {
+      "votes": 1320,
+      "percentage": 0.0037565438567103908
+    },
+    "PUJP": {
+      "votes": 1241,
+      "percentage": 0.0035317203986193904
+    },
+    "KPJP": {
+      "votes": 1207,
+      "percentage": 0.003434960935643517
+    },
+    "AINHCP": {
+      "votes": 1189,
+      "percentage": 0.003383735337597466
+    },
+    "NDEP": {
+      "votes": 1138,
+      "percentage": 0.003238596143133655
+    },
+    "RPI": {
+      "votes": 1059,
+      "percentage": 0.0030137726850426546
+    },
+    "RTORP": {
+      "votes": 1033,
+      "percentage": 0.0029397801545316925
+    },
+    "SDC": {
+      "votes": 1016,
+      "percentage": 0.0028914004230437555
+    },
+    "AMKP": {
+      "votes": 829,
+      "percentage": 0.00235922337667645
+    },
+    "RTBHP": {
+      "votes": 811,
+      "percentage": 0.0023079977786303993
+    },
+    "PrStP": {
+      "votes": 742,
+      "percentage": 0.002111632986120538
+    },
+    "JVBP": {
+      "votes": 696,
+      "percentage": 0.001980723124447297
+    },
+    "BMUP": {
+      "votes": 645,
+      "percentage": 0.0018355839299834865
+    },
+    "VCK": {
+      "votes": 540,
+      "percentage": 0.0015367679413815236
+    },
+    "DPPS": {
+      "votes": 429,
+      "percentage": 0.0012208767534308772
+    },
+    "GaAP": {
+      "votes": 385,
+      "percentage": 0.001095658624873864
+    }
+  },
+  "Kerala": {
+    "INC": {
+      "votes": 7596610,
+      "percentage": 37.26529068909547
+    },
+    "CPIM": {
+      "votes": 5270241,
+      "percentage": 25.853250708748927
+    },
+    "BJP": {
+      "votes": 2635810,
+      "percentage": 12.93000770754649
+    },
+    "CPI": {
+      "votes": 1233886,
+      "percentage": 6.052847318370333
+    },
+    "IUML": {
+      "votes": 1111697,
+      "percentage": 5.453447243335562
+    },
+    "IND": {
+      "votes": 817459,
+      "percentage": 4.010058073458726
+    },
+    "RSP": {
+      "votes": 499677,
+      "percentage": 2.451173438633174
+    },
+    "KEC(M)": {
+      "votes": 421046,
+      "percentage": 2.065447822578873
+    },
+    "BDJS": {
+      "votes": 380847,
+      "percentage": 1.868250991306641
+    },
+    "KEC": {
+      "votes": 155135,
+      "percentage": 0.7610171999158606
+    },
+    "NOTA": {
+      "votes": 103596,
+      "percentage": 0.5081918190123667
+    },
+    "SDPI": {
+      "votes": 80111,
+      "percentage": 0.3929857794982403
+    },
+    "BSP": {
+      "votes": 50153,
+      "percentage": 0.24602633594856196
+    },
+    "SUCI(C)": {
+      "votes": 11527,
+      "percentage": 0.05654588109343556
+    },
+    "APoI": {
+      "votes": 3958,
+      "percentage": 0.01941603169669627
+    },
+    "PDP": {
+      "votes": 3156,
+      "percentage": 0.015481807992615825
+    },
+    "NALAP": {
+      "votes": 2833,
+      "percentage": 0.013897326376134547
+    },
+    "PNP": {
+      "votes": 1695,
+      "percentage": 0.008314849349646332
+    },
+    "VCK": {
+      "votes": 1628,
+      "percentage": 0.007986179788332878
+    },
+    "SMFB": {
+      "votes": 932,
+      "percentage": 0.0045719407633453574
+    },
+    "MCPI": {
+      "votes": 871,
+      "percentage": 0.0042727042970749
+    },
+    "AgIMK": {
+      "votes": 845,
+      "percentage": 0.004145160885221918
+    },
+    "SDC": {
+      "votes": 804,
+      "percentage": 0.0039440347357614465
+    },
+    "RSPS": {
+      "votes": 379,
+      "percentage": 0.001859190503549239
+    },
+    "igp": {
+      "votes": 320,
+      "percentage": 0.0015697650689597794
+    }
+  },
+  "Lakshadweep": {
+    "NCP": {
+      "votes": 22851,
+      "percentage": 48.609840668808104
+    },
+    "INC": {
+      "votes": 22028,
+      "percentage": 46.85911208491991
+    },
+    "JD(U)": {
+      "votes": 1342,
+      "percentage": 2.854772490374184
+    },
+    "CPIM": {
+      "votes": 420,
+      "percentage": 0.8934459358846178
+    },
+    "CPI": {
+      "votes": 143,
+      "percentage": 0.3041970686464294
+    },
+    "BJP": {
+      "votes": 125,
+      "percentage": 0.2659065285370887
+    },
+    "NOTA": {
+      "votes": 100,
+      "percentage": 0.21272522282967093
+    }
+  },
+  "Madhya Pradesh": {
+    "BJP": {
+      "votes": 21406911,
+      "percentage": 57.99663294646174
+    },
+    "INC": {
+      "votes": 12733074,
+      "percentage": 34.49705653740212
+    },
+    "BSP": {
+      "votes": 878013,
+      "percentage": 2.378755051731738
+    },
+    "IND": {
+      "votes": 699148,
+      "percentage": 1.894165390385041
+    },
+    "NOTA": {
+      "votes": 340984,
+      "percentage": 0.9238102540163926
+    },
+    "GGP": {
+      "votes": 111512,
+      "percentage": 0.3021136740899162
+    },
+    "CPI": {
+      "votes": 91704,
+      "percentage": 0.24844888773173893
+    },
+    "SP": {
+      "votes": 82662,
+      "percentage": 0.2239518664145621
+    },
+    "BSCP": {
+      "votes": 61758,
+      "percentage": 0.16731774413915132
+    },
+    "ABGP": {
+      "votes": 46595,
+      "percentage": 0.12623741520392104
+    },
+    "PPID": {
+      "votes": 35703,
+      "percentage": 0.09672828490236277
+    },
+    "BMUP": {
+      "votes": 34642,
+      "percentage": 0.0938537726686175
+    },
+    "APoI": {
+      "votes": 32423,
+      "percentage": 0.08784195113545942
+    },
+    "SPAKP": {
+      "votes": 28618,
+      "percentage": 0.07753326211623163
+    },
+    "PSPL": {
+      "votes": 23901,
+      "percentage": 0.06475373883010874
+    },
+    "HND": {
+      "votes": 17767,
+      "percentage": 0.04813521098675964
+    },
+    "BHAPRAP": {
+      "votes": 16598,
+      "percentage": 0.04496809995825048
+    },
+    "SGUP": {
+      "votes": 15558,
+      "percentage": 0.04215048193459821
+    },
+    "MPJVP": {
+      "votes": 15472,
+      "percentage": 0.04191748659802696
+    },
+    "BTP": {
+      "votes": 14784,
+      "percentage": 0.040053523905456995
+    },
+    "CPIM": {
+      "votes": 14271,
+      "percentage": 0.03866367963032851
+    },
+    "SMARTIP": {
+      "votes": 11877,
+      "percentage": 0.032177739679728944
+    },
+    "SABHP": {
+      "votes": 10554,
+      "percentage": 0.028593404443871286
+    },
+    "PHRC": {
+      "votes": 9906,
+      "percentage": 0.026837811675287943
+    },
+    "SHS": {
+      "votes": 9900,
+      "percentage": 0.02682155618668995
+    },
+    "SamSP": {
+      "votes": 9396,
+      "percentage": 0.025456095144458468
+    },
+    "RPI(A)": {
+      "votes": 9299,
+      "percentage": 0.025193298078790897
+    },
+    "JAC": {
+      "votes": 7888,
+      "percentage": 0.02137054901016266
+    },
+    "BAHUMP": {
+      "votes": 7760,
+      "percentage": 0.021023765253405456
+    },
+    "RSOSP": {
+      "votes": 7361,
+      "percentage": 0.019942775261638863
+    },
+    "AKBHAD": {
+      "votes": 6879,
+      "percentage": 0.018636917677600017
+    },
+    "SADSP": {
+      "votes": 6368,
+      "percentage": 0.01725249189867087
+    },
+    "AVIRP": {
+      "votes": 6335,
+      "percentage": 0.017163086711381906
+    },
+    "JD(U)": {
+      "votes": 6320,
+      "percentage": 0.017122447989886918
+    },
+    "RsAD": {
+      "votes": 5696,
+      "percentage": 0.015431877175695552
+    },
+    "AINHCP": {
+      "votes": 5584,
+      "percentage": 0.015128441388532999
+    },
+    "BTARP": {
+      "votes": 4632,
+      "percentage": 0.012549237197651298
+    },
+    "PRSP": {
+      "votes": 4612,
+      "percentage": 0.012495052235657987
+    },
+    "MNDP": {
+      "votes": 4455,
+      "percentage": 0.012069700284010478
+    },
+    "VSP": {
+      "votes": 4294,
+      "percentage": 0.01163351133996431
+    },
+    "AIUC": {
+      "votes": 4024,
+      "percentage": 0.010902014353054584
+    },
+    "SUCI(C)": {
+      "votes": 3540,
+      "percentage": 0.009590738272816406
+    },
+    "AABHAP": {
+      "votes": 3472,
+      "percentage": 0.009406509402039142
+    },
+    "BLRP": {
+      "votes": 3435,
+      "percentage": 0.009306267222351514
+    },
+    "cvgrp": {
+      "votes": 3353,
+      "percentage": 0.00908410887817893
+    },
+    "AIFB": {
+      "votes": 3236,
+      "percentage": 0.008767126850518048
+    },
+    "JANADIP": {
+      "votes": 3112,
+      "percentage": 0.008431180086159508
+    },
+    "ABHM": {
+      "votes": 3081,
+      "percentage": 0.008347193395069874
+    },
+    "SaVP": {
+      "votes": 2688,
+      "percentage": 0.007282458891901273
+    },
+    "KPOI": {
+      "votes": 2583,
+      "percentage": 0.006997987841436378
+    },
+    "KSRP": {
+      "votes": 2426,
+      "percentage": 0.0065726358897888705
+    },
+    "ANRP": {
+      "votes": 2360,
+      "percentage": 0.006393825515210939
+    },
+    "PSPU": {
+      "votes": 2304,
+      "percentage": 0.006242107621629661
+    },
+    "RAPty": {
+      "votes": 2272,
+      "percentage": 0.0061554116824403616
+    },
+    "RSPS": {
+      "votes": 2164,
+      "percentage": 0.005862812887676471
+    },
+    "RTAMP": {
+      "votes": 1965,
+      "percentage": 0.005323672515843006
+    },
+    "PBI": {
+      "votes": 1890,
+      "percentage": 0.005120478908368082
+    },
+    "NATWOMP": {
+      "votes": 1748,
+      "percentage": 0.0047357656782155595
+    },
+    "SJPT": {
+      "votes": 1672,
+      "percentage": 0.004529862822640969
+    },
+    "RKSP": {
+      "votes": 1431,
+      "percentage": 0.0038769340306215472
+    },
+    "ANSP": {
+      "votes": 1424,
+      "percentage": 0.003857969293923888
+    },
+    "BJSPP": {
+      "votes": 1392,
+      "percentage": 0.003771273354734587
+    },
+    "AVVP": {
+      "votes": 1325,
+      "percentage": 0.0035897537320569886
+    },
+    "BMVSP": {
+      "votes": 1311,
+      "percentage": 0.0035518242586616696
+    },
+    "PSJP": {
+      "votes": 1204,
+      "percentage": 0.0032619347119974447
+    },
+    "JNSMP": {
+      "votes": 1158,
+      "percentage": 0.0031373092994128244
+    },
+    "RRP": {
+      "votes": 1113,
+      "percentage": 0.0030153931349278704
+    },
+    "BHJMP": {
+      "votes": 1055,
+      "percentage": 0.0028582567451472625
+    },
+    "SWAJANPA": {
+      "votes": 968,
+      "percentage": 0.0026225521604763507
+    },
+    "ARK": {
+      "votes": 933,
+      "percentage": 0.002527728476988053
+    },
+    "RaNP": {
+      "votes": 930,
+      "percentage": 0.002519600732689056
+    },
+    "RPIR": {
+      "votes": 825,
+      "percentage": 0.0022351296822241628
+    },
+    "ssrd": {
+      "votes": 572,
+      "percentage": 0.0015496899130087527
+    },
+    "SP(I)": {
+      "votes": 528,
+      "percentage": 0.001430482996623464
+    },
+    "swbi": {
+      "votes": 527,
+      "percentage": 0.0014277737485237983
+    },
+    "RTORP": {
+      "votes": 484,
+      "percentage": 0.0013112760802381754
+    },
+    "JLokP": {
+      "votes": 473,
+      "percentage": 0.0012814743511418533
+    },
+    "SDP(MP)": {
+      "votes": 418,
+      "percentage": 0.0011324657056602423
+    }
+  },
+  "Maharashtra": {
+    "BJP": {
+      "votes": 14912139,
+      "percentage": 27.58735969765187
+    },
+    "SHS": {
+      "votes": 12589064,
+      "percentage": 23.28968612918375
+    },
+    "INC": {
+      "votes": 8792237,
+      "percentage": 16.265580991835147
+    },
+    "NCP": {
+      "votes": 8387363,
+      "percentage": 15.516566737727999
+    },
+    "VBA": {
+      "votes": 3743560,
+      "percentage": 6.925561535453877
+    },
+    "IND": {
+      "votes": 1991492,
+      "percentage": 3.6842471853968175
+    },
+    "SWP": {
+      "votes": 834380,
+      "percentage": 1.5435975472416643
+    },
+    "BVA": {
+      "votes": 491596,
+      "percentage": 0.9094493873700392
+    },
+    "NOTA": {
+      "votes": 488766,
+      "percentage": 0.9042139058643774
+    },
+    "BSP": {
+      "votes": 462539,
+      "percentage": 0.8556941272604954
+    },
+    "AIMIM": {
+      "votes": 389042,
+      "percentage": 0.7197251575708808
+    },
+    "MSHP": {
+      "votes": 281578,
+      "percentage": 0.520917459859073
+    },
+    "CPIM": {
+      "votes": 111272,
+      "percentage": 0.20585247282613972
+    },
+    "BMUP": {
+      "votes": 76579,
+      "percentage": 0.14167064954843045
+    },
+    "BARESP": {
+      "votes": 52574,
+      "percentage": 0.09726155642355193
+    },
+    "APoI": {
+      "votes": 51693,
+      "percentage": 0.09563171218097671
+    },
+    "CPI": {
+      "votes": 37395,
+      "percentage": 0.0691805056198639
+    },
+    "BAHUMP": {
+      "votes": 33428,
+      "percentage": 0.061841581544613194
+    },
+    "BTP": {
+      "votes": 22673,
+      "percentage": 0.041944901829634285
+    },
+    "PHJSP": {
+      "votes": 20620,
+      "percentage": 0.03814686524619852
+    },
+    "BPSJP": {
+      "votes": 14757,
+      "percentage": 0.027300353561501043
+    },
+    "STBP": {
+      "votes": 12430,
+      "percentage": 0.0229954187686832
+    },
+    "MLPOIRF": {
+      "votes": 12407,
+      "percentage": 0.02295286891899054
+    },
+    "SP": {
+      "votes": 12306,
+      "percentage": 0.02276601957903584
+    },
+    "BALP": {
+      "votes": 11383,
+      "percentage": 0.021058475610934907
+    },
+    "RJBP": {
+      "votes": 10835,
+      "percentage": 0.020044679192170754
+    },
+    "PRCP": {
+      "votes": 10446,
+      "percentage": 0.0193250317343254
+    },
+    "KKJHS": {
+      "votes": 9493,
+      "percentage": 0.017561987962277523
+    },
+    "RASMARP": {
+      "votes": 8997,
+      "percentage": 0.01664439120368807
+    },
+    "PPID": {
+      "votes": 8640,
+      "percentage": 0.015983943536719458
+    },
+    "IUML": {
+      "votes": 8440,
+      "percentage": 0.01561394484373984
+    },
+    "LKSGM": {
+      "votes": 8418,
+      "percentage": 0.01557324498751208
+    },
+    "ANC": {
+      "votes": 7384,
+      "percentage": 0.01366035174480746
+    },
+    "HBP": {
+      "votes": 7082,
+      "percentage": 0.013101653718408239
+    },
+    "JANADIP": {
+      "votes": 7054,
+      "percentage": 0.013049853901391092
+    },
+    "BJAZP": {
+      "votes": 6607,
+      "percentage": 0.01222290682258165
+    },
+    "BHAPRAP": {
+      "votes": 5822,
+      "percentage": 0.010770661952636653
+    },
+    "GGP": {
+      "votes": 5778,
+      "percentage": 0.010689262240181137
+    },
+    "HJP": {
+      "votes": 5597,
+      "percentage": 0.010354413423034583
+    },
+    "BKNP": {
+      "votes": 5580,
+      "percentage": 0.010322963534131315
+    },
+    "bns": {
+      "votes": 4917,
+      "percentage": 0.009096417866903884
+    },
+    "ALoP": {
+      "votes": 4856,
+      "percentage": 0.008983568265545102
+    },
+    "NNP": {
+      "votes": 4590,
+      "percentage": 0.008491470003882211
+    },
+    "BMFP": {
+      "votes": 4576,
+      "percentage": 0.008465570095373638
+    },
+    "BBKD": {
+      "votes": 4525,
+      "percentage": 0.008371220428663836
+    },
+    "ARP": {
+      "votes": 4399,
+      "percentage": 0.008138121252086678
+    },
+    "BAAP": {
+      "votes": 3919,
+      "percentage": 0.0072501243889355966
+    },
+    "AKHP": {
+      "votes": 3907,
+      "percentage": 0.007227924467356819
+    },
+    "HiPPa": {
+      "votes": 3750,
+      "percentage": 0.00693747549336782
+    },
+    "RJanPty": {
+      "votes": 3433,
+      "percentage": 0.006351027564995127
+    },
+    "ssrd": {
+      "votes": 3184,
+      "percentage": 0.005890379192235503
+    },
+    "MAHKRS": {
+      "votes": 2761,
+      "percentage": 0.005107831956583614
+    },
+    "HAPa": {
+      "votes": 2728,
+      "percentage": 0.005046782172241976
+    },
+    "PECP": {
+      "votes": 2712,
+      "percentage": 0.005017182276803607
+    },
+    "DMSK": {
+      "votes": 2199,
+      "percentage": 0.0040681356293108895
+    },
+    "SMFB": {
+      "votes": 2134,
+      "percentage": 0.003947886054092514
+    },
+    "HND": {
+      "votes": 2096,
+      "percentage": 0.003877586302426387
+    },
+    "SanS": {
+      "votes": 1987,
+      "percentage": 0.0036759370147524954
+    },
+    "SaRaPa": {
+      "votes": 1961,
+      "percentage": 0.0036278371846651452
+    },
+    "RJSPS": {
+      "votes": 1934,
+      "percentage": 0.003577887361112897
+    },
+    "AAPP": {
+      "votes": 1890,
+      "percentage": 0.003496487648657381
+    },
+    "RBS": {
+      "votes": 1820,
+      "percentage": 0.0033669881061145148
+    },
+    "PSPL": {
+      "votes": 1812,
+      "percentage": 0.0033521881583953306
+    },
+    "NAP": {
+      "votes": 1654,
+      "percentage": 0.0030598891909414333
+    },
+    "RUC": {
+      "votes": 1632,
+      "percentage": 0.003019189334713675
+    },
+    "PBI": {
+      "votes": 1589,
+      "percentage": 0.002939639615723057
+    },
+    "RBCP": {
+      "votes": 1574,
+      "percentage": 0.0029118897137495863
+    },
+    "ABHS": {
+      "votes": 1567,
+      "percentage": 0.0028989397594952997
+    },
+    "RTORP": {
+      "votes": 1492,
+      "percentage": 0.0027601902496279434
+    },
+    "BEPP": {
+      "votes": 1434,
+      "percentage": 0.0026528906286638542
+    },
+    "RAJSPty": {
+      "votes": 1425,
+      "percentage": 0.0026362406874797717
+    },
+    "JMBP": {
+      "votes": 1347,
+      "percentage": 0.0024919411972177206
+    },
+    "SABHP": {
+      "votes": 1290,
+      "percentage": 0.0023864915697185303
+    },
+    "DSPVAD": {
+      "votes": 1238,
+      "percentage": 0.0022902919095438294
+    },
+    "BLRP": {
+      "votes": 1234,
+      "percentage": 0.002282891935684237
+    },
+    "CSM": {
+      "votes": 1169,
+      "percentage": 0.002162642360465862
+    },
+    "JAC": {
+      "votes": 1158,
+      "percentage": 0.002142292432351983
+    },
+    "LJGP": {
+      "votes": 1135,
+      "percentage": 0.002099742582659327
+    },
+    "SUCI(C)": {
+      "votes": 1083,
+      "percentage": 0.002003542922484626
+    },
+    "ABEP": {
+      "votes": 1006,
+      "percentage": 0.0018610934256874736
+    },
+    "SVPP": {
+      "votes": 998,
+      "percentage": 0.001846293477968289
+    },
+    "BSCP": {
+      "votes": 905,
+      "percentage": 0.001674244085732767
+    },
+    "ABJS": {
+      "votes": 850,
+      "percentage": 0.0015724944451633725
+    },
+    "ABSSP": {
+      "votes": 735,
+      "percentage": 0.0013597451967000927
+    },
+    "AIMF": {
+      "votes": 722,
+      "percentage": 0.0013356952816564176
+    },
+    "RJnPty": {
+      "votes": 699,
+      "percentage": 0.0012931454319637615
+    },
+    "MNDP": {
+      "votes": 673,
+      "percentage": 0.0012450456018764115
+    },
+    "RSP(S)": {
+      "votes": 670,
+      "percentage": 0.0012394956214817172
+    },
+    "BMSM": {
+      "votes": 620,
+      "percentage": 0.0011469959482368127
+    },
+    "ACDP": {
+      "votes": 589,
+      "percentage": 0.0010896461508249722
+    },
+    "PUNP": {
+      "votes": 547,
+      "percentage": 0.0010119464252992525
+    },
+    "ABMP": {
+      "votes": 480,
+      "percentage": 0.000887996863151081
+    },
+    "RAKRD": {
+      "votes": 475,
+      "percentage": 0.0008787468958265904
+    },
+    "SwaBP": {
+      "votes": 446,
+      "percentage": 0.000825097085344546
+    },
+    "DJHP": {
+      "votes": 273,
+      "percentage": 0.0005050482159171773
+    }
+  },
+  "Manipur": {
+    "BJP": {
+      "votes": 553377,
+      "percentage": 34.215466231381356
+    },
+    "INC": {
+      "votes": 398387,
+      "percentage": 24.632387948037817
+    },
+    "NPF": {
+      "votes": 363527,
+      "percentage": 22.476983670617624
+    },
+    "CPI": {
+      "votes": 133813,
+      "percentage": 8.273698008446019
+    },
+    "IND": {
+      "votes": 85565,
+      "percentage": 5.290509667167492
+    },
+    "NEINDP": {
+      "votes": 37221,
+      "percentage": 2.3013856170354843
+    },
+    "NPEP": {
+      "votes": 30726,
+      "percentage": 1.8997978149171786
+    },
+    "NOTA": {
+      "votes": 5389,
+      "percentage": 0.3332034897021634
+    },
+    "JD(U)": {
+      "votes": 2987,
+      "percentage": 0.18468710776403083
+    },
+    "NCP": {
+      "votes": 2552,
+      "percentage": 0.15779092702169625
+    },
+    "MPEP": {
+      "votes": 1783,
+      "percentage": 0.11024342589329326
+    },
+    "MDPF": {
+      "votes": 1256,
+      "percentage": 0.0776588574997063
+    },
+    "RJSNP": {
+      "votes": 747,
+      "percentage": 0.04618723451614698
+    }
+  },
+  "Meghalaya": {
+    "INC": {
+      "votes": 660114,
+      "percentage": 48.28108783373109
+    },
+    "NPEP": {
+      "votes": 304455,
+      "percentage": 22.268000067289286
+    },
+    "UDP": {
+      "votes": 267256,
+      "percentage": 19.547245491069177
+    },
+    "BJP": {
+      "votes": 108390,
+      "percentage": 7.927702048885668
+    },
+    "IND": {
+      "votes": 16142,
+      "percentage": 1.180634435585501
+    },
+    "NOTA": {
+      "votes": 10874,
+      "percentage": 0.7953301234392726
+    }
+  },
+  "Mizoram": {
+    "IND": {
+      "votes": 230796,
+      "percentage": 46.19421521513307
+    },
+    "MNF": {
+      "votes": 224286,
+      "percentage": 44.891227550483265
+    },
+    "BJP": {
+      "votes": 28707,
+      "percentage": 5.745755282504138
+    },
+    "PRISMP": {
+      "votes": 13323,
+      "percentage": 2.6666212989446
+    },
+    "NOTA": {
+      "votes": 2509,
+      "percentage": 0.5021806529349246
+    }
+  },
+  "NCT OF Delhi": {
+    "BJP": {
+      "votes": 4908541,
+      "percentage": 56.55644905203495
+    },
+    "INC": {
+      "votes": 1953900,
+      "percentage": 22.51293119539413
+    },
+    "AAAP": {
+      "votes": 1571687,
+      "percentage": 18.109054348582536
+    },
+    "BSP": {
+      "votes": 93977,
+      "percentage": 1.0828075822455367
+    },
+    "NOTA": {
+      "votes": 45654,
+      "percentage": 0.5260276169683831
+    },
+    "IND": {
+      "votes": 30764,
+      "percentage": 0.3544643099928886
+    },
+    "AAPP": {
+      "votes": 6484,
+      "percentage": 0.07470896456877811
+    },
+    "MKDVP": {
+      "votes": 5017,
+      "percentage": 0.05780611894533618
+    },
+    "PBI": {
+      "votes": 4223,
+      "percentage": 0.048657612179819544
+    },
+    "PPID": {
+      "votes": 4201,
+      "percentage": 0.048404127105712035
+    },
+    "HBP": {
+      "votes": 3892,
+      "percentage": 0.044843814019383775
+    },
+    "SatBP": {
+      "votes": 3029,
+      "percentage": 0.0349002858850754
+    },
+    "PPOI": {
+      "votes": 2830,
+      "percentage": 0.03260739816928471
+    },
+    "RPI(A)": {
+      "votes": 2783,
+      "percentage": 0.03206586187460047
+    },
+    "RTORP": {
+      "votes": 2297,
+      "percentage": 0.026466146146589035
+    },
+    "RRP": {
+      "votes": 2244,
+      "percentage": 0.025855477558966385
+    },
+    "BHAPRAP": {
+      "votes": 2170,
+      "percentage": 0.025002845946059296
+    },
+    "ANC": {
+      "votes": 2148,
+      "percentage": 0.024749360871951783
+    },
+    "PSJP": {
+      "votes": 1897,
+      "percentage": 0.021857326617361512
+    },
+    "SUCI(C)": {
+      "votes": 1749,
+      "percentage": 0.02015206339154733
+    },
+    "JNSMP": {
+      "votes": 1708,
+      "percentage": 0.01967965938980151
+    },
+    "BHAIP": {
+      "votes": 1651,
+      "percentage": 0.01902290260688659
+    },
+    "RHSP": {
+      "votes": 1648,
+      "percentage": 0.018988336460417386
+    },
+    "RaNP": {
+      "votes": 1579,
+      "percentage": 0.018193315091625636
+    },
+    "JMBP": {
+      "votes": 1537,
+      "percentage": 0.017709389041056747
+    },
+    "PRISM": {
+      "votes": 1400,
+      "percentage": 0.01613086835229632
+    },
+    "JPJD": {
+      "votes": 1393,
+      "percentage": 0.016050214010534837
+    },
+    "ssrd": {
+      "votes": 1291,
+      "percentage": 0.014874965030581822
+    },
+    "AnAP": {
+      "votes": 1281,
+      "percentage": 0.014759744542351134
+    },
+    "ESP": {
+      "votes": 1270,
+      "percentage": 0.014633002005297378
+    },
+    "NYP": {
+      "votes": 1053,
+      "percentage": 0.012132717410691447
+    },
+    "NAPt": {
+      "votes": 1044,
+      "percentage": 0.012029018971283828
+    },
+    "CHALP": {
+      "votes": 958,
+      "percentage": 0.01103812277249991
+    },
+    "UtPP": {
+      "votes": 943,
+      "percentage": 0.010865292040153879
+    },
+    "JKNPP": {
+      "votes": 920,
+      "percentage": 0.010600284917223297
+    },
+    "BLokSP": {
+      "votes": 849,
+      "percentage": 0.009782219450785412
+    },
+    "SoJP": {
+      "votes": 805,
+      "percentage": 0.009275249302570385
+    },
+    "SPRP": {
+      "votes": 740,
+      "percentage": 0.008526316129070913
+    },
+    "BPC": {
+      "votes": 724,
+      "percentage": 0.008341963347901812
+    },
+    "TNRMPI": {
+      "votes": 699,
+      "percentage": 0.008053912127325091
+    },
+    "ATBP": {
+      "votes": 641,
+      "percentage": 0.007385633295587101
+    },
+    "ARK": {
+      "votes": 636,
+      "percentage": 0.007328023051471758
+    },
+    "RJSPS": {
+      "votes": 551,
+      "percentage": 0.0063486489015109095
+    },
+    "bjdi": {
+      "votes": 435,
+      "percentage": 0.005012091238034928
+    },
+    "SJVP": {
+      "votes": 419,
+      "percentage": 0.004827738456865828
+    },
+    "ABMP": {
+      "votes": 405,
+      "percentage": 0.004666429773342864
+    },
+    "ABJS": {
+      "votes": 403,
+      "percentage": 0.004643385675696727
+    },
+    "RAJADP": {
+      "votes": 370,
+      "percentage": 0.004263158064535456
+    },
+    "KBD": {
+      "votes": 369,
+      "percentage": 0.004251636015712388
+    },
+    "AIFB": {
+      "votes": 367,
+      "percentage": 0.00422859191806625
+    },
+    "VPI": {
+      "votes": 314,
+      "percentage": 0.0036179233304436034
+    },
+    "SANVP": {
+      "votes": 309,
+      "percentage": 0.0035603130863282595
+    },
+    "BKNP": {
+      "votes": 289,
+      "percentage": 0.003329872109866883
+    },
+    "CoAP": {
+      "votes": 275,
+      "percentage": 0.00316856342634392
+    },
+    "RJBP": {
+      "votes": 249,
+      "percentage": 0.0028689901569441314
+    }
+  },
+  "Nagaland": {
+    "NDPP": {
+      "votes": 500510,
+      "percentage": 49.73483564977438
+    },
+    "INC": {
+      "votes": 484166,
+      "percentage": 48.11075989932002
+    },
+    "NPEP": {
+      "votes": 14997,
+      "percentage": 1.490226629317429
+    },
+    "IND": {
+      "votes": 4620,
+      "percentage": 0.4590816181533989
+    },
+    "NOTA": {
+      "votes": 2064,
+      "percentage": 0.20509620343476517
+    }
+  },
+  "Odisha": {
+    "BJD": {
+      "votes": 10174021,
+      "percentage": 42.75854767828794
+    },
+    "BJP": {
+      "votes": 9130768,
+      "percentage": 38.374048851224686
+    },
+    "INC": {
+      "votes": 3285339,
+      "percentage": 13.807355446862044
+    },
+    "NOTA": {
+      "votes": 310824,
+      "percentage": 1.3063058178822484
+    },
+    "BSP": {
+      "votes": 181496,
+      "percentage": 0.7627766218900618
+    },
+    "IND": {
+      "votes": 160336,
+      "percentage": 0.6738470955137575
+    },
+    "JMM": {
+      "votes": 135552,
+      "percentage": 0.569686916793988
+    },
+    "CPI": {
+      "votes": 59978,
+      "percentage": 0.25207065845926147
+    },
+    "APoI": {
+      "votes": 58251,
+      "percentage": 0.24481256337174367
+    },
+    "CPIM": {
+      "votes": 56929,
+      "percentage": 0.23925656933254355
+    },
+    "SUCI(C)": {
+      "votes": 38474,
+      "percentage": 0.1616953968715467
+    },
+    "BMUP": {
+      "votes": 38217,
+      "percentage": 0.16061529818162654
+    },
+    "CPI(ML)(L)": {
+      "votes": 28768,
+      "percentage": 0.12090380977285062
+    },
+    "ABHM": {
+      "votes": 16549,
+      "percentage": 0.06955079073730899
+    },
+    "AIFB": {
+      "votes": 11853,
+      "percentage": 0.049814824014098945
+    },
+    "HND": {
+      "votes": 10973,
+      "percentage": 0.04611643161281597
+    },
+    "RAIM": {
+      "votes": 10914,
+      "percentage": 0.0458684712131845
+    },
+    "AITC": {
+      "votes": 9576,
+      "percentage": 0.04024523367577925
+    },
+    "KRUP": {
+      "votes": 8510,
+      "percentage": 0.03576513560786147
+    },
+    "OPD": {
+      "votes": 8304,
+      "percentage": 0.034899375568470226
+    },
+    "FPI": {
+      "votes": 6884,
+      "percentage": 0.028931515102763615
+    },
+    "KS": {
+      "votes": 6785,
+      "percentage": 0.028515445957619283
+    },
+    "AAAP": {
+      "votes": 6614,
+      "percentage": 0.027796781070551797
+    },
+    "ANC": {
+      "votes": 6553,
+      "percentage": 0.02754041523364468
+    },
+    "SP": {
+      "votes": 5148,
+      "percentage": 0.02163559554750539
+    },
+    "PSPL": {
+      "votes": 4616,
+      "percentage": 0.019399749232184318
+    },
+    "PBI": {
+      "votes": 4470,
+      "percentage": 0.01878615231106237
+    },
+    "skd": {
+      "votes": 3877,
+      "percentage": 0.016293940158834185
+    },
+    "BHAPRAP": {
+      "votes": 3467,
+      "percentage": 0.014570825517327347
+    },
+    "JPJD": {
+      "votes": 3222,
+      "percentage": 0.013541159451061066
+    },
+    "BMFP": {
+      "votes": 2914,
+      "percentage": 0.012246722110612025
+    },
+    "GGP": {
+      "votes": 2699,
+      "percentage": 0.011343137603480389
+    },
+    "PUJP": {
+      "votes": 1241,
+      "percentage": 0.005215573829536555
+    }
+  },
+  "Puducherry": {
+    "INC": {
+      "votes": 444981,
+      "percentage": 56.27257322069907
+    },
+    "AINRC": {
+      "votes": 247956,
+      "percentage": 31.35666953310739
+    },
+    "MNM": {
+      "votes": 38068,
+      "percentage": 4.814102888360564
+    },
+    "NTK": {
+      "votes": 22857,
+      "percentage": 2.8905103950629774
+    },
+    "IND": {
+      "votes": 15626,
+      "percentage": 1.9760736506651828
+    },
+    "NOTA": {
+      "votes": 12199,
+      "percentage": 1.5426931053669888
+    },
+    "BSP": {
+      "votes": 2689,
+      "percentage": 0.3400526076179878
+    },
+    "AgIMK": {
+      "votes": 2201,
+      "percentage": 0.2783398249785017
+    },
+    "PUDEP": {
+      "votes": 1319,
+      "percentage": 0.16680155799484042
+    },
+    "SUCI(C)": {
+      "votes": 1285,
+      "percentage": 0.16250189690930245
+    },
+    "CPI(ML)(L)": {
+      "votes": 905,
+      "percentage": 0.11444686124740756
+    },
+    "ACDP": {
+      "votes": 674,
+      "percentage": 0.08523445798978199
+    }
+  },
+  "Punjab": {
+    "INC": {
+      "votes": 5523066,
+      "percentage": 40.122721902225805
+    },
+    "SAD": {
+      "votes": 3778574,
+      "percentage": 27.44973060053618
+    },
+    "BJP": {
+      "votes": 1325445,
+      "percentage": 9.628793342628114
+    },
+    "AAAP": {
+      "votes": 1015773,
+      "percentage": 7.379158169536561
+    },
+    "BSP": {
+      "votes": 479788,
+      "percentage": 3.485455451016721
+    },
+    "LIP": {
+      "votes": 469784,
+      "percentage": 3.4127806522890087
+    },
+    "PUNEKP": {
+      "votes": 296620,
+      "percentage": 2.154817952680308
+    },
+    "IND": {
+      "votes": 235106,
+      "percentage": 1.7079449449897393
+    },
+    "NAWPP": {
+      "votes": 161645,
+      "percentage": 1.1742820712056112
+    },
+    "NOTA": {
+      "votes": 154423,
+      "percentage": 1.1218173174659538
+    },
+    "SAD(M)": {
+      "votes": 52185,
+      "percentage": 0.379101796441986
+    },
+    "CPI": {
+      "votes": 42463,
+      "percentage": 0.3084756075944438
+    },
+    "HSS": {
+      "votes": 21406,
+      "percentage": 0.15550547196775227
+    },
+    "BLSD": {
+      "votes": 20335,
+      "percentage": 0.14772511316753445
+    },
+    "RMPOI": {
+      "votes": 15274,
+      "percentage": 0.11095910393513259
+    },
+    "SHS": {
+      "votes": 13284,
+      "percentage": 0.09650260158925633
+    },
+    "JanSP": {
+      "votes": 10838,
+      "percentage": 0.07873345347970191
+    },
+    "CPIM": {
+      "votes": 10665,
+      "percentage": 0.07747668217023627
+    },
+    "CPI(ML)(L)": {
+      "votes": 10616,
+      "percentage": 0.07712071804212174
+    },
+    "SADT": {
+      "votes": 10424,
+      "percentage": 0.0757259198258362
+    },
+    "APoI": {
+      "votes": 7561,
+      "percentage": 0.054927444340286596
+    },
+    "NATJUP": {
+      "votes": 6531,
+      "percentage": 0.04744493307583809
+    },
+    "BSP(A)": {
+      "votes": 6490,
+      "percentage": 0.04714708554006878
+    },
+    "RJSPS": {
+      "votes": 6415,
+      "percentage": 0.046602242486832236
+    },
+    "IDRP": {
+      "votes": 6106,
+      "percentage": 0.04435748910749768
+    },
+    "SAKAP": {
+      "votes": 6078,
+      "percentage": 0.044154081034289375
+    },
+    "NCP": {
+      "votes": 5689,
+      "percentage": 0.04132816173150251
+    },
+    "BMUP": {
+      "votes": 5596,
+      "percentage": 0.04065255634548919
+    },
+    "PPID": {
+      "votes": 5178,
+      "percentage": 0.03761596439545087
+    },
+    "SUCI(C)": {
+      "votes": 5106,
+      "percentage": 0.037092915064343784
+    },
+    "BHTJP": {
+      "votes": 5001,
+      "percentage": 0.036330134789812625
+    },
+    "BHAPRAP": {
+      "votes": 4951,
+      "percentage": 0.03596690608765493
+    },
+    "DPIN": {
+      "votes": 4913,
+      "percentage": 0.035690852274015084
+    },
+    "ASJP": {
+      "votes": 3678,
+      "percentage": 0.026719103330720022
+    },
+    "JJJKP": {
+      "votes": 3566,
+      "percentage": 0.025905471037886787
+    },
+    "RasLP": {
+      "votes": 3296,
+      "percentage": 0.023944036046235236
+    },
+    "RASAP": {
+      "votes": 3160,
+      "percentage": 0.022956053976366308
+    },
+    "SBM": {
+      "votes": 2917,
+      "percentage": 0.02119076248387991
+    },
+    "PPOI": {
+      "votes": 2824,
+      "percentage": 0.020515157097866596
+    },
+    "JD(U)": {
+      "votes": 2726,
+      "percentage": 0.019803228841637516
+    },
+    "ANC": {
+      "votes": 2400,
+      "percentage": 0.017434977703569346
+    },
+    "BSCP": {
+      "votes": 2304,
+      "percentage": 0.016737578595426572
+    },
+    "RPI(A)": {
+      "votes": 2009,
+      "percentage": 0.014594529252696175
+    },
+    "RSP": {
+      "votes": 1733,
+      "percentage": 0.012589506816785698
+    },
+    "PPIS": {
+      "votes": 1597,
+      "percentage": 0.01160152474691677
+    },
+    "HBP": {
+      "votes": 1430,
+      "percentage": 0.010388340881710069
+    },
+    "SP(I)": {
+      "votes": 1406,
+      "percentage": 0.010213991104674375
+    },
+    "AKBHAD": {
+      "votes": 1072,
+      "percentage": 0.007787623374260975
+    },
+    "HSP": {
+      "votes": 1014,
+      "percentage": 0.0073662780797580495
+    },
+    "SLDP": {
+      "votes": 984,
+      "percentage": 0.007148340858463433
+    },
+    "RPIR": {
+      "votes": 952,
+      "percentage": 0.006915874489082508
+    },
+    "SVJSP": {
+      "votes": 942,
+      "percentage": 0.006843228748650968
+    },
+    "HCP": {
+      "votes": 902,
+      "percentage": 0.006552645786924813
+    },
+    "PLP": {
+      "votes": 692,
+      "percentage": 0.005027085237862495
+    },
+    "DPI": {
+      "votes": 499,
+      "percentage": 0.0036250224475337933
+    }
+  },
+  "Rajasthan": {
+    "BJP": {
+      "votes": 18968392,
+      "percentage": 58.47031404395368
+    },
+    "INC": {
+      "votes": 11107910,
+      "percentage": 34.240276459489735
+    },
+    "RLTP": {
+      "votes": 660051,
+      "percentage": 2.0346157573623356
+    },
+    "BSP": {
+      "votes": 348678,
+      "percentage": 1.0748044515432664
+    },
+    "IND": {
+      "votes": 347584,
+      "percentage": 1.0714321823723167
+    },
+    "NOTA": {
+      "votes": 327559,
+      "percentage": 1.0097048604817647
+    },
+    "BTP": {
+      "votes": 315258,
+      "percentage": 0.9717868686427794
+    },
+    "APoI": {
+      "votes": 88372,
+      "percentage": 0.27240783471220303
+    },
+    "CPIM": {
+      "votes": 78648,
+      "percentage": 0.24243347875396443
+    },
+    "CPI": {
+      "votes": 46619,
+      "percentage": 0.14370367137156784
+    },
+    "BMUP": {
+      "votes": 28476,
+      "percentage": 0.08777763885919401
+    },
+    "RTORP": {
+      "votes": 16744,
+      "percentage": 0.05161359689065685
+    },
+    "SHS": {
+      "votes": 16561,
+      "percentage": 0.05104949702019638
+    },
+    "BJSTP": {
+      "votes": 12416,
+      "percentage": 0.038272480828618935
+    },
+    "RRP": {
+      "votes": 12284,
+      "percentage": 0.037865589118778596
+    },
+    "IPGP": {
+      "votes": 9538,
+      "percentage": 0.029401008548918126
+    },
+    "SatBP": {
+      "votes": 8006,
+      "percentage": 0.024678598704407473
+    },
+    "RPWP": {
+      "votes": 7486,
+      "percentage": 0.02307569196867279
+    },
+    "NPSF": {
+      "votes": 5798,
+      "percentage": 0.017872410103441736
+    },
+    "PSPL": {
+      "votes": 3444,
+      "percentage": 0.010616174611288953
+    },
+    "BRKP(D)": {
+      "votes": 2880,
+      "percentage": 0.008877637305607486
+    },
+    "PSS": {
+      "votes": 2880,
+      "percentage": 0.008877637305607486
+    },
+    "PRCP": {
+      "votes": 2783,
+      "percentage": 0.0085786335491339
+    },
+    "PPID": {
+      "votes": 2751,
+      "percentage": 0.008479993134627151
+    },
+    "SUCI(C)": {
+      "votes": 2623,
+      "percentage": 0.00808543147660015
+    },
+    "IICR": {
+      "votes": 2569,
+      "percentage": 0.00791897577712001
+    },
+    "RTKP": {
+      "votes": 1892,
+      "percentage": 0.005832114507711584
+    },
+    "DSPVAD": {
+      "votes": 1862,
+      "percentage": 0.005739639119111506
+    },
+    "JSVP": {
+      "votes": 1774,
+      "percentage": 0.0054683779792179445
+    },
+    "HND": {
+      "votes": 1745,
+      "percentage": 0.005378985103571202
+    },
+    "RKSP": {
+      "votes": 1488,
+      "percentage": 0.004586779274563868
+    },
+    "MCPI": {
+      "votes": 1161,
+      "percentage": 0.0035787975388230173
+    },
+    "BKNP": {
+      "votes": 1154,
+      "percentage": 0.003557219948149666
+    },
+    "AVIRP": {
+      "votes": 891,
+      "percentage": 0.002746519041422316
+    },
+    "RMGLMP": {
+      "votes": 798,
+      "percentage": 0.0024598453367620744
+    },
+    "PHRC": {
+      "votes": 626,
+      "percentage": 0.0019296531087882936
+    },
+    "SwaBP": {
+      "votes": 508,
+      "percentage": 0.0015659165802946538
+    },
+    "RJBP": {
+      "votes": 506,
+      "percentage": 0.0015597515543879818
+    },
+    "RSVP": {
+      "votes": 349,
+      "percentage": 0.0010757970207142405
+    }
+  },
+  "Sikkim": {
+    "SKM": {
+      "votes": 166922,
+      "percentage": 47.45526601581823
+    },
+    "SDF": {
+      "votes": 154489,
+      "percentage": 43.92061316973043
+    },
+    "BJP": {
+      "votes": 16572,
+      "percentage": 4.7113542158261925
+    },
+    "INC": {
+      "votes": 3990,
+      "percentage": 1.1343412576120269
+    },
+    "IND": {
+      "votes": 2600,
+      "percentage": 0.7391697418023232
+    },
+    "NOTA": {
+      "votes": 2279,
+      "percentage": 0.6479107082951903
+    },
+    "HMSKP": {
+      "votes": 1998,
+      "percentage": 0.5680235169696315
+    },
+    "SKPP": {
+      "votes": 1503,
+      "percentage": 0.42729696997265076
+    },
+    "SUTF": {
+      "votes": 614,
+      "percentage": 0.17455777748716403
+    },
+    "AIP": {
+      "votes": 396,
+      "percentage": 0.11258123759758462
+    },
+    "JMBP": {
+      "votes": 383,
+      "percentage": 0.108885388888573
+    }
+  },
+  "Tamil Nadu": {
+    "DMK": {
+      "votes": 14363332,
+      "percentage": 33.10066231135963
+    },
+    "ADMK": {
+      "votes": 8307345,
+      "percentage": 19.144486916334024
+    },
+    "INC": {
+      "votes": 5405674,
+      "percentage": 12.457512618889309
+    },
+    "IND": {
+      "votes": 3112954,
+      "percentage": 7.173881321186211
+    },
+    "PMK": {
+      "votes": 2297431,
+      "percentage": 5.294487916498014
+    },
+    "NTK": {
+      "votes": 1672217,
+      "percentage": 3.853666421434445
+    },
+    "MNM": {
+      "votes": 1575640,
+      "percentage": 3.6311022793506877
+    },
+    "BJP": {
+      "votes": 1551924,
+      "percentage": 3.5764481567991653
+    },
+    "CPI": {
+      "votes": 1031617,
+      "percentage": 2.3773874997568725
+    },
+    "CPIM": {
+      "votes": 1019003,
+      "percentage": 2.348318217337202
+    },
+    "DMDK": {
+      "votes": 929590,
+      "percentage": 2.1422636946647753
+    },
+    "NOTA": {
+      "votes": 550577,
+      "percentage": 1.2688186385583407
+    },
+    "VCK": {
+      "votes": 500229,
+      "percentage": 1.1527903976145029
+    },
+    "IUML": {
+      "votes": 469943,
+      "percentage": 1.0829955436932932
+    },
+    "TMC(M)": {
+      "votes": 220849,
+      "percentage": 0.5089521129777869
+    },
+    "BSP": {
+      "votes": 161572,
+      "percentage": 0.3723467654281748
+    },
+    "TNLK": {
+      "votes": 37356,
+      "percentage": 0.08608784795221262
+    },
+    "ACDP": {
+      "votes": 35277,
+      "percentage": 0.08129673980646228
+    },
+    "SDPI": {
+      "votes": 23741,
+      "percentage": 0.054711735684588286
+    },
+    "DMSK": {
+      "votes": 12809,
+      "percentage": 0.029518664857583563
+    },
+    "GPI": {
+      "votes": 11631,
+      "percentage": 0.02680393402752396
+    },
+    "UMK": {
+      "votes": 9007,
+      "percentage": 0.020756859580939584
+    },
+    "PSPL": {
+      "votes": 7279,
+      "percentage": 0.016774639823432802
+    },
+    "SUCI(C)": {
+      "votes": 5765,
+      "percentage": 0.013285588484969102
+    },
+    "ETMK": {
+      "votes": 5482,
+      "percentage": 0.01263340781866446
+    },
+    "CPI(ML)(L)": {
+      "votes": 5303,
+      "percentage": 0.012220897785913468
+    },
+    "RPI(A)": {
+      "votes": 5158,
+      "percentage": 0.011886741614131939
+    },
+    "AMPK": {
+      "votes": 5089,
+      "percentage": 0.011727729366870384
+    },
+    "APoI": {
+      "votes": 4498,
+      "percentage": 0.010365754901195321
+    },
+    "AgIMK": {
+      "votes": 4274,
+      "percentage": 0.009849541228925921
+    },
+    "SMFB": {
+      "votes": 4044,
+      "percentage": 0.009319500404720737
+    },
+    "MMKA": {
+      "votes": 3599,
+      "percentage": 0.008293986636149836
+    },
+    "PUJP": {
+      "votes": 3521,
+      "percentage": 0.008114233660984599
+    },
+    "DUUK": {
+      "votes": 3337,
+      "percentage": 0.00769020100162045
+    },
+    "PPIS": {
+      "votes": 3317,
+      "percentage": 0.007644110495167826
+    },
+    "MSKK": {
+      "votes": 2906,
+      "percentage": 0.006696950587566385
+    },
+    "AIPTMMK": {
+      "votes": 2764,
+      "percentage": 0.00636970799175275
+    },
+    "NIDP": {
+      "votes": 2597,
+      "percentage": 0.005984852262873332
+    },
+    "TTNP": {
+      "votes": 2516,
+      "percentage": 0.0057981857117402015
+    },
+    "AIUUK": {
+      "votes": 1999,
+      "percentage": 0.00460674611993985
+    },
+    "PPOI": {
+      "votes": 1890,
+      "percentage": 0.004355552859773045
+    },
+    "ICF": {
+      "votes": 1815,
+      "percentage": 0.004182713460575702
+    },
+    "AIDMMK": {
+      "votes": 1765,
+      "percentage": 0.0040674871944441394
+    },
+    "APEP": {
+      "votes": 1368,
+      "percentage": 0.0031525906413595373
+    },
+    "JKNPP": {
+      "votes": 1251,
+      "percentage": 0.002882961178611682
+    },
+    "USIP": {
+      "votes": 1244,
+      "percentage": 0.002866829501353263
+    },
+    "MKat": {
+      "votes": 1115,
+      "percentage": 0.002569545734733833
+    },
+    "VMMKT": {
+      "votes": 1108,
+      "percentage": 0.0025534140574754146
+    },
+    "AHIMSASP": {
+      "votes": 972,
+      "percentage": 0.002239998613597566
+    },
+    "rpsn": {
+      "votes": 901,
+      "percentage": 0.0020763773156907478
+    },
+    "FIP": {
+      "votes": 820,
+      "percentage": 0.0018897107645576175
+    },
+    "IMK": {
+      "votes": 748,
+      "percentage": 0.001723784941328168
+    },
+    "DAMK": {
+      "votes": 719,
+      "percentage": 0.001656953706971862
+    },
+    "UBM": {
+      "votes": 689,
+      "percentage": 0.0015878179472929247
+    },
+    "RPI": {
+      "votes": 670,
+      "percentage": 0.001544031966162931
+    },
+    "AIMAK": {
+      "votes": 645,
+      "percentage": 0.00148641883309715
+    },
+    "AIVP": {
+      "votes": 643,
+      "percentage": 0.0014818097824518877
+    },
+    "DCLF": {
+      "votes": 596,
+      "percentage": 0.0013734970922882194
+    },
+    "CDF": {
+      "votes": 494,
+      "percentage": 0.001138435509379833
+    },
+    "MLJK": {
+      "votes": 265,
+      "percentage": 0.0006106992104972788
+    }
+  },
+  "Telangana": {
+    "TRS": {
+      "votes": 7696848,
+      "percentage": 41.285690875800135
+    },
+    "INC": {
+      "votes": 5496686,
+      "percentage": 29.484079591715773
+    },
+    "BJP": {
+      "votes": 3626173,
+      "percentage": 19.45069690088369
+    },
+    "IND": {
+      "votes": 586559,
+      "percentage": 3.1462870975779245
+    },
+    "AIMIM": {
+      "votes": 517471,
+      "percentage": 2.7757008769292537
+    },
+    "NOTA": {
+      "votes": 190798,
+      "percentage": 1.0234354696521115
+    },
+    "JnP": {
+      "votes": 85781,
+      "percentage": 0.4601270349910784
+    },
+    "CPIM": {
+      "votes": 82191,
+      "percentage": 0.44087036911380983
+    },
+    "CPI": {
+      "votes": 73872,
+      "percentage": 0.3962474712216102
+    },
+    "TJS": {
+      "votes": 57073,
+      "percentage": 0.3061380756583138
+    },
+    "BSP": {
+      "votes": 45494,
+      "percentage": 0.24402862323689534
+    },
+    "AHNP": {
+      "votes": 29183,
+      "percentage": 0.15653684687919983
+    },
+    "PPOI": {
+      "votes": 19089,
+      "percentage": 0.10239289552400525
+    },
+    "MCPI": {
+      "votes": 18430,
+      "percentage": 0.09885803680168771
+    },
+    "BMUP": {
+      "votes": 14831,
+      "percentage": 0.07955309516038148
+    },
+    "BARP": {
+      "votes": 13544,
+      "percentage": 0.07264966090298744
+    },
+    "ANC": {
+      "votes": 9553,
+      "percentage": 0.051242041539149366
+    },
+    "IPBP": {
+      "votes": 8323,
+      "percentage": 0.044644353787327555
+    },
+    "NPRP": {
+      "votes": 8007,
+      "percentage": 0.042949338072225375
+    },
+    "APoI": {
+      "votes": 6837,
+      "percentage": 0.0366734887473217
+    },
+    "SMFB": {
+      "votes": 5963,
+      "percentage": 0.03198537566188084
+    },
+    "PJSP": {
+      "votes": 4179,
+      "percentage": 0.022416046434848236
+    },
+    "SJPI": {
+      "votes": 3927,
+      "percentage": 0.02106432504179206
+    },
+    "ACDP": {
+      "votes": 3674,
+      "percentage": 0.019707239674953917
+    },
+    "SDC": {
+      "votes": 3501,
+      "percentage": 0.018779272210673287
+    },
+    "TELYS": {
+      "votes": 3407,
+      "percentage": 0.018275058675168206
+    },
+    "SUCI(C)": {
+      "votes": 2779,
+      "percentage": 0.014906483140091707
+    },
+    "RaJPa": {
+      "votes": 2705,
+      "percentage": 0.014509549080226006
+    },
+    "SHS": {
+      "votes": 2624,
+      "percentage": 0.01407506720388652
+    },
+    "RPI(KH)": {
+      "votes": 2598,
+      "percentage": 0.013935603885555328
+    },
+    "NATWOMP": {
+      "votes": 2155,
+      "percentage": 0.011559363500143083
+    },
+    "IRNP": {
+      "votes": 2012,
+      "percentage": 0.010792315249321524
+    },
+    "HBP": {
+      "votes": 1895,
+      "percentage": 0.010164730316831157
+    },
+    "DABAP": {
+      "votes": 1689,
+      "percentage": 0.009059751717745554
+    },
+    "TECPI": {
+      "votes": 1660,
+      "percentage": 0.008904196478068454
+    },
+    "AIFB": {
+      "votes": 1458,
+      "percentage": 0.007820673774110727
+    },
+    "RPI": {
+      "votes": 1416,
+      "percentage": 0.007595386875268031
+    },
+    "YSRPP": {
+      "votes": 1320,
+      "percentage": 0.007080445392199012
+    },
+    "pjdl": {
+      "votes": 1223,
+      "percentage": 0.006560139935348024
+    },
+    "NIP": {
+      "votes": 1059,
+      "percentage": 0.005680448235105116
+    },
+    "JASWP": {
+      "votes": 1056,
+      "percentage": 0.00566435631375921
+    },
+    "TSP": {
+      "votes": 1048,
+      "percentage": 0.005621444523503458
+    },
+    "BRPPA": {
+      "votes": 1008,
+      "percentage": 0.0054068855722247
+    },
+    "PrStP": {
+      "votes": 720,
+      "percentage": 0.003862061123017643
+    },
+    "ABML(S)": {
+      "votes": 555,
+      "percentage": 0.0029770054489927666
+    },
+    "TGPJP": {
+      "votes": 521,
+      "percentage": 0.0027946303404058222
+    }
+  },
+  "Tripura": {
+    "BJP": {
+      "votes": 1055658,
+      "percentage": 49.02803863323506
+    },
+    "INC": {
+      "votes": 545679,
+      "percentage": 25.34302879658476
+    },
+    "CPIM": {
+      "votes": 372789,
+      "percentage": 17.31347983347359
+    },
+    "IPFT": {
+      "votes": 89529,
+      "percentage": 4.158005027002023
+    },
+    "IND": {
+      "votes": 34288,
+      "percentage": 1.5924412912670236
+    },
+    "NOTA": {
+      "votes": 23174,
+      "percentage": 1.0762725876056347
+    },
+    "AMB": {
+      "votes": 9708,
+      "percentage": 0.4508696936426816
+    },
+    "AITC": {
+      "votes": 8613,
+      "percentage": 0.4000144902497339
+    },
+    "APoI": {
+      "votes": 7133,
+      "percentage": 0.33127869023004197
+    },
+    "SUCI(C)": {
+      "votes": 4525,
+      "percentage": 0.21015506424939576
+    },
+    "TRIPP": {
+      "votes": 2076,
+      "percentage": 0.09641589246005429
+    }
+  },
+  "Uttar Pradesh": {
+    "BJP": {
+      "votes": 42858171,
+      "percentage": 49.55767597558957
+    },
+    "BSP": {
+      "votes": 16659754,
+      "percentage": 19.263973970448536
+    },
+    "SP": {
+      "votes": 15533620,
+      "percentage": 17.96180491901854
+    },
+    "INC": {
+      "votes": 5457352,
+      "percentage": 6.310434528359497
+    },
+    "RLD": {
+      "votes": 1447363,
+      "percentage": 1.6736119367543063
+    },
+    "ADAL": {
+      "votes": 1039478,
+      "percentage": 1.201967155988852
+    },
+    "IND": {
+      "votes": 854421,
+      "percentage": 0.9879824098125702
+    },
+    "NOTA": {
+      "votes": 725097,
+      "percentage": 0.8384427365524317
+    },
+    "SBSP": {
+      "votes": 277308,
+      "percentage": 0.32065624101035
+    },
+    "PSPL": {
+      "votes": 265580,
+      "percentage": 0.30709494312291297
+    },
+    "JDL": {
+      "votes": 203369,
+      "percentage": 0.23515924199097707
+    },
+    "CPI": {
+      "votes": 119223,
+      "percentage": 0.1378597048118949
+    },
+    "MADP": {
+      "votes": 44703,
+      "percentage": 0.05169088501552669
+    },
+    "BHAPRAP": {
+      "votes": 40624,
+      "percentage": 0.046974263760167244
+    },
+    "BMUP": {
+      "votes": 35361,
+      "percentage": 0.04088856195409792
+    },
+    "JANADIP": {
+      "votes": 35039,
+      "percentage": 0.0405162275475704
+    },
+    "SHS": {
+      "votes": 29136,
+      "percentage": 0.03369048220057682
+    },
+    "HND": {
+      "votes": 27747,
+      "percentage": 0.032084356453164646
+    },
+    "PECP": {
+      "votes": 27286,
+      "percentage": 0.03155129384009264
+    },
+    "JKiP": {
+      "votes": 24638,
+      "percentage": 0.028489363689518522
+    },
+    "SWAJANPA": {
+      "votes": 24526,
+      "percentage": 0.02835985606985678
+    },
+    "RSOSP": {
+      "votes": 23622,
+      "percentage": 0.027314544568301267
+    },
+    "CPI(ML)(L)": {
+      "votes": 22291,
+      "percentage": 0.025775485266785348
+    },
+    "RUC": {
+      "votes": 20348,
+      "percentage": 0.02352875932926061
+    },
+    "BSCP": {
+      "votes": 20203,
+      "percentage": 0.02336109321451996
+    },
+    "BLRP": {
+      "votes": 18338,
+      "percentage": 0.021204560083545366
+    },
+    "LD": {
+      "votes": 18218,
+      "percentage": 0.021065801919622068
+    },
+    "RSPS": {
+      "votes": 18123,
+      "percentage": 0.020955951706516124
+    },
+    "LOGAP": {
+      "votes": 18049,
+      "percentage": 0.020870384172096756
+    },
+    "NEP": {
+      "votes": 18037,
+      "percentage": 0.020856508355704424
+    },
+    "AJPI": {
+      "votes": 16749,
+      "percentage": 0.019367170729594357
+    },
+    "BRPI": {
+      "votes": 14142,
+      "percentage": 0.016352649618360703
+    },
+    "BAWPA": {
+      "votes": 14060,
+      "percentage": 0.01625783153967978
+    },
+    "PPID": {
+      "votes": 13767,
+      "percentage": 0.015919030356100393
+    },
+    "AABHAP": {
+      "votes": 13009,
+      "percentage": 0.015042541287318226
+    },
+    "ASP": {
+      "votes": 12457,
+      "percentage": 0.014404253733271057
+    },
+    "AIFB": {
+      "votes": 12070,
+      "percentage": 0.013956758654618418
+    },
+    "PGSP": {
+      "votes": 11752,
+      "percentage": 0.013589049520221677
+    },
+    "AIPF": {
+      "votes": 11032,
+      "percentage": 0.012756500536681889
+    },
+    "BKPP": {
+      "votes": 9503,
+      "percentage": 0.01098849026469253
+    },
+    "JD(U)": {
+      "votes": 9335,
+      "percentage": 0.010794228835199912
+    },
+    "SatBP": {
+      "votes": 9206,
+      "percentage": 0.010645063808982367
+    },
+    "AAAP": {
+      "votes": 8643,
+      "percentage": 0.009994056756575559
+    },
+    "ADUP": {
+      "votes": 8541,
+      "percentage": 0.009876112317240754
+    },
+    "PMSP": {
+      "votes": 8210,
+      "percentage": 0.009493371048418991
+    },
+    "BAEP": {
+      "votes": 8164,
+      "percentage": 0.00944018041891506
+    },
+    "AKSP": {
+      "votes": 7569,
+      "percentage": 0.00875217118946204
+    },
+    "RJAPU": {
+      "votes": 7561,
+      "percentage": 0.008742920645200486
+    },
+    "VPI": {
+      "votes": 7285,
+      "percentage": 0.0084237768681769
+    },
+    "JHBHP": {
+      "votes": 7192,
+      "percentage": 0.008316239291136344
+    },
+    "SABHP": {
+      "votes": 7106,
+      "percentage": 0.008216795940324647
+    },
+    "RSMD": {
+      "votes": 6918,
+      "percentage": 0.007999408150178145
+    },
+    "KBD": {
+      "votes": 6886,
+      "percentage": 0.007962405973131933
+    },
+    "BJNP": {
+      "votes": 6735,
+      "percentage": 0.007787801950195117
+    },
+    "BHHF": {
+      "votes": 6508,
+      "percentage": 0.007525317756773544
+    },
+    "SDU": {
+      "votes": 6283,
+      "percentage": 0.0072651461994173595
+    },
+    "SUCI(C)": {
+      "votes": 6121,
+      "percentage": 0.007077822678120907
+    },
+    "KMSP": {
+      "votes": 6120,
+      "percentage": 0.007076666360088212
+    },
+    "RASJGP": {
+      "votes": 5768,
+      "percentage": 0.00666964241257987
+    },
+    "JaSD": {
+      "votes": 5758,
+      "percentage": 0.006658079232252929
+    },
+    "NAP": {
+      "votes": 5640,
+      "percentage": 0.0065216337043950195
+    },
+    "ASaP": {
+      "votes": 5504,
+      "percentage": 0.006364374451948614
+    },
+    "PRJP": {
+      "votes": 5451,
+      "percentage": 0.0063030895962158245
+    },
+    "ANNADATA": {
+      "votes": 5147,
+      "percentage": 0.005951568914276802
+    },
+    "RTKP": {
+      "votes": 5105,
+      "percentage": 0.005903003556903648
+    },
+    "JANKRPR": {
+      "votes": 4873,
+      "percentage": 0.005634737773318604
+    },
+    "NJANP": {
+      "votes": 4847,
+      "percentage": 0.0056046735044685565
+    },
+    "BKrD": {
+      "votes": 4696,
+      "percentage": 0.00543006948153174
+    },
+    "NCP": {
+      "votes": 4570,
+      "percentage": 0.005284373409412276
+    },
+    "MwSP": {
+      "votes": 4498,
+      "percentage": 0.005201118511058297
+    },
+    "ASGP": {
+      "votes": 4283,
+      "percentage": 0.004952510134029055
+    },
+    "ATBP": {
+      "votes": 4096,
+      "percentage": 0.0047362786619152475
+    },
+    "PHSP": {
+      "votes": 4073,
+      "percentage": 0.004709683347163283
+    },
+    "RAPI": {
+      "votes": 4016,
+      "percentage": 0.004643773219299716
+    },
+    "GGP": {
+      "votes": 4002,
+      "percentage": 0.004627584766841998
+    },
+    "MNVP": {
+      "votes": 3962,
+      "percentage": 0.004581332045534231
+    },
+    "RASHLSP": {
+      "votes": 3944,
+      "percentage": 0.0045605183209457365
+    },
+    "SBSPSP": {
+      "votes": 3919,
+      "percentage": 0.004531610370128383
+    },
+    "BKNP": {
+      "votes": 3906,
+      "percentage": 0.004516578235703359
+    },
+    "RVLP": {
+      "votes": 3845,
+      "percentage": 0.004446042835709016
+    },
+    "AAPP": {
+      "votes": 3763,
+      "percentage": 0.0043512247570280955
+    },
+    "VIP": {
+      "votes": 3756,
+      "percentage": 0.004343130530799236
+    },
+    "BSSPA": {
+      "votes": 3755,
+      "percentage": 0.0043419742127665415
+    },
+    "JaSSP": {
+      "votes": 3731,
+      "percentage": 0.004314222579981882
+    },
+    "VIPty": {
+      "votes": 3694,
+      "percentage": 0.004271438812772199
+    },
+    "INL": {
+      "votes": 3644,
+      "percentage": 0.004213622911137491
+    },
+    "RJBP": {
+      "votes": 3540,
+      "percentage": 0.0040933658357372995
+    },
+    "RKSP": {
+      "votes": 3535,
+      "percentage": 0.004087584245573829
+    },
+    "ADRSP": {
+      "votes": 3423,
+      "percentage": 0.003958076625912084
+    },
+    "PSJP": {
+      "votes": 3368,
+      "percentage": 0.003894479134113905
+    },
+    "KSRSP": {
+      "votes": 3303,
+      "percentage": 0.0038193184619887853
+    },
+    "RaIP": {
+      "votes": 3265,
+      "percentage": 0.0037753783767464073
+    },
+    "SDSP": {
+      "votes": 3139,
+      "percentage": 0.0036296823046269443
+    },
+    "SaDa": {
+      "votes": 2901,
+      "percentage": 0.0033544786128457357
+    },
+    "YVP": {
+      "votes": 2858,
+      "percentage": 0.0033047569374398877
+    },
+    "SATKP": {
+      "votes": 2857,
+      "percentage": 0.0033036006194071934
+    },
+    "ABNNP": {
+      "votes": 2759,
+      "percentage": 0.0031902814522031665
+    },
+    "SABJANP": {
+      "votes": 2751,
+      "percentage": 0.003181030907941613
+    },
+    "SGUP": {
+      "votes": 2744,
+      "percentage": 0.0031729366817127543
+    },
+    "LOKJANP": {
+      "votes": 2725,
+      "percentage": 0.0031509666390915655
+    },
+    "BMVSP": {
+      "votes": 2597,
+      "percentage": 0.003002957930906714
+    },
+    "RMEP": {
+      "votes": 2557,
+      "percentage": 0.0029567052095989476
+    },
+    "svjn": {
+      "votes": 2554,
+      "percentage": 0.002953236255500865
+    },
+    "JSP": {
+      "votes": 2484,
+      "percentage": 0.0028722939932122747
+    },
+    "MHD": {
+      "votes": 2477,
+      "percentage": 0.002864199766983415
+    },
+    "MSJP": {
+      "votes": 2427,
+      "percentage": 0.002806383865348708
+    },
+    "BLokSP": {
+      "votes": 2422,
+      "percentage": 0.002800602275185237
+    },
+    "SaSaP": {
+      "votes": 2417,
+      "percentage": 0.0027948206850217663
+    },
+    "CPIM": {
+      "votes": 2394,
+      "percentage": 0.0027682253702698005
+    },
+    "PMPT": {
+      "votes": 2369,
+      "percentage": 0.002739317419452447
+    },
+    "BARP": {
+      "votes": 2363,
+      "percentage": 0.0027323795112562817
+    },
+    "NSCBRAP": {
+      "votes": 2342,
+      "percentage": 0.0027080968325697047
+    },
+    "JRPa": {
+      "votes": 2308,
+      "percentage": 0.0026687820194581037
+    },
+    "RBJJP": {
+      "votes": 2291,
+      "percentage": 0.0026491246129023032
+    },
+    "ssrd": {
+      "votes": 2278,
+      "percentage": 0.002634092478477279
+    },
+    "SANVP": {
+      "votes": 2250,
+      "percentage": 0.0026017155735618427
+    },
+    "SAKSP": {
+      "votes": 2214,
+      "percentage": 0.0025600881243848534
+    },
+    "BhBSP": {
+      "votes": 2210,
+      "percentage": 0.0025554628522540764
+    },
+    "ABJS": {
+      "votes": 2104,
+      "percentage": 0.0024328931407884965
+    },
+    "rajpt": {
+      "votes": 2058,
+      "percentage": 0.0023797025112845655
+    },
+    "SJSMP": {
+      "votes": 2041,
+      "percentage": 0.002360045104728765
+    },
+    "ANIJP": {
+      "votes": 2017,
+      "percentage": 0.0023322934719441054
+    },
+    "RPI": {
+      "votes": 1999,
+      "percentage": 0.0023114797473556105
+    },
+    "BHABHAPA": {
+      "votes": 1995,
+      "percentage": 0.002306854475224834
+    },
+    "SP(I)": {
+      "votes": 1982,
+      "percentage": 0.0022918223407998096
+    },
+    "ABHP": {
+      "votes": 1976,
+      "percentage": 0.002284884432603645
+    },
+    "BSKRP": {
+      "votes": 1948,
+      "percentage": 0.0022525075276882086
+    },
+    "BaHaP": {
+      "votes": 1886,
+      "percentage": 0.002180815809661171
+    },
+    "BUNKD": {
+      "votes": 1849,
+      "percentage": 0.0021380320424514874
+    },
+    "ABGP": {
+      "votes": 1831,
+      "percentage": 0.002117218317862993
+    },
+    "JAAP": {
+      "votes": 1812,
+      "percentage": 0.002095248275241804
+    },
+    "BSUSP": {
+      "votes": 1786,
+      "percentage": 0.002065184006391756
+    },
+    "RMMP": {
+      "votes": 1771,
+      "percentage": 0.002047839235901344
+    },
+    "ALHP": {
+      "votes": 1764,
+      "percentage": 0.0020397450096724845
+    },
+    "BRSP": {
+      "votes": 1695,
+      "percentage": 0.001959959065416588
+    },
+    "MDKMGPH": {
+      "votes": 1669,
+      "percentage": 0.00192989479656654
+    },
+    "RND": {
+      "votes": 1630,
+      "percentage": 0.0018847983932914682
+    },
+    "NaLP": {
+      "votes": 1628,
+      "percentage": 0.0018824857572260802
+    },
+    "RJBVP": {
+      "votes": 1600,
+      "percentage": 0.001850108852310644
+    },
+    "KMBS": {
+      "votes": 1574,
+      "percentage": 0.0018200445834605956
+    },
+    "JD": {
+      "votes": 1572,
+      "percentage": 0.0018177319473952076
+    },
+    "JAC": {
+      "votes": 1566,
+      "percentage": 0.0018107940391990426
+    },
+    "JSEP": {
+      "votes": 1557,
+      "percentage": 0.0018003871769047951
+    },
+    "bmd": {
+      "votes": 1549,
+      "percentage": 0.001791136632643242
+    },
+    "RSDal": {
+      "votes": 1548,
+      "percentage": 0.0017899803146105477
+    },
+    "VMSKP": {
+      "votes": 1529,
+      "percentage": 0.001768010271989359
+    },
+    "NABMUP": {
+      "votes": 1453,
+      "percentage": 0.0016801301015046033
+    },
+    "HuSP": {
+      "votes": 1432,
+      "percentage": 0.001655847422818026
+    },
+    "jhspt": {
+      "votes": 1431,
+      "percentage": 0.001654691104785332
+    },
+    "SACP": {
+      "votes": 1360,
+      "percentage": 0.0015725925244640473
+    },
+    "ManKP": {
+      "votes": 1344,
+      "percentage": 0.001554091435940941
+    },
+    "kajp": {
+      "votes": 1336,
+      "percentage": 0.0015448408916793875
+    },
+    "RVyP": {
+      "votes": 1326,
+      "percentage": 0.001533277711352446
+    },
+    "NFFF": {
+      "votes": 1308,
+      "percentage": 0.0015124639867639513
+    },
+    "SHF": {
+      "votes": 1306,
+      "percentage": 0.001510151350698563
+    },
+    "AIRCP": {
+      "votes": 1282,
+      "percentage": 0.0014823997179139034
+    },
+    "BBPP": {
+      "votes": 1268,
+      "percentage": 0.001466211265456185
+    },
+    "RtrJP": {
+      "votes": 1264,
+      "percentage": 0.0014615859933254085
+    },
+    "BALP": {
+      "votes": 1262,
+      "percentage": 0.0014592733572600203
+    },
+    "BLSD": {
+      "votes": 1261,
+      "percentage": 0.0014581170392273261
+    },
+    "RaAD": {
+      "votes": 1258,
+      "percentage": 0.0014546480851292435
+    },
+    "RPB": {
+      "votes": 1225,
+      "percentage": 0.0014164895900503367
+    },
+    "RPI(A)": {
+      "votes": 1150,
+      "percentage": 0.001329765737598275
+    },
+    "RsAD": {
+      "votes": 1144,
+      "percentage": 0.0013228278294021103
+    },
+    "AIMF": {
+      "votes": 1128,
+      "percentage": 0.001304326740879004
+    },
+    "MNDP": {
+      "votes": 1070,
+      "percentage": 0.001237260294982743
+    },
+    "RTJPS": {
+      "votes": 1060,
+      "percentage": 0.0012256971146558015
+    },
+    "ARK": {
+      "votes": 1057,
+      "percentage": 0.001222228160557719
+    },
+    "BND": {
+      "votes": 1047,
+      "percentage": 0.0012106649802307776
+    },
+    "BaVaP": {
+      "votes": 984,
+      "percentage": 0.0011378169441710459
+    },
+    "RGD": {
+      "votes": 975,
+      "percentage": 0.0011274100818767987
+    },
+    "MARD": {
+      "votes": 973,
+      "percentage": 0.0011250974458114102
+    },
+    "LJSPty": {
+      "votes": 968,
+      "percentage": 0.0011193158556479395
+    },
+    "BNIP": {
+      "votes": 932,
+      "percentage": 0.00107768840647095
+    },
+    "AYP": {
+      "votes": 921,
+      "percentage": 0.0010649689081113143
+    },
+    "BJKD": {
+      "votes": 907,
+      "percentage": 0.0010487804556535963
+    },
+    "BAHUMP": {
+      "votes": 882,
+      "percentage": 0.0010198725048362423
+    },
+    "SFP": {
+      "votes": 882,
+      "percentage": 0.0010198725048362423
+    },
+    "JPS": {
+      "votes": 847,
+      "percentage": 0.0009794013736919471
+    },
+    "JNSMP": {
+      "votes": 840,
+      "percentage": 0.0009713071474630879
+    },
+    "AACP": {
+      "votes": 838,
+      "percentage": 0.0009689945113976997
+    },
+    "BSKP": {
+      "votes": 829,
+      "percentage": 0.0009585876491034522
+    },
+    "BMJP": {
+      "votes": 822,
+      "percentage": 0.0009504934228745933
+    },
+    "RAJUP": {
+      "votes": 776,
+      "percentage": 0.0008973027933706622
+    },
+    "IVD": {
+      "votes": 718,
+      "percentage": 0.0008302363474744014
+    },
+    "RTORP": {
+      "votes": 709,
+      "percentage": 0.0008198294851801541
+    },
+    "KHSNP": {
+      "votes": 687,
+      "percentage": 0.0007943904884608826
+    },
+    "MKUP": {
+      "votes": 687,
+      "percentage": 0.0007943904884608826
+    },
+    "BNDl": {
+      "votes": 681,
+      "percentage": 0.0007874525802647178
+    },
+    "BNavP": {
+      "votes": 619,
+      "percentage": 0.0007157608622376803
+    },
+    "RBP": {
+      "votes": 584,
+      "percentage": 0.000675289731093385
+    },
+    "FJP": {
+      "votes": 564,
+      "percentage": 0.000652163370439502
+    },
+    "KARASP": {
+      "votes": 512,
+      "percentage": 0.0005920348327394059
+    },
+    "igp": {
+      "votes": 504,
+      "percentage": 0.0005827842884778528
+    },
+    "ABLP": {
+      "votes": 503,
+      "percentage": 0.0005816279704451586
+    },
+    "BSPM": {
+      "votes": 501,
+      "percentage": 0.0005793153343797704
+    },
+    "BaJD": {
+      "votes": 489,
+      "percentage": 0.0005654395179874405
+    },
+    "BDPty": {
+      "votes": 472,
+      "percentage": 0.0005457821114316399
+    },
+    "UDFS": {
+      "votes": 451,
+      "percentage": 0.0005214994327450627
+    },
+    "BRM": {
+      "votes": 316,
+      "percentage": 0.00036539649833135213
+    }
+  },
+  "Uttarakhand": {
+    "BJP": {
+      "votes": 2954833,
+      "percentage": 61.013395829999425
+    },
+    "INC": {
+      "votes": 1520767,
+      "percentage": 31.401828440456953
+    },
+    "BSP": {
+      "votes": 216755,
+      "percentage": 4.475704248981762
+    },
+    "NOTA": {
+      "votes": 50946,
+      "percentage": 1.051967560926506
+    },
+    "IND": {
+      "votes": 48003,
+      "percentage": 0.9911985009059607
+    },
+    "UKDD": {
+      "votes": 12629,
+      "percentage": 0.26077215732227943
+    },
+    "UKKD": {
+      "votes": 8830,
+      "percentage": 0.18232782873986278
+    },
+    "CPIM": {
+      "votes": 6626,
+      "percentage": 0.1368181419286898
+    },
+    "CPI(ML)(L)": {
+      "votes": 5488,
+      "percentage": 0.11331994610694981
+    },
+    "UPP": {
+      "votes": 5351,
+      "percentage": 0.11049107718992138
+    },
+    "PLM": {
+      "votes": 3339,
+      "percentage": 0.0689459365982335
+    },
+    "BMUP": {
+      "votes": 2856,
+      "percentage": 0.05897262501484123
+    },
+    "SUCI(C)": {
+      "votes": 1437,
+      "percentage": 0.029672150611458985
+    },
+    "UtPP": {
+      "votes": 1098,
+      "percentage": 0.02267224869268056
+    },
+    "BaSaPa": {
+      "votes": 937,
+      "percentage": 0.01934781149821647
+    },
+    "HND": {
+      "votes": 897,
+      "percentage": 0.01852186436915707
+    },
+    "PPID": {
+      "votes": 738,
+      "percentage": 0.015238724531145949
+    },
+    "PSPL": {
+      "votes": 707,
+      "percentage": 0.014598615506124915
+    },
+    "SAVIPA": {
+      "votes": 688,
+      "percentage": 0.014206290619821697
+    }
+  },
+  "West Bengal": {
+    "AITC": {
+      "votes": 24757345,
+      "percentage": 43.27679372529672
+    },
+    "BJP": {
+      "votes": 23028517,
+      "percentage": 40.25473571614763
+    },
+    "CPIM": {
+      "votes": 3610645,
+      "percentage": 6.311546689690433
+    },
+    "INC": {
+      "votes": 3210491,
+      "percentage": 5.612062067395416
+    },
+    "NOTA": {
+      "votes": 546788,
+      "percentage": 0.9558065086327934
+    },
+    "IND": {
+      "votes": 541801,
+      "percentage": 0.9470890403296269
+    },
+    "AIFB": {
+      "votes": 239312,
+      "percentage": 0.4183266040840893
+    },
+    "CPI": {
+      "votes": 227695,
+      "percentage": 0.39801964012221164
+    },
+    "BSP": {
+      "votes": 221654,
+      "percentage": 0.38745973917586557
+    },
+    "SUCI(C)": {
+      "votes": 217376,
+      "percentage": 0.3799816302123713
+    },
+    "RSP": {
+      "votes": 208275,
+      "percentage": 0.36407273126969686
+    },
+    "SHS": {
+      "votes": 52850,
+      "percentage": 0.09238383794312079
+    },
+    "BMUP": {
+      "votes": 36620,
+      "percentage": 0.06401317209985019
+    },
+    "RVNP": {
+      "votes": 32184,
+      "percentage": 0.056258873043735086
+    },
+    "BNARP": {
+      "votes": 31308,
+      "percentage": 0.054727591264394054
+    },
+    "RaJSP": {
+      "votes": 23580,
+      "percentage": 0.041218749265823806
+    },
+    "WPOI": {
+      "votes": 23035,
+      "percentage": 0.040266068250137885
+    },
+    "AMB": {
+      "votes": 18562,
+      "percentage": 0.03244709176726978
+    },
+    "CPI(ML)(L)": {
+      "votes": 15597,
+      "percentage": 0.0272641574342262
+    },
+    "JMM": {
+      "votes": 12936,
+      "percentage": 0.02261262682369367
+    },
+    "KPPU": {
+      "votes": 12666,
+      "percentage": 0.022140656412252938
+    },
+    "PDS": {
+      "votes": 12087,
+      "percentage": 0.021128542085496707
+    },
+    "SDPI": {
+      "votes": 11696,
+      "percentage": 0.02044505900818809
+    },
+    "JKP(N)": {
+      "votes": 11204,
+      "percentage": 0.019585024036229425
+    },
+    "BNJD": {
+      "votes": 9400,
+      "percentage": 0.01643156247238099
+    },
+    "RJNP": {
+      "votes": 8609,
+      "percentage": 0.01504886397071574
+    },
+    "AKBJHP": {
+      "votes": 8484,
+      "percentage": 0.014830359150604289
+    },
+    "NDPOI": {
+      "votes": 7081,
+      "percentage": 0.012377861049673382
+    },
+    "BHMP": {
+      "votes": 6511,
+      "percentage": 0.011381479069965174
+    },
+    "AIJAP": {
+      "votes": 6495,
+      "percentage": 0.011353510452990908
+    },
+    "AHNP": {
+      "votes": 6110,
+      "percentage": 0.010680515607047645
+    },
+    "PUJP": {
+      "votes": 5917,
+      "percentage": 0.010343144164795566
+    },
+    "JeSM": {
+      "votes": 5885,
+      "percentage": 0.010287206930847035
+    },
+    "JHAP": {
+      "votes": 4164,
+      "percentage": 0.007278832567552601
+    },
+    "MPOI": {
+      "votes": 4057,
+      "percentage": 0.0070917924415372
+    },
+    "IUC": {
+      "votes": 4003,
+      "percentage": 0.006997398359249054
+    },
+    "APoI": {
+      "votes": 3269,
+      "percentage": 0.005714338055554624
+    },
+    "grac": {
+      "votes": 2952,
+      "percentage": 0.005160209831751987
+    },
+    "ALINLBP": {
+      "votes": 2707,
+      "percentage": 0.004731940384333547
+    },
+    "UTSAP": {
+      "votes": 2375,
+      "percentage": 0.004151591582117538
+    },
+    "JKPP": {
+      "votes": 2220,
+      "percentage": 0.0038806456051793405
+    },
+    "SWJP": {
+      "votes": 1899,
+      "percentage": 0.0033195252271331385
+    },
+    "RPI(A)": {
+      "votes": 1803,
+      "percentage": 0.0031517135252875452
+    },
+    "BHAPRAP": {
+      "votes": 1759,
+      "percentage": 0.0030747998286083152
+    },
+    "IDRP": {
+      "votes": 1678,
+      "percentage": 0.002933208705176096
+    },
+    "JSVP": {
+      "votes": 1301,
+      "percentage": 0.002274198167719965
+    },
+    "RAJADP": {
+      "votes": 1226,
+      "percentage": 0.002143095275653095
+    },
+    "PPOI": {
+      "votes": 965,
+      "percentage": 0.001686857211260389
+    },
+    "STPI": {
+      "votes": 730,
+      "percentage": 0.0012760681494508642
+    },
+    "JASP": {
+      "votes": 712,
+      "percentage": 0.0012446034553548154
+    },
+    "RAHM": {
+      "votes": 440,
+      "percentage": 0.0007691369667923017
+    }
+  }
+}

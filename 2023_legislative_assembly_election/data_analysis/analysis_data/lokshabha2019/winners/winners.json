@@ -1,0 +1,6590 @@
+{
+  "Andaman & Nicobar Islands": {
+    "Andaman & Nicobar Islands": {
+      "Winner": {
+        "Candidate Name": "KULDEEP RAI SHARMA",
+        "Party": "INC",
+        "Votes": 95308
+      },
+      "Runner-up": {
+        "Candidate Name": "VISHAL JOLLY",
+        "Party": "BJP",
+        "Votes": 93901
+      }
+    }
+  },
+  "Andhra Pradesh": {
+    "Amalapuram ": {
+      "Winner": {
+        "Candidate Name": "CHINTA ANURADHA",
+        "Party": "YSRCP",
+        "Votes": 485958
+      },
+      "Runner-up": {
+        "Candidate Name": "GANTI HARISH MADHUR (BALAYOGI)",
+        "Party": "TDP",
+        "Votes": 446163
+      }
+    },
+    "Anakapalli": {
+      "Winner": {
+        "Candidate Name": "Dr.Beesetti Venkata Satyavathi",
+        "Party": "YSRCP",
+        "Votes": 586226
+      },
+      "Runner-up": {
+        "Candidate Name": "ADARI ANAND KUMAR",
+        "Party": "TDP",
+        "Votes": 497034
+      }
+    },
+    "Anantapur": {
+      "Winner": {
+        "Candidate Name": "TALARI RANGAIAH",
+        "Party": "YSRCP",
+        "Votes": 695208
+      },
+      "Runner-up": {
+        "Candidate Name": "J.C. PAVAN REDDY",
+        "Party": "TDP",
+        "Votes": 553780
+      }
+    },
+    "Aruku ": {
+      "Winner": {
+        "Candidate Name": "GODDETI. MADHAVI",
+        "Party": "YSRCP",
+        "Votes": 562190
+      },
+      "Runner-up": {
+        "Candidate Name": "KISHORE CHANDRA DEO",
+        "Party": "TDP",
+        "Votes": 338101
+      }
+    },
+    "Bapatla ": {
+      "Winner": {
+        "Candidate Name": "NANDIGAM SURESH",
+        "Party": "YSRCP",
+        "Votes": 598257
+      },
+      "Runner-up": {
+        "Candidate Name": "MALYADRI SRIRAM",
+        "Party": "TDP",
+        "Votes": 582192
+      }
+    },
+    "Chittoor ": {
+      "Winner": {
+        "Candidate Name": "N. REDDEPPA",
+        "Party": "YSRCP",
+        "Votes": 686792
+      },
+      "Runner-up": {
+        "Candidate Name": "NARAMALLI SIVA PRASAD",
+        "Party": "TDP",
+        "Votes": 549521
+      }
+    },
+    "Eluru ": {
+      "Winner": {
+        "Candidate Name": "KOTAGIRI SRIDHAR",
+        "Party": "YSRCP",
+        "Votes": 676809
+      },
+      "Runner-up": {
+        "Candidate Name": "MAGANTTI VENKATESWARA RAO BABU",
+        "Party": "TDP",
+        "Votes": 510884
+      }
+    },
+    "Guntur": {
+      "Winner": {
+        "Candidate Name": "Jayadev Galla",
+        "Party": "TDP",
+        "Votes": 587918
+      },
+      "Runner-up": {
+        "Candidate Name": "Modugula Venugopala Reddy",
+        "Party": "YSRCP",
+        "Votes": 583713
+      }
+    },
+    "Hindupur": {
+      "Winner": {
+        "Candidate Name": "KURUVA GORANTLA MADHAV",
+        "Party": "YSRCP",
+        "Votes": 706602
+      },
+      "Runner-up": {
+        "Candidate Name": "KRISTAPPA . NIMMALA",
+        "Party": "TDP",
+        "Votes": 565854
+      }
+    },
+    "Kadapa": {
+      "Winner": {
+        "Candidate Name": "Y.S.Avinash Reddy",
+        "Party": "YSRCP",
+        "Votes": 783499
+      },
+      "Runner-up": {
+        "Candidate Name": "Adi Narayana Reddy Chadipirala",
+        "Party": "TDP",
+        "Votes": 402773
+      }
+    },
+    "Kakinada": {
+      "Winner": {
+        "Candidate Name": "VANGA GEETHAVISWANATH",
+        "Party": "YSRCP",
+        "Votes": 537630
+      },
+      "Runner-up": {
+        "Candidate Name": "CHALAMALASETTY SUNIL",
+        "Party": "TDP",
+        "Votes": 511892
+      }
+    },
+    "Kurnool": {
+      "Winner": {
+        "Candidate Name": "AYUSHMAN DOCTOR SANJEEV KUMAR",
+        "Party": "YSRCP",
+        "Votes": 605462
+      },
+      "Runner-up": {
+        "Candidate Name": "KOTLA JAYA SURYA PRAKASH REDDY",
+        "Party": "TDP",
+        "Votes": 456395
+      }
+    },
+    "Machilipatnam ": {
+      "Winner": {
+        "Candidate Name": "BALASHOWRY VALLABHANENI",
+        "Party": "YSRCP",
+        "Votes": 572850
+      },
+      "Runner-up": {
+        "Candidate Name": "KONAKALLA NARAYANA RAO",
+        "Party": "TDP",
+        "Votes": 512612
+      }
+    },
+    "Nandyal": {
+      "Winner": {
+        "Candidate Name": "POCHA . BRAHMANANDA REDDY",
+        "Party": "YSRCP",
+        "Votes": 720888
+      },
+      "Runner-up": {
+        "Candidate Name": "MANDRA SIVANANDA REDDY",
+        "Party": "TDP",
+        "Votes": 470769
+      }
+    },
+    "Narasaraopet": {
+      "Winner": {
+        "Candidate Name": "LAVU SRI KRISHNA DEVARAYALU",
+        "Party": "YSRCP",
+        "Votes": 745557
+      },
+      "Runner-up": {
+        "Candidate Name": "RAYAPATI SAMBASIVARAO",
+        "Party": "TDP",
+        "Votes": 591555
+      }
+    },
+    "Narsapuram": {
+      "Winner": {
+        "Candidate Name": "KANUMURU RAGHU RAMA KRISHNA RAJU",
+        "Party": "YSRCP",
+        "Votes": 449234
+      },
+      "Runner-up": {
+        "Candidate Name": "V.V. SIVA RAMA RAJU (KALAVAPUDI SIVA)",
+        "Party": "TDP",
+        "Votes": 416558
+      }
+    },
+    "Nellore": {
+      "Winner": {
+        "Candidate Name": "Adala Prabhakara Reddy",
+        "Party": "YSRCP",
+        "Votes": 683830
+      },
+      "Runner-up": {
+        "Candidate Name": "Beeda Masthan Rao",
+        "Party": "TDP",
+        "Votes": 535259
+      }
+    },
+    "Ongole ": {
+      "Winner": {
+        "Candidate Name": "MAGUNTA SREENIVASULU REDDY",
+        "Party": "YSRCP",
+        "Votes": 739202
+      },
+      "Runner-up": {
+        "Candidate Name": "SIDDA RAGHAVA RAO",
+        "Party": "TDP",
+        "Votes": 524351
+      }
+    },
+    "Rajahmundry": {
+      "Winner": {
+        "Candidate Name": "MARGANI BHARAT",
+        "Party": "YSRCP",
+        "Votes": 582024
+      },
+      "Runner-up": {
+        "Candidate Name": "MAGANTI ROOPA",
+        "Party": "TDP",
+        "Votes": 460390
+      }
+    },
+    "Rajampet": {
+      "Winner": {
+        "Candidate Name": "P.V.MIDHUN REDDY",
+        "Party": "YSRCP",
+        "Votes": 702211
+      },
+      "Runner-up": {
+        "Candidate Name": "D A SATHYA PRABHA",
+        "Party": "TDP",
+        "Votes": 433927
+      }
+    },
+    "Srikakulam": {
+      "Winner": {
+        "Candidate Name": "KINJARAPU RAM MOHAN NAIDU",
+        "Party": "TDP",
+        "Votes": 534544
+      },
+      "Runner-up": {
+        "Candidate Name": "DUVVADA SRINIVAS",
+        "Party": "YSRCP",
+        "Votes": 527891
+      }
+    },
+    "Tirupati ": {
+      "Winner": {
+        "Candidate Name": "Balli Durga Prasad Rao",
+        "Party": "YSRCP",
+        "Votes": 722877
+      },
+      "Runner-up": {
+        "Candidate Name": "Panabaka Lakshmi",
+        "Party": "TDP",
+        "Votes": 494501
+      }
+    },
+    "Vijayawada": {
+      "Winner": {
+        "Candidate Name": "KESINENI SRINIVAS (NANI)",
+        "Party": "TDP",
+        "Votes": 575498
+      },
+      "Runner-up": {
+        "Candidate Name": "POTLURI.V.PRASAD ( P V P )",
+        "Party": "YSRCP",
+        "Votes": 566772
+      }
+    },
+    "Visakhapatnam": {
+      "Winner": {
+        "Candidate Name": "M V V SATYANARAYANA",
+        "Party": "YSRCP",
+        "Votes": 436906
+      },
+      "Runner-up": {
+        "Candidate Name": "BHARAT MATHUKUMILLI",
+        "Party": "TDP",
+        "Votes": 432492
+      }
+    },
+    "Vizianagaram": {
+      "Winner": {
+        "Candidate Name": "Bellana Chandra Sekhar",
+        "Party": "YSRCP",
+        "Votes": 578418
+      },
+      "Runner-up": {
+        "Candidate Name": "Ashok Gajapathi Raju Pusapati",
+        "Party": "TDP",
+        "Votes": 530382
+      }
+    }
+  },
+  "Arunachal Pradesh": {
+    "ARUNACHAL EAST": {
+      "Winner": {
+        "Candidate Name": "Tapir Gao",
+        "Party": "BJP",
+        "Votes": 153883
+      },
+      "Runner-up": {
+        "Candidate Name": "Lowangcha Wanglat",
+        "Party": "INC",
+        "Votes": 83935
+      }
+    },
+    "ARUNACHAL WEST": {
+      "Winner": {
+        "Candidate Name": "KIREN RIJIJU",
+        "Party": "BJP",
+        "Votes": 225796
+      },
+      "Runner-up": {
+        "Candidate Name": "NABAM TUKI",
+        "Party": "INC",
+        "Votes": 50953
+      }
+    }
+  },
+  "Assam": {
+    "Autonomous District": {
+      "Winner": {
+        "Candidate Name": "HOREN SING BEY",
+        "Party": "BJP",
+        "Votes": 381316
+      },
+      "Runner-up": {
+        "Candidate Name": "BIREN SINGH ENGTI",
+        "Party": "INC",
+        "Votes": 141690
+      }
+    },
+    "Barpeta": {
+      "Winner": {
+        "Candidate Name": "Abdul Khaleque",
+        "Party": "INC",
+        "Votes": 645173
+      },
+      "Runner-up": {
+        "Candidate Name": "Kumar Deepak Das",
+        "Party": "AGP",
+        "Votes": 504866
+      }
+    },
+    "Dhubri": {
+      "Winner": {
+        "Candidate Name": "BADRUDDIN AJMAL",
+        "Party": "AIUDF",
+        "Votes": 718764
+      },
+      "Runner-up": {
+        "Candidate Name": "ABU TAHER BEPARI",
+        "Party": "INC",
+        "Votes": 492506
+      }
+    },
+    "Dibrugarh": {
+      "Winner": {
+        "Candidate Name": "RAMESWAR TELI",
+        "Party": "BJP",
+        "Votes": 659583
+      },
+      "Runner-up": {
+        "Candidate Name": "PABAN SINGH GHATOWAR",
+        "Party": "INC",
+        "Votes": 295017
+      }
+    },
+    "Gauhati": {
+      "Winner": {
+        "Candidate Name": "QUEEN OJA",
+        "Party": "BJP",
+        "Votes": 1008936
+      },
+      "Runner-up": {
+        "Candidate Name": "BOBBEETA SHARMA",
+        "Party": "INC",
+        "Votes": 663330
+      }
+    },
+    "Jorhat": {
+      "Winner": {
+        "Candidate Name": "TOPON KUMAR GOGOI",
+        "Party": "BJP",
+        "Votes": 543288
+      },
+      "Runner-up": {
+        "Candidate Name": "SUSHANTA BORGOHAIN",
+        "Party": "INC",
+        "Votes": 460635
+      }
+    },
+    "Kaliabor": {
+      "Winner": {
+        "Candidate Name": "Gaurav Gogoi",
+        "Party": "INC",
+        "Votes": 786092
+      },
+      "Runner-up": {
+        "Candidate Name": "Moni Madhab Mahanta",
+        "Party": "AGP",
+        "Votes": 576098
+      }
+    },
+    "Karimganj ": {
+      "Winner": {
+        "Candidate Name": "KRIPANATH MALLAH",
+        "Party": "BJP",
+        "Votes": 473046
+      },
+      "Runner-up": {
+        "Candidate Name": "RADHESHYAM BISWAS",
+        "Party": "AIUDF",
+        "Votes": 434657
+      }
+    },
+    "Kokrajhar": {
+      "Winner": {
+        "Candidate Name": "Naba Kumar Sarania",
+        "Party": "IND",
+        "Votes": 484560
+      },
+      "Runner-up": {
+        "Candidate Name": "Pramila Rani Brahma",
+        "Party": "BOPF",
+        "Votes": 446774
+      }
+    },
+    "Lakhimpur": {
+      "Winner": {
+        "Candidate Name": "PRADAN BARUAH",
+        "Party": "BJP",
+        "Votes": 776406
+      },
+      "Runner-up": {
+        "Candidate Name": "ANIL BORGOHAIN",
+        "Party": "INC",
+        "Votes": 425855
+      }
+    },
+    "Mangaldoi": {
+      "Winner": {
+        "Candidate Name": "DILIP SAIKIA",
+        "Party": "BJP",
+        "Votes": 735469
+      },
+      "Runner-up": {
+        "Candidate Name": "BHUBANESWAR KALITA",
+        "Party": "INC",
+        "Votes": 596924
+      }
+    },
+    "Nowgong": {
+      "Winner": {
+        "Candidate Name": "Pradyut Bordoloi",
+        "Party": "INC",
+        "Votes": 739724
+      },
+      "Runner-up": {
+        "Candidate Name": "Sri Rupak Sharma",
+        "Party": "BJP",
+        "Votes": 722972
+      }
+    },
+    "Silchar": {
+      "Winner": {
+        "Candidate Name": "RAJDEEP ROY",
+        "Party": "BJP",
+        "Votes": 499414
+      },
+      "Runner-up": {
+        "Candidate Name": "SUSHMITA DEV",
+        "Party": "INC",
+        "Votes": 417818
+      }
+    },
+    "Tezpur": {
+      "Winner": {
+        "Candidate Name": "PALLAB LOCHAN DAS",
+        "Party": "BJP",
+        "Votes": 684166
+      },
+      "Runner-up": {
+        "Candidate Name": "M.G.V.K. BHANU",
+        "Party": "INC",
+        "Votes": 441325
+      }
+    }
+  },
+  "Bihar": {
+    "Araria": {
+      "Winner": {
+        "Candidate Name": "PRADEEP KUMAR SINGH",
+        "Party": "BJP",
+        "Votes": 618434
+      },
+      "Runner-up": {
+        "Candidate Name": "SARFARAZ ALAM",
+        "Party": "RJD",
+        "Votes": 481193
+      }
+    },
+    "Arrah": {
+      "Winner": {
+        "Candidate Name": "R. K. Singh",
+        "Party": "BJP",
+        "Votes": 566480
+      },
+      "Runner-up": {
+        "Candidate Name": "Raju Yadav",
+        "Party": "CPI(ML)(L)",
+        "Votes": 419195
+      }
+    },
+    "Aurangabad": {
+      "Winner": {
+        "Candidate Name": "SUSHIL KUMAR SINGH",
+        "Party": "BJP",
+        "Votes": 427721
+      },
+      "Runner-up": {
+        "Candidate Name": "UPENDRA PRASAD",
+        "Party": "HAMS",
+        "Votes": 357169
+      }
+    },
+    "Banka": {
+      "Winner": {
+        "Candidate Name": "GIRIDHARI YADAV",
+        "Party": "JD(U)",
+        "Votes": 477788
+      },
+      "Runner-up": {
+        "Candidate Name": "JAI PRAKASH NARAYAN YADAV",
+        "Party": "RJD",
+        "Votes": 277256
+      }
+    },
+    "Begusarai": {
+      "Winner": {
+        "Candidate Name": "Giriraj Singh",
+        "Party": "BJP",
+        "Votes": 692193
+      },
+      "Runner-up": {
+        "Candidate Name": "Kanhaiya Kumar",
+        "Party": "CPI",
+        "Votes": 269976
+      }
+    },
+    "Bhagalpur": {
+      "Winner": {
+        "Candidate Name": "AJAY KUMAR MANDAL",
+        "Party": "JD(U)",
+        "Votes": 618254
+      },
+      "Runner-up": {
+        "Candidate Name": "SHAILESH KUMAR ALIAS VULO MANDAL",
+        "Party": "RJD",
+        "Votes": 340624
+      }
+    },
+    "Buxar": {
+      "Winner": {
+        "Candidate Name": "Ashwini Kumar Choubey",
+        "Party": "BJP",
+        "Votes": 473053
+      },
+      "Runner-up": {
+        "Candidate Name": "Jagadanand Singh",
+        "Party": "RJD",
+        "Votes": 355444
+      }
+    },
+    "Darbhanga": {
+      "Winner": {
+        "Candidate Name": "Gopal Jee Thakur",
+        "Party": "BJP",
+        "Votes": 586668
+      },
+      "Runner-up": {
+        "Candidate Name": "Abdul Bari Siddiqui",
+        "Party": "RJD",
+        "Votes": 318689
+      }
+    },
+    "Gaya (SC)": {
+      "Winner": {
+        "Candidate Name": "Vijay Kumar",
+        "Party": "JD(U)",
+        "Votes": 467007
+      },
+      "Runner-up": {
+        "Candidate Name": "Jitan Ram Manjhi",
+        "Party": "HAMS",
+        "Votes": 314581
+      }
+    },
+    "Gopalganj (SC)": {
+      "Winner": {
+        "Candidate Name": "DR. ALOK KUMAR SUMAN",
+        "Party": "JD(U)",
+        "Votes": 568150
+      },
+      "Runner-up": {
+        "Candidate Name": "SURENDRA RAM",
+        "Party": "RJD",
+        "Votes": 281716
+      }
+    },
+    "Hajipur (SC)": {
+      "Winner": {
+        "Candidate Name": "PASHU PATI KUMAR PARAS",
+        "Party": "LJP",
+        "Votes": 541310
+      },
+      "Runner-up": {
+        "Candidate Name": "SHIV CHANDRA RAM",
+        "Party": "RJD",
+        "Votes": 335861
+      }
+    },
+    "Jahanabad": {
+      "Winner": {
+        "Candidate Name": "CHANDESHWAR PRASAD",
+        "Party": "JD(U)",
+        "Votes": 335584
+      },
+      "Runner-up": {
+        "Candidate Name": "SURENDRA PRASAD YADAV",
+        "Party": "RJD",
+        "Votes": 333833
+      }
+    },
+    "Jamui (SC)": {
+      "Winner": {
+        "Candidate Name": "CHIRAG KUMAR PASWAN",
+        "Party": "LJP",
+        "Votes": 529134
+      },
+      "Runner-up": {
+        "Candidate Name": "BHUDEO CHOUDHARY",
+        "Party": "BLSP",
+        "Votes": 288085
+      }
+    },
+    "Jhanjharpur": {
+      "Winner": {
+        "Candidate Name": "Ramprit Mandal",
+        "Party": "JD(U)",
+        "Votes": 602391
+      },
+      "Runner-up": {
+        "Candidate Name": "GULAB YADAV",
+        "Party": "RJD",
+        "Votes": 279440
+      }
+    },
+    "Karakat": {
+      "Winner": {
+        "Candidate Name": "MAHABALI SINGH",
+        "Party": "JD(U)",
+        "Votes": 398408
+      },
+      "Runner-up": {
+        "Candidate Name": "UPENDRA KUSHWAHA",
+        "Party": "BLSP",
+        "Votes": 313866
+      }
+    },
+    "Katihar": {
+      "Winner": {
+        "Candidate Name": "DULAL CHANDRA GOSWAMI",
+        "Party": "JD(U)",
+        "Votes": 559423
+      },
+      "Runner-up": {
+        "Candidate Name": "TARIQ ANWAR",
+        "Party": "INC",
+        "Votes": 502220
+      }
+    },
+    "Khagaria": {
+      "Winner": {
+        "Candidate Name": "Choudhary Mehboob Ali Kaiser",
+        "Party": "LJP",
+        "Votes": 510193
+      },
+      "Runner-up": {
+        "Candidate Name": "Mukesh Sahani",
+        "Party": "VSIP",
+        "Votes": 261623
+      }
+    },
+    "Kishanganj": {
+      "Winner": {
+        "Candidate Name": "Dr. Mohammad Jawed",
+        "Party": "INC",
+        "Votes": 367017
+      },
+      "Runner-up": {
+        "Candidate Name": "Syed Mahmood Ashraf",
+        "Party": "JD(U)",
+        "Votes": 332551
+      }
+    },
+    "Madhepura": {
+      "Winner": {
+        "Candidate Name": "Dinesh Chandra Yadav",
+        "Party": "JD(U)",
+        "Votes": 624334
+      },
+      "Runner-up": {
+        "Candidate Name": "Sharad Yadav",
+        "Party": "RJD",
+        "Votes": 322807
+      }
+    },
+    "Madhubani": {
+      "Winner": {
+        "Candidate Name": "ASHOK KUMAR YADAV",
+        "Party": "BJP",
+        "Votes": 595843
+      },
+      "Runner-up": {
+        "Candidate Name": "BADRI KUMAR PURBEY",
+        "Party": "VSIP",
+        "Votes": 140903
+      }
+    },
+    "Maharajganj": {
+      "Winner": {
+        "Candidate Name": "Janardan Singh 'Sigriwal\"",
+        "Party": "BJP",
+        "Votes": 546352
+      },
+      "Runner-up": {
+        "Candidate Name": "Randhir Kumar Singh",
+        "Party": "RJD",
+        "Votes": 315580
+      }
+    },
+    "Munger": {
+      "Winner": {
+        "Candidate Name": "RAJIV RANJAN SINGH ALIAS LALAN SINGH",
+        "Party": "JD(U)",
+        "Votes": 528762
+      },
+      "Runner-up": {
+        "Candidate Name": "NILAM DEVI",
+        "Party": "INC",
+        "Votes": 360825
+      }
+    },
+    "Muzaffarpur": {
+      "Winner": {
+        "Candidate Name": "Ajay Nishad",
+        "Party": "BJP",
+        "Votes": 666878
+      },
+      "Runner-up": {
+        "Candidate Name": "Raj Bhushan Choudhary",
+        "Party": "VSIP",
+        "Votes": 256890
+      }
+    },
+    "Nalanda": {
+      "Winner": {
+        "Candidate Name": "Kaushlendra Kumar",
+        "Party": "JD(U)",
+        "Votes": 540888
+      },
+      "Runner-up": {
+        "Candidate Name": "Ashok Kumar Azad",
+        "Party": "HAMS",
+        "Votes": 284751
+      }
+    },
+    "Nawada": {
+      "Winner": {
+        "Candidate Name": "Chandan Singh",
+        "Party": "LJP",
+        "Votes": 495684
+      },
+      "Runner-up": {
+        "Candidate Name": "Vibha Devi",
+        "Party": "RJD",
+        "Votes": 347612
+      }
+    },
+    "Paschim Champaran": {
+      "Winner": {
+        "Candidate Name": "DR. SANJAY JAISWAL",
+        "Party": "BJP",
+        "Votes": 603706
+      },
+      "Runner-up": {
+        "Candidate Name": "BRIJESH KUMAR KUSHWAHA",
+        "Party": "BLSP",
+        "Votes": 309800
+      }
+    },
+    "Pataliputra": {
+      "Winner": {
+        "Candidate Name": "RAM KRIPAL YADAV",
+        "Party": "BJP",
+        "Votes": 509557
+      },
+      "Runner-up": {
+        "Candidate Name": "MISHA BHARTI",
+        "Party": "RJD",
+        "Votes": 470236
+      }
+    },
+    "Patna Sahib": {
+      "Winner": {
+        "Candidate Name": "RAVI SHANKAR PRASAD",
+        "Party": "BJP",
+        "Votes": 607506
+      },
+      "Runner-up": {
+        "Candidate Name": "SHATRUGHAN SINHA",
+        "Party": "INC",
+        "Votes": 322849
+      }
+    },
+    "Purnia": {
+      "Winner": {
+        "Candidate Name": "SANTOSH KUMAR",
+        "Party": "JD(U)",
+        "Votes": 632924
+      },
+      "Runner-up": {
+        "Candidate Name": "UDAY SINGH ALIAS PAPPU SINGH",
+        "Party": "INC",
+        "Votes": 369463
+      }
+    },
+    "Purvi Champaran": {
+      "Winner": {
+        "Candidate Name": "RADHA MOHAN SINGH",
+        "Party": "BJP",
+        "Votes": 577787
+      },
+      "Runner-up": {
+        "Candidate Name": "AAKASH KUMAR SINGH",
+        "Party": "BLSP",
+        "Votes": 284139
+      }
+    },
+    "Samastipur (SC)": {
+      "Winner": {
+        "Candidate Name": "Ramchandra Paswan",
+        "Party": "LJP",
+        "Votes": 562443
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. Ashok Kumar",
+        "Party": "INC",
+        "Votes": 310800
+      }
+    },
+    "Saran": {
+      "Winner": {
+        "Candidate Name": "Rajiv Pratap Rudy",
+        "Party": "BJP",
+        "Votes": 499986
+      },
+      "Runner-up": {
+        "Candidate Name": "Chandrika Roy",
+        "Party": "RJD",
+        "Votes": 361575
+      }
+    },
+    "Sasaram (SC)": {
+      "Winner": {
+        "Candidate Name": "CHHEDI PASWAN",
+        "Party": "BJP",
+        "Votes": 494800
+      },
+      "Runner-up": {
+        "Candidate Name": "MEIRA KUMAR",
+        "Party": "INC",
+        "Votes": 329055
+      }
+    },
+    "Sheohar": {
+      "Winner": {
+        "Candidate Name": "RAMA DEVI",
+        "Party": "BJP",
+        "Votes": 608678
+      },
+      "Runner-up": {
+        "Candidate Name": "SYED FAISAL ALI",
+        "Party": "RJD",
+        "Votes": 268318
+      }
+    },
+    "Sitamarhi": {
+      "Winner": {
+        "Candidate Name": "Sunil Kumar Pintu",
+        "Party": "JD(U)",
+        "Votes": 567745
+      },
+      "Runner-up": {
+        "Candidate Name": "Arjun Ray",
+        "Party": "RJD",
+        "Votes": 317206
+      }
+    },
+    "Siwan": {
+      "Winner": {
+        "Candidate Name": "Kavita Singh",
+        "Party": "JD(U)",
+        "Votes": 448473
+      },
+      "Runner-up": {
+        "Candidate Name": "Hena Shahab",
+        "Party": "RJD",
+        "Votes": 331515
+      }
+    },
+    "Supaul": {
+      "Winner": {
+        "Candidate Name": "Dileshwar Kamait",
+        "Party": "JD(U)",
+        "Votes": 597377
+      },
+      "Runner-up": {
+        "Candidate Name": "Ranjeet Ranjan",
+        "Party": "INC",
+        "Votes": 330524
+      }
+    },
+    "Ujiarpur": {
+      "Winner": {
+        "Candidate Name": "Nityanand Rai",
+        "Party": "BJP",
+        "Votes": 543906
+      },
+      "Runner-up": {
+        "Candidate Name": "Upendra Kushwaha",
+        "Party": "BLSP",
+        "Votes": 266628
+      }
+    },
+    "Vaishali": {
+      "Winner": {
+        "Candidate Name": "Veena Devi (W/o Dinesh Prasad Singh)",
+        "Party": "LJP",
+        "Votes": 568215
+      },
+      "Runner-up": {
+        "Candidate Name": "Raghuvansh Prasad Singh",
+        "Party": "RJD",
+        "Votes": 333631
+      }
+    },
+    "Valmiki Nagar": {
+      "Winner": {
+        "Candidate Name": "BAIDYANATH PRASAD MAHTO",
+        "Party": "JD(U)",
+        "Votes": 602660
+      },
+      "Runner-up": {
+        "Candidate Name": "SHASHWAT KEDAR",
+        "Party": "INC",
+        "Votes": 248044
+      }
+    }
+  },
+  "Chandigarh": {
+    "CHANDIGARH": {
+      "Winner": {
+        "Candidate Name": "KIRRON KHER",
+        "Party": "BJP",
+        "Votes": 231188
+      },
+      "Runner-up": {
+        "Candidate Name": "PAWAN KUMAR BANSAL",
+        "Party": "INC",
+        "Votes": 184218
+      }
+    }
+  },
+  "Chhattisgarh": {
+    "BASTAR": {
+      "Winner": {
+        "Candidate Name": "DEEPAK BAIJ",
+        "Party": "INC",
+        "Votes": 402527
+      },
+      "Runner-up": {
+        "Candidate Name": "BAIDU RAM KASHYAP",
+        "Party": "BJP",
+        "Votes": 363545
+      }
+    },
+    "BILASPUR": {
+      "Winner": {
+        "Candidate Name": "ARUN SAO",
+        "Party": "BJP",
+        "Votes": 634559
+      },
+      "Runner-up": {
+        "Candidate Name": "ATAL SHRIVASTAV",
+        "Party": "INC",
+        "Votes": 492796
+      }
+    },
+    "DURG": {
+      "Winner": {
+        "Candidate Name": "VIJAY BAGHEL",
+        "Party": "BJP",
+        "Votes": 849374
+      },
+      "Runner-up": {
+        "Candidate Name": "PRATIMA CHANDRAKAR",
+        "Party": "INC",
+        "Votes": 457396
+      }
+    },
+    "JANJGIR-CHAMPA": {
+      "Winner": {
+        "Candidate Name": "GUHARAM AJGALLEY",
+        "Party": "BJP",
+        "Votes": 572790
+      },
+      "Runner-up": {
+        "Candidate Name": "RAVI PARASRAM BHARDWAJ",
+        "Party": "INC",
+        "Votes": 489535
+      }
+    },
+    "KANKER": {
+      "Winner": {
+        "Candidate Name": "MOHAN MANDAVI",
+        "Party": "BJP",
+        "Votes": 546233
+      },
+      "Runner-up": {
+        "Candidate Name": "BIRESH THAKUR",
+        "Party": "INC",
+        "Votes": 539319
+      }
+    },
+    "KORBA": {
+      "Winner": {
+        "Candidate Name": "JYOTSNA CHARANDAS MAHANT",
+        "Party": "INC",
+        "Votes": 523310
+      },
+      "Runner-up": {
+        "Candidate Name": "JYOTI NAND DUBEY",
+        "Party": "BJP",
+        "Votes": 497061
+      }
+    },
+    "MAHASAMUND": {
+      "Winner": {
+        "Candidate Name": "CHUNNI LAL SAHU",
+        "Party": "BJP",
+        "Votes": 616580
+      },
+      "Runner-up": {
+        "Candidate Name": "DHANENDRA SAHU",
+        "Party": "INC",
+        "Votes": 526069
+      }
+    },
+    "RAIGARH": {
+      "Winner": {
+        "Candidate Name": "GOMATI SAI",
+        "Party": "BJP",
+        "Votes": 658335
+      },
+      "Runner-up": {
+        "Candidate Name": "LALJEET SINGH RATHIA",
+        "Party": "INC",
+        "Votes": 592308
+      }
+    },
+    "RAIPUR": {
+      "Winner": {
+        "Candidate Name": "Sunil Kumar Soni",
+        "Party": "BJP",
+        "Votes": 837902
+      },
+      "Runner-up": {
+        "Candidate Name": "Pramod Dubey",
+        "Party": "INC",
+        "Votes": 489664
+      }
+    },
+    "RAJNANDGAON": {
+      "Winner": {
+        "Candidate Name": "SANTOSH PANDEY",
+        "Party": "BJP",
+        "Votes": 662387
+      },
+      "Runner-up": {
+        "Candidate Name": "BHOLA RAM SAHU",
+        "Party": "INC",
+        "Votes": 550421
+      }
+    },
+    "SARGUJA": {
+      "Winner": {
+        "Candidate Name": "Renuka Singh Saruta",
+        "Party": "BJP",
+        "Votes": 663711
+      },
+      "Runner-up": {
+        "Candidate Name": "Khel Sai Singh",
+        "Party": "INC",
+        "Votes": 505838
+      }
+    }
+  },
+  "Dadra & Nagar Haveli": {
+    "Dadra And Nagar Haveli": {
+      "Winner": {
+        "Candidate Name": "DELKAR MOHANBHAI SANJIBHAI",
+        "Party": "IND",
+        "Votes": 90421
+      },
+      "Runner-up": {
+        "Candidate Name": "PATEL NATUBHAI GOMANBHAI",
+        "Party": "BJP",
+        "Votes": 81420
+      }
+    }
+  },
+  "Daman & Diu": {
+    "Daman & diu": {
+      "Winner": {
+        "Candidate Name": "LALUBHAI BABUBHAI PATEL",
+        "Party": "BJP",
+        "Votes": 37597
+      },
+      "Runner-up": {
+        "Candidate Name": "KETAN DAHYABHAI PATEL",
+        "Party": "INC",
+        "Votes": 27655
+      }
+    }
+  },
+  "Goa": {
+    "North Goa": {
+      "Winner": {
+        "Candidate Name": "SHRIPAD YESSO NAIK",
+        "Party": "BJP",
+        "Votes": 244844
+      },
+      "Runner-up": {
+        "Candidate Name": "GIRISH RAYA CHODANKAR",
+        "Party": "INC",
+        "Votes": 164597
+      }
+    },
+    "South Goa": {
+      "Winner": {
+        "Candidate Name": "COSME FRANCISCO CAITANO SARDINHA",
+        "Party": "INC",
+        "Votes": 201561
+      },
+      "Runner-up": {
+        "Candidate Name": "ADV. NARENDRA SAWAIKAR",
+        "Party": "BJP",
+        "Votes": 191806
+      }
+    }
+  },
+  "Gujarat": {
+    "Ahmedabad East": {
+      "Winner": {
+        "Candidate Name": "Patel Hasmukhbhai Somabhai",
+        "Party": "BJP",
+        "Votes": 749834
+      },
+      "Runner-up": {
+        "Candidate Name": "Gitaben Patel",
+        "Party": "INC",
+        "Votes": 315504
+      }
+    },
+    "Ahmedabad West": {
+      "Winner": {
+        "Candidate Name": "DR. KIRIT P. SOLANKI",
+        "Party": "BJP",
+        "Votes": 641622
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJU PARMAR",
+        "Party": "INC",
+        "Votes": 320076
+      }
+    },
+    "Amreli": {
+      "Winner": {
+        "Candidate Name": "Kachhadiya Naranbhai Bhikhabhai",
+        "Party": "BJP",
+        "Votes": 529035
+      },
+      "Runner-up": {
+        "Candidate Name": "Paresh Dhanani",
+        "Party": "INC",
+        "Votes": 327604
+      }
+    },
+    "Anand": {
+      "Winner": {
+        "Candidate Name": "PATEL MITESH RAMESHBHAI (BAKABHAI)",
+        "Party": "BJP",
+        "Votes": 633097
+      },
+      "Runner-up": {
+        "Candidate Name": "BHARATBHAI MADHAVSINH SOLANKI",
+        "Party": "INC",
+        "Votes": 435379
+      }
+    },
+    "Banaskantha": {
+      "Winner": {
+        "Candidate Name": "PARBATBHAI SAVABHAI PATEL",
+        "Party": "BJP",
+        "Votes": 679108
+      },
+      "Runner-up": {
+        "Candidate Name": "PARTHIBHAI GALBABHAI BHATOL",
+        "Party": "INC",
+        "Votes": 310812
+      }
+    },
+    "Bardoli": {
+      "Winner": {
+        "Candidate Name": "PARBHUBHAI NAGARBHAI VASAVA",
+        "Party": "BJP",
+        "Votes": 742273
+      },
+      "Runner-up": {
+        "Candidate Name": "CHAUDHARI DR. TUSHARBHAI AMARSINHBHAI",
+        "Party": "INC",
+        "Votes": 526826
+      }
+    },
+    "Bharuch": {
+      "Winner": {
+        "Candidate Name": "Mansukhbhai Dhanjibhai Vasava",
+        "Party": "BJP",
+        "Votes": 637795
+      },
+      "Runner-up": {
+        "Candidate Name": "Sherkhan Abdulsakur Pathan",
+        "Party": "INC",
+        "Votes": 303581
+      }
+    },
+    "Bhavnagar": {
+      "Winner": {
+        "Candidate Name": "DR.BHARATIBEN DHIRUBHAI SHIYAL",
+        "Party": "BJP",
+        "Votes": 661273
+      },
+      "Runner-up": {
+        "Candidate Name": "PATEL MANHARBHAI NAGJIBHAI (VASANI)",
+        "Party": "INC",
+        "Votes": 331754
+      }
+    },
+    "Chhota Udaipur": {
+      "Winner": {
+        "Candidate Name": "RATHVA GITABEN VAJESINGBHAI",
+        "Party": "BJP",
+        "Votes": 764445
+      },
+      "Runner-up": {
+        "Candidate Name": "RATHAVA RANJITSINH MOHANSINH",
+        "Party": "INC",
+        "Votes": 386502
+      }
+    },
+    "Dahod": {
+      "Winner": {
+        "Candidate Name": "JASHVANTSINH SUMANBHAI BHABHOR",
+        "Party": "BJP",
+        "Votes": 561760
+      },
+      "Runner-up": {
+        "Candidate Name": "KATARA BABUBHAI KHIMABHAI",
+        "Party": "INC",
+        "Votes": 434164
+      }
+    },
+    "Gandhinagar": {
+      "Winner": {
+        "Candidate Name": "AMIT SHAH",
+        "Party": "BJP",
+        "Votes": 894624
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. C. J. CHAVDA",
+        "Party": "INC",
+        "Votes": 337610
+      }
+    },
+    "Jamnagar": {
+      "Winner": {
+        "Candidate Name": "POONAMBEN HEMATBHAI MAADAM",
+        "Party": "BJP",
+        "Votes": 591588
+      },
+      "Runner-up": {
+        "Candidate Name": "KANDORIYA MULUBHAI RANMALBHAI",
+        "Party": "INC",
+        "Votes": 354784
+      }
+    },
+    "Junagadh": {
+      "Winner": {
+        "Candidate Name": "CHUDASAMA RAJESHBHAI NARANBHAI",
+        "Party": "BJP",
+        "Votes": 547744
+      },
+      "Runner-up": {
+        "Candidate Name": "VANSH PUNJABHAI BHIMABHAI",
+        "Party": "INC",
+        "Votes": 397533
+      }
+    },
+    "Kachchh": {
+      "Winner": {
+        "Candidate Name": "CHAVDA VINOD LAKHAMSHI",
+        "Party": "BJP",
+        "Votes": 637034
+      },
+      "Runner-up": {
+        "Candidate Name": "NARESH NARANBHAI MAHESHWARI",
+        "Party": "INC",
+        "Votes": 331521
+      }
+    },
+    "Kheda": {
+      "Winner": {
+        "Candidate Name": "Chauhan Devusinh",
+        "Party": "BJP",
+        "Votes": 714572
+      },
+      "Runner-up": {
+        "Candidate Name": "Bimal Shah",
+        "Party": "INC",
+        "Votes": 347427
+      }
+    },
+    "Mahesana": {
+      "Winner": {
+        "Candidate Name": "SHARDABEN ANILBHAI PATEL",
+        "Party": "BJP",
+        "Votes": 659525
+      },
+      "Runner-up": {
+        "Candidate Name": "A. J. Patel",
+        "Party": "INC",
+        "Votes": 378006
+      }
+    },
+    "Navsari": {
+      "Winner": {
+        "Candidate Name": "C. R. Patil",
+        "Party": "BJP",
+        "Votes": 972739
+      },
+      "Runner-up": {
+        "Candidate Name": "PATEL DHARMESHBHAI BHIMBHAI",
+        "Party": "INC",
+        "Votes": 283071
+      }
+    },
+    "Panchmahal": {
+      "Winner": {
+        "Candidate Name": "Ratansinh Magansinh Rathod",
+        "Party": "BJP",
+        "Votes": 732136
+      },
+      "Runner-up": {
+        "Candidate Name": "Khant Vechatbhai Kuberbhai",
+        "Party": "INC",
+        "Votes": 303595
+      }
+    },
+    "Patan": {
+      "Winner": {
+        "Candidate Name": "DABHI BHARATSINHJI SHANKARJI",
+        "Party": "BJP",
+        "Votes": 633368
+      },
+      "Runner-up": {
+        "Candidate Name": "JAGDISH THAKOR",
+        "Party": "INC",
+        "Votes": 439489
+      }
+    },
+    "Porbandar": {
+      "Winner": {
+        "Candidate Name": "RAMESHBHAI LAVJIBHAI DHADUK",
+        "Party": "BJP",
+        "Votes": 563881
+      },
+      "Runner-up": {
+        "Candidate Name": "LALIT VASOYA",
+        "Party": "INC",
+        "Votes": 334058
+      }
+    },
+    "Rajkot": {
+      "Winner": {
+        "Candidate Name": "KUNDARIA MOHANBHAI KALYANJIBHAI",
+        "Party": "BJP",
+        "Votes": 758645
+      },
+      "Runner-up": {
+        "Candidate Name": "KAGATHARA LALITBHAI",
+        "Party": "INC",
+        "Votes": 390238
+      }
+    },
+    "Sabarkantha": {
+      "Winner": {
+        "Candidate Name": "RATHOD DIPSINH SHANKARSINH",
+        "Party": "BJP",
+        "Votes": 701983
+      },
+      "Runner-up": {
+        "Candidate Name": "THAKOR RAJENDRASINH SHIVSINH",
+        "Party": "INC",
+        "Votes": 432997
+      }
+    },
+    "Surat": {
+      "Winner": {
+        "Candidate Name": "Darshana Vikram Jardosh",
+        "Party": "BJP",
+        "Votes": 795651
+      },
+      "Runner-up": {
+        "Candidate Name": "Ashok Patel (Adhevada)",
+        "Party": "INC",
+        "Votes": 247421
+      }
+    },
+    "Surendranagar": {
+      "Winner": {
+        "Candidate Name": "Dr. MUNJAPARA MAHENDRABHAI",
+        "Party": "BJP",
+        "Votes": 631844
+      },
+      "Runner-up": {
+        "Candidate Name": "KOLI PATEL SOMABHAI GANDALAL",
+        "Party": "INC",
+        "Votes": 354407
+      }
+    },
+    "Vadodara": {
+      "Winner": {
+        "Candidate Name": "RANJANBEN BHATT",
+        "Party": "BJP",
+        "Votes": 883719
+      },
+      "Runner-up": {
+        "Candidate Name": "PRASHANT PATEL (TIKO)",
+        "Party": "INC",
+        "Votes": 294542
+      }
+    },
+    "Valsad": {
+      "Winner": {
+        "Candidate Name": "Dr.K.C.PATEL",
+        "Party": "BJP",
+        "Votes": 771980
+      },
+      "Runner-up": {
+        "Candidate Name": "CHAUDHARI JITUBHAI HARJIBHAI",
+        "Party": "INC",
+        "Votes": 418183
+      }
+    }
+  },
+  "Haryana": {
+    "Ambala": {
+      "Winner": {
+        "Candidate Name": "RATTAN LAL KATARIA",
+        "Party": "BJP",
+        "Votes": 746508
+      },
+      "Runner-up": {
+        "Candidate Name": "SELJA",
+        "Party": "INC",
+        "Votes": 404163
+      }
+    },
+    "Bhiwani-Mahendragarh": {
+      "Winner": {
+        "Candidate Name": "Dharambir Singh S/o Bhale Ram",
+        "Party": "BJP",
+        "Votes": 736699
+      },
+      "Runner-up": {
+        "Candidate Name": "Shruti Choudhry",
+        "Party": "INC",
+        "Votes": 292236
+      }
+    },
+    "Faridabad": {
+      "Winner": {
+        "Candidate Name": "KRISHAN PAL",
+        "Party": "BJP",
+        "Votes": 913222
+      },
+      "Runner-up": {
+        "Candidate Name": "AVTAR SINGH BHADANA",
+        "Party": "INC",
+        "Votes": 274983
+      }
+    },
+    "Gurgaon": {
+      "Winner": {
+        "Candidate Name": "RAO INDERJIT SINGH",
+        "Party": "BJP",
+        "Votes": 881546
+      },
+      "Runner-up": {
+        "Candidate Name": "CAPT. AJAY SINGH",
+        "Party": "INC",
+        "Votes": 495290
+      }
+    },
+    "Hisar": {
+      "Winner": {
+        "Candidate Name": "BRIJENDRA SINGH",
+        "Party": "BJP",
+        "Votes": 603289
+      },
+      "Runner-up": {
+        "Candidate Name": "DUSHYANT CHAUTALA",
+        "Party": "JNJP",
+        "Votes": 289221
+      }
+    },
+    "Karnal": {
+      "Winner": {
+        "Candidate Name": "Sanjay Bhatia",
+        "Party": "BJP",
+        "Votes": 911594
+      },
+      "Runner-up": {
+        "Candidate Name": "Kuldip Sharma",
+        "Party": "INC",
+        "Votes": 255452
+      }
+    },
+    "Kurukshetra": {
+      "Winner": {
+        "Candidate Name": "NAYAB SINGH",
+        "Party": "BJP",
+        "Votes": 688629
+      },
+      "Runner-up": {
+        "Candidate Name": "NIRMAL SINGH",
+        "Party": "INC",
+        "Votes": 304038
+      }
+    },
+    "Rohtak": {
+      "Winner": {
+        "Candidate Name": "ARVIND KUMAR SHARMA",
+        "Party": "BJP",
+        "Votes": 573845
+      },
+      "Runner-up": {
+        "Candidate Name": "DEEPENDER SINGH HOODA",
+        "Party": "INC",
+        "Votes": 566342
+      }
+    },
+    "Sirsa": {
+      "Winner": {
+        "Candidate Name": "Sunita Duggal",
+        "Party": "BJP",
+        "Votes": 714351
+      },
+      "Runner-up": {
+        "Candidate Name": "Ashok Tanwar",
+        "Party": "INC",
+        "Votes": 404433
+      }
+    },
+    "Sonipat": {
+      "Winner": {
+        "Candidate Name": "RAMESH CHANDER KAUSHIK",
+        "Party": "BJP",
+        "Votes": 587664
+      },
+      "Runner-up": {
+        "Candidate Name": "BHUPINDER SINGH HOODA",
+        "Party": "INC",
+        "Votes": 422800
+      }
+    }
+  },
+  "Himachal Pradesh": {
+    "Hamirpur": {
+      "Winner": {
+        "Candidate Name": "ANURAG SINGH THAKUR",
+        "Party": "BJP",
+        "Votes": 682692
+      },
+      "Runner-up": {
+        "Candidate Name": "RAM LAL THAKUR",
+        "Party": "INC",
+        "Votes": 283120
+      }
+    },
+    "Kangra": {
+      "Winner": {
+        "Candidate Name": "Kishan Kapoor",
+        "Party": "BJP",
+        "Votes": 725218
+      },
+      "Runner-up": {
+        "Candidate Name": "Pawan Kajal",
+        "Party": "INC",
+        "Votes": 247595
+      }
+    },
+    "Mandi": {
+      "Winner": {
+        "Candidate Name": "RAM SWAROOP SHARMA",
+        "Party": "BJP",
+        "Votes": 647189
+      },
+      "Runner-up": {
+        "Candidate Name": "AASHRAY SHARMA",
+        "Party": "INC",
+        "Votes": 241730
+      }
+    },
+    "Shimla": {
+      "Winner": {
+        "Candidate Name": "SURESH KUMAR KASHYAP",
+        "Party": "BJP",
+        "Votes": 606182
+      },
+      "Runner-up": {
+        "Candidate Name": "DHANI RAM SHANDIL",
+        "Party": "INC",
+        "Votes": 278668
+      }
+    }
+  },
+  "Jammu & Kashmir": {
+    "Anantnag": {
+      "Winner": {
+        "Candidate Name": "HASNAIN MASOODI",
+        "Party": "JKN",
+        "Votes": 40180
+      },
+      "Runner-up": {
+        "Candidate Name": "GHULAM AHMAD MIR",
+        "Party": "INC",
+        "Votes": 33504
+      }
+    },
+    "Baramulla": {
+      "Winner": {
+        "Candidate Name": "MOHAMMAD AKBAR LONE",
+        "Party": "JKN",
+        "Votes": 133426
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJA AIJAZ ALI",
+        "Party": "JPC",
+        "Votes": 103193
+      }
+    },
+    "Jammu": {
+      "Winner": {
+        "Candidate Name": "Jugal Kishore",
+        "Party": "BJP",
+        "Votes": 858066
+      },
+      "Runner-up": {
+        "Candidate Name": "Raman Bhalla",
+        "Party": "INC",
+        "Votes": 555191
+      }
+    },
+    "Ladakh": {
+      "Winner": {
+        "Candidate Name": "Jamyang Tsering Namgyal",
+        "Party": "BJP",
+        "Votes": 42914
+      },
+      "Runner-up": {
+        "Candidate Name": "Sajjad Hussain",
+        "Party": "IND",
+        "Votes": 31984
+      }
+    },
+    "Srinagar": {
+      "Winner": {
+        "Candidate Name": "Farooq Abdullah",
+        "Party": "JKN",
+        "Votes": 106750
+      },
+      "Runner-up": {
+        "Candidate Name": "Aga Syed Mohsin",
+        "Party": "PDP",
+        "Votes": 36700
+      }
+    },
+    "Udhampur": {
+      "Winner": {
+        "Candidate Name": "DR. JITENDRA SINGH",
+        "Party": "BJP",
+        "Votes": 724311
+      },
+      "Runner-up": {
+        "Candidate Name": "VIKRAMADITYA SINGH",
+        "Party": "INC",
+        "Votes": 367059
+      }
+    }
+  },
+  "Jharkhand": {
+    "Chatra": {
+      "Winner": {
+        "Candidate Name": "SUNIL KUMAR SINGH",
+        "Party": "BJP",
+        "Votes": 528077
+      },
+      "Runner-up": {
+        "Candidate Name": "MANOJ KUMAR YADAV",
+        "Party": "INC",
+        "Votes": 150206
+      }
+    },
+    "Dhanbad": {
+      "Winner": {
+        "Candidate Name": "PASHUPATI NATH SINGH",
+        "Party": "BJP",
+        "Votes": 827234
+      },
+      "Runner-up": {
+        "Candidate Name": "KIRTI AZAD",
+        "Party": "INC",
+        "Votes": 341040
+      }
+    },
+    "Dumka": {
+      "Winner": {
+        "Candidate Name": "SUNIL SOREN",
+        "Party": "BJP",
+        "Votes": 484923
+      },
+      "Runner-up": {
+        "Candidate Name": "SHIBU SOREN",
+        "Party": "JMM",
+        "Votes": 437333
+      }
+    },
+    "Giridih": {
+      "Winner": {
+        "Candidate Name": "Chandra Prakash Choudhary",
+        "Party": "AJSUP",
+        "Votes": 648277
+      },
+      "Runner-up": {
+        "Candidate Name": "Jagarnath Mahto",
+        "Party": "JMM",
+        "Votes": 399930
+      }
+    },
+    "Godda": {
+      "Winner": {
+        "Candidate Name": "Nishikant Dubey",
+        "Party": "BJP",
+        "Votes": 637610
+      },
+      "Runner-up": {
+        "Candidate Name": "Pradeep Yadav",
+        "Party": "JVM",
+        "Votes": 453383
+      }
+    },
+    "Hazaribagh": {
+      "Winner": {
+        "Candidate Name": "JAYANT SINHA",
+        "Party": "BJP",
+        "Votes": 728798
+      },
+      "Runner-up": {
+        "Candidate Name": "GOPAL PRASAD SAHU",
+        "Party": "INC",
+        "Votes": 249250
+      }
+    },
+    "Jamshedpur": {
+      "Winner": {
+        "Candidate Name": "Bidyut Baran Mahato",
+        "Party": "BJP",
+        "Votes": 679632
+      },
+      "Runner-up": {
+        "Candidate Name": "Champai Soren",
+        "Party": "JMM",
+        "Votes": 377542
+      }
+    },
+    "Khunti": {
+      "Winner": {
+        "Candidate Name": "ARJUN MUNDA",
+        "Party": "BJP",
+        "Votes": 382638
+      },
+      "Runner-up": {
+        "Candidate Name": "KALI CHARAN MUNDA",
+        "Party": "INC",
+        "Votes": 381193
+      }
+    },
+    "Kodarma": {
+      "Winner": {
+        "Candidate Name": "ANNPURNA DEVI",
+        "Party": "BJP",
+        "Votes": 753016
+      },
+      "Runner-up": {
+        "Candidate Name": "BABU LAL MARANDI",
+        "Party": "JVM",
+        "Votes": 297416
+      }
+    },
+    "Lohardaga": {
+      "Winner": {
+        "Candidate Name": "SUDARSHAN BHAGAT",
+        "Party": "BJP",
+        "Votes": 371595
+      },
+      "Runner-up": {
+        "Candidate Name": "SUKHDEO BHAGAT",
+        "Party": "INC",
+        "Votes": 361232
+      }
+    },
+    "Palamau": {
+      "Winner": {
+        "Candidate Name": "VISHNU DAYAL RAM",
+        "Party": "BJP",
+        "Votes": 755659
+      },
+      "Runner-up": {
+        "Candidate Name": "GHURAN RAM",
+        "Party": "RJD",
+        "Votes": 278053
+      }
+    },
+    "Rajmahal": {
+      "Winner": {
+        "Candidate Name": "VIJAY KUMAR HANSDAK",
+        "Party": "JMM",
+        "Votes": 507830
+      },
+      "Runner-up": {
+        "Candidate Name": "HEMLAL MURMU",
+        "Party": "BJP",
+        "Votes": 408635
+      }
+    },
+    "Ranchi": {
+      "Winner": {
+        "Candidate Name": "SANJAY SETH",
+        "Party": "BJP",
+        "Votes": 706510
+      },
+      "Runner-up": {
+        "Candidate Name": "SUBODH KANT SAHAY",
+        "Party": "INC",
+        "Votes": 423730
+      }
+    },
+    "Singhbhum": {
+      "Winner": {
+        "Candidate Name": "GEETA KORA",
+        "Party": "INC",
+        "Votes": 431815
+      },
+      "Runner-up": {
+        "Candidate Name": "LAXMAN GILUWA",
+        "Party": "BJP",
+        "Votes": 359660
+      }
+    }
+  },
+  "Karnataka": {
+    "Bagalkot": {
+      "Winner": {
+        "Candidate Name": "Gaddigoudar Parvatagouda Chandanagouda",
+        "Party": "BJP",
+        "Votes": 664638
+      },
+      "Runner-up": {
+        "Candidate Name": "Veena Kashappanavar",
+        "Party": "INC",
+        "Votes": 496451
+      }
+    },
+    "Bangalore North": {
+      "Winner": {
+        "Candidate Name": "D.V. Sadananda Gowda",
+        "Party": "BJP",
+        "Votes": 824500
+      },
+      "Runner-up": {
+        "Candidate Name": "Krishna Byregowda",
+        "Party": "INC",
+        "Votes": 676982
+      }
+    },
+    "Bangalore Rural": {
+      "Winner": {
+        "Candidate Name": "D.K. SURESH",
+        "Party": "INC",
+        "Votes": 878258
+      },
+      "Runner-up": {
+        "Candidate Name": "ASHWATHNARAYANGOWDA",
+        "Party": "BJP",
+        "Votes": 671388
+      }
+    },
+    "Bangalore South": {
+      "Winner": {
+        "Candidate Name": "TEJASVI SURYA",
+        "Party": "BJP",
+        "Votes": 739229
+      },
+      "Runner-up": {
+        "Candidate Name": "B.K.HARIPRASAD",
+        "Party": "INC",
+        "Votes": 408037
+      }
+    },
+    "Bangalore central": {
+      "Winner": {
+        "Candidate Name": "P. C. Mohan",
+        "Party": "BJP",
+        "Votes": 602853
+      },
+      "Runner-up": {
+        "Candidate Name": "Rizwan Arshad",
+        "Party": "INC",
+        "Votes": 531885
+      }
+    },
+    "Belgaum": {
+      "Winner": {
+        "Candidate Name": "ANGADI SURESH CHANNABASAPPA",
+        "Party": "BJP",
+        "Votes": 761991
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr.SADHUNAVAR",
+        "Party": "INC",
+        "Votes": 370687
+      }
+    },
+    "Bellary": {
+      "Winner": {
+        "Candidate Name": "Y. DEVENDRAPPA",
+        "Party": "BJP",
+        "Votes": 616388
+      },
+      "Runner-up": {
+        "Candidate Name": "V. S. UGRAPPA",
+        "Party": "INC",
+        "Votes": 560681
+      }
+    },
+    "Bidar": {
+      "Winner": {
+        "Candidate Name": "BHAGWANTH KHUBA",
+        "Party": "BJP",
+        "Votes": 585471
+      },
+      "Runner-up": {
+        "Candidate Name": "ESHWAR B. KHANDRE",
+        "Party": "INC",
+        "Votes": 468637
+      }
+    },
+    "Bijapur": {
+      "Winner": {
+        "Candidate Name": "JIGAJINAGI RAMESH CHANDAPPA",
+        "Party": "BJP",
+        "Votes": 635867
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. SUNITA DEVANAND CHAVAN",
+        "Party": "JD(S)",
+        "Votes": 377829
+      }
+    },
+    "Chamarajanagar": {
+      "Winner": {
+        "Candidate Name": "V. SRINIVAS PRASAD",
+        "Party": "BJP",
+        "Votes": 568537
+      },
+      "Runner-up": {
+        "Candidate Name": "R. DHRUVANARAYANA",
+        "Party": "INC",
+        "Votes": 566720
+      }
+    },
+    "Chikkballapur": {
+      "Winner": {
+        "Candidate Name": "B.N.Bache Gowda",
+        "Party": "BJP",
+        "Votes": 745912
+      },
+      "Runner-up": {
+        "Candidate Name": "M.Veerappa Moily",
+        "Party": "INC",
+        "Votes": 563802
+      }
+    },
+    "Chikkodi": {
+      "Winner": {
+        "Candidate Name": "ANNASAHEB SHANKAR JOLLE",
+        "Party": "BJP",
+        "Votes": 645017
+      },
+      "Runner-up": {
+        "Candidate Name": "PRAKASH BABANNA HUKKERI",
+        "Party": "INC",
+        "Votes": 526140
+      }
+    },
+    "Chitradurga": {
+      "Winner": {
+        "Candidate Name": "A NARAYANASWAMY",
+        "Party": "BJP",
+        "Votes": 626195
+      },
+      "Runner-up": {
+        "Candidate Name": "B N CHANDRAPPA",
+        "Party": "INC",
+        "Votes": 546017
+      }
+    },
+    "Dakshina Kannada": {
+      "Winner": {
+        "Candidate Name": "NALIN KUMAR KATEEL",
+        "Party": "BJP",
+        "Votes": 774285
+      },
+      "Runner-up": {
+        "Candidate Name": "MITHUN M RAI",
+        "Party": "INC",
+        "Votes": 499664
+      }
+    },
+    "Davanagere": {
+      "Winner": {
+        "Candidate Name": "G M SIDDESHWAR",
+        "Party": "BJP",
+        "Votes": 652996
+      },
+      "Runner-up": {
+        "Candidate Name": "H B MANJAPPA",
+        "Party": "INC",
+        "Votes": 483294
+      }
+    },
+    "Dharwad": {
+      "Winner": {
+        "Candidate Name": "Pralhad Joshi",
+        "Party": "BJP",
+        "Votes": 684837
+      },
+      "Runner-up": {
+        "Candidate Name": "Vinay Kulkarni",
+        "Party": "INC",
+        "Votes": 479765
+      }
+    },
+    "Gulbarga": {
+      "Winner": {
+        "Candidate Name": "DR. UMESH G JADHAV",
+        "Party": "BJP",
+        "Votes": 620192
+      },
+      "Runner-up": {
+        "Candidate Name": "MALLIKARJUN KHARGE",
+        "Party": "INC",
+        "Votes": 524740
+      }
+    },
+    "Hassan": {
+      "Winner": {
+        "Candidate Name": "PRAJWAL REVANNA",
+        "Party": "JD(S)",
+        "Votes": 676606
+      },
+      "Runner-up": {
+        "Candidate Name": "MANJU A",
+        "Party": "BJP",
+        "Votes": 535282
+      }
+    },
+    "Haveri": {
+      "Winner": {
+        "Candidate Name": "UDASI. S.C.",
+        "Party": "BJP",
+        "Votes": 683660
+      },
+      "Runner-up": {
+        "Candidate Name": "D.R. PATIL",
+        "Party": "INC",
+        "Votes": 542778
+      }
+    },
+    "Kolar": {
+      "Winner": {
+        "Candidate Name": "S. MUNISWAMY",
+        "Party": "BJP",
+        "Votes": 709165
+      },
+      "Runner-up": {
+        "Candidate Name": "K.H. MUNIYAPPA",
+        "Party": "INC",
+        "Votes": 499144
+      }
+    },
+    "Koppal": {
+      "Winner": {
+        "Candidate Name": "KARADI SANGANNA AMARAPPA",
+        "Party": "BJP",
+        "Votes": 586783
+      },
+      "Runner-up": {
+        "Candidate Name": "K.RAJASHEKAR BASAVARAJ HITNAL",
+        "Party": "INC",
+        "Votes": 548386
+      }
+    },
+    "Mandya": {
+      "Winner": {
+        "Candidate Name": "SUMALATHA AMBAREESH",
+        "Party": "IND",
+        "Votes": 703660
+      },
+      "Runner-up": {
+        "Candidate Name": "NIKHIL KUMARASWAMY",
+        "Party": "JD(S)",
+        "Votes": 577784
+      }
+    },
+    "Mysore": {
+      "Winner": {
+        "Candidate Name": "PRATHAP SIMHA",
+        "Party": "BJP",
+        "Votes": 688974
+      },
+      "Runner-up": {
+        "Candidate Name": "C.H.VIJAYASHANKAR",
+        "Party": "INC",
+        "Votes": 550327
+      }
+    },
+    "Raichur": {
+      "Winner": {
+        "Candidate Name": "RAJA AMARESHWARA NAIK",
+        "Party": "BJP",
+        "Votes": 598337
+      },
+      "Runner-up": {
+        "Candidate Name": "B. V NAIK",
+        "Party": "INC",
+        "Votes": 480621
+      }
+    },
+    "Shimoga": {
+      "Winner": {
+        "Candidate Name": "B.Y.RAGHAVENDRA.",
+        "Party": "BJP",
+        "Votes": 729872
+      },
+      "Runner-up": {
+        "Candidate Name": "S.MADHUBANGARAPPA",
+        "Party": "JD(S)",
+        "Votes": 506512
+      }
+    },
+    "Tumkur": {
+      "Winner": {
+        "Candidate Name": "G. S. BASAVARAJ",
+        "Party": "BJP",
+        "Votes": 596127
+      },
+      "Runner-up": {
+        "Candidate Name": "H. D. DEVEGOWDA",
+        "Party": "JD(S)",
+        "Votes": 582788
+      }
+    },
+    "Udupi Chikmagalur": {
+      "Winner": {
+        "Candidate Name": "SHOBHA KARANDLAJE",
+        "Party": "BJP",
+        "Votes": 718916
+      },
+      "Runner-up": {
+        "Candidate Name": "PRAMOD MADHWARAJ",
+        "Party": "JD(S)",
+        "Votes": 369317
+      }
+    },
+    "Uttara Kannada": {
+      "Winner": {
+        "Candidate Name": "ANANTKUMAR HEGDE",
+        "Party": "BJP",
+        "Votes": 786042
+      },
+      "Runner-up": {
+        "Candidate Name": "ANAND ASNOTIKAR",
+        "Party": "JD(S)",
+        "Votes": 306393
+      }
+    }
+  },
+  "Kerala": {
+    "Alappuzha": {
+      "Winner": {
+        "Candidate Name": "Adv. A M ARIFF",
+        "Party": "CPIM",
+        "Votes": 445970
+      },
+      "Runner-up": {
+        "Candidate Name": "Adv. SHANIMOL OSMAN",
+        "Party": "INC",
+        "Votes": 435496
+      }
+    },
+    "Alathur ": {
+      "Winner": {
+        "Candidate Name": "RAMYA HARIDAS",
+        "Party": "INC",
+        "Votes": 533815
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. P.K.BIJU",
+        "Party": "CPIM",
+        "Votes": 374847
+      }
+    },
+    "Attingal": {
+      "Winner": {
+        "Candidate Name": "Adv. ADOOR PRAKASH",
+        "Party": "INC",
+        "Votes": 380995
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. A. SAMPATH",
+        "Party": "CPIM",
+        "Votes": 342748
+      }
+    },
+    "Chalakudy": {
+      "Winner": {
+        "Candidate Name": "BENNY BEHANAN",
+        "Party": "INC",
+        "Votes": 473444
+      },
+      "Runner-up": {
+        "Candidate Name": "INNOCENT",
+        "Party": "CPIM",
+        "Votes": 341170
+      }
+    },
+    "Ernakulam": {
+      "Winner": {
+        "Candidate Name": "HIBI EDEN",
+        "Party": "INC",
+        "Votes": 491263
+      },
+      "Runner-up": {
+        "Candidate Name": "P RAJEEV",
+        "Party": "CPIM",
+        "Votes": 322110
+      }
+    },
+    "Idukki": {
+      "Winner": {
+        "Candidate Name": "Adv. DEAN KURIAKOSE",
+        "Party": "INC",
+        "Votes": 498493
+      },
+      "Runner-up": {
+        "Candidate Name": "Adv, JOICE GEORGE",
+        "Party": "IND",
+        "Votes": 327440
+      }
+    },
+    "Kannur": {
+      "Winner": {
+        "Candidate Name": "K. SUDHAKARAN",
+        "Party": "INC",
+        "Votes": 529741
+      },
+      "Runner-up": {
+        "Candidate Name": "P. K. SREEMATHI TEACHER",
+        "Party": "CPIM",
+        "Votes": 435182
+      }
+    },
+    "Kasaragod": {
+      "Winner": {
+        "Candidate Name": "Rajmohan Unnithan",
+        "Party": "INC",
+        "Votes": 474961
+      },
+      "Runner-up": {
+        "Candidate Name": "K. P. Sathishchandran",
+        "Party": "CPIM",
+        "Votes": 434523
+      }
+    },
+    "Kollam": {
+      "Winner": {
+        "Candidate Name": "N.K.Premachandran",
+        "Party": "RSP",
+        "Votes": 499677
+      },
+      "Runner-up": {
+        "Candidate Name": "K.N.Balagopal",
+        "Party": "CPIM",
+        "Votes": 350821
+      }
+    },
+    "Kottayam": {
+      "Winner": {
+        "Candidate Name": "Thomas Chazhikadan",
+        "Party": "KEC(M)",
+        "Votes": 421046
+      },
+      "Runner-up": {
+        "Candidate Name": "V.N. Vasavan",
+        "Party": "CPIM",
+        "Votes": 314787
+      }
+    },
+    "Kozhikode": {
+      "Winner": {
+        "Candidate Name": "M.K.RAGHAVAN",
+        "Party": "INC",
+        "Votes": 493444
+      },
+      "Runner-up": {
+        "Candidate Name": "A.PRADEEP KUMAR",
+        "Party": "CPIM",
+        "Votes": 408219
+      }
+    },
+    "Malappuram": {
+      "Winner": {
+        "Candidate Name": "P.K. Kunhalikutty",
+        "Party": "IUML",
+        "Votes": 589873
+      },
+      "Runner-up": {
+        "Candidate Name": "V.P. Sanu",
+        "Party": "CPIM",
+        "Votes": 329720
+      }
+    },
+    "Mavelikkara ": {
+      "Winner": {
+        "Candidate Name": "KODIKUNNIL SURESH",
+        "Party": "INC",
+        "Votes": 440415
+      },
+      "Runner-up": {
+        "Candidate Name": "CHITTAYAM GOPAKUMAR",
+        "Party": "CPI",
+        "Votes": 379277
+      }
+    },
+    "Palakkad": {
+      "Winner": {
+        "Candidate Name": "V K SREEKANDAN",
+        "Party": "INC",
+        "Votes": 399274
+      },
+      "Runner-up": {
+        "Candidate Name": "M B RAJESH",
+        "Party": "CPIM",
+        "Votes": 387637
+      }
+    },
+    "Pathanamthitta": {
+      "Winner": {
+        "Candidate Name": "ANTO ANTONY",
+        "Party": "INC",
+        "Votes": 380927
+      },
+      "Runner-up": {
+        "Candidate Name": "VEENA GEORGE",
+        "Party": "CPIM",
+        "Votes": 336684
+      }
+    },
+    "Ponnani": {
+      "Winner": {
+        "Candidate Name": "E. T. Mohammed Basheer",
+        "Party": "IUML",
+        "Votes": 521824
+      },
+      "Runner-up": {
+        "Candidate Name": "P.V. Anvar Puthan Veetil",
+        "Party": "IND",
+        "Votes": 328551
+      }
+    },
+    "Thiruvananthapuram": {
+      "Winner": {
+        "Candidate Name": "Dr. SHASHI THAROOR",
+        "Party": "INC",
+        "Votes": 416131
+      },
+      "Runner-up": {
+        "Candidate Name": "KUMMANAM RAJASEKHARAN",
+        "Party": "BJP",
+        "Votes": 316142
+      }
+    },
+    "Thrissur": {
+      "Winner": {
+        "Candidate Name": "T. N. PRATHAPAN",
+        "Party": "INC",
+        "Votes": 415089
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJAJI MATHEW THOMAS",
+        "Party": "CPI",
+        "Votes": 321456
+      }
+    },
+    "Vadakara": {
+      "Winner": {
+        "Candidate Name": "K. MURALEEDHARAN",
+        "Party": "INC",
+        "Votes": 526755
+      },
+      "Runner-up": {
+        "Candidate Name": "P.JAYARAJAN",
+        "Party": "CPIM",
+        "Votes": 442092
+      }
+    },
+    "Wayanad": {
+      "Winner": {
+        "Candidate Name": "Rahul Gandhi",
+        "Party": "INC",
+        "Votes": 706367
+      },
+      "Runner-up": {
+        "Candidate Name": "P.P. Suneer",
+        "Party": "CPI",
+        "Votes": 274597
+      }
+    }
+  },
+  "Lakshadweep": {
+    "Lakshadweep": {
+      "Winner": {
+        "Candidate Name": "MOHAMMED FAIZAL PP",
+        "Party": "NCP",
+        "Votes": 22851
+      },
+      "Runner-up": {
+        "Candidate Name": "HAMDULLAH SAYEED",
+        "Party": "INC",
+        "Votes": 22028
+      }
+    }
+  },
+  "Madhya Pradesh": {
+    "BALAGHAT": {
+      "Winner": {
+        "Candidate Name": "DR DHAL SINGH BISEN",
+        "Party": "BJP",
+        "Votes": 696102
+      },
+      "Runner-up": {
+        "Candidate Name": "MADHU BHAGAT",
+        "Party": "INC",
+        "Votes": 454036
+      }
+    },
+    "BETUL": {
+      "Winner": {
+        "Candidate Name": "DURGA DAS (D.D.) UIKEY",
+        "Party": "BJP",
+        "Votes": 811248
+      },
+      "Runner-up": {
+        "Candidate Name": "RAMU TEKAM (ADVOCATE)",
+        "Party": "INC",
+        "Votes": 451007
+      }
+    },
+    "BHIND": {
+      "Winner": {
+        "Candidate Name": "SANDHYA RAY",
+        "Party": "BJP",
+        "Votes": 527694
+      },
+      "Runner-up": {
+        "Candidate Name": "DEVASHISH",
+        "Party": "INC",
+        "Votes": 327809
+      }
+    },
+    "BHOPAL": {
+      "Winner": {
+        "Candidate Name": "SADHVI PRAGYA SINGH THAKUR",
+        "Party": "BJP",
+        "Votes": 866482
+      },
+      "Runner-up": {
+        "Candidate Name": "DIGVIJAYA SINGH",
+        "Party": "INC",
+        "Votes": 501660
+      }
+    },
+    "CHHINDWARA": {
+      "Winner": {
+        "Candidate Name": "NAKUL KAMAL NATH",
+        "Party": "INC",
+        "Votes": 587305
+      },
+      "Runner-up": {
+        "Candidate Name": "NATHANSAHA KAWRETI",
+        "Party": "BJP",
+        "Votes": 549769
+      }
+    },
+    "DAMOH": {
+      "Winner": {
+        "Candidate Name": "PRAHALAD SINGH PATEL",
+        "Party": "BJP",
+        "Votes": 704524
+      },
+      "Runner-up": {
+        "Candidate Name": "PRATAP SINGH",
+        "Party": "INC",
+        "Votes": 351113
+      }
+    },
+    "DEWAS": {
+      "Winner": {
+        "Candidate Name": "MAHENDRA SINGH SOLANKY",
+        "Party": "BJP",
+        "Votes": 862429
+      },
+      "Runner-up": {
+        "Candidate Name": "PRAHLAD SINGH TIPANYA",
+        "Party": "INC",
+        "Votes": 490180
+      }
+    },
+    "DHAR": {
+      "Winner": {
+        "Candidate Name": "CHATTARSINGH DARBAR",
+        "Party": "BJP",
+        "Votes": 722147
+      },
+      "Runner-up": {
+        "Candidate Name": "GIRWAL DINESH",
+        "Party": "INC",
+        "Votes": 566118
+      }
+    },
+    "GUNA": {
+      "Winner": {
+        "Candidate Name": "KRISHNA PAL SINGH \"Dr. K. P. YADAV\"",
+        "Party": "BJP",
+        "Votes": 614049
+      },
+      "Runner-up": {
+        "Candidate Name": "JYOTIRADITYA M. SCINDIA",
+        "Party": "INC",
+        "Votes": 488500
+      }
+    },
+    "GWALIOR": {
+      "Winner": {
+        "Candidate Name": "VIVEK NARAYAN SHEJWALKAR",
+        "Party": "BJP",
+        "Votes": 627250
+      },
+      "Runner-up": {
+        "Candidate Name": "ASHOK SINGH",
+        "Party": "INC",
+        "Votes": 480408
+      }
+    },
+    "HOSHANGABAD": {
+      "Winner": {
+        "Candidate Name": "UDAY PRATAP SINGH",
+        "Party": "BJP",
+        "Votes": 877927
+      },
+      "Runner-up": {
+        "Candidate Name": "SHAILENDRA DIWAN CHANDARBHAN SINGH",
+        "Party": "INC",
+        "Votes": 324245
+      }
+    },
+    "INDORE": {
+      "Winner": {
+        "Candidate Name": "SHANKAR LALWANI",
+        "Party": "BJP",
+        "Votes": 1068569
+      },
+      "Runner-up": {
+        "Candidate Name": "PANKAJ SANGHVI",
+        "Party": "INC",
+        "Votes": 520815
+      }
+    },
+    "JABALPUR": {
+      "Winner": {
+        "Candidate Name": "RAKESH SINGH",
+        "Party": "BJP",
+        "Votes": 826454
+      },
+      "Runner-up": {
+        "Candidate Name": "Pt. VIVEK KRISHNA TANKHA",
+        "Party": "INC",
+        "Votes": 371710
+      }
+    },
+    "KHAJURAHO": {
+      "Winner": {
+        "Candidate Name": "V.D. SHARMA (VISHNU DATT SHARMA)",
+        "Party": "BJP",
+        "Votes": 811135
+      },
+      "Runner-up": {
+        "Candidate Name": "MAHARANI KAVITA SINGH NATIRAJA",
+        "Party": "INC",
+        "Votes": 318753
+      }
+    },
+    "KHANDWA": {
+      "Winner": {
+        "Candidate Name": "NANDKUMAR SINGH CHOUHAN (NANDU BHAIYA)",
+        "Party": "BJP",
+        "Votes": 838909
+      },
+      "Runner-up": {
+        "Candidate Name": "ARUN SUBHASH CHANDRA YADAV",
+        "Party": "INC",
+        "Votes": 565566
+      }
+    },
+    "KHARGONE": {
+      "Winner": {
+        "Candidate Name": "GAJENDRA UMRAO SINGH PATEL",
+        "Party": "BJP",
+        "Votes": 773550
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. GOVIND SUBHAN MUJALDA",
+        "Party": "INC",
+        "Votes": 571040
+      }
+    },
+    "MANDLA": {
+      "Winner": {
+        "Candidate Name": "FAGGAN SINGH KULASTE",
+        "Party": "BJP",
+        "Votes": 737266
+      },
+      "Runner-up": {
+        "Candidate Name": "KAMAL SINGH MARAVI",
+        "Party": "INC",
+        "Votes": 639592
+      }
+    },
+    "MANDSOUR": {
+      "Winner": {
+        "Candidate Name": "Sudheer Gupta",
+        "Party": "BJP",
+        "Votes": 847786
+      },
+      "Runner-up": {
+        "Candidate Name": "Meenakshi Natarajan",
+        "Party": "INC",
+        "Votes": 471052
+      }
+    },
+    "MORENA": {
+      "Winner": {
+        "Candidate Name": "NARENDRA SINGH TOMAR",
+        "Party": "BJP",
+        "Votes": 541689
+      },
+      "Runner-up": {
+        "Candidate Name": "RAMNIWAS RAWAT",
+        "Party": "INC",
+        "Votes": 428348
+      }
+    },
+    "RAJGARH": {
+      "Winner": {
+        "Candidate Name": "RODMAL NAGAR",
+        "Party": "BJP",
+        "Votes": 823824
+      },
+      "Runner-up": {
+        "Candidate Name": "MONA SUSTANI",
+        "Party": "INC",
+        "Votes": 392805
+      }
+    },
+    "RATLAM": {
+      "Winner": {
+        "Candidate Name": "GUMAN SINGH DAMOR",
+        "Party": "BJP",
+        "Votes": 696103
+      },
+      "Runner-up": {
+        "Candidate Name": "KANTILAL BHURIA",
+        "Party": "INC",
+        "Votes": 605467
+      }
+    },
+    "REWA": {
+      "Winner": {
+        "Candidate Name": "JANARDAN MISHRA",
+        "Party": "BJP",
+        "Votes": 583769
+      },
+      "Runner-up": {
+        "Candidate Name": "SIDDHARTH TIWARI \"RAJ\"",
+        "Party": "INC",
+        "Votes": 270961
+      }
+    },
+    "SAGAR": {
+      "Winner": {
+        "Candidate Name": "RAJBAHADUR SINGH",
+        "Party": "BJP",
+        "Votes": 646231
+      },
+      "Runner-up": {
+        "Candidate Name": "PRABHU SINGH THAKUR",
+        "Party": "INC",
+        "Votes": 340689
+      }
+    },
+    "SATNA": {
+      "Winner": {
+        "Candidate Name": "GANESH SINGH",
+        "Party": "BJP",
+        "Votes": 588753
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJARAM TRIPATHI",
+        "Party": "INC",
+        "Votes": 357280
+      }
+    },
+    "SHAHDOL": {
+      "Winner": {
+        "Candidate Name": "HIMADRI SINGH",
+        "Party": "BJP",
+        "Votes": 747977
+      },
+      "Runner-up": {
+        "Candidate Name": "PRAMILA SINGH",
+        "Party": "INC",
+        "Votes": 344644
+      }
+    },
+    "SIDHI": {
+      "Winner": {
+        "Candidate Name": "Riti Pathak",
+        "Party": "BJP",
+        "Votes": 698342
+      },
+      "Runner-up": {
+        "Candidate Name": "Ajay Arjun Singh",
+        "Party": "INC",
+        "Votes": 411818
+      }
+    },
+    "TIKAMGARH": {
+      "Winner": {
+        "Candidate Name": "Dr Virendra Kumar",
+        "Party": "BJP",
+        "Votes": 672248
+      },
+      "Runner-up": {
+        "Candidate Name": "Ahirwar Kiran",
+        "Party": "INC",
+        "Votes": 324189
+      }
+    },
+    "UJJAIN": {
+      "Winner": {
+        "Candidate Name": "ANIL FIROJIYA",
+        "Party": "BJP",
+        "Votes": 791663
+      },
+      "Runner-up": {
+        "Candidate Name": "BABULAL MALVIYA",
+        "Party": "INC",
+        "Votes": 426026
+      }
+    },
+    "VIDISHA": {
+      "Winner": {
+        "Candidate Name": "Ramakant Bhargava",
+        "Party": "BJP",
+        "Votes": 853022
+      },
+      "Runner-up": {
+        "Candidate Name": "Shailendra Rameshchandra Patel",
+        "Party": "INC",
+        "Votes": 349938
+      }
+    }
+  },
+  "Maharashtra": {
+    "Ahmadnagar ": {
+      "Winner": {
+        "Candidate Name": "Dr. SUJAY RADHAKRISHNA VIKHEPATIL",
+        "Party": "BJP",
+        "Votes": 704660
+      },
+      "Runner-up": {
+        "Candidate Name": "SANGRAM ARUNKAKA JAGTAP",
+        "Party": "NCP",
+        "Votes": 423186
+      }
+    },
+    "Akola": {
+      "Winner": {
+        "Candidate Name": "Dhotre Sanjay Shamrao",
+        "Party": "BJP",
+        "Votes": 554444
+      },
+      "Runner-up": {
+        "Candidate Name": "Ambedkar (Adv) Prakash Yashwant",
+        "Party": "VBA",
+        "Votes": 278848
+      }
+    },
+    "Amravati ": {
+      "Winner": {
+        "Candidate Name": "Navnit Ravi Rana",
+        "Party": "IND",
+        "Votes": 510947
+      },
+      "Runner-up": {
+        "Candidate Name": "Adsul Anandrao Vithoba",
+        "Party": "SHS",
+        "Votes": 473996
+      }
+    },
+    "Aurangabad": {
+      "Winner": {
+        "Candidate Name": "Imtiaz Jaleel Syed",
+        "Party": "AIMIM",
+        "Votes": 389042
+      },
+      "Runner-up": {
+        "Candidate Name": "Chandrakant Khaire",
+        "Party": "SHS",
+        "Votes": 384550
+      }
+    },
+    "Baramati": {
+      "Winner": {
+        "Candidate Name": "Supriya Sule",
+        "Party": "NCP",
+        "Votes": 686714
+      },
+      "Runner-up": {
+        "Candidate Name": "Kanchan Rahul Kool",
+        "Party": "BJP",
+        "Votes": 530940
+      }
+    },
+    "Beed": {
+      "Winner": {
+        "Candidate Name": "Pritam Gopinathrao Munde",
+        "Party": "BJP",
+        "Votes": 678175
+      },
+      "Runner-up": {
+        "Candidate Name": "Bajrang Manohar Sonwane",
+        "Party": "NCP",
+        "Votes": 509807
+      }
+    },
+    "Bhandara - gondiya": {
+      "Winner": {
+        "Candidate Name": "Sunil Baburao Mendhe",
+        "Party": "BJP",
+        "Votes": 650243
+      },
+      "Runner-up": {
+        "Candidate Name": "Panchabudhe Nana Jairam",
+        "Party": "NCP",
+        "Votes": 452849
+      }
+    },
+    "Bhiwandi": {
+      "Winner": {
+        "Candidate Name": "KAPIL MORESHWAR PATIL",
+        "Party": "BJP",
+        "Votes": 523583
+      },
+      "Runner-up": {
+        "Candidate Name": "TAWARE SURESH KASHINATH",
+        "Party": "INC",
+        "Votes": 367254
+      }
+    },
+    "Buldhana": {
+      "Winner": {
+        "Candidate Name": "Jadhav Prataprao Ganpatrao",
+        "Party": "SHS",
+        "Votes": 521977
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. Rajendra Bhaskarrav Shingne",
+        "Party": "NCP",
+        "Votes": 388690
+      }
+    },
+    "Chandrapur": {
+      "Winner": {
+        "Candidate Name": "Balubhau alias Suresh Narayan Dhanorkar",
+        "Party": "INC",
+        "Votes": 559507
+      },
+      "Runner-up": {
+        "Candidate Name": "Ahir Hansraj Gangaram",
+        "Party": "BJP",
+        "Votes": 514744
+      }
+    },
+    "Dhule": {
+      "Winner": {
+        "Candidate Name": "Bhamre Subhash Ramrao",
+        "Party": "BJP",
+        "Votes": 613533
+      },
+      "Runner-up": {
+        "Candidate Name": "Kunalbaba Rohidas Patil",
+        "Party": "INC",
+        "Votes": 384290
+      }
+    },
+    "Dindori ": {
+      "Winner": {
+        "Candidate Name": "Dr. Bharati Pravin Pawar",
+        "Party": "BJP",
+        "Votes": 567470
+      },
+      "Runner-up": {
+        "Candidate Name": "Dhanraj Haribhau Mahale",
+        "Party": "NCP",
+        "Votes": 368691
+      }
+    },
+    "Gadchiroli-Chimur": {
+      "Winner": {
+        "Candidate Name": "ASHOK MAHADEORAO NETE",
+        "Party": "BJP",
+        "Votes": 519968
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. NAMDEO DALLUJI USENDI",
+        "Party": "INC",
+        "Votes": 442442
+      }
+    },
+    "Hatkanangle": {
+      "Winner": {
+        "Candidate Name": "Dhairyasheel Sambhajirao Mane",
+        "Party": "SHS",
+        "Votes": 585776
+      },
+      "Runner-up": {
+        "Candidate Name": "Raju Anna Shetti",
+        "Party": "SWP",
+        "Votes": 489737
+      }
+    },
+    "Hingoli ": {
+      "Winner": {
+        "Candidate Name": "Hemant Patil",
+        "Party": "SHS",
+        "Votes": 586312
+      },
+      "Runner-up": {
+        "Candidate Name": "Wankhede Subhashrao Bapurao",
+        "Party": "INC",
+        "Votes": 308456
+      }
+    },
+    "Jalgaon": {
+      "Winner": {
+        "Candidate Name": "Unmesh Bhaiyyasaheb Patil",
+        "Party": "BJP",
+        "Votes": 713874
+      },
+      "Runner-up": {
+        "Candidate Name": "Gulabrao Baburao Deokar",
+        "Party": "NCP",
+        "Votes": 302257
+      }
+    },
+    "Jalna": {
+      "Winner": {
+        "Candidate Name": "Danve Raosaheb Dadarao",
+        "Party": "BJP",
+        "Votes": 698019
+      },
+      "Runner-up": {
+        "Candidate Name": "Autade Vilas Keshavrao",
+        "Party": "INC",
+        "Votes": 365204
+      }
+    },
+    "Kalyan": {
+      "Winner": {
+        "Candidate Name": "Dr. SHRIKANT EKNATH SHINDE",
+        "Party": "SHS",
+        "Votes": 559723
+      },
+      "Runner-up": {
+        "Candidate Name": "BABAJI BALARAM PATIL",
+        "Party": "NCP",
+        "Votes": 215380
+      }
+    },
+    "Kolhapur": {
+      "Winner": {
+        "Candidate Name": "Sanjay Sadashivrao Mandlik",
+        "Party": "SHS",
+        "Votes": 749085
+      },
+      "Runner-up": {
+        "Candidate Name": "Dhananjay Mahadik",
+        "Party": "NCP",
+        "Votes": 478517
+      }
+    },
+    "Latur ": {
+      "Winner": {
+        "Candidate Name": "Sudhakar Tukaram Shrangare",
+        "Party": "BJP",
+        "Votes": 661495
+      },
+      "Runner-up": {
+        "Candidate Name": "Kamant Machhindra Gunwantrao",
+        "Party": "INC",
+        "Votes": 372384
+      }
+    },
+    "Madha": {
+      "Winner": {
+        "Candidate Name": "Ranjeetsinha Hindurao Naik- Nimbalkar",
+        "Party": "BJP",
+        "Votes": 586314
+      },
+      "Runner-up": {
+        "Candidate Name": "Sanjaymama Vitthalrao Shinde",
+        "Party": "NCP",
+        "Votes": 500550
+      }
+    },
+    "Maval": {
+      "Winner": {
+        "Candidate Name": "SHRIRANG APPA CHANDU BARNE",
+        "Party": "SHS",
+        "Votes": 720663
+      },
+      "Runner-up": {
+        "Candidate Name": "PARTH AJIT PAWAR",
+        "Party": "NCP",
+        "Votes": 504750
+      }
+    },
+    "Mumbai   South": {
+      "Winner": {
+        "Candidate Name": "Arvind Ganpat Sawant",
+        "Party": "SHS",
+        "Votes": 421937
+      },
+      "Runner-up": {
+        "Candidate Name": "Deora Milind Murli",
+        "Party": "INC",
+        "Votes": 321870
+      }
+    },
+    "Mumbai North": {
+      "Winner": {
+        "Candidate Name": "Gopal Shetty",
+        "Party": "BJP",
+        "Votes": 706678
+      },
+      "Runner-up": {
+        "Candidate Name": "Urmila Matondkar",
+        "Party": "INC",
+        "Votes": 241431
+      }
+    },
+    "Mumbai North East": {
+      "Winner": {
+        "Candidate Name": "Manoj Kotak",
+        "Party": "BJP",
+        "Votes": 514599
+      },
+      "Runner-up": {
+        "Candidate Name": "Patil Sanjay Dina",
+        "Party": "NCP",
+        "Votes": 288113
+      }
+    },
+    "Mumbai North West": {
+      "Winner": {
+        "Candidate Name": "Gajanan Kirtikar",
+        "Party": "SHS",
+        "Votes": 570063
+      },
+      "Runner-up": {
+        "Candidate Name": "Sanjay Nirupam",
+        "Party": "INC",
+        "Votes": 309735
+      }
+    },
+    "Mumbai North central": {
+      "Winner": {
+        "Candidate Name": "POONAM MAHAJAN",
+        "Party": "BJP",
+        "Votes": 486672
+      },
+      "Runner-up": {
+        "Candidate Name": "DUTT PRIYA SUNIL",
+        "Party": "INC",
+        "Votes": 356667
+      }
+    },
+    "Mumbai South central": {
+      "Winner": {
+        "Candidate Name": "Rahul Ramesh Shewale",
+        "Party": "SHS",
+        "Votes": 424913
+      },
+      "Runner-up": {
+        "Candidate Name": "Eknath M. Gaikwad",
+        "Party": "INC",
+        "Votes": 272774
+      }
+    },
+    "Nagpur ": {
+      "Winner": {
+        "Candidate Name": "NITIN JAIRAM GADKARI",
+        "Party": "BJP",
+        "Votes": 660221
+      },
+      "Runner-up": {
+        "Candidate Name": "NANA PATOLE",
+        "Party": "INC",
+        "Votes": 444212
+      }
+    },
+    "Nanded": {
+      "Winner": {
+        "Candidate Name": "Prataprao Patil Chikhalikar",
+        "Party": "BJP",
+        "Votes": 486806
+      },
+      "Runner-up": {
+        "Candidate Name": "Ashok Shankarrao Chavan",
+        "Party": "INC",
+        "Votes": 446658
+      }
+    },
+    "Nandurbar ": {
+      "Winner": {
+        "Candidate Name": "Dr. Heena Vijaykumar Gavit",
+        "Party": "BJP",
+        "Votes": 639136
+      },
+      "Runner-up": {
+        "Candidate Name": "Adv. K. C. Padavi",
+        "Party": "INC",
+        "Votes": 543507
+      }
+    },
+    "Nashik": {
+      "Winner": {
+        "Candidate Name": "Godse Hemant Tukaram",
+        "Party": "SHS",
+        "Votes": 563599
+      },
+      "Runner-up": {
+        "Candidate Name": "Sameer Magan Bhujbal",
+        "Party": "NCP",
+        "Votes": 271395
+      }
+    },
+    "Osmanabad": {
+      "Winner": {
+        "Candidate Name": "Omprakash Bhupalsinh Alias Pawan Rajenimbalkar",
+        "Party": "SHS",
+        "Votes": 596640
+      },
+      "Runner-up": {
+        "Candidate Name": "Ranajagjitsinha Padmasinha Patil",
+        "Party": "NCP",
+        "Votes": 469074
+      }
+    },
+    "Palghar ": {
+      "Winner": {
+        "Candidate Name": "Rajendra Dhedya Gavit",
+        "Party": "SHS",
+        "Votes": 580479
+      },
+      "Runner-up": {
+        "Candidate Name": "Baliram Sukur Jadhav",
+        "Party": "BVA",
+        "Votes": 491596
+      }
+    },
+    "Parbhani": {
+      "Winner": {
+        "Candidate Name": "JADHAV SANJAY (BANDU) HARIBHAU",
+        "Party": "SHS",
+        "Votes": 538941
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJESH UTTAMRAO VITEKAR",
+        "Party": "NCP",
+        "Votes": 496742
+      }
+    },
+    "Pune": {
+      "Winner": {
+        "Candidate Name": "Girish Bhalchandra Bapat",
+        "Party": "BJP",
+        "Votes": 632835
+      },
+      "Runner-up": {
+        "Candidate Name": "Mohan Joshi",
+        "Party": "INC",
+        "Votes": 308207
+      }
+    },
+    "Raigad": {
+      "Winner": {
+        "Candidate Name": "Tatkare Sunil Dattatray",
+        "Party": "NCP",
+        "Votes": 486968
+      },
+      "Runner-up": {
+        "Candidate Name": "Anant Geete",
+        "Party": "SHS",
+        "Votes": 455530
+      }
+    },
+    "Ramtek ": {
+      "Winner": {
+        "Candidate Name": "Krupal Balaji Tumane",
+        "Party": "SHS",
+        "Votes": 597126
+      },
+      "Runner-up": {
+        "Candidate Name": "Kishore Uttamrao Gajbhiye",
+        "Party": "INC",
+        "Votes": 470343
+      }
+    },
+    "Ratnagiri - sindhudurg": {
+      "Winner": {
+        "Candidate Name": "Vinayak Raut",
+        "Party": "SHS",
+        "Votes": 458022
+      },
+      "Runner-up": {
+        "Candidate Name": "Nilesh Narayan Rane",
+        "Party": "MSHP",
+        "Votes": 279700
+      }
+    },
+    "Raver": {
+      "Winner": {
+        "Candidate Name": "Khadse Raksha Nikhil",
+        "Party": "BJP",
+        "Votes": 655386
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr.Ulhas Vasudeo Patil",
+        "Party": "INC",
+        "Votes": 319504
+      }
+    },
+    "Sangli": {
+      "Winner": {
+        "Candidate Name": "Sanjaykaka Patil",
+        "Party": "BJP",
+        "Votes": 508995
+      },
+      "Runner-up": {
+        "Candidate Name": "Vishal Prakashbapu Patil",
+        "Party": "SWP",
+        "Votes": 344643
+      }
+    },
+    "Satara": {
+      "Winner": {
+        "Candidate Name": "SHRIMANT CHH. UDAYANRAJE PRATAPSINHMAHARAJ BHONSLE",
+        "Party": "NCP",
+        "Votes": 579026
+      },
+      "Runner-up": {
+        "Candidate Name": "NARENDRA ANNASAHEB PATIL",
+        "Party": "SHS",
+        "Votes": 452498
+      }
+    },
+    "Shirdi": {
+      "Winner": {
+        "Candidate Name": "SADASHIV KISAN LOKHANDE",
+        "Party": "SHS",
+        "Votes": 486820
+      },
+      "Runner-up": {
+        "Candidate Name": "KAMBLE BHAUSAHEB MALHARI",
+        "Party": "INC",
+        "Votes": 366625
+      }
+    },
+    "Shirur": {
+      "Winner": {
+        "Candidate Name": "Dr. Amol Ramsing Kolhe",
+        "Party": "NCP",
+        "Votes": 635830
+      },
+      "Runner-up": {
+        "Candidate Name": "Adhalrao Shivaji Dattatrey",
+        "Party": "SHS",
+        "Votes": 577347
+      }
+    },
+    "Solapur ": {
+      "Winner": {
+        "Candidate Name": "SHRI. SHA. BRA. DR. JAI SIDHESHWAR SHIVACHARY MAHASWAMIJI",
+        "Party": "BJP",
+        "Votes": 524985
+      },
+      "Runner-up": {
+        "Candidate Name": "SHINDE SUSHILKUMAR SAMBHAJIRAO",
+        "Party": "INC",
+        "Votes": 366377
+      }
+    },
+    "Thane": {
+      "Winner": {
+        "Candidate Name": "RAJAN BABURAO VICHARE",
+        "Party": "SHS",
+        "Votes": 740969
+      },
+      "Runner-up": {
+        "Candidate Name": "ANAND PRAKASH PARANJPE",
+        "Party": "NCP",
+        "Votes": 328824
+      }
+    },
+    "Wardha": {
+      "Winner": {
+        "Candidate Name": "Ramdas Chandrabhanji Tadas",
+        "Party": "BJP",
+        "Votes": 578364
+      },
+      "Runner-up": {
+        "Candidate Name": "Charulata Rao Tokas",
+        "Party": "INC",
+        "Votes": 391173
+      }
+    },
+    "Yavatmal-Washim": {
+      "Winner": {
+        "Candidate Name": "Bhavana Pundlikrao Gawali",
+        "Party": "SHS",
+        "Votes": 542098
+      },
+      "Runner-up": {
+        "Candidate Name": "Thakre Manikrao Govindrao",
+        "Party": "INC",
+        "Votes": 424159
+      }
+    }
+  },
+  "Manipur": {
+    "Inner manipur": {
+      "Winner": {
+        "Candidate Name": "DR RAJKUMAR RANJAN SINGH",
+        "Party": "BJP",
+        "Votes": 263632
+      },
+      "Runner-up": {
+        "Candidate Name": "OINAM NABAKISHORE SINGH",
+        "Party": "INC",
+        "Votes": 245877
+      }
+    },
+    "Outer manipur": {
+      "Winner": {
+        "Candidate Name": "Lorho S. Pfoze",
+        "Party": "NPF",
+        "Votes": 363527
+      },
+      "Runner-up": {
+        "Candidate Name": "Houlim Shokhopao Mate",
+        "Party": "BJP",
+        "Votes": 289745
+      }
+    }
+  },
+  "Meghalaya": {
+    "Shillong": {
+      "Winner": {
+        "Candidate Name": "VINCENT H. PALA",
+        "Party": "INC",
+        "Votes": 419689
+      },
+      "Runner-up": {
+        "Candidate Name": "JEMINO MAWTHOH",
+        "Party": "UDP",
+        "Votes": 267256
+      }
+    },
+    "Tura ": {
+      "Winner": {
+        "Candidate Name": "AGATHA K. SANGMA",
+        "Party": "NPEP",
+        "Votes": 304455
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. MUKUL SANGMA",
+        "Party": "INC",
+        "Votes": 240425
+      }
+    }
+  },
+  "Mizoram": {
+    "MIZORAM": {
+      "Winner": {
+        "Candidate Name": "C LALROSANGA",
+        "Party": "MNF",
+        "Votes": 224286
+      },
+      "Runner-up": {
+        "Candidate Name": "LALNGHINGLOVA HMAR",
+        "Party": "IND",
+        "Votes": 216146
+      }
+    }
+  },
+  "NCT OF Delhi": {
+    "CHANDNI CHOWK                 ": {
+      "Winner": {
+        "Candidate Name": "HARSH VARDHAN",
+        "Party": "BJP",
+        "Votes": 519055
+      },
+      "Runner-up": {
+        "Candidate Name": "JAI PRAKASH AGARWAL",
+        "Party": "INC",
+        "Votes": 290910
+      }
+    },
+    "EAST DELHI                    ": {
+      "Winner": {
+        "Candidate Name": "GAUTAM GAMBHIR",
+        "Party": "BJP",
+        "Votes": 696156
+      },
+      "Runner-up": {
+        "Candidate Name": "ARVINDER SINGH LOVELY",
+        "Party": "INC",
+        "Votes": 304934
+      }
+    },
+    "NEW DELHI                     ": {
+      "Winner": {
+        "Candidate Name": "MEENAKASHI LEKHI",
+        "Party": "BJP",
+        "Votes": 504206
+      },
+      "Runner-up": {
+        "Candidate Name": "AJAY MAKAN",
+        "Party": "INC",
+        "Votes": 247702
+      }
+    },
+    "NORTH EAST DELHI              ": {
+      "Winner": {
+        "Candidate Name": "MANOJ TIWARI",
+        "Party": "BJP",
+        "Votes": 787799
+      },
+      "Runner-up": {
+        "Candidate Name": "SHEILA DIKSHIT",
+        "Party": "INC",
+        "Votes": 421697
+      }
+    },
+    "NORTH WEST DELHI              ": {
+      "Winner": {
+        "Candidate Name": "HANS RAJ HANS",
+        "Party": "BJP",
+        "Votes": 848663
+      },
+      "Runner-up": {
+        "Candidate Name": "GUGAN SINGH",
+        "Party": "AAAP",
+        "Votes": 294766
+      }
+    },
+    "SOUTH DELHI                   ": {
+      "Winner": {
+        "Candidate Name": "RAMESH BIDHURI",
+        "Party": "BJP",
+        "Votes": 687014
+      },
+      "Runner-up": {
+        "Candidate Name": "RAGHAV CHADHA",
+        "Party": "AAAP",
+        "Votes": 319971
+      }
+    },
+    "WEST DELHI                    ": {
+      "Winner": {
+        "Candidate Name": "PARVESH SAHIB SINGH VERMA",
+        "Party": "BJP",
+        "Votes": 865648
+      },
+      "Runner-up": {
+        "Candidate Name": "MAHABAL MISHRA",
+        "Party": "INC",
+        "Votes": 287162
+      }
+    }
+  },
+  "Nagaland": {
+    "Nagaland": {
+      "Winner": {
+        "Candidate Name": "Tokheho Yepthomi",
+        "Party": "NDPP",
+        "Votes": 500510
+      },
+      "Runner-up": {
+        "Candidate Name": "K L Chishi",
+        "Party": "INC",
+        "Votes": 484166
+      }
+    }
+  },
+  "Odisha": {
+    "Aska": {
+      "Winner": {
+        "Candidate Name": "Pramila Bisoyi",
+        "Party": "BJD",
+        "Votes": 552749
+      },
+      "Runner-up": {
+        "Candidate Name": "Anita Subhadarshini",
+        "Party": "BJP",
+        "Votes": 348042
+      }
+    },
+    "Balasore": {
+      "Winner": {
+        "Candidate Name": "PRATAP CHANDRA SARANGI",
+        "Party": "BJP",
+        "Votes": 483858
+      },
+      "Runner-up": {
+        "Candidate Name": "RABINDRA KUMAR JENA",
+        "Party": "BJD",
+        "Votes": 470902
+      }
+    },
+    "Bargarh": {
+      "Winner": {
+        "Candidate Name": "Suresh Pujari",
+        "Party": "BJP",
+        "Votes": 581245
+      },
+      "Runner-up": {
+        "Candidate Name": "Prasanna Acharya",
+        "Party": "BJD",
+        "Votes": 517306
+      }
+    },
+    "Berhampur": {
+      "Winner": {
+        "Candidate Name": "CHANDRA SEKHAR SAHU",
+        "Party": "BJD",
+        "Votes": 443843
+      },
+      "Runner-up": {
+        "Candidate Name": "BHRUGU BAXIPATRA",
+        "Party": "BJP",
+        "Votes": 348999
+      }
+    },
+    "Bhadrak ": {
+      "Winner": {
+        "Candidate Name": "MANJULATA MANDAL",
+        "Party": "BJD",
+        "Votes": 513045
+      },
+      "Runner-up": {
+        "Candidate Name": "AVIMANYU SETHI",
+        "Party": "BJP",
+        "Votes": 484254
+      }
+    },
+    "Bhubaneswar": {
+      "Winner": {
+        "Candidate Name": "APARAJITA SARANGI",
+        "Party": "BJP",
+        "Votes": 486991
+      },
+      "Runner-up": {
+        "Candidate Name": "Arup Mohan Patnaik",
+        "Party": "BJD",
+        "Votes": 463152
+      }
+    },
+    "Bolangir": {
+      "Winner": {
+        "Candidate Name": "Sangeeta Kumari Singh Deo",
+        "Party": "BJP",
+        "Votes": 498086
+      },
+      "Runner-up": {
+        "Candidate Name": "Kalikesh Narayan Singh Deo",
+        "Party": "BJD",
+        "Votes": 478570
+      }
+    },
+    "Cuttack": {
+      "Winner": {
+        "Candidate Name": "BHARTRUHARI MAHTAB",
+        "Party": "BJD",
+        "Votes": 524592
+      },
+      "Runner-up": {
+        "Candidate Name": "PRAKASH MISHRA",
+        "Party": "BJP",
+        "Votes": 403391
+      }
+    },
+    "Dhenkanal": {
+      "Winner": {
+        "Candidate Name": "MAHESH SAHOO",
+        "Party": "BJD",
+        "Votes": 522884
+      },
+      "Runner-up": {
+        "Candidate Name": "RUDRA NARAYAN PANY",
+        "Party": "BJP",
+        "Votes": 487472
+      }
+    },
+    "Jagatsinghpur ": {
+      "Winner": {
+        "Candidate Name": "RAJASHREE MALLICK",
+        "Party": "BJD",
+        "Votes": 619985
+      },
+      "Runner-up": {
+        "Candidate Name": "BIBHU PRASAD TARAI",
+        "Party": "BJP",
+        "Votes": 348330
+      }
+    },
+    "Jajpur ": {
+      "Winner": {
+        "Candidate Name": "SARMISTHA SETHI",
+        "Party": "BJD",
+        "Votes": 544020
+      },
+      "Runner-up": {
+        "Candidate Name": "AMIYA KANTA MALLICK",
+        "Party": "BJP",
+        "Votes": 442327
+      }
+    },
+    "Kalahandi": {
+      "Winner": {
+        "Candidate Name": "BASANTA KUMAR PANDA",
+        "Party": "BJP",
+        "Votes": 433074
+      },
+      "Runner-up": {
+        "Candidate Name": "PUSPENDRA SINGH DEO",
+        "Party": "BJD",
+        "Votes": 406260
+      }
+    },
+    "Kandhamal": {
+      "Winner": {
+        "Candidate Name": "ACHYUTANANDA SAMANTA",
+        "Party": "BJD",
+        "Votes": 461679
+      },
+      "Runner-up": {
+        "Candidate Name": "Mahameghabahan Aira Kharabela Swain",
+        "Party": "BJP",
+        "Votes": 312463
+      }
+    },
+    "Kendrapara ": {
+      "Winner": {
+        "Candidate Name": "Anubhav Mohanty",
+        "Party": "BJD",
+        "Votes": 630179
+      },
+      "Runner-up": {
+        "Candidate Name": "BAIJAYANT PANDA",
+        "Party": "BJP",
+        "Votes": 476598
+      }
+    },
+    "Keonjhar ": {
+      "Winner": {
+        "Candidate Name": "Chandrani Murmu",
+        "Party": "BJD",
+        "Votes": 526359
+      },
+      "Runner-up": {
+        "Candidate Name": "Ananta Nayak",
+        "Party": "BJP",
+        "Votes": 460156
+      }
+    },
+    "Koraput ": {
+      "Winner": {
+        "Candidate Name": "SAPTAGIRI SANKAR ULAKA",
+        "Party": "INC",
+        "Votes": 371129
+      },
+      "Runner-up": {
+        "Candidate Name": "KAUSALYA HIKAKA",
+        "Party": "BJD",
+        "Votes": 367516
+      }
+    },
+    "Mayurbhanj ": {
+      "Winner": {
+        "Candidate Name": "BISHWESWAR TUDU",
+        "Party": "BJP",
+        "Votes": 483812
+      },
+      "Runner-up": {
+        "Candidate Name": "DR DEBASHIS MARNDI",
+        "Party": "BJD",
+        "Votes": 458556
+      }
+    },
+    "Nabarangpur ": {
+      "Winner": {
+        "Candidate Name": "RAMESH CHANDRA MAJHI",
+        "Party": "BJD",
+        "Votes": 392504
+      },
+      "Runner-up": {
+        "Candidate Name": "PRADEEP KUMAR MAJHI",
+        "Party": "INC",
+        "Votes": 350870
+      }
+    },
+    "Puri": {
+      "Winner": {
+        "Candidate Name": "PINAKI MISRA",
+        "Party": "BJD",
+        "Votes": 538321
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr Sambit Patra",
+        "Party": "BJP",
+        "Votes": 526607
+      }
+    },
+    "Sambalpur": {
+      "Winner": {
+        "Candidate Name": "NITESH GANGA DEB",
+        "Party": "BJP",
+        "Votes": 473770
+      },
+      "Runner-up": {
+        "Candidate Name": "NALINI KANTA PRADHAN",
+        "Party": "BJD",
+        "Votes": 464608
+      }
+    },
+    "Sundargarh ": {
+      "Winner": {
+        "Candidate Name": "Jual Oram",
+        "Party": "BJP",
+        "Votes": 500056
+      },
+      "Runner-up": {
+        "Candidate Name": "Sunita Biswal",
+        "Party": "BJD",
+        "Votes": 276991
+      }
+    }
+  },
+  "Puducherry": {
+    "Puducherry": {
+      "Winner": {
+        "Candidate Name": "Ve. VAITHILINGAM",
+        "Party": "INC",
+        "Votes": 444981
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. NARAYANASAMY KESAVAN",
+        "Party": "AINRC",
+        "Votes": 247956
+      }
+    }
+  },
+  "Punjab": {
+    "Amritsar": {
+      "Winner": {
+        "Candidate Name": "GURJEET SINGH AUJLA",
+        "Party": "INC",
+        "Votes": 445032
+      },
+      "Runner-up": {
+        "Candidate Name": "HARDEEP SINGH PURI",
+        "Party": "BJP",
+        "Votes": 345406
+      }
+    },
+    "Anandpur Sahib": {
+      "Winner": {
+        "Candidate Name": "Manish Tewari",
+        "Party": "INC",
+        "Votes": 428045
+      },
+      "Runner-up": {
+        "Candidate Name": "Professor Prem Singh Chandumajra",
+        "Party": "SAD",
+        "Votes": 381161
+      }
+    },
+    "Bathinda": {
+      "Winner": {
+        "Candidate Name": "Harsimrat Kaur Badal",
+        "Party": "SAD",
+        "Votes": 492824
+      },
+      "Runner-up": {
+        "Candidate Name": "Amrinder Singh Raja Warring",
+        "Party": "INC",
+        "Votes": 471052
+      }
+    },
+    "Faridkot": {
+      "Winner": {
+        "Candidate Name": "Mohammad Sadique",
+        "Party": "INC",
+        "Votes": 419065
+      },
+      "Runner-up": {
+        "Candidate Name": "Gulzar Singh Ranike",
+        "Party": "SAD",
+        "Votes": 335809
+      }
+    },
+    "Fatehgarh Sahib": {
+      "Winner": {
+        "Candidate Name": "AMAR SINGH",
+        "Party": "INC",
+        "Votes": 411651
+      },
+      "Runner-up": {
+        "Candidate Name": "DARBARA SINGH GURU",
+        "Party": "SAD",
+        "Votes": 317753
+      }
+    },
+    "Firozpur": {
+      "Winner": {
+        "Candidate Name": "SUKHBIR SINGH BADAL",
+        "Party": "SAD",
+        "Votes": 633427
+      },
+      "Runner-up": {
+        "Candidate Name": "SHER SINGH GHUBAYA",
+        "Party": "INC",
+        "Votes": 434577
+      }
+    },
+    "Gurdaspur": {
+      "Winner": {
+        "Candidate Name": "SUNNY DEOL",
+        "Party": "BJP",
+        "Votes": 558719
+      },
+      "Runner-up": {
+        "Candidate Name": "SUNIL JAKHAR",
+        "Party": "INC",
+        "Votes": 476260
+      }
+    },
+    "Hoshiarpur": {
+      "Winner": {
+        "Candidate Name": "SOM PARKASH",
+        "Party": "BJP",
+        "Votes": 421320
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. RAJ KUMAR CHABBEWAL",
+        "Party": "INC",
+        "Votes": 372790
+      }
+    },
+    "Jalandhar": {
+      "Winner": {
+        "Candidate Name": "Santokh Singh Chaudhary",
+        "Party": "INC",
+        "Votes": 385712
+      },
+      "Runner-up": {
+        "Candidate Name": "Charanjit Singh Atwal",
+        "Party": "SAD",
+        "Votes": 366221
+      }
+    },
+    "Khadoor Sahib": {
+      "Winner": {
+        "Candidate Name": "JASBIR SINGH GILL (DIMPA)",
+        "Party": "INC",
+        "Votes": 459710
+      },
+      "Runner-up": {
+        "Candidate Name": "BIBI JAGIR KAUR",
+        "Party": "SAD",
+        "Votes": 319137
+      }
+    },
+    "Ludhiana": {
+      "Winner": {
+        "Candidate Name": "RAVNEET SINGH BITTU",
+        "Party": "INC",
+        "Votes": 383795
+      },
+      "Runner-up": {
+        "Candidate Name": "SIMARJEET SINGH BAINS",
+        "Party": "LIP",
+        "Votes": 307423
+      }
+    },
+    "Patiala": {
+      "Winner": {
+        "Candidate Name": "Preneet Kaur",
+        "Party": "INC",
+        "Votes": 532027
+      },
+      "Runner-up": {
+        "Candidate Name": "Surjit Singh Rakhra",
+        "Party": "SAD",
+        "Votes": 369309
+      }
+    },
+    "Sangrur": {
+      "Winner": {
+        "Candidate Name": "BHAGWANT MANN",
+        "Party": "AAAP",
+        "Votes": 413561
+      },
+      "Runner-up": {
+        "Candidate Name": "KEWAL SINGH DHILLON",
+        "Party": "INC",
+        "Votes": 303350
+      }
+    }
+  },
+  "Rajasthan": {
+    "Ajmer": {
+      "Winner": {
+        "Candidate Name": "Bhagirath Chaudhary",
+        "Party": "BJP",
+        "Votes": 815076
+      },
+      "Runner-up": {
+        "Candidate Name": "Riju Jhunjhunwala",
+        "Party": "INC",
+        "Votes": 398652
+      }
+    },
+    "Alwar": {
+      "Winner": {
+        "Candidate Name": "Balak Nath",
+        "Party": "BJP",
+        "Votes": 760201
+      },
+      "Runner-up": {
+        "Candidate Name": "Bhanwar Jitendra Singh",
+        "Party": "INC",
+        "Votes": 430230
+      }
+    },
+    "BHARATPUR": {
+      "Winner": {
+        "Candidate Name": "RANJEETA KOLI",
+        "Party": "BJP",
+        "Votes": 707992
+      },
+      "Runner-up": {
+        "Candidate Name": "ABHIJEET KUMAR JATAV",
+        "Party": "INC",
+        "Votes": 389593
+      }
+    },
+    "Banswara": {
+      "Winner": {
+        "Candidate Name": "KANAKMAL KATARA",
+        "Party": "BJP",
+        "Votes": 711709
+      },
+      "Runner-up": {
+        "Candidate Name": "TARACHAND BHAGORA",
+        "Party": "INC",
+        "Votes": 406245
+      }
+    },
+    "Barmer": {
+      "Winner": {
+        "Candidate Name": "KAILASH CHOUDHARY",
+        "Party": "BJP",
+        "Votes": 846526
+      },
+      "Runner-up": {
+        "Candidate Name": "MANVENDRA SINGH",
+        "Party": "INC",
+        "Votes": 522718
+      }
+    },
+    "Bhilwara": {
+      "Winner": {
+        "Candidate Name": "SUBHASH CHANDRA BAHERIA",
+        "Party": "BJP",
+        "Votes": 938160
+      },
+      "Runner-up": {
+        "Candidate Name": "RAM PAL SHARMA",
+        "Party": "INC",
+        "Votes": 326160
+      }
+    },
+    "Bikaner (SC)": {
+      "Winner": {
+        "Candidate Name": "ARJUN RAM MEGHWAL",
+        "Party": "BJP",
+        "Votes": 657743
+      },
+      "Runner-up": {
+        "Candidate Name": "MADAN GOPAL MEGHWAL",
+        "Party": "INC",
+        "Votes": 393662
+      }
+    },
+    "Chittorgarh": {
+      "Winner": {
+        "Candidate Name": "Chandra Prakash Joshi",
+        "Party": "BJP",
+        "Votes": 982942
+      },
+      "Runner-up": {
+        "Candidate Name": "Gopal Singh Shekhawat",
+        "Party": "INC",
+        "Votes": 406695
+      }
+    },
+    "Churu": {
+      "Winner": {
+        "Candidate Name": "RAHUL KASWAN",
+        "Party": "BJP",
+        "Votes": 792999
+      },
+      "Runner-up": {
+        "Candidate Name": "RAFIQUE MANDELIA",
+        "Party": "INC",
+        "Votes": 458597
+      }
+    },
+    "Dausa": {
+      "Winner": {
+        "Candidate Name": "Jaskaur Meena",
+        "Party": "BJP",
+        "Votes": 548733
+      },
+      "Runner-up": {
+        "Candidate Name": "Savita Meena",
+        "Party": "INC",
+        "Votes": 470289
+      }
+    },
+    "Ganganagar": {
+      "Winner": {
+        "Candidate Name": "NIHAL CHAND",
+        "Party": "BJP",
+        "Votes": 897177
+      },
+      "Runner-up": {
+        "Candidate Name": "BHARAT RAM MEGHWAL",
+        "Party": "INC",
+        "Votes": 490199
+      }
+    },
+    "JHALAWAR-BARAN": {
+      "Winner": {
+        "Candidate Name": "DUSHYANT SINGH",
+        "Party": "BJP",
+        "Votes": 887400
+      },
+      "Runner-up": {
+        "Candidate Name": "PRAMOD SHARMA",
+        "Party": "INC",
+        "Votes": 433472
+      }
+    },
+    "Jaipur": {
+      "Winner": {
+        "Candidate Name": "Ramcharan Bohra",
+        "Party": "BJP",
+        "Votes": 924065
+      },
+      "Runner-up": {
+        "Candidate Name": "Jyoti Khandelwal",
+        "Party": "INC",
+        "Votes": 493439
+      }
+    },
+    "Jaipur Rural": {
+      "Winner": {
+        "Candidate Name": "COL. RAJYAVARDHAN RATHORE",
+        "Party": "BJP",
+        "Votes": 820132
+      },
+      "Runner-up": {
+        "Candidate Name": "KRISHNA POONIA",
+        "Party": "INC",
+        "Votes": 426961
+      }
+    },
+    "Jalore": {
+      "Winner": {
+        "Candidate Name": "Devaji Patel",
+        "Party": "BJP",
+        "Votes": 772833
+      },
+      "Runner-up": {
+        "Candidate Name": "Ratan Devasi",
+        "Party": "INC",
+        "Votes": 511723
+      }
+    },
+    "Jhunjhunu": {
+      "Winner": {
+        "Candidate Name": "NARENDRA KUMAR",
+        "Party": "BJP",
+        "Votes": 738163
+      },
+      "Runner-up": {
+        "Candidate Name": "SHARWAN KUMAR S/O GOKAL RAM",
+        "Party": "INC",
+        "Votes": 435616
+      }
+    },
+    "Jodhpur": {
+      "Winner": {
+        "Candidate Name": "Gajendra Singh Shekhawat",
+        "Party": "BJP",
+        "Votes": 788888
+      },
+      "Runner-up": {
+        "Candidate Name": "Vaibhav Gehlot",
+        "Party": "INC",
+        "Votes": 514448
+      }
+    },
+    "KARAULI-DHOLPUR": {
+      "Winner": {
+        "Candidate Name": "MANOJ RAJORIA",
+        "Party": "BJP",
+        "Votes": 526443
+      },
+      "Runner-up": {
+        "Candidate Name": "SANJAY KUMAR",
+        "Party": "INC",
+        "Votes": 428761
+      }
+    },
+    "Kota": {
+      "Winner": {
+        "Candidate Name": "OM BIRLA",
+        "Party": "BJP",
+        "Votes": 800051
+      },
+      "Runner-up": {
+        "Candidate Name": "RAMNARAIN MEENA",
+        "Party": "INC",
+        "Votes": 520374
+      }
+    },
+    "Nagaur": {
+      "Winner": {
+        "Candidate Name": "HANUMAN BENIWAL",
+        "Party": "RLTP",
+        "Votes": 660051
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. JYOTI MIRDHA",
+        "Party": "INC",
+        "Votes": 478791
+      }
+    },
+    "Pali": {
+      "Winner": {
+        "Candidate Name": "P. P. CHAUDHARY",
+        "Party": "BJP",
+        "Votes": 900149
+      },
+      "Runner-up": {
+        "Candidate Name": "BADRIRAM JAKHAR",
+        "Party": "INC",
+        "Votes": 418552
+      }
+    },
+    "Rajsamand": {
+      "Winner": {
+        "Candidate Name": "Diya Kumari",
+        "Party": "BJP",
+        "Votes": 863039
+      },
+      "Runner-up": {
+        "Candidate Name": "Devkinandan (Kaka)",
+        "Party": "INC",
+        "Votes": 311123
+      }
+    },
+    "Sikar": {
+      "Winner": {
+        "Candidate Name": "Sumedhanand Saraswati",
+        "Party": "BJP",
+        "Votes": 772104
+      },
+      "Runner-up": {
+        "Candidate Name": "Subhash Maharia",
+        "Party": "INC",
+        "Votes": 474948
+      }
+    },
+    "TONK-SAWAI MADHOPUR": {
+      "Winner": {
+        "Candidate Name": "Sukhbir Singh Jaunapuria",
+        "Party": "BJP",
+        "Votes": 644319
+      },
+      "Runner-up": {
+        "Candidate Name": "Namonarayan",
+        "Party": "INC",
+        "Votes": 533028
+      }
+    },
+    "Udaipur": {
+      "Winner": {
+        "Candidate Name": "ARJUNLAL MEENA",
+        "Party": "BJP",
+        "Votes": 871548
+      },
+      "Runner-up": {
+        "Candidate Name": "RAGHUVIR SINGH MEENA",
+        "Party": "INC",
+        "Votes": 433634
+      }
+    }
+  },
+  "Sikkim": {
+    "Sikkim": {
+      "Winner": {
+        "Candidate Name": "INDRA HANG SUBBA",
+        "Party": "SKM",
+        "Votes": 166922
+      },
+      "Runner-up": {
+        "Candidate Name": "DEK BAHADUR KATWAL",
+        "Party": "SDF",
+        "Votes": 154489
+      }
+    }
+  },
+  "Tamil Nadu": {
+    "Arakkonam": {
+      "Winner": {
+        "Candidate Name": "S. JAGATHRAKSHAKAN",
+        "Party": "DMK",
+        "Votes": 672190
+      },
+      "Runner-up": {
+        "Candidate Name": "A.K. MOORTHY",
+        "Party": "PMK",
+        "Votes": 343234
+      }
+    },
+    "Arani": {
+      "Winner": {
+        "Candidate Name": "VISHNU PRASAD M K",
+        "Party": "INC",
+        "Votes": 617760
+      },
+      "Runner-up": {
+        "Candidate Name": "ELUMALAI V",
+        "Party": "ADMK",
+        "Votes": 386954
+      }
+    },
+    "Chennai North": {
+      "Winner": {
+        "Candidate Name": "Dr. KALANIDHI VEERASWAMY",
+        "Party": "DMK",
+        "Votes": 590986
+      },
+      "Runner-up": {
+        "Candidate Name": "ALAGAAPURAM R. MOHANRAJ",
+        "Party": "DMDK",
+        "Votes": 129468
+      }
+    },
+    "Chennai South": {
+      "Winner": {
+        "Candidate Name": "T.SUMATHY (A) THAMIZHACHI THANGAPANDIAN",
+        "Party": "DMK",
+        "Votes": 564872
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr.J.JAYAVARDHAN",
+        "Party": "ADMK",
+        "Votes": 302649
+      }
+    },
+    "Chennai central": {
+      "Winner": {
+        "Candidate Name": "DAYANIDHI MARAN",
+        "Party": "DMK",
+        "Votes": 448911
+      },
+      "Runner-up": {
+        "Candidate Name": "SAM PAUL. S.R.",
+        "Party": "PMK",
+        "Votes": 147391
+      }
+    },
+    "Chidambaram ": {
+      "Winner": {
+        "Candidate Name": "THIRUMAAVALAVAN THOL",
+        "Party": "VCK",
+        "Votes": 500229
+      },
+      "Runner-up": {
+        "Candidate Name": "CHANDRASEKAR P",
+        "Party": "ADMK",
+        "Votes": 497010
+      }
+    },
+    "Coimbatore": {
+      "Winner": {
+        "Candidate Name": "NATARAJAN. P.R",
+        "Party": "CPIM",
+        "Votes": 571150
+      },
+      "Runner-up": {
+        "Candidate Name": "RADHAKRISHNAN. C.P",
+        "Party": "BJP",
+        "Votes": 392007
+      }
+    },
+    "Cuddalore ": {
+      "Winner": {
+        "Candidate Name": "T. R. V .S. RAMESH",
+        "Party": "DMK",
+        "Votes": 522160
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. R. GOVINDASAMY",
+        "Party": "PMK",
+        "Votes": 378177
+      }
+    },
+    "Dharmapuri": {
+      "Winner": {
+        "Candidate Name": "DNV SENTHILKUMAR. S.",
+        "Party": "DMK",
+        "Votes": 574988
+      },
+      "Runner-up": {
+        "Candidate Name": "ANBUMANI RAMADOSS",
+        "Party": "PMK",
+        "Votes": 504235
+      }
+    },
+    "Dindigul": {
+      "Winner": {
+        "Candidate Name": "VELUSAMY, P.",
+        "Party": "DMK",
+        "Votes": 746523
+      },
+      "Runner-up": {
+        "Candidate Name": "JOTHIMUTHU, K.",
+        "Party": "PMK",
+        "Votes": 207551
+      }
+    },
+    "Erode": {
+      "Winner": {
+        "Candidate Name": "GANESHAMURTHI A",
+        "Party": "DMK",
+        "Votes": 563591
+      },
+      "Runner-up": {
+        "Candidate Name": "MANIMARAN G",
+        "Party": "ADMK",
+        "Votes": 352973
+      }
+    },
+    "Kallakurichi": {
+      "Winner": {
+        "Candidate Name": "Gautham Sigamani Pon",
+        "Party": "DMK",
+        "Votes": 721713
+      },
+      "Runner-up": {
+        "Candidate Name": "Sudhish L K",
+        "Party": "DMDK",
+        "Votes": 321794
+      }
+    },
+    "Kancheepuram ": {
+      "Winner": {
+        "Candidate Name": "Selvam.G",
+        "Party": "DMK",
+        "Votes": 684004
+      },
+      "Runner-up": {
+        "Candidate Name": "Maragatham K",
+        "Party": "ADMK",
+        "Votes": 397372
+      }
+    },
+    "Kanniyakumari": {
+      "Winner": {
+        "Candidate Name": "Vasanthakumar. H",
+        "Party": "INC",
+        "Votes": 627235
+      },
+      "Runner-up": {
+        "Candidate Name": "RADHAKRISHNAN. P",
+        "Party": "BJP",
+        "Votes": 367302
+      }
+    },
+    "Karur": {
+      "Winner": {
+        "Candidate Name": "Jothimani S",
+        "Party": "INC",
+        "Votes": 695697
+      },
+      "Runner-up": {
+        "Candidate Name": "Thambidurai M",
+        "Party": "ADMK",
+        "Votes": 275151
+      }
+    },
+    "Krishnagiri": {
+      "Winner": {
+        "Candidate Name": "Dr.A.CHELLAKUMAR",
+        "Party": "INC",
+        "Votes": 611298
+      },
+      "Runner-up": {
+        "Candidate Name": "K.P.MUNUSAMY",
+        "Party": "ADMK",
+        "Votes": 454533
+      }
+    },
+    "Madurai": {
+      "Winner": {
+        "Candidate Name": "VENKATESAN S",
+        "Party": "CPIM",
+        "Votes": 447075
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJ SATYEN V.V.R",
+        "Party": "ADMK",
+        "Votes": 307680
+      }
+    },
+    "Mayiladuthurai": {
+      "Winner": {
+        "Candidate Name": "RAMALINGAM. S",
+        "Party": "DMK",
+        "Votes": 599292
+      },
+      "Runner-up": {
+        "Candidate Name": "ASAIMANI. S",
+        "Party": "ADMK",
+        "Votes": 337978
+      }
+    },
+    "Nagapattinam ": {
+      "Winner": {
+        "Candidate Name": "SELVARAJ M",
+        "Party": "CPI",
+        "Votes": 522892
+      },
+      "Runner-up": {
+        "Candidate Name": "SARAVANAN M",
+        "Party": "ADMK",
+        "Votes": 311539
+      }
+    },
+    "Namakkal": {
+      "Winner": {
+        "Candidate Name": "CHINRAJ A.K.P",
+        "Party": "DMK",
+        "Votes": 626293
+      },
+      "Runner-up": {
+        "Candidate Name": "KALIAPPAN P",
+        "Party": "ADMK",
+        "Votes": 361142
+      }
+    },
+    "Nilgiris ": {
+      "Winner": {
+        "Candidate Name": "RAJA, A.",
+        "Party": "DMK",
+        "Votes": 547832
+      },
+      "Runner-up": {
+        "Candidate Name": "THIYAGARAJAN, M.",
+        "Party": "ADMK",
+        "Votes": 342009
+      }
+    },
+    "Perambalur": {
+      "Winner": {
+        "Candidate Name": "Dr.PAARIVENDHAR, T. R",
+        "Party": "DMK",
+        "Votes": 683697
+      },
+      "Runner-up": {
+        "Candidate Name": "SIVAPATHY, N.R",
+        "Party": "ADMK",
+        "Votes": 280179
+      }
+    },
+    "Pollachi": {
+      "Winner": {
+        "Candidate Name": "SHANMUGA SUNDARAM. K",
+        "Party": "DMK",
+        "Votes": 554230
+      },
+      "Runner-up": {
+        "Candidate Name": "MAHENDRAN. C",
+        "Party": "ADMK",
+        "Votes": 378347
+      }
+    },
+    "Ramanathapuram": {
+      "Winner": {
+        "Candidate Name": "K. NAVASKANI",
+        "Party": "IUML",
+        "Votes": 469943
+      },
+      "Runner-up": {
+        "Candidate Name": "NAINAR NAGENTHRAN",
+        "Party": "BJP",
+        "Votes": 342821
+      }
+    },
+    "Salem": {
+      "Winner": {
+        "Candidate Name": "PARTHIBAN.S.R",
+        "Party": "DMK",
+        "Votes": 606302
+      },
+      "Runner-up": {
+        "Candidate Name": "SARAVANAN.K.R.S",
+        "Party": "ADMK",
+        "Votes": 459376
+      }
+    },
+    "Sivaganga": {
+      "Winner": {
+        "Candidate Name": "KARTI P CHIDAMBARAM",
+        "Party": "INC",
+        "Votes": 566104
+      },
+      "Runner-up": {
+        "Candidate Name": "H.RAJA",
+        "Party": "BJP",
+        "Votes": 233860
+      }
+    },
+    "Sriperumbudur": {
+      "Winner": {
+        "Candidate Name": "Baalu.T.R.",
+        "Party": "DMK",
+        "Votes": 793281
+      },
+      "Runner-up": {
+        "Candidate Name": "Vaithilingam A",
+        "Party": "PMK",
+        "Votes": 285326
+      }
+    },
+    "Tenkasi ": {
+      "Winner": {
+        "Candidate Name": "DHANUSH.M.KUMAR",
+        "Party": "DMK",
+        "Votes": 476156
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr.KRISHNASAMY.K",
+        "Party": "ADMK",
+        "Votes": 355389
+      }
+    },
+    "Thanjavur": {
+      "Winner": {
+        "Candidate Name": "PALANIMANICKAM,S.S.",
+        "Party": "DMK",
+        "Votes": 588978
+      },
+      "Runner-up": {
+        "Candidate Name": "NATARAJAN,N.R .",
+        "Party": "TMC(M)",
+        "Votes": 220849
+      }
+    },
+    "Theni ": {
+      "Winner": {
+        "Candidate Name": "RAVEENDRANATH KUMAR, P",
+        "Party": "ADMK",
+        "Votes": 504813
+      },
+      "Runner-up": {
+        "Candidate Name": "ELANGOVAN, E.V.K.S.",
+        "Party": "INC",
+        "Votes": 428120
+      }
+    },
+    "Thiruvallur ": {
+      "Winner": {
+        "Candidate Name": "Dr.K.Jayakumar",
+        "Party": "INC",
+        "Votes": 767292
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr.P.Venugopal",
+        "Party": "ADMK",
+        "Votes": 410337
+      }
+    },
+    "Thoothukkudi": {
+      "Winner": {
+        "Candidate Name": "KANIMOZHI KARUNANIDHI",
+        "Party": "DMK",
+        "Votes": 563143
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. TAMILISAI SOUNDARARAJAN",
+        "Party": "BJP",
+        "Votes": 215934
+      }
+    },
+    "Tiruchirappalli": {
+      "Winner": {
+        "Candidate Name": "Thirunavukkarasar. SU",
+        "Party": "INC",
+        "Votes": 621285
+      },
+      "Runner-up": {
+        "Candidate Name": "DR.Elangovan. V",
+        "Party": "DMDK",
+        "Votes": 161999
+      }
+    },
+    "Tirunelveli": {
+      "Winner": {
+        "Candidate Name": "GNANATHIRAVIAM S",
+        "Party": "DMK",
+        "Votes": 522993
+      },
+      "Runner-up": {
+        "Candidate Name": "PAUL MANOJ PANDIAN",
+        "Party": "ADMK",
+        "Votes": 337273
+      }
+    },
+    "Tiruppur": {
+      "Winner": {
+        "Candidate Name": "SUBBARAYAN, K.",
+        "Party": "CPI",
+        "Votes": 508725
+      },
+      "Runner-up": {
+        "Candidate Name": "ANANDAN, M.S.M.",
+        "Party": "ADMK",
+        "Votes": 415357
+      }
+    },
+    "Tiruvannamalai": {
+      "Winner": {
+        "Candidate Name": "ANNADURAI C N",
+        "Party": "DMK",
+        "Votes": 666272
+      },
+      "Runner-up": {
+        "Candidate Name": "AGRI KRISHNAMURTHY S S",
+        "Party": "ADMK",
+        "Votes": 362085
+      }
+    },
+    "Vellore": {
+      "Winner": {
+        "Candidate Name": "D.M.KATHIR ANAND",
+        "Party": "DMK",
+        "Votes": 485340
+      },
+      "Runner-up": {
+        "Candidate Name": "A.C.SHANMUGAM",
+        "Party": "ADMK",
+        "Votes": 477199
+      }
+    },
+    "Viluppuram": {
+      "Winner": {
+        "Candidate Name": "RAVIKUMAR D",
+        "Party": "DMK",
+        "Votes": 559585
+      },
+      "Runner-up": {
+        "Candidate Name": "VADIVEL RAVANAN S",
+        "Party": "PMK",
+        "Votes": 431517
+      }
+    },
+    "Virudhunagar": {
+      "Winner": {
+        "Candidate Name": "MANICKAM TAGORE, B.",
+        "Party": "INC",
+        "Votes": 470883
+      },
+      "Runner-up": {
+        "Candidate Name": "ALAGARSAMY, R.",
+        "Party": "DMDK",
+        "Votes": 316329
+      }
+    }
+  },
+  "Telangana": {
+    "Adilabad ": {
+      "Winner": {
+        "Candidate Name": "SOYAM BAPU RAO",
+        "Party": "BJP",
+        "Votes": 377374
+      },
+      "Runner-up": {
+        "Candidate Name": "Godam Nagesh",
+        "Party": "TRS",
+        "Votes": 318814
+      }
+    },
+    "Bhongir ": {
+      "Winner": {
+        "Candidate Name": "Komati Reddy Venkat Reddy",
+        "Party": "INC",
+        "Votes": 532795
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. Boora Narsaiah Goud",
+        "Party": "TRS",
+        "Votes": 527576
+      }
+    },
+    "CHEVELLA": {
+      "Winner": {
+        "Candidate Name": "Dr. G. Ranjith Reddy",
+        "Party": "TRS",
+        "Votes": 528148
+      },
+      "Runner-up": {
+        "Candidate Name": "Konda Vishweshwar Reddy",
+        "Party": "INC",
+        "Votes": 513831
+      }
+    },
+    "Hyderabad": {
+      "Winner": {
+        "Candidate Name": "ASADUDDIN OWAISI",
+        "Party": "AIMIM",
+        "Votes": 517471
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. BHAGAVANTH RAO",
+        "Party": "BJP",
+        "Votes": 235285
+      }
+    },
+    "Karimnagar ": {
+      "Winner": {
+        "Candidate Name": "BANDI SANJAY KUMAR",
+        "Party": "BJP",
+        "Votes": 498276
+      },
+      "Runner-up": {
+        "Candidate Name": "BOIANAPALLI VINOD KUMAR",
+        "Party": "TRS",
+        "Votes": 408768
+      }
+    },
+    "Khammam ": {
+      "Winner": {
+        "Candidate Name": "NAMA NAGESWR RAO",
+        "Party": "TRS",
+        "Votes": 567459
+      },
+      "Runner-up": {
+        "Candidate Name": "RENUKA CHOWDHURY",
+        "Party": "INC",
+        "Votes": 399397
+      }
+    },
+    "Mahabubabad  ": {
+      "Winner": {
+        "Candidate Name": "Kavitha Malothu",
+        "Party": "TRS",
+        "Votes": 462109
+      },
+      "Runner-up": {
+        "Candidate Name": "Balaram Naik Porika",
+        "Party": "INC",
+        "Votes": 315446
+      }
+    },
+    "Mahbubnagar": {
+      "Winner": {
+        "Candidate Name": "MANNE SRINIVAS REDDY",
+        "Party": "TRS",
+        "Votes": 411402
+      },
+      "Runner-up": {
+        "Candidate Name": "ARUNA D.K",
+        "Party": "BJP",
+        "Votes": 333573
+      }
+    },
+    "Malkajgiri": {
+      "Winner": {
+        "Candidate Name": "ANUMULA REVANTH REDDY",
+        "Party": "INC",
+        "Votes": 603748
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJASHEKAR REDDY MARRI",
+        "Party": "TRS",
+        "Votes": 592829
+      }
+    },
+    "Medak": {
+      "Winner": {
+        "Candidate Name": "Kotha Prabhakar Reddy",
+        "Party": "TRS",
+        "Votes": 596048
+      },
+      "Runner-up": {
+        "Candidate Name": "Anil Kumar Gali",
+        "Party": "INC",
+        "Votes": 279621
+      }
+    },
+    "Nagarkurnool": {
+      "Winner": {
+        "Candidate Name": "POTHUGANTI RAMULU",
+        "Party": "TRS",
+        "Votes": 499672
+      },
+      "Runner-up": {
+        "Candidate Name": "DR MALLU RAVI",
+        "Party": "INC",
+        "Votes": 309924
+      }
+    },
+    "Nalgonda": {
+      "Winner": {
+        "Candidate Name": "UTTAM KUMAR REDDY NALAMADA",
+        "Party": "INC",
+        "Votes": 526028
+      },
+      "Runner-up": {
+        "Candidate Name": "VEMIREDDY NARASIMHA REDDY",
+        "Party": "TRS",
+        "Votes": 500346
+      }
+    },
+    "Nizamabad": {
+      "Winner": {
+        "Candidate Name": "ARVIND DHARMAPURI",
+        "Party": "BJP",
+        "Votes": 480584
+      },
+      "Runner-up": {
+        "Candidate Name": "KALVAKUNTLA KAVITHA",
+        "Party": "TRS",
+        "Votes": 409709
+      }
+    },
+    "Peddapalle ": {
+      "Winner": {
+        "Candidate Name": "Venkatesh Netha Borlakunta",
+        "Party": "TRS",
+        "Votes": 441321
+      },
+      "Runner-up": {
+        "Candidate Name": "Agam Chandrasekhar",
+        "Party": "INC",
+        "Votes": 346141
+      }
+    },
+    "Secundrabad": {
+      "Winner": {
+        "Candidate Name": "G . KISHAN REDDY",
+        "Party": "BJP",
+        "Votes": 384780
+      },
+      "Runner-up": {
+        "Candidate Name": "TALASANI SAI KIRAN YADAV",
+        "Party": "TRS",
+        "Votes": 322666
+      }
+    },
+    "Warangal": {
+      "Winner": {
+        "Candidate Name": "DAYAKAR PASUNOORI",
+        "Party": "TRS",
+        "Votes": 612498
+      },
+      "Runner-up": {
+        "Candidate Name": "DOMMATI SAMBAIAH",
+        "Party": "INC",
+        "Votes": 262200
+      }
+    },
+    "Zahirabad": {
+      "Winner": {
+        "Candidate Name": "B.B.PATIL",
+        "Party": "TRS",
+        "Votes": 434244
+      },
+      "Runner-up": {
+        "Candidate Name": "MADAN MOHAN RAO",
+        "Party": "INC",
+        "Votes": 428015
+      }
+    }
+  },
+  "Tripura": {
+    "Tripura East": {
+      "Winner": {
+        "Candidate Name": "Rebati Tripura",
+        "Party": "BJP",
+        "Votes": 482126
+      },
+      "Runner-up": {
+        "Candidate Name": "Maharaj kumari Pragya DebBurman",
+        "Party": "INC",
+        "Votes": 277836
+      }
+    },
+    "Tripura West": {
+      "Winner": {
+        "Candidate Name": "Pratima Bhoumik",
+        "Party": "BJP",
+        "Votes": 573532
+      },
+      "Runner-up": {
+        "Candidate Name": "Subal Bhowmik",
+        "Party": "INC",
+        "Votes": 267843
+      }
+    }
+  },
+  "Uttar Pradesh": {
+    "Agra": {
+      "Winner": {
+        "Candidate Name": "Satyapal Singh Baghel",
+        "Party": "BJP",
+        "Votes": 646875
+      },
+      "Runner-up": {
+        "Candidate Name": "Manoj Kumar Soni",
+        "Party": "BSP",
+        "Votes": 435329
+      }
+    },
+    "Akbarpur": {
+      "Winner": {
+        "Candidate Name": "Devendra Singh 'Bhole'",
+        "Party": "BJP",
+        "Votes": 581282
+      },
+      "Runner-up": {
+        "Candidate Name": "Nisha Sachan",
+        "Party": "BSP",
+        "Votes": 306140
+      }
+    },
+    "Aligarh": {
+      "Winner": {
+        "Candidate Name": "SATISH KUMAR GAUTAM",
+        "Party": "BJP",
+        "Votes": 656215
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. AJEET BALIYAN",
+        "Party": "BSP",
+        "Votes": 426954
+      }
+    },
+    "Allahabad": {
+      "Winner": {
+        "Candidate Name": "Rita Bahuguna Joshi",
+        "Party": "BJP",
+        "Votes": 494454
+      },
+      "Runner-up": {
+        "Candidate Name": "Rajendra Singh Patel",
+        "Party": "SP",
+        "Votes": 310179
+      }
+    },
+    "Ambedkar Nagar": {
+      "Winner": {
+        "Candidate Name": "Ritesh Pandey",
+        "Party": "BSP",
+        "Votes": 564118
+      },
+      "Runner-up": {
+        "Candidate Name": "Mukut Bihari",
+        "Party": "BJP",
+        "Votes": 468238
+      }
+    },
+    "Amethi": {
+      "Winner": {
+        "Candidate Name": "Smriti Irani",
+        "Party": "BJP",
+        "Votes": 468514
+      },
+      "Runner-up": {
+        "Candidate Name": "Rahul Gandhi",
+        "Party": "INC",
+        "Votes": 413394
+      }
+    },
+    "Amroha": {
+      "Winner": {
+        "Candidate Name": "KUNWAR DANISH ALI",
+        "Party": "BSP",
+        "Votes": 601082
+      },
+      "Runner-up": {
+        "Candidate Name": "KANWAR SINGH TANWAR",
+        "Party": "BJP",
+        "Votes": 537834
+      }
+    },
+    "Aonla": {
+      "Winner": {
+        "Candidate Name": "DHARMENDRA KASHYAP",
+        "Party": "BJP",
+        "Votes": 537675
+      },
+      "Runner-up": {
+        "Candidate Name": "RUCHIVIRA",
+        "Party": "BSP",
+        "Votes": 423932
+      }
+    },
+    "Azamgarh": {
+      "Winner": {
+        "Candidate Name": "Akhilesh Yadav",
+        "Party": "SP",
+        "Votes": 621578
+      },
+      "Runner-up": {
+        "Candidate Name": "Dinesh Lal Yadav Nirahua",
+        "Party": "BJP",
+        "Votes": 361704
+      }
+    },
+    "Badaun": {
+      "Winner": {
+        "Candidate Name": "Dr. Sanghmitra Maurya",
+        "Party": "BJP",
+        "Votes": 511352
+      },
+      "Runner-up": {
+        "Candidate Name": "Dharmendra Yadav",
+        "Party": "SP",
+        "Votes": 492898
+      }
+    },
+    "Baghpat": {
+      "Winner": {
+        "Candidate Name": "Dr. SATYAPAL SINGH",
+        "Party": "BJP",
+        "Votes": 525789
+      },
+      "Runner-up": {
+        "Candidate Name": "JAYANT CHAUDHARY",
+        "Party": "RLD",
+        "Votes": 502287
+      }
+    },
+    "Bahraich": {
+      "Winner": {
+        "Candidate Name": "AKSHAIBAR LAL",
+        "Party": "BJP",
+        "Votes": 525982
+      },
+      "Runner-up": {
+        "Candidate Name": "SHABBIR BALMIKI",
+        "Party": "SP",
+        "Votes": 397230
+      }
+    },
+    "Ballia": {
+      "Winner": {
+        "Candidate Name": "Virendra Singh",
+        "Party": "BJP",
+        "Votes": 469114
+      },
+      "Runner-up": {
+        "Candidate Name": "Sanatan Pandey",
+        "Party": "SP",
+        "Votes": 453595
+      }
+    },
+    "Banda": {
+      "Winner": {
+        "Candidate Name": "R.K. SINGH PATEL",
+        "Party": "BJP",
+        "Votes": 477926
+      },
+      "Runner-up": {
+        "Candidate Name": "SHYAMA CHARAN GUPTA",
+        "Party": "SP",
+        "Votes": 418988
+      }
+    },
+    "Bansgaon": {
+      "Winner": {
+        "Candidate Name": "Kamlesh Paswan",
+        "Party": "BJP",
+        "Votes": 546673
+      },
+      "Runner-up": {
+        "Candidate Name": "Sadal Prasad",
+        "Party": "BSP",
+        "Votes": 393205
+      }
+    },
+    "Barabanki": {
+      "Winner": {
+        "Candidate Name": "Upendra Singh Rawat",
+        "Party": "BJP",
+        "Votes": 535917
+      },
+      "Runner-up": {
+        "Candidate Name": "Ram Sagar Rawat",
+        "Party": "SP",
+        "Votes": 425777
+      }
+    },
+    "Bareilly": {
+      "Winner": {
+        "Candidate Name": "SANTOSH KUMAR GANGWAR",
+        "Party": "BJP",
+        "Votes": 565270
+      },
+      "Runner-up": {
+        "Candidate Name": "BHAGWAT SARAN GANGWAR",
+        "Party": "SP",
+        "Votes": 397988
+      }
+    },
+    "Basti": {
+      "Winner": {
+        "Candidate Name": "HARISH CHANDRA ALIAS HARISH DWIVEDI",
+        "Party": "BJP",
+        "Votes": 471162
+      },
+      "Runner-up": {
+        "Candidate Name": "RAM PRASAD CHAUDHARY",
+        "Party": "BSP",
+        "Votes": 440808
+      }
+    },
+    "Bhadohi": {
+      "Winner": {
+        "Candidate Name": "RAMESH CHAND",
+        "Party": "BJP",
+        "Votes": 510029
+      },
+      "Runner-up": {
+        "Candidate Name": "RANGNATH MISHRA",
+        "Party": "BSP",
+        "Votes": 466414
+      }
+    },
+    "Bijnor": {
+      "Winner": {
+        "Candidate Name": "MALOOK NAGAR",
+        "Party": "BSP",
+        "Votes": 561045
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJA BHARATENDRA SINGH",
+        "Party": "BJP",
+        "Votes": 491104
+      }
+    },
+    "Bulandshahr": {
+      "Winner": {
+        "Candidate Name": "BHOLA SINGH",
+        "Party": "BJP",
+        "Votes": 681321
+      },
+      "Runner-up": {
+        "Candidate Name": "YOGESH VERMA",
+        "Party": "BSP",
+        "Votes": 391264
+      }
+    },
+    "Chandauli": {
+      "Winner": {
+        "Candidate Name": "Dr. Mahendra Nath Pandey",
+        "Party": "BJP",
+        "Votes": 510733
+      },
+      "Runner-up": {
+        "Candidate Name": "Sanjay Singh Chauhan",
+        "Party": "SP",
+        "Votes": 496774
+      }
+    },
+    "Deoria": {
+      "Winner": {
+        "Candidate Name": "RAMAPATI RAM TRIPATHI",
+        "Party": "BJP",
+        "Votes": 580644
+      },
+      "Runner-up": {
+        "Candidate Name": "BINOD KUMAR JAISWAL",
+        "Party": "BSP",
+        "Votes": 330713
+      }
+    },
+    "Dhaurahra": {
+      "Winner": {
+        "Candidate Name": "REKHA VERMA",
+        "Party": "BJP",
+        "Votes": 512905
+      },
+      "Runner-up": {
+        "Candidate Name": "ARSHAD ILIYAS SIDDIQUI",
+        "Party": "BSP",
+        "Votes": 352294
+      }
+    },
+    "Domariyaganj": {
+      "Winner": {
+        "Candidate Name": "JAGDAMBIKA PAL",
+        "Party": "BJP",
+        "Votes": 492253
+      },
+      "Runner-up": {
+        "Candidate Name": "AFTAB ALAM",
+        "Party": "BSP",
+        "Votes": 386932
+      }
+    },
+    "Etah": {
+      "Winner": {
+        "Candidate Name": "Rajveer Singh (Raju Bhaiya)",
+        "Party": "BJP",
+        "Votes": 545348
+      },
+      "Runner-up": {
+        "Candidate Name": "Ku. Devendra Singh Yadav",
+        "Party": "SP",
+        "Votes": 422678
+      }
+    },
+    "Etawah": {
+      "Winner": {
+        "Candidate Name": "Dr RAM SHANKAR KATHERIA",
+        "Party": "BJP",
+        "Votes": 522119
+      },
+      "Runner-up": {
+        "Candidate Name": "KAMLESH KUMAR",
+        "Party": "SP",
+        "Votes": 457682
+      }
+    },
+    "Faizabad": {
+      "Winner": {
+        "Candidate Name": "LALLU SINGH",
+        "Party": "BJP",
+        "Votes": 529021
+      },
+      "Runner-up": {
+        "Candidate Name": "ANAND SEN",
+        "Party": "SP",
+        "Votes": 463544
+      }
+    },
+    "Farrukhabad": {
+      "Winner": {
+        "Candidate Name": "Mukesh Rajput",
+        "Party": "BJP",
+        "Votes": 569880
+      },
+      "Runner-up": {
+        "Candidate Name": "Manoj Agarwal",
+        "Party": "BSP",
+        "Votes": 348178
+      }
+    },
+    "Fatehpur": {
+      "Winner": {
+        "Candidate Name": "NIRANJAN JYOTI",
+        "Party": "BJP",
+        "Votes": 566040
+      },
+      "Runner-up": {
+        "Candidate Name": "SUKHDEV PRASAD VERMA",
+        "Party": "BSP",
+        "Votes": 367835
+      }
+    },
+    "Fatehpur Sikri": {
+      "Winner": {
+        "Candidate Name": "RAJKUMAR CHAHAR",
+        "Party": "BJP",
+        "Votes": 667147
+      },
+      "Runner-up": {
+        "Candidate Name": "RAJ BABBAR",
+        "Party": "INC",
+        "Votes": 172082
+      }
+    },
+    "Firozabad": {
+      "Winner": {
+        "Candidate Name": "Dr. Chandra Sen Jadon",
+        "Party": "BJP",
+        "Votes": 495819
+      },
+      "Runner-up": {
+        "Candidate Name": "Akshay Yadav",
+        "Party": "SP",
+        "Votes": 467038
+      }
+    },
+    "Gautam Buddha Nagar": {
+      "Winner": {
+        "Candidate Name": "Dr. MAHESH SHARMA",
+        "Party": "BJP",
+        "Votes": 830812
+      },
+      "Runner-up": {
+        "Candidate Name": "SATVEER",
+        "Party": "BSP",
+        "Votes": 493890
+      }
+    },
+    "Ghaziabad": {
+      "Winner": {
+        "Candidate Name": "Vijay Kumar Singh",
+        "Party": "BJP",
+        "Votes": 944503
+      },
+      "Runner-up": {
+        "Candidate Name": "Suresh Bansal",
+        "Party": "SP",
+        "Votes": 443003
+      }
+    },
+    "Ghazipur": {
+      "Winner": {
+        "Candidate Name": "AFZAL ANSARI",
+        "Party": "BSP",
+        "Votes": 566082
+      },
+      "Runner-up": {
+        "Candidate Name": "MANOJ SINHA",
+        "Party": "BJP",
+        "Votes": 446690
+      }
+    },
+    "Ghosi": {
+      "Winner": {
+        "Candidate Name": "ATUL KUMAR SINGH",
+        "Party": "BSP",
+        "Votes": 573829
+      },
+      "Runner-up": {
+        "Candidate Name": "HARINARAYAN",
+        "Party": "BJP",
+        "Votes": 451261
+      }
+    },
+    "Gonda": {
+      "Winner": {
+        "Candidate Name": "KIRTI VARDHAN SINGH ALIAS RAJA BHAIYA",
+        "Party": "BJP",
+        "Votes": 508190
+      },
+      "Runner-up": {
+        "Candidate Name": "VINOD KUMAR ALIAS PANDIT SINGH",
+        "Party": "SP",
+        "Votes": 341830
+      }
+    },
+    "Gorakhpur": {
+      "Winner": {
+        "Candidate Name": "Ravindra Shyamnarayan Shukla alias Ravi Kishan",
+        "Party": "BJP",
+        "Votes": 717122
+      },
+      "Runner-up": {
+        "Candidate Name": "Rambhual Nishad",
+        "Party": "SP",
+        "Votes": 415458
+      }
+    },
+    "Hamirpur": {
+      "Winner": {
+        "Candidate Name": "KUNWAR PUSHPENDRA SINGH CHANDEL",
+        "Party": "BJP",
+        "Votes": 575122
+      },
+      "Runner-up": {
+        "Candidate Name": "DILIP KUMAR SINGH",
+        "Party": "BSP",
+        "Votes": 326470
+      }
+    },
+    "Hardoi": {
+      "Winner": {
+        "Candidate Name": "Jai Prakash",
+        "Party": "BJP",
+        "Votes": 568143
+      },
+      "Runner-up": {
+        "Candidate Name": "Usha Verma",
+        "Party": "SP",
+        "Votes": 435669
+      }
+    },
+    "Hathras": {
+      "Winner": {
+        "Candidate Name": "RAJVIR DILER",
+        "Party": "BJP",
+        "Votes": 684299
+      },
+      "Runner-up": {
+        "Candidate Name": "RAMJI LAL SUMAN",
+        "Party": "SP",
+        "Votes": 424091
+      }
+    },
+    "Jalaun": {
+      "Winner": {
+        "Candidate Name": "BHANU PRATAP SINGH VERMA",
+        "Party": "BJP",
+        "Votes": 581763
+      },
+      "Runner-up": {
+        "Candidate Name": "AJAY SINGH (PANKAJ)",
+        "Party": "BSP",
+        "Votes": 423386
+      }
+    },
+    "Jaunpur": {
+      "Winner": {
+        "Candidate Name": "SHYAM SINGH YADAV",
+        "Party": "BSP",
+        "Votes": 521128
+      },
+      "Runner-up": {
+        "Candidate Name": "KRISHNA PRATAP SINGH K.P.",
+        "Party": "BJP",
+        "Votes": 440192
+      }
+    },
+    "Jhansi": {
+      "Winner": {
+        "Candidate Name": "Anurag Sharma",
+        "Party": "BJP",
+        "Votes": 809272
+      },
+      "Runner-up": {
+        "Candidate Name": "Shyam Sundar Singh",
+        "Party": "SP",
+        "Votes": 443589
+      }
+    },
+    "Kairana": {
+      "Winner": {
+        "Candidate Name": "Pradeep Kumar",
+        "Party": "BJP",
+        "Votes": 566961
+      },
+      "Runner-up": {
+        "Candidate Name": "Tabassum Begum",
+        "Party": "SP",
+        "Votes": 474801
+      }
+    },
+    "Kaiserganj": {
+      "Winner": {
+        "Candidate Name": "Brijbhusan Sharan Singh",
+        "Party": "BJP",
+        "Votes": 581358
+      },
+      "Runner-up": {
+        "Candidate Name": "Chandradev Ram Yadav",
+        "Party": "BSP",
+        "Votes": 319757
+      }
+    },
+    "Kannauj": {
+      "Winner": {
+        "Candidate Name": "SUBRAT PATHAK",
+        "Party": "BJP",
+        "Votes": 563087
+      },
+      "Runner-up": {
+        "Candidate Name": "DIMPLE YADAV",
+        "Party": "SP",
+        "Votes": 550734
+      }
+    },
+    "Kanpur": {
+      "Winner": {
+        "Candidate Name": "Satyadev Pachauri",
+        "Party": "BJP",
+        "Votes": 468937
+      },
+      "Runner-up": {
+        "Candidate Name": "Sriprakash Jaiswal",
+        "Party": "INC",
+        "Votes": 313003
+      }
+    },
+    "Kaushambi": {
+      "Winner": {
+        "Candidate Name": "VINOD KUMAR SONKAR",
+        "Party": "BJP",
+        "Votes": 383009
+      },
+      "Runner-up": {
+        "Candidate Name": "INDRAJEET SAROJ",
+        "Party": "SP",
+        "Votes": 344287
+      }
+    },
+    "Kheri": {
+      "Winner": {
+        "Candidate Name": "Ajay Kumar",
+        "Party": "BJP",
+        "Votes": 609589
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. Purvi Verma",
+        "Party": "SP",
+        "Votes": 390782
+      }
+    },
+    "Kushi Nagar": {
+      "Winner": {
+        "Candidate Name": "VIJAY KUMAR DUBEY",
+        "Party": "BJP",
+        "Votes": 597039
+      },
+      "Runner-up": {
+        "Candidate Name": "N.P. KUSHWAHA ALIAS NATHUNI PRASAD KUSHWAHA",
+        "Party": "SP",
+        "Votes": 259479
+      }
+    },
+    "Lalganj": {
+      "Winner": {
+        "Candidate Name": "Sangeeta Azad",
+        "Party": "BSP",
+        "Votes": 518820
+      },
+      "Runner-up": {
+        "Candidate Name": "Neelam Sonker",
+        "Party": "BJP",
+        "Votes": 357223
+      }
+    },
+    "Lucknow": {
+      "Winner": {
+        "Candidate Name": "Rajnath Singh",
+        "Party": "BJP",
+        "Votes": 633026
+      },
+      "Runner-up": {
+        "Candidate Name": "Poonam Shatrughan Sinha",
+        "Party": "SP",
+        "Votes": 285724
+      }
+    },
+    "Machhlishahr": {
+      "Winner": {
+        "Candidate Name": "Bholanath (B.P. Saroj)",
+        "Party": "BJP",
+        "Votes": 488397
+      },
+      "Runner-up": {
+        "Candidate Name": "Tribhuvan Ram (T.Ram)",
+        "Party": "BSP",
+        "Votes": 488216
+      }
+    },
+    "Maharajganj": {
+      "Winner": {
+        "Candidate Name": "PANKAJ CHOUDHARY",
+        "Party": "BJP",
+        "Votes": 726349
+      },
+      "Runner-up": {
+        "Candidate Name": "AKHILESH",
+        "Party": "SP",
+        "Votes": 385925
+      }
+    },
+    "Mainpuri": {
+      "Winner": {
+        "Candidate Name": "MULAYAM SINGH YADAV",
+        "Party": "SP",
+        "Votes": 524926
+      },
+      "Runner-up": {
+        "Candidate Name": "PREM SINGH SHAKYA",
+        "Party": "BJP",
+        "Votes": 430537
+      }
+    },
+    "Mathura": {
+      "Winner": {
+        "Candidate Name": "HEMA MALINI",
+        "Party": "BJP",
+        "Votes": 671293
+      },
+      "Runner-up": {
+        "Candidate Name": "KUNWAR NARENDRA SINGH",
+        "Party": "RLD",
+        "Votes": 377822
+      }
+    },
+    "Meerut": {
+      "Winner": {
+        "Candidate Name": "RAJENDRA AGARWAL",
+        "Party": "BJP",
+        "Votes": 586184
+      },
+      "Runner-up": {
+        "Candidate Name": "HAJI MOHAMMAD YAQOOB",
+        "Party": "BSP",
+        "Votes": 581455
+      }
+    },
+    "Mirzapur": {
+      "Winner": {
+        "Candidate Name": "Anupriya Singh Patel",
+        "Party": "ADAL",
+        "Votes": 591564
+      },
+      "Runner-up": {
+        "Candidate Name": "Ramcharitra Nishad",
+        "Party": "SP",
+        "Votes": 359556
+      }
+    },
+    "Misrikh": {
+      "Winner": {
+        "Candidate Name": "Ashok Kumar Rawat",
+        "Party": "BJP",
+        "Votes": 534429
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr Neelu Satyarthi",
+        "Party": "BSP",
+        "Votes": 433757
+      }
+    },
+    "Mohanlalganj": {
+      "Winner": {
+        "Candidate Name": "Kaushal Kishore",
+        "Party": "BJP",
+        "Votes": 629999
+      },
+      "Runner-up": {
+        "Candidate Name": "C. L. Verma",
+        "Party": "BSP",
+        "Votes": 539795
+      }
+    },
+    "Moradabad": {
+      "Winner": {
+        "Candidate Name": "Dr. S.T. HASAN",
+        "Party": "SP",
+        "Votes": 649416
+      },
+      "Runner-up": {
+        "Candidate Name": "KUNWAR SARVESH KUMAR",
+        "Party": "BJP",
+        "Votes": 551538
+      }
+    },
+    "Muzaffarnagar": {
+      "Winner": {
+        "Candidate Name": "Sanjeev Kumar Balyan",
+        "Party": "BJP",
+        "Votes": 573780
+      },
+      "Runner-up": {
+        "Candidate Name": "Ajit Singh",
+        "Party": "RLD",
+        "Votes": 567254
+      }
+    },
+    "Nagina": {
+      "Winner": {
+        "Candidate Name": "GIRISH CHANDRA",
+        "Party": "BSP",
+        "Votes": 568378
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. YASHWANT SINGH",
+        "Party": "BJP",
+        "Votes": 401546
+      }
+    },
+    "Phulpur": {
+      "Winner": {
+        "Candidate Name": "Keshari Devi Patel",
+        "Party": "BJP",
+        "Votes": 544701
+      },
+      "Runner-up": {
+        "Candidate Name": "Pandhari Yadav",
+        "Party": "SP",
+        "Votes": 372733
+      }
+    },
+    "Pilibhit": {
+      "Winner": {
+        "Candidate Name": "Feroze Varun Gandhi",
+        "Party": "BJP",
+        "Votes": 704549
+      },
+      "Runner-up": {
+        "Candidate Name": "Hemraj Verma",
+        "Party": "SP",
+        "Votes": 448922
+      }
+    },
+    "Pratapgarh": {
+      "Winner": {
+        "Candidate Name": "SANGAM LAL GUPTA",
+        "Party": "BJP",
+        "Votes": 436291
+      },
+      "Runner-up": {
+        "Candidate Name": "ASHOK TRIPATHI",
+        "Party": "BSP",
+        "Votes": 318539
+      }
+    },
+    "Rae Bareli": {
+      "Winner": {
+        "Candidate Name": "SONIA GANDHI",
+        "Party": "INC",
+        "Votes": 534918
+      },
+      "Runner-up": {
+        "Candidate Name": "DINESH PRATAP SINGH",
+        "Party": "BJP",
+        "Votes": 367740
+      }
+    },
+    "Rampur": {
+      "Winner": {
+        "Candidate Name": "Mohammad Azam Khan",
+        "Party": "SP",
+        "Votes": 559177
+      },
+      "Runner-up": {
+        "Candidate Name": "Jayaprada Nahata",
+        "Party": "BJP",
+        "Votes": 449180
+      }
+    },
+    "Robertsganj": {
+      "Winner": {
+        "Candidate Name": "PAKAURI LAL KOL",
+        "Party": "ADAL",
+        "Votes": 447914
+      },
+      "Runner-up": {
+        "Candidate Name": "BHAI LAL",
+        "Party": "SP",
+        "Votes": 393578
+      }
+    },
+    "Saharanpur": {
+      "Winner": {
+        "Candidate Name": "HAJI FAZLUR REHMAN",
+        "Party": "BSP",
+        "Votes": 514139
+      },
+      "Runner-up": {
+        "Candidate Name": "RAGHAV LAKHANPAL",
+        "Party": "BJP",
+        "Votes": 491722
+      }
+    },
+    "Salempur": {
+      "Winner": {
+        "Candidate Name": "RAVINDER",
+        "Party": "BJP",
+        "Votes": 467940
+      },
+      "Runner-up": {
+        "Candidate Name": "R S KUSHWAHA",
+        "Party": "BSP",
+        "Votes": 355325
+      }
+    },
+    "Sambhal": {
+      "Winner": {
+        "Candidate Name": "DR. SHAFIQUR REHMAN BARQ",
+        "Party": "SP",
+        "Votes": 658006
+      },
+      "Runner-up": {
+        "Candidate Name": "PARAMESHVAR LAL SAINI",
+        "Party": "BJP",
+        "Votes": 483180
+      }
+    },
+    "Sant Kabir Nagar": {
+      "Winner": {
+        "Candidate Name": "PRAVEEN KUMAR NISHAD",
+        "Party": "BJP",
+        "Votes": 467543
+      },
+      "Runner-up": {
+        "Candidate Name": "BHEESHMA SHANKAR",
+        "Party": "BSP",
+        "Votes": 431794
+      }
+    },
+    "Shahjahanpur": {
+      "Winner": {
+        "Candidate Name": "Arun Kumar Sagar",
+        "Party": "BJP",
+        "Votes": 688990
+      },
+      "Runner-up": {
+        "Candidate Name": "Amar Chandra Jauhar",
+        "Party": "BSP",
+        "Votes": 420572
+      }
+    },
+    "Shrawasti": {
+      "Winner": {
+        "Candidate Name": "RAM SHIROMANI",
+        "Party": "BSP",
+        "Votes": 441771
+      },
+      "Runner-up": {
+        "Candidate Name": "DADDAN MISHRA",
+        "Party": "BJP",
+        "Votes": 436451
+      }
+    },
+    "Sitapur": {
+      "Winner": {
+        "Candidate Name": "Rajesh Verma",
+        "Party": "BJP",
+        "Votes": 514528
+      },
+      "Runner-up": {
+        "Candidate Name": "Nakul Dubey",
+        "Party": "BSP",
+        "Votes": 413695
+      }
+    },
+    "Sultanpur": {
+      "Winner": {
+        "Candidate Name": "MANEKA SANJAI GANDHI",
+        "Party": "BJP",
+        "Votes": 459196
+      },
+      "Runner-up": {
+        "Candidate Name": "CHANDRA BHADRA SINGH \"SSONU\"",
+        "Party": "BSP",
+        "Votes": 444670
+      }
+    },
+    "Unnao": {
+      "Winner": {
+        "Candidate Name": "Swami Sakshi Ji Maharaj",
+        "Party": "BJP",
+        "Votes": 703507
+      },
+      "Runner-up": {
+        "Candidate Name": "Arun Shanker Shukla",
+        "Party": "SP",
+        "Votes": 302551
+      }
+    },
+    "Varanasi": {
+      "Winner": {
+        "Candidate Name": "NARENDRA MODI",
+        "Party": "BJP",
+        "Votes": 674664
+      },
+      "Runner-up": {
+        "Candidate Name": "SHALINI YADAV",
+        "Party": "SP",
+        "Votes": 195159
+      }
+    }
+  },
+  "Uttarakhand": {
+    "Almora": {
+      "Winner": {
+        "Candidate Name": "Ajay Tamta",
+        "Party": "BJP",
+        "Votes": 444651
+      },
+      "Runner-up": {
+        "Candidate Name": "Pradeep Tamta",
+        "Party": "INC",
+        "Votes": 211665
+      }
+    },
+    "Garhwal": {
+      "Winner": {
+        "Candidate Name": "Tirath Singh Rawat",
+        "Party": "BJP",
+        "Votes": 506980
+      },
+      "Runner-up": {
+        "Candidate Name": "Manish Khanduri",
+        "Party": "INC",
+        "Votes": 204311
+      }
+    },
+    "Hardwar": {
+      "Winner": {
+        "Candidate Name": "Ramesh Pokhriyal 'Nishank'",
+        "Party": "BJP",
+        "Votes": 665674
+      },
+      "Runner-up": {
+        "Candidate Name": "Ambrish Kumar",
+        "Party": "INC",
+        "Votes": 406945
+      }
+    },
+    "Nainital-udhamsingh Nagar": {
+      "Winner": {
+        "Candidate Name": "Ajay Bhatt",
+        "Party": "BJP",
+        "Votes": 772195
+      },
+      "Runner-up": {
+        "Candidate Name": "Harish Rawat",
+        "Party": "INC",
+        "Votes": 433099
+      }
+    },
+    "Tehri Garhwal": {
+      "Winner": {
+        "Candidate Name": "MALA RAJYA LAXMI SHAH",
+        "Party": "BJP",
+        "Votes": 565333
+      },
+      "Runner-up": {
+        "Candidate Name": "PRITAM SINGH",
+        "Party": "INC",
+        "Votes": 264747
+      }
+    }
+  },
+  "West Bengal": {
+    "Alipurduars": {
+      "Winner": {
+        "Candidate Name": "JOHN BARLA",
+        "Party": "BJP",
+        "Votes": 750804
+      },
+      "Runner-up": {
+        "Candidate Name": "DASRATH TIRKEY",
+        "Party": "AITC",
+        "Votes": 506815
+      }
+    },
+    "Arambagh": {
+      "Winner": {
+        "Candidate Name": "APARUPA PODDAR (AFRIN ALI)",
+        "Party": "AITC",
+        "Votes": 649929
+      },
+      "Runner-up": {
+        "Candidate Name": "TAPAN KUMAR RAY",
+        "Party": "BJP",
+        "Votes": 648787
+      }
+    },
+    "Asansol": {
+      "Winner": {
+        "Candidate Name": "BABUL SUPRIYO",
+        "Party": "BJP",
+        "Votes": 633378
+      },
+      "Runner-up": {
+        "Candidate Name": "MOON MOON SEN",
+        "Party": "AITC",
+        "Votes": 435741
+      }
+    },
+    "Baharampur": {
+      "Winner": {
+        "Candidate Name": "ADHIR RANJAN CHOWDHURY",
+        "Party": "INC",
+        "Votes": 591106
+      },
+      "Runner-up": {
+        "Candidate Name": "APURBA SARKAR (DAVID)",
+        "Party": "AITC",
+        "Votes": 510410
+      }
+    },
+    "Balurghat": {
+      "Winner": {
+        "Candidate Name": "Sukanta Majumdar",
+        "Party": "BJP",
+        "Votes": 539317
+      },
+      "Runner-up": {
+        "Candidate Name": "Arpita Ghosh",
+        "Party": "AITC",
+        "Votes": 506024
+      }
+    },
+    "Bangaon": {
+      "Winner": {
+        "Candidate Name": "SHANTANU THAKUR",
+        "Party": "BJP",
+        "Votes": 687622
+      },
+      "Runner-up": {
+        "Candidate Name": "MAMATA THAKUR",
+        "Party": "AITC",
+        "Votes": 576028
+      }
+    },
+    "Bankura": {
+      "Winner": {
+        "Candidate Name": "DR. SUBHAS SARKAR",
+        "Party": "BJP",
+        "Votes": 675319
+      },
+      "Runner-up": {
+        "Candidate Name": "SUBRATA MUKHERJEE",
+        "Party": "AITC",
+        "Votes": 500986
+      }
+    },
+    "Barasat": {
+      "Winner": {
+        "Candidate Name": "Dr. Kakoli Ghoshdastidar",
+        "Party": "AITC",
+        "Votes": 648444
+      },
+      "Runner-up": {
+        "Candidate Name": "Mrinal Kanti Debnath",
+        "Party": "BJP",
+        "Votes": 538275
+      }
+    },
+    "Bardhaman Durgapur": {
+      "Winner": {
+        "Candidate Name": "S.S AHLUWALIA",
+        "Party": "BJP",
+        "Votes": 598376
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. MAMTAZ SANGHAMITA",
+        "Party": "AITC",
+        "Votes": 595937
+      }
+    },
+    "Bardhaman Purba": {
+      "Winner": {
+        "Candidate Name": "SUNIL KUMAR MONDAL",
+        "Party": "AITC",
+        "Votes": 640834
+      },
+      "Runner-up": {
+        "Candidate Name": "PARESH CHANDRA DAS",
+        "Party": "BJP",
+        "Votes": 551523
+      }
+    },
+    "Barrackpore": {
+      "Winner": {
+        "Candidate Name": "ARJUN SINGH",
+        "Party": "BJP",
+        "Votes": 472994
+      },
+      "Runner-up": {
+        "Candidate Name": "DINESH TRIVEDI",
+        "Party": "AITC",
+        "Votes": 458137
+      }
+    },
+    "Basirhat": {
+      "Winner": {
+        "Candidate Name": "Nusrat Jahan Ruhi",
+        "Party": "AITC",
+        "Votes": 782078
+      },
+      "Runner-up": {
+        "Candidate Name": "Sayantan Basu",
+        "Party": "BJP",
+        "Votes": 431709
+      }
+    },
+    "Birbhum": {
+      "Winner": {
+        "Candidate Name": "SATABDI ROY",
+        "Party": "AITC",
+        "Votes": 654077
+      },
+      "Runner-up": {
+        "Candidate Name": "DUDH KUMAR MONDAL",
+        "Party": "BJP",
+        "Votes": 565153
+      }
+    },
+    "Bishnupur": {
+      "Winner": {
+        "Candidate Name": "KHAN SAUMITRA",
+        "Party": "BJP",
+        "Votes": 657019
+      },
+      "Runner-up": {
+        "Candidate Name": "SHYAMAL SANTRA",
+        "Party": "AITC",
+        "Votes": 578972
+      }
+    },
+    "Bolpur": {
+      "Winner": {
+        "Candidate Name": "ASIT KUMAR MAL",
+        "Party": "AITC",
+        "Votes": 699171
+      },
+      "Runner-up": {
+        "Candidate Name": "DAS RAMPRASAD",
+        "Party": "BJP",
+        "Votes": 592769
+      }
+    },
+    "Cooch behar": {
+      "Winner": {
+        "Candidate Name": "NISITH PRAMANIK",
+        "Party": "BJP",
+        "Votes": 731594
+      },
+      "Runner-up": {
+        "Candidate Name": "ADHIKARY PARESH CHANDRA",
+        "Party": "AITC",
+        "Votes": 677363
+      }
+    },
+    "Darjeeling": {
+      "Winner": {
+        "Candidate Name": "RAJU BISTA",
+        "Party": "BJP",
+        "Votes": 750067
+      },
+      "Runner-up": {
+        "Candidate Name": "AMAR SINGH RAI",
+        "Party": "AITC",
+        "Votes": 336624
+      }
+    },
+    "Diamond harbour": {
+      "Winner": {
+        "Candidate Name": "ABHISHEK BANERJEE",
+        "Party": "AITC",
+        "Votes": 791127
+      },
+      "Runner-up": {
+        "Candidate Name": "NILANJAN ROY",
+        "Party": "BJP",
+        "Votes": 470533
+      }
+    },
+    "Dum dum": {
+      "Winner": {
+        "Candidate Name": "SOUGATA RAY",
+        "Party": "AITC",
+        "Votes": 512062
+      },
+      "Runner-up": {
+        "Candidate Name": "SAMIK BHATTACHARYA",
+        "Party": "BJP",
+        "Votes": 459060
+      }
+    },
+    "Ghatal": {
+      "Winner": {
+        "Candidate Name": "ADHIKARI DEEPAK (DEV)",
+        "Party": "AITC",
+        "Votes": 717959
+      },
+      "Runner-up": {
+        "Candidate Name": "BHARATI GHOSH",
+        "Party": "BJP",
+        "Votes": 609986
+      }
+    },
+    "Hooghly": {
+      "Winner": {
+        "Candidate Name": "LOCKET CHATTERJEE",
+        "Party": "BJP",
+        "Votes": 671448
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. RATNA DE (NAG)",
+        "Party": "AITC",
+        "Votes": 598086
+      }
+    },
+    "Howrah": {
+      "Winner": {
+        "Candidate Name": "Prasun Banerjee",
+        "Party": "AITC",
+        "Votes": 576711
+      },
+      "Runner-up": {
+        "Candidate Name": "Rantidev Sengupta",
+        "Party": "BJP",
+        "Votes": 473016
+      }
+    },
+    "Jadavpur": {
+      "Winner": {
+        "Candidate Name": "MIMI CHAKRABORTY",
+        "Party": "AITC",
+        "Votes": 688472
+      },
+      "Runner-up": {
+        "Candidate Name": "ANUPAM HAZRA",
+        "Party": "BJP",
+        "Votes": 393233
+      }
+    },
+    "Jalpaiguri": {
+      "Winner": {
+        "Candidate Name": "Dr. JAYANTA KUMAR ROY",
+        "Party": "BJP",
+        "Votes": 760145
+      },
+      "Runner-up": {
+        "Candidate Name": "BIJOY CHANDRA BARMAN",
+        "Party": "AITC",
+        "Votes": 576141
+      }
+    },
+    "Jangipur": {
+      "Winner": {
+        "Candidate Name": "KHALILUR RAHAMAN",
+        "Party": "AITC",
+        "Votes": 562838
+      },
+      "Runner-up": {
+        "Candidate Name": "MAFUJA KHATUN",
+        "Party": "BJP",
+        "Votes": 317056
+      }
+    },
+    "Jaynagar": {
+      "Winner": {
+        "Candidate Name": "PRATIMA MONDAL",
+        "Party": "AITC",
+        "Votes": 761202
+      },
+      "Runner-up": {
+        "Candidate Name": "DR. ASHOK KANDARY",
+        "Party": "BJP",
+        "Votes": 444427
+      }
+    },
+    "Jhargram": {
+      "Winner": {
+        "Candidate Name": "Kunar Hembram",
+        "Party": "BJP",
+        "Votes": 626583
+      },
+      "Runner-up": {
+        "Candidate Name": "Birbaha Saren",
+        "Party": "AITC",
+        "Votes": 614816
+      }
+    },
+    "Kanthi": {
+      "Winner": {
+        "Candidate Name": "Adhikari Sisir",
+        "Party": "AITC",
+        "Votes": 711872
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. Debasis Samanta",
+        "Party": "BJP",
+        "Votes": 600204
+      }
+    },
+    "Kolkata Dakshin": {
+      "Winner": {
+        "Candidate Name": "Mala Roy",
+        "Party": "AITC",
+        "Votes": 573119
+      },
+      "Runner-up": {
+        "Candidate Name": "Chandra Kumar Bose",
+        "Party": "BJP",
+        "Votes": 417927
+      }
+    },
+    "Kolkata Uttar": {
+      "Winner": {
+        "Candidate Name": "BANDYOPADHYAY SUDIP",
+        "Party": "AITC",
+        "Votes": 474891
+      },
+      "Runner-up": {
+        "Candidate Name": "RAHUL (BISWAJIT) SINHA",
+        "Party": "BJP",
+        "Votes": 347796
+      }
+    },
+    "Krishnanagar": {
+      "Winner": {
+        "Candidate Name": "MAHUA MOITRA",
+        "Party": "AITC",
+        "Votes": 614872
+      },
+      "Runner-up": {
+        "Candidate Name": "KALYAN CHAUBEY",
+        "Party": "BJP",
+        "Votes": 551654
+      }
+    },
+    "Maldaha Dakshin": {
+      "Winner": {
+        "Candidate Name": "ABU HASEM KHAN CHOWDHURY (DALU)",
+        "Party": "INC",
+        "Votes": 444270
+      },
+      "Runner-up": {
+        "Candidate Name": "SREERUPA MITRA CHAUDHURY",
+        "Party": "BJP",
+        "Votes": 436048
+      }
+    },
+    "Maldaha Uttar": {
+      "Winner": {
+        "Candidate Name": "KHAGEN MURMU",
+        "Party": "BJP",
+        "Votes": 509524
+      },
+      "Runner-up": {
+        "Candidate Name": "MAUSAM NOOR",
+        "Party": "AITC",
+        "Votes": 425236
+      }
+    },
+    "Mathurapur": {
+      "Winner": {
+        "Candidate Name": "CHOUDHURY MOHAN JATUA",
+        "Party": "AITC",
+        "Votes": 726828
+      },
+      "Runner-up": {
+        "Candidate Name": "SHYAMAPRASAD HALDER",
+        "Party": "BJP",
+        "Votes": 522854
+      }
+    },
+    "Medinipur": {
+      "Winner": {
+        "Candidate Name": "Dilip Ghosh",
+        "Party": "BJP",
+        "Votes": 685433
+      },
+      "Runner-up": {
+        "Candidate Name": "Manas Ranjan Bhunia",
+        "Party": "AITC",
+        "Votes": 596481
+      }
+    },
+    "Murshidabad": {
+      "Winner": {
+        "Candidate Name": "ABU TAHER KHAN",
+        "Party": "AITC",
+        "Votes": 604346
+      },
+      "Runner-up": {
+        "Candidate Name": "ABU HENA, S/O - LATE ABDUS SATTAR",
+        "Party": "INC",
+        "Votes": 377929
+      }
+    },
+    "Purulia": {
+      "Winner": {
+        "Candidate Name": "JYOTIRMAY SINGH MAHATO",
+        "Party": "BJP",
+        "Votes": 668107
+      },
+      "Runner-up": {
+        "Candidate Name": "Dr. MRIGANKA MAHATO",
+        "Party": "AITC",
+        "Votes": 463375
+      }
+    },
+    "Raiganj": {
+      "Winner": {
+        "Candidate Name": "DEBASREE CHAUDHURI",
+        "Party": "BJP",
+        "Votes": 511652
+      },
+      "Runner-up": {
+        "Candidate Name": "AGARWAL KANAIALAL",
+        "Party": "AITC",
+        "Votes": 451078
+      }
+    },
+    "Ranaghat": {
+      "Winner": {
+        "Candidate Name": "JAGANNATH SARKAR",
+        "Party": "BJP",
+        "Votes": 783253
+      },
+      "Runner-up": {
+        "Candidate Name": "RUPALI BISWAS",
+        "Party": "AITC",
+        "Votes": 549825
+      }
+    },
+    "Srerampur": {
+      "Winner": {
+        "Candidate Name": "KALYAN BANERJEE",
+        "Party": "AITC",
+        "Votes": 637707
+      },
+      "Runner-up": {
+        "Candidate Name": "DEBJIT SARKAR",
+        "Party": "BJP",
+        "Votes": 539171
+      }
+    },
+    "Tamluk": {
+      "Winner": {
+        "Candidate Name": "Adhikari Dibyendu",
+        "Party": "AITC",
+        "Votes": 724433
+      },
+      "Runner-up": {
+        "Candidate Name": "Sidharthashankar Naskar",
+        "Party": "BJP",
+        "Votes": 534268
+      }
+    },
+    "Uluberia": {
+      "Winner": {
+        "Candidate Name": "SAJDA AHMED",
+        "Party": "AITC",
+        "Votes": 694945
+      },
+      "Runner-up": {
+        "Candidate Name": "JOY BANERJEE",
+        "Party": "BJP",
+        "Votes": 479586
+      }
+    }
+  }
+}
